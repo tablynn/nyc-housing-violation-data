@@ -1,10 +1,12 @@
 from bs4 import BeautifulSoup, NavigableString
 import requests
 import sqlite3
+import os
+import json
 
 MOST_ACTIVE_STOCKS_URL = "https://www.rubmaps.ch/search-s33"
 
-spas = {} 
+spas = {}
 
 for a in range(1, 212): 
     if a == 1:
@@ -31,7 +33,7 @@ for a in range(1, 212):
             spas[name]['zip_code'] = zip_code  
         print('success')
     else:
-        print(str(a))
+        #print(str(a))
         page = requests.get(MOST_ACTIVE_STOCKS_URL + "-p" + str(a))
         soup = BeautifulSoup(page.content, 'html.parser')
         container = soup.find(id = "container")
@@ -59,5 +61,11 @@ for a in range(1, 212):
             spas[name]['address'] = address
             spas[name]['zip_code'] = zip_code  
     
-print(spas['GOOD GIRLS'])
-print(spas)
+#print(spas['GOOD GIRLS'])
+print(len(spas))
+
+if not os.path.exists("data"):
+   os.makedirs("data")
+
+with open('data/all_spas.json', 'w') as outfile:
+    json.dump(spas, outfile, indent=4)
