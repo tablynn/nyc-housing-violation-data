@@ -4,7 +4,7 @@ import sqlite3
 
 MOST_ACTIVE_STOCKS_URL = "https://www.rubmaps.ch/search-s33"
 
-spas = {} 
+spas_list = [] 
 
 for a in range(1, 212): 
     if a == 1:
@@ -22,14 +22,13 @@ for a in range(1, 212):
             contents = [x.strip() for x in first.contents if isinstance(x, NavigableString)]
             address = contents[2]
             zip_code = contents[3].split(', ')[2]
-            #print(name)
-            #print(address)
-            #print(zip_code)
-            #print(type(name))
-            spas[name] = {}
-            spas[name]['address'] = address
-            spas[name]['zip_code'] = zip_code  
-        print('success')
+          
+            spa = {}
+            spa['name'] = name
+            spa['address'] = address
+            spa['zip_code'] = zip_code
+            spas_list.append(spa)  
+
     else:
         print(str(a))
         page = requests.get(MOST_ACTIVE_STOCKS_URL + "-p" + str(a))
@@ -51,13 +50,11 @@ for a in range(1, 212):
                 if a == 20 and name == 'GOOD GIRLS':
                     zip_code = '10001'
 
-            #print(name)
-            #print(address)
-            #print(zip_code)
-            #print(type(name))
-            spas[name] = {}
-            spas[name]['address'] = address
-            spas[name]['zip_code'] = zip_code  
+          
+            spa = {}
+            spa['name'] = name
+            spa['address'] = address
+            spa['zip_code'] = zip_code
+            spas_list.append(spa)      
     
-print(spas['GOOD GIRLS'])
-print(spas)
+print(spas_list)
