@@ -15,6 +15,9 @@ DOB_VIOLATIONS = \
 DOB_COMPLAINTS = \
     "https://data.cityofnewyork.us/resource/eabe-havv.json"
 
+ZIPCODE_DEMOGRAPHICS = \
+    "https://data.cityofnewyork.us/resource/kku6-nxdu.json"
+
 
 def scrape(link):
     req = requests.get(link)
@@ -54,6 +57,12 @@ if not os.path.exists("data"):
 
 with open('data/dob_complaints.json', 'w') as outfile:
     json.dump(scrape(DOB_COMPLAINTS), outfile, indent=4)
+
+if not os.path.exists("data"):
+    os.makedirs("data")
+
+with open('data/zipcode_demographics.json', 'w') as outfile:
+    json.dump(scrape(ZIPCODE_DEMOGRAPHICS), outfile, indent=4)
     
 
 
