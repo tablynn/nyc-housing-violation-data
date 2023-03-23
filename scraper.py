@@ -1,12 +1,14 @@
 from bs4 import BeautifulSoup, NavigableString
 import requests
 import sqlite3
+import json
+import os
 
 MOST_ACTIVE_STOCKS_URL = "https://www.rubmaps.ch/search-s33"
 
 spas_list = [] 
 
-for a in range(1, 212): 
+for a in range(1, 10): 
     if a == 1:
         page = requests.get(MOST_ACTIVE_STOCKS_URL)
         soup = BeautifulSoup(page.content, 'html.parser')
@@ -26,7 +28,7 @@ for a in range(1, 212):
             spa = {}
             spa['name'] = name
             spa['address'] = address
-            spa['zip_code'] = zip_code
+            spa['zip_code'] = int(zip_code)
             spas_list.append(spa)  
 
     else:
@@ -54,7 +56,9 @@ for a in range(1, 212):
             spa = {}
             spa['name'] = name
             spa['address'] = address
-            spa['zip_code'] = zip_code
+            spa['zip_code'] = int(zip_code)
             spas_list.append(spa)      
-    
+
+spa_data = json.dumps(spas_list)
+
 print(spas_list)
