@@ -24,13 +24,16 @@ for a in range(1, 212):
             #print(first.a)
             contents = [x.strip() for x in first.contents if isinstance(x, NavigableString)]
             address = contents[2]
-            zip_code = contents[3].split(', ')[2]
+            zip_code_with_dash = contents[3].split(', ')[2]
+            zip_code = zip_code_with_dash.split('-')[0]
           
             spa = {}
             spa['name'] = name
             spa['address'] = address
-            spa['zip_code'] = int(zip_code)
+            spa['jurisdiction_name'] = int(zip_code)
             spas_list.append(spa)  
+            spa_list = {name, address, int(zip_code)}
+            #spas_list.append((zip_code, name, address))
 
     else:
         #print(str(a))
@@ -40,6 +43,7 @@ for a in range(1, 212):
 
         rows = container.find_all("div", class_ = "main-row")
 
+        spa = []
         for i in rows:
             first = i.find("div")
             name_div = first.a
@@ -48,7 +52,9 @@ for a in range(1, 212):
             contents = [x.strip() for x in first.contents if isinstance(x, NavigableString)]
             address = contents[2]
             try:
-                zip_code = contents[3].split(', ')[2]
+                #zip_code = contents[3].split(', ')[2]
+                zip_code_with_dash = contents[3].split(', ')[2]
+                zip_code = zip_code_with_dash.split('-')[0]
             except IndexError:
                 if a == 20 and name == 'GOOD GIRLS':
                     zip_code = '10001'
@@ -57,8 +63,9 @@ for a in range(1, 212):
             spa = {}
             spa['name'] = name
             spa['address'] = address
-            spa['zip_code'] = int(zip_code)
-            spas_list.append(spa)      
+            spa['jurisdiction_name'] = int(zip_code)
+            spas_list.append(spa)   
+            #spas_list.append((zip_code, name, address))   
     
 
 #print(spas['GOOD GIRLS'])

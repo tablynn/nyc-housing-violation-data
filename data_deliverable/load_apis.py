@@ -119,22 +119,6 @@ def main():
     with open('data/housing_code_violations2.json', 'w') as outfile:
             json.dump(code2, outfile, indent=4)
 
-
-
-
-    #with open('data/zipcode_demographics.json', 'w') as outfile:
-     #   json.dump(scrape(ZIPCODE_DEMOGRAPHICS), outfile, indent=4)
-
-    # df1 = pd.json_normalize(data['all_spas.json'])
-    # df2 = pd.json_normalize(data['zipcode_demographics.json'])
-    df1 = pd.read_json('data/all_spas.json')
-    df2 = pd.read_json('data/zipcode_demographics.json')
-    #zipcode_merge_df = pd.merge(df1, df2, left_on='zip_code', right_on='jurisdiction_name', how='left')
-    #zipcode_json = zipcode_merge_df.to_json()
-
-    #with open('data/merged_zipcodes.json', 'w') as outfile:
-    #    outfile.write(zipcode_json)
-
     with open('data/dob_violations2.json', 'w') as outfile:
         json.dump(dob, outfile, indent=4)
 
@@ -143,6 +127,10 @@ def main():
 
 if __name__ == '__main__':
     main()
+    
+
+
+
     
 
 
