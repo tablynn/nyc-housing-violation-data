@@ -29,7 +29,7 @@ for a in range(1, 212):
             spa = {}
             spa['name'] = name
             spa['address'] = address
-            spa['zip_code'] = zip_code
+            spa['zip_code'] = int(zip_code)
             spas_list.append(spa)  
 
     else:
@@ -57,7 +57,7 @@ for a in range(1, 212):
             spa = {}
             spa['name'] = name
             spa['address'] = address
-            spa['zip_code'] = zip_code
+            spa['zip_code'] = int(zip_code)
             spas_list.append(spa)      
     
 
