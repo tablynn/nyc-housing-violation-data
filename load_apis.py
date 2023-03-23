@@ -22,11 +22,17 @@ def scrape(link):
 def mapper_code_violation(record):
     return ((record['housenumber'].strip(' \t'), record['streetname'].strip(' \t')), list([record]))
 
-def mapper_dob_violation(record):
-    return ((record['house_number'].strip(' \t'), record['street'].strip(' \t')), list([record]))
+def mapper_dob_violation(record1):
+    try:
+        yield ((record1['house_number'].strip(' \t'), record1['street'].strip(' \t')), list([record1]))
+    except:
+        return
 
-def mapper_complaints(record):
-    return ((record['house_number'].strip(' \t'), record['housestreet'].strip(' \t')), list([record]))
+def mapper_complaints(record2):
+    try:
+        yield ((record2['house_number'].strip(' \t'), record2['house_street'].strip(' \t')), list([record2]))
+    except:
+        return
 
 def reducer(a, b):
      return a + b
@@ -72,7 +78,8 @@ def mapper2_complaints(record):
     num_violations = len(record[1])
     zip_code = record[1][0]['zip_code']
     for rec in record[1]:
-        date_list.append((rec['DOB complaint'], rec['complaint_category']))
+        violation_list.append(('DOB complaint', rec['complaint_category']))
+        date_list.append(rec['date_entered'][-4:])
     
     return [{'house_number': housenum, 'street': street, 'zipcode': zip_code, \
         'total_housing_maintenance_code_violations': num_violations, \
@@ -89,8 +96,8 @@ def main():
 
 
     code2 = sc.parallelize(code_violations, 128).map(mapper_code_violation).reduceByKey(reducer).flatMap(mapper2_code).collect()
-    #dob = sc.parallelize(dob_violations, 128).map(mapper_dob_violation).reduceByKey(reducer).flatMap(mapper2_dob).collect()
-    complaints2 = sc.parallelize(complaints, 128).map(mapper_complaints).reduceByKey(reducer).flatMap(mapper2_complaints).collect()
+    dob = sc.parallelize(dob_violations, 128).flatMap(mapper_dob_violation).reduceByKey(reducer).flatMap(mapper2_dob).collect()
+    complaints2 = sc.parallelize(complaints, 128).flatMap(mapper_complaints).reduceByKey(reducer).flatMap(mapper2_complaints).collect()
 
 
 
@@ -121,7 +128,7 @@ def main():
 
     with open('data/housing_code_violations2.json', 'w') as outfile:
             json.dump(code2, outfile, indent=4)
-'''
+    
     if not os.path.exists("data"):
         os.makedirs("data")
 
@@ -133,7 +140,7 @@ def main():
 
     with open('data/dob_complaints2.json', 'w') as outfile:
         json.dump(complaints2, outfile, indent=4)
-'''
+
 if __name__ == '__main__':
     main()
     
