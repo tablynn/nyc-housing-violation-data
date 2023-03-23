@@ -1,0 +1,1799 @@
+,house_number,street,zipcode_x,total_housing_maintenance_code_violations_x,list of violations_x,years_of_violations_x,total_housing_maintenance_code_violations_y,list of violations_y,years_of_violations_y,zipcode_y,total_housing_maintenance_code_violations,list of violations,years_of_violations
+0,1131,OGDEN AVENUE,10452.0,2.0,"[['maintenance code violation', '554'], ['maintenance code violation', '583']]","['2021', '2021']",,,,,,,
+1,129,SENECA STREET,10310.0,3.0,"[['maintenance code violation', '966'], ['maintenance code violation', '1002'], ['maintenance code violation', '780']]","['2013', '2013', '2018']",,,,,,,
+2,2440,TIEBOUT AVENUE,10458.0,1.0,"[['maintenance code violation', '502']]",['2014'],,,,,,,
+3,1801,MARMION AVENUE,10460.0,1.0,"[['maintenance code violation', '508']]",['2013'],,,,,,,
+4,515,CATHEDRAL PARKWAY,10025.0,13.0,"[['maintenance code violation', '508'], ['maintenance code violation', '1503'], ['maintenance code violation', '507'], ['maintenance code violation', '508'], ['maintenance code violation', '508'], ['maintenance code violation', '583'], ['maintenance code violation', '1503'], ['maintenance code violation', '530'], ['maintenance code violation', '556'], ['maintenance code violation', '722'], ['maintenance code violation', '550'], ['maintenance code violation', '554'], ['maintenance code violation', '553']]","['2016', '2016', '2016', '2016', '2017', '2019', '2019', '2019', '2019', '2019', '2019', '2019', '2019']",,,,,,,
+5,8220,FT HAMILTON PARKWAY,11209.0,2.0,"[['maintenance code violation', '561'], ['maintenance code violation', '539']]","['2021', '2021']",,,,,,,
+6,150,WEST 195 STREET,10468.0,4.0,"[['maintenance code violation', '501'], ['maintenance code violation', '505'], ['maintenance code violation', '501'], ['maintenance code violation', '598']]","['2014', '2014', '2014', '2014']",,,,,,,
+7,307,LEGION STREET,11212.0,1.0,"[['maintenance code violation', '508']]",['2013'],,,,,,,
+8,31,MT HOPE PLACE,10453.0,1.0,"[['maintenance code violation', '530']]",['2020'],,,,,,,
+9,1115,JEROME AVENUE,10452.0,1.0,"[['maintenance code violation', '508']]",['2021'],,,,,,,
+10,140-68A,BURDEN CRESCENT,11435.0,1.0,"[['maintenance code violation', '700']]",['2021'],,,,,,,
+11,2304,AMSTERDAM AVENUE,10033.0,1.0,"[['maintenance code violation', '530']]",['2020'],,,,,,,
+12,137-20,45 AVENUE,11355.0,1.0,"[['maintenance code violation', '530']]",['2020'],,,,,,,
+13,1046,CLAY AVENUE,10456.0,1.0,"[['maintenance code violation', '568']]",['2020'],,,,,,,
+14,228,BAY 43 STREET,11214.0,1.0,"[['maintenance code violation', '1507']]",['2021'],,,,,,,
+15,108-53,ROOSEVELT AVENUE,11368.0,1.0,"[['maintenance code violation', '780']]",['2018'],,,,,,,
+16,117,BROOK STREET,10301.0,1.0,"[['maintenance code violation', '810']]",['2015'],,,,,,,
+17,2917,GRAND CONCOURSE,10468.0,10.0,"[['maintenance code violation', '502'], ['maintenance code violation', '569'], ['maintenance code violation', '568'], ['maintenance code violation', '508'], ['maintenance code violation', '583'], ['maintenance code violation', '550'], ['maintenance code violation', '505'], ['maintenance code violation', '507'], ['maintenance code violation', '501'], ['maintenance code violation', '501']]","['2016', '2018', '2018', '2018', '2018', '2018', '2019', '2019', '2019', '2019']",,,,,,,
+18,39,KENILWORTH PLACE,11210.0,1.0,"[['maintenance code violation', '988']]",['2016'],,,,,,,
+19,521,WEST 156 STREET,10032.0,1.0,"[['maintenance code violation', '505']]",['2018'],,,,,,,
+20,113,LINDEN STREET,11221.0,1.0,"[['maintenance code violation', '508']]",['2020'],,,,,,,
+21,549,ISHAM STREET,10034.0,3.0,"[['maintenance code violation', '501'], ['maintenance code violation', '502'], ['maintenance code violation', '505']]","['2013', '2013', '2013']",,,,,,,
+22,337,EAST 26 STREET,11226.0,1.0,"[['maintenance code violation', '869']]",['2016'],,,,,,,
+23,1670,EAST 174 STREET,10472.0,1.0,"[['maintenance code violation', '702']]",['2021'],,,,,,,
+24,950,EAST 163 STREET,10459.0,11.0,"[['maintenance code violation', '502'], ['maintenance code violation', '702'], ['maintenance code violation', '569'], ['maintenance code violation', '583'], ['maintenance code violation', '502'], ['maintenance code violation', '508'], ['maintenance code violation', '577'], ['maintenance code violation', '790'], ['maintenance code violation', '501'], ['maintenance code violation', '505'], ['maintenance code violation', '505']]","['2014', '2014', '2014', '2014', '2014', '2014', '2014', '2014', '2014', '2014', '2014']",,,,,,,
+25,516,WEST 159 STREET,10032.0,2.0,"[['maintenance code violation', '569'], ['maintenance code violation', '529']]","['2013', '2013']",,,,,,,
+26,4311,4 AVENUE,11232.0,2.0,"[['maintenance code violation', '617'], ['maintenance code violation', '617']]","['2020', '2020']",,,,,,,
+27,2217,CATON AVENUE,11226.0,1.0,"[['maintenance code violation', '550']]",['2021'],,,,,,,
+28,102,CONVENT AVENUE,10027.0,1.0,"[['maintenance code violation', '508']]",['2016'],,,,,,,
+29,888,HOME STREET,10459.0,1.0,"[['maintenance code violation', '780']]",['2018'],,,,,,,
+30,3064,BAILEY AVENUE,10463.0,1.0,"[['maintenance code violation', '501']]",['2021'],,,,,,,
+31,1492,AMSTERDAM AVENUE,10031.0,1.0,"[['maintenance code violation', '530']]",['2021'],,,,,,,
+32,1327,SOUTHERN BOULEVARD,10459.0,6.0,"[['maintenance code violation', '508'], ['maintenance code violation', '689'], ['maintenance code violation', '689'], ['maintenance code violation', '550'], ['maintenance code violation', '508'], ['maintenance code violation', '556']]","['2013', '2013', '2013', '2013', '2013', '2013']",,,,,,,
+33,520,CONCORD AVENUE,10455.0,1.0,"[['maintenance code violation', '505']]",['2021'],,,,,,,
+34,89-52,QUEENS BOULEVARD,11373.0,1.0,"[['maintenance code violation', '500']]",['2021'],,,,,,,
+35,4424,10 AVENUE,11219.0,6.0,"[['maintenance code violation', '780'], ['maintenance code violation', '790'], ['maintenance code violation', '617'], ['maintenance code violation', '617'], ['maintenance code violation', '617'], ['maintenance code violation', '617']]","['2015', '2019', '2019', '2019', '2019', '2019']",,,,,,,
+36,3459,ELY AVENUE,10469.0,2.0,"[['maintenance code violation', '966'], ['maintenance code violation', '970']]","['2021', '2021']",,,,,,,
+37,1580,THIERIOT AVENUE,10460.0,3.0,"[['maintenance code violation', '508'], ['maintenance code violation', '508'], ['maintenance code violation', '508']]","['2015', '2018', '2018']",,,,,,,
+38,2445,FREDERICK DOUGLASS BOULEVARD,10027.0,1.0,"[['maintenance code violation', '790']]",['2021'],,,,,,,
+39,8202,3 AVENUE,11209.0,1.0,"[['maintenance code violation', '505']]",['2021'],,,,,,,
+40,94-06,34 ROAD,11372.0,1.0,"[['maintenance code violation', '702']]",['2021'],,,,,,,
+41,1105,ANDERSON AVENUE,10452.0,1.0,"[['maintenance code violation', '583']]",['2021'],,,,,,,
+42,691,GERARD AVENUE,10451.0,2.0,"[['maintenance code violation', '505'], ['maintenance code violation', '501']]","['2014', '2014']",,,,,,,
+43,311,ONDERDONK AVENUE,11385.0,1.0,"[['maintenance code violation', '530']]",['2021'],,,,,,,
+44,1722,HOBART AVENUE,10461.0,14.0,"[['maintenance code violation', '810'], ['maintenance code violation', '805'], ['maintenance code violation', '801'], ['maintenance code violation', '808'], ['maintenance code violation', '808'], ['maintenance code violation', '876'], ['maintenance code violation', '877'], ['maintenance code violation', '876'], ['maintenance code violation', '876'], ['maintenance code violation', '877'], ['maintenance code violation', '804'], ['maintenance code violation', '869'], ['maintenance code violation', '868'], ['maintenance code violation', '809']]","['2013', '2013', '2013', '2013', '2013', '2014', '2014', '2014', '2014', '2014', '2014', '2019', '2019', '2019']",,,,,,,
+45,378,EAST 52 STREET,11203.0,1.0,"[['maintenance code violation', '550']]",['2020'],,,,,,,
+46,1625,PRESIDENT STREET,11213.0,1.0,"[['maintenance code violation', '550']]",['2016'],,,,,,,
+47,4640,BROADWAY,10040.0,1.0,"[['maintenance code violation', '501']]",['2021'],,,,10040,3.0,"[['DOB complaint', '30'], ['DOB complaint', '30'], ['DOB complaint', '30']]","['1989', '1989', '1989']"
+48,653,KNICKERBOCKER AVENUE,11221.0,1.0,"[['maintenance code violation', '579']]",['2020'],,,,,,,
+49,1120,FOX STREET,10459.0,1.0,"[['maintenance code violation', '507']]",['2021'],,,,,,,
+50,150,LEFFERTS AVENUE,11225.0,1.0,"[['maintenance code violation', '510']]",['2021'],,,,,,,
+51,646,RUTLAND ROAD,11203.0,1.0,"[['maintenance code violation', '569']]",['2021'],,,,,,,
+52,918,GERARD AVENUE,10452.0,1.0,"[['maintenance code violation', '556']]",['2021'],,,,,,,
+53,3802,GLENWOOD ROAD,11210.0,1.0,"[['maintenance code violation', '550']]",['2020'],,,,,,,
+54,409,SUYDAM STREET,11237.0,1.0,"[['maintenance code violation', '503']]",['2013'],,,,,,,
+55,99,MAC DOUGAL STREET,11233.0,2.0,"[['maintenance code violation', '507'], ['maintenance code violation', '508']]","['2013', '2013']",,,,,,,
+56,2120,WALLACE AVENUE,10462.0,1.0,"[['maintenance code violation', '583']]",['2014'],,,,,,,
+57,1647,PUTNAM AVENUE,11385.0,3.0,"[['maintenance code violation', '569'], ['maintenance code violation', '617'], ['maintenance code violation', '617']]","['2017', '2017', '2017']",,,,,,,
+58,91,FT WASHINGTON AVENUE,10032.0,2.0,"[['maintenance code violation', '556'], ['maintenance code violation', '501']]","['2021', '2021']",,,,,,,
+59,1031,MANOR AVENUE,10472.0,1.0,"[['maintenance code violation', '502']]",['2021'],,,,,,,
+60,451,KINGSTON AVENUE,11225.0,21.0,"[['maintenance code violation', '583'], ['maintenance code violation', '508'], ['maintenance code violation', '550'], ['maintenance code violation', '508'], ['maintenance code violation', '502'], ['maintenance code violation', '501'], ['maintenance code violation', '506'], ['maintenance code violation', '1503'], ['maintenance code violation', '790'], ['maintenance code violation', '501'], ['maintenance code violation', '505'], ['maintenance code violation', '579'], ['maintenance code violation', '506'], ['maintenance code violation', '569'], ['maintenance code violation', '508'], ['maintenance code violation', '508'], ['maintenance code violation', '508'], ['maintenance code violation', '508'], ['maintenance code violation', '554'], ['maintenance code violation', '556'], ['maintenance code violation', '550']]","['2013', '2013', '2013', '2013', '2013', '2013', '2013', '2013', '2013', '2013', '2013', '2013', '2013', '2013', '2013', '2013', '2013', '2013', '2013', '2013', '2013']",,,,,,,
+61,1562,THIERIOT AVENUE,10460.0,5.0,"[['maintenance code violation', '666'], ['maintenance code violation', '505'], ['maintenance code violation', '505'], ['maintenance code violation', '508'], ['maintenance code violation', '702']]","['2016', '2016', '2017', '2017', '2018']",,,,,,,
+62,224,MACON STREET,11216.0,1.0,"[['maintenance code violation', '1502']]",['2013'],,,,,,,
+63,4202,CHURCH AVENUE,11203.0,1.0,"[['maintenance code violation', '790']]",['2020'],,,,,,,
+64,128,LEFFERTS PLACE,11238.0,1.0,"[['maintenance code violation', '568']]",['2021'],,,,,,,
+65,159,WEST 126 STREET,10027.0,1.0,"[['maintenance code violation', '686']]",['2013'],,,,,,,
+66,242,EAST 79 STREET,10075.0,8.0,"[['maintenance code violation', '780'], ['maintenance code violation', '780'], ['maintenance code violation', '510'], ['maintenance code violation', '504'], ['maintenance code violation', '504'], ['maintenance code violation', '504'], ['maintenance code violation', '536'], ['maintenance code violation', '514']]","['2016', '2018', '2019', '2019', '2019', '2019', '2019', '2019']",,,,,,,
+67,29,BROOKLYN AVENUE,11216.0,1.0,"[['maintenance code violation', '510']]",['2020'],,,,,,,
+68,277,DAHILL ROAD,11218.0,1.0,"[['maintenance code violation', '530']]",['2021'],,,,,,,
+69,101,POST AVENUE,10034.0,1.0,"[['maintenance code violation', '506']]",['2013'],,,,,,,
+70,364,LINCOLN PLACE,11238.0,1.0,"[['maintenance code violation', '502']]",['2021'],,,,,,,
+71,90-19,169 STREET,11432.0,1.0,"[['maintenance code violation', '686']]",['2013'],,,,,,,
+72,2380,HUGHES AVENUE,10458.0,1.0,"[['maintenance code violation', '568']]",['2021'],,,,,,,
+73,10,MAPLE STREET,11225.0,1.0,"[['maintenance code violation', '530']]",['2020'],,,,,,,
+74,57,AVENUE O,11204.0,1.0,"[['maintenance code violation', '530']]",['2021'],,,,,,,
+75,1180,PRESIDENT STREET,11225.0,1.0,"[['maintenance code violation', '568']]",['2021'],,,,,,,
+76,736,RIVERSIDE DRIVE,10031.0,2.0,"[['maintenance code violation', '579'], ['maintenance code violation', '593']]","['2021', '2021']",,,,10031,1.0,"[['DOB complaint', '99']]",['1989']
+77,141,HULL STREET,11233.0,1.0,"[['maintenance code violation', '790']]",['2021'],,,,,,,
+78,109-19,FARMERS BOULEVARD,11412.0,2.0,"[['maintenance code violation', '801'], ['maintenance code violation', '868']]","['2021', '2021']",,,,,,,
+79,34,ARION PLACE,11206.0,1.0,"[['maintenance code violation', '510']]",['1979'],,,,,,,
+80,69-21,43 AVENUE,11377.0,1.0,"[['maintenance code violation', '879']]",['2018'],,,,,,,
+81,75,WADSWORTH TERRACE,10040.0,1.0,"[['maintenance code violation', '508']]",['2021'],,,,,,,
+82,170-06,88 AVENUE,11432.0,1.0,"[['maintenance code violation', '670']]",['2021'],,,,,,,
+83,13,BREVOORT PLACE,11216.0,1.0,"[['maintenance code violation', '1503']]",['2019'],,,,,,,
+84,4078,NOSTRAND AVENUE,11235.0,1.0,"[['maintenance code violation', '1507']]",['2021'],,,,,,,
+85,4824,7 AVENUE,11220.0,1.0,"[['maintenance code violation', '530']]",['2021'],,,,,,,
+86,1237,COLLEGE AVENUE,10456.0,1.0,"[['maintenance code violation', '501']]",['2021'],,,,,,,
+87,87-40,165 STREET,11432.0,2.0,"[['maintenance code violation', '505'], ['maintenance code violation', '702']]","['2015', '2016']",,,,,,,
+88,1,WEST END AVENUE,10019.0,2.0,"[['maintenance code violation', '508'], ['maintenance code violation', '550']]","['2021', '2021']",,,,,,,
+89,24,COVERT STREET,11207.0,1.0,"[['maintenance code violation', '702']]",['2017'],,,,,,,
+90,2067,VYSE AVENUE,10460.0,1.0,"[['maintenance code violation', '506']]",['2013'],,,,,,,
+91,865,EAST 165 STREET,10459.0,1.0,"[['maintenance code violation', '530']]",['2021'],,,,,,,
+92,1880,EAST 4 STREET,11223.0,1.0,"[['maintenance code violation', '522']]",['2021'],,,,,,,
+93,230,PRESIDENT STREET,11231.0,10.0,"[['maintenance code violation', '702'], ['maintenance code violation', '1503'], ['maintenance code violation', '506'], ['maintenance code violation', '508'], ['maintenance code violation', '508'], ['maintenance code violation', '509'], ['maintenance code violation', '508'], ['maintenance code violation', '505'], ['maintenance code violation', '508'], ['maintenance code violation', '502']]","['2016', '2016', '2019', '2019', '2019', '2019', '2019', '2019', '2019', '2019']",,,,,,,
+94,2280,OLINVILLE AVENUE,10467.0,1.0,"[['maintenance code violation', '568']]",['2016'],,,,,,,
+95,160,WEST KINGSBRIDGE ROAD,10463.0,3.0,"[['maintenance code violation', '732'], ['maintenance code violation', '649'], ['maintenance code violation', '579']]","['2021', '2021', '2021']",,,,,,,
+96,884,2 AVENUE,10017.0,1.0,"[['maintenance code violation', '510']]",['2021'],,,,,,,
+97,367,WADSWORTH AVENUE,10040.0,1.0,"[['maintenance code violation', '579']]",['2021'],,,,,,,
+98,72-06,69 STREET,11385.0,6.0,"[['maintenance code violation', '579'], ['maintenance code violation', '501'], ['maintenance code violation', '508'], ['maintenance code violation', '1506'], ['maintenance code violation', '1501'], ['maintenance code violation', '778']]","['2014', '2014', '2014', '2019', '2019', '2019']",,,,,,,
+99,2015,DORCHESTER ROAD,11226.0,3.0,"[['maintenance code violation', '617'], ['maintenance code violation', '617'], ['maintenance code violation', '617']]","['2020', '2020', '2020']",,,,,,,
+100,714,HART STREET,11221.0,1.0,"[['maintenance code violation', '568']]",['2017'],,,,,,,
+101,2031,OCEAN AVENUE,11230.0,1.0,"[['maintenance code violation', '550']]",['2019'],,,,,,,
+102,58-37,WALDRON STREET,11368.0,1.0,"[['maintenance code violation', '508']]",['2021'],,,,,,,
+103,20,SHERMAN AVENUE,10040.0,10.0,"[['maintenance code violation', '502'], ['maintenance code violation', '508'], ['maintenance code violation', '506'], ['maintenance code violation', '501'], ['maintenance code violation', '702'], ['maintenance code violation', '556'], ['maintenance code violation', '502'], ['maintenance code violation', '508'], ['maintenance code violation', '502'], ['maintenance code violation', '550']]","['2016', '2016', '2018', '2018', '2019', '2019', '2019', '2019', '2019', '2019']",,,,,,,
+104,118,CLARKSON AVENUE,11226.0,5.0,"[['maintenance code violation', '501'], ['maintenance code violation', '501'], ['maintenance code violation', '526'], ['maintenance code violation', '702'], ['maintenance code violation', '1503']]","['2013', '2013', '2013', '2013', '2013']",,,,,,,
+105,449,WEST 153 STREET,10031.0,1.0,"[['maintenance code violation', '550']]",['2021'],,,,,,,
+106,252,SHERMAN AVENUE,10034.0,2.0,"[['maintenance code violation', '1503'], ['maintenance code violation', '702']]","['2021', '2021']",,,,,,,
+107,771,EAST 185 STREET,10460.0,2.0,"[['maintenance code violation', '501'], ['maintenance code violation', '509']]","['2021', '2021']",,,,,,,
+108,2075,WALTON AVENUE,10453.0,3.0,"[['maintenance code violation', '501'], ['maintenance code violation', '502'], ['maintenance code violation', '598']]","['2021', '2021', '2021']",,,,,,,
+109,1800,ALBEMARLE ROAD,11226.0,1.0,"[['maintenance code violation', '510']]",['2021'],,,,,,,
+110,667,WEST 161 STREET,10032.0,1.0,"[['maintenance code violation', '550']]",['2021'],,,,,,,
+111,22-11,NEW HAVEN AVENUE,11691.0,1.0,"[['maintenance code violation', '530']]",['2021'],,,,,,,
+112,133,SUNNYSIDE AVENUE,11207.0,1.0,"[['maintenance code violation', '970']]",['2016'],,,,,,,
+113,556,ALBANY AVENUE,11203.0,1.0,"[['maintenance code violation', '686']]",['2013'],,,,,,,
+114,1630,41 STREET,11218.0,1.0,"[['maintenance code violation', '1503']]",['2021'],,,,,,,
+115,1707,TOPPING AVENUE,10457.0,1.0,"[['maintenance code violation', '550']]",['2020'],,,,,,,
+116,36,KENILWORTH PLACE,11210.0,14.0,"[['maintenance code violation', '509'], ['maintenance code violation', '502'], ['maintenance code violation', '579'], ['maintenance code violation', '529'], ['maintenance code violation', '554'], ['maintenance code violation', '506'], ['maintenance code violation', '501'], ['maintenance code violation', '578'], ['maintenance code violation', '502'], ['maintenance code violation', '502'], ['maintenance code violation', '501'], ['maintenance code violation', '509'], ['maintenance code violation', '702'], ['maintenance code violation', '1503']]","['2013', '2013', '2013', '2013', '2013', '2013', '2013', '2013', '2013', '2013', '2013', '2013', '2013', '2013']",,,,,,,
+117,1033,WHEELER AVENUE,10472.0,3.0,"[['maintenance code violation', '883'], ['maintenance code violation', '808'], ['maintenance code violation', '883']]","['2021', '2021', '2021']",,,,,,,
+118,2800,BAILEY AVENUE,10463.0,3.0,"[['maintenance code violation', '569'], ['maintenance code violation', '583'], ['maintenance code violation', '568']]","['2021', '2021', '2021']",,,,,,,
+119,1343,PROSPECT AVENUE,10459.0,1.0,"[['maintenance code violation', '505']]",['2014'],,,,,,,
+120,117-33,135 STREET,11420.0,10.0,"[['maintenance code violation', '869'], ['maintenance code violation', '868'], ['maintenance code violation', '808'], ['maintenance code violation', '896'], ['maintenance code violation', '780'], ['maintenance code violation', '879'], ['maintenance code violation', '851'], ['maintenance code violation', '808'], ['maintenance code violation', '806'], ['maintenance code violation', '801']]","['2016', '2016', '2017', '2017', '2017', '2017', '2017', '2017', '2017', '2017']",,,,,,,
+121,426,ROCKAWAY PARKWAY,11212.0,1.0,"[['maintenance code violation', '505']]",['2020'],,,,,,,
+122,250,EAST 29 STREET,11226.0,1.0,"[['maintenance code violation', '616']]",['2020'],,,,,,,
+123,1944,ANDREWS AVENUE,10453.0,1.0,"[['maintenance code violation', '508']]",['2013'],,,,,,,
+124,273,ADELPHI STREET,11205.0,12.0,"[['maintenance code violation', '502'], ['maintenance code violation', '501'], ['maintenance code violation', '506'], ['maintenance code violation', '509'], ['maintenance code violation', '501'], ['maintenance code violation', '505'], ['maintenance code violation', '748'], ['maintenance code violation', '509'], ['maintenance code violation', '508'], ['maintenance code violation', '502'], ['maintenance code violation', '579'], ['maintenance code violation', '780']]","['1986', '1988', '1985', '1985', '1985', '1986', '1986', '1988', '1996', '1996', '1996', '2017']",,,,,,,
+125,1635,UNION STREET,11213.0,4.0,"[['maintenance code violation', '790'], ['maintenance code violation', '550'], ['maintenance code violation', '569'], ['maintenance code violation', '1507']]","['2020', '2019', '2021', '2021']",,,,,,,
+126,94,GREENE AVENUE,11238.0,1.0,"[['maintenance code violation', '805']]",['2013'],,,,,,,
+127,225,23 STREET,11232.0,1.0,"[['maintenance code violation', '550']]",['2020'],,,,,,,
+128,282,ASHFORD STREET,11207.0,1.0,"[['maintenance code violation', '509']]",['2017'],,,,,,,
+129,1165,ELTON STREET,11208.0,1.0,"[['maintenance code violation', '550']]",['2020'],,,,,,,
+130,1039,SIMPSON STREET,10459.0,2.0,"[['maintenance code violation', '504'], ['maintenance code violation', '552']]","['2018', '2019']",,,,,,,
+131,150-21,14 ROAD,11357.0,1.0,"[['maintenance code violation', '810']]",['2021'],,,,,,,
+132,230,EAST 79 STREET,10075.0,22.0,"[['maintenance code violation', '508'], ['maintenance code violation', '508'], ['maintenance code violation', '500'], ['maintenance code violation', '700'], ['maintenance code violation', '671'], ['maintenance code violation', '780'], ['maintenance code violation', '780'], ['maintenance code violation', '566'], ['maintenance code violation', '550'], ['maintenance code violation', '508'], ['maintenance code violation', '508'], ['maintenance code violation', '501'], ['maintenance code violation', '702'], ['maintenance code violation', '1503'], ['maintenance code violation', '556'], ['maintenance code violation', '508'], ['maintenance code violation', '550'], ['maintenance code violation', '556'], ['maintenance code violation', '550'], ['maintenance code violation', '556'], ['maintenance code violation', '508'], ['maintenance code violation', '505']]","['2016', '2016', '2017', '2018', '2018', '2018', '2019', '2020', '2020', '2020', '2020', '2020', '2020', '2020', '2020', '2020', '2020', '2020', '2020', '2020', '2020', '2020']",,,,,,,
+133,633,EAST 233 STREET,10466.0,6.0,"[['maintenance code violation', '870'], ['maintenance code violation', '810'], ['maintenance code violation', '808'], ['maintenance code violation', '869'], ['maintenance code violation', '868'], ['maintenance code violation', '801']]","['2013', '2013', '2013', '2013', '2013', '2013']",,,,,,,
+134,233,PROSPECT PLACE,11238.0,1.0,"[['maintenance code violation', '583']]",['2018'],,,,,,,
+135,180,7 AVENUE,10011.0,1.0,"[['maintenance code violation', '501']]",['2013'],,,,,,,
+136,125,LENOX ROAD,11226.0,1.0,"[['maintenance code violation', '556']]",['2021'],,,,,,,
+137,2136,MAPES AVENUE,10460.0,1.0,"[['maintenance code violation', '505']]",['2015'],,,,,,,
+138,37-40,81 STREET,11372.0,4.0,"[['maintenance code violation', '502'], ['maintenance code violation', '505'], ['maintenance code violation', '553'], ['maintenance code violation', '502']]","['2021', '2021', '2021', '2021']",,,,,,,
+139,1551,SHERIDAN AVENUE,10457.0,1.0,"[['maintenance code violation', '579']]",['2021'],,,,,,,
+140,120,EAST 102 STREET,10029.0,1.0,"[['maintenance code violation', '742']]",['2021'],,,,,,,
+141,2129,CROTONA AVENUE,10457.0,1.0,"[['maintenance code violation', '510']]",['2021'],,,,,,,
+142,437,MORRIS PARK AVENUE,10460.0,1.0,"[['maintenance code violation', '510']]",['2021'],,,,,,,
+143,505,MC DONALD AVENUE,11218.0,1.0,"[['maintenance code violation', '501']]",['2013'],,,,,,,
+144,1466,GRAND CONCOURSE,10457.0,4.0,"[['maintenance code violation', '617'], ['maintenance code violation', '617'], ['maintenance code violation', '617'], ['maintenance code violation', '617']]","['2019', '2019', '2019', '2020']",,,,,,,
+145,1503,METROPOLITAN AVENUE,10462.0,1.0,"[['maintenance code violation', '550']]",['2021'],,,,,,,
+146,1,MARBLE HILL AVENUE,10463.0,1.0,"[['maintenance code violation', '508']]",['2021'],,,,,,,
+147,728,OCEAN VIEW AVENUE,11235.0,1.0,"[['maintenance code violation', '1507']]",['2021'],,,,,,,
+148,598,EAST 183 STREET,10458.0,1.0,"[['maintenance code violation', '508']]",['2021'],,,,,,,
+149,77-54,AUSTIN STREET,11375.0,4.0,"[['maintenance code violation', '550'], ['maintenance code violation', '502'], ['maintenance code violation', '790'], ['maintenance code violation', '530']]","['2013', '2013', '2014', '2014']",,,,,,,
+150,223,EAST 78 STREET,10075.0,1.0,"[['maintenance code violation', '780']]",['2016'],,,,,,,
+151,240,EAST 79 STREET,10075.0,2.0,"[['maintenance code violation', '780'], ['maintenance code violation', '780']]","['2018', '2019']",,,,,,,
+152,534,EAST 138 STREET,10454.0,1.0,"[['maintenance code violation', '702']]",['2021'],,,,,,,
+153,1117,WESTCHESTER AVENUE,10459.0,1.0,"[['maintenance code violation', '569']]",['2021'],,,,,,,
+154,795,EAST 151 STREET,10455.0,1.0,"[['maintenance code violation', '550']]",['2021'],,,,,,,
+155,140,WEST 58 STREET,10019.0,1.0,"[['maintenance code violation', '502']]",['2017'],,,,,,,
+156,61-05,39 AVENUE,11377.0,5.0,"[['maintenance code violation', '598'], ['maintenance code violation', '501'], ['maintenance code violation', '501'], ['maintenance code violation', '1503'], ['maintenance code violation', '702']]","['2021', '2021', '2021', '2021', '2021']",,,,,,,
+157,30-83,29 STREET,11102.0,2.0,"[['maintenance code violation', '505'], ['maintenance code violation', '508']]","['2010', '2010']",,,,,,,
+158,1917,AVENUE X,11235.0,2.0,"[['maintenance code violation', '1507'], ['maintenance code violation', '780']]","['2021', '2021']",,,,,,,
+159,456,BROOKLYN AVENUE,11225.0,1.0,"[['maintenance code violation', '702']]",['2019'],,,,,,,
+160,950,BERGEN STREET,11216.0,1.0,"[['maintenance code violation', '664']]",['2021'],,,,,,,
+161,694,ROCKAWAY AVENUE,11212.0,1.0,"[['maintenance code violation', '670']]",['2021'],,,,,,,
+162,349,LINDEN STREET,11237.0,1.0,"[['maintenance code violation', '790']]",['2021'],,,,,,,
+163,2406,FRISBY AVENUE,10461.0,3.0,"[['maintenance code violation', '970'], ['maintenance code violation', '966'], ['maintenance code violation', '1042']]","['2013', '2013', '2013']",,,,,,,
+164,179,EAST 93 STREET,10128.0,1.0,"[['maintenance code violation', '692']]",['2019'],,,,,,,
+165,1064,MANOR AVENUE,10472.0,3.0,"[['maintenance code violation', '529'], ['maintenance code violation', '556'], ['maintenance code violation', '556']]","['2013', '2013', '2013']",,,,,,,
+166,795,COLUMBUS AVENUE,10025.0,2.0,"[['maintenance code violation', '484'], ['maintenance code violation', '671']]","['2021', '2021']",,,,,,,
+167,4206,CARPENTER AVENUE,10466.0,1.0,"[['maintenance code violation', '569']]",['2018'],,,,,,,
+168,122,EAST 116 STREET,10029.0,4.0,"[['maintenance code violation', '702'], ['maintenance code violation', '1502'], ['maintenance code violation', '526'], ['maintenance code violation', '538']]","['2013', '2013', '2013', '2013']",,,,,,,
+169,85-53,ELIOT AVENUE,11374.0,1.0,"[['maintenance code violation', '508']]",['2014'],,,,,,,
+170,25-40,23 STREET,11102.0,1.0,"[['maintenance code violation', '617']]",['2021'],,,,,,,
+171,901,EAST 76 STREET,11236.0,1.0,"[['maintenance code violation', '550']]",['2021'],,,,,,,
+172,735,LINCOLN AVENUE,11208.0,1.0,"[['maintenance code violation', '556']]",['2021'],,,,,,,
+173,2260,WASHINGTON AVENUE,10457.0,1.0,"[['maintenance code violation', '569']]",['2021'],,,,,,,
+174,8517,3 AVENUE,11209.0,2.0,"[['maintenance code violation', '649'], ['maintenance code violation', '579']]","['2013', '2013']",,,,,,,
+175,28,WEST 11 STREET,10011.0,1.0,"[['maintenance code violation', '508']]",['2021'],,,,,,,
+176,432,EAST 116 STREET,10029.0,1.0,"[['maintenance code violation', '583']]",['2013'],,,,,,,
+177,147,EAST 118 STREET,10035.0,1.0,"[['maintenance code violation', '670']]",['2021'],,,,,,,
+178,84,WEST 188 STREET,10468.0,1.0,"[['maintenance code violation', '790']]",['2020'],,,,,,,
+179,451,EAST 22 STREET,11226.0,1.0,"[['maintenance code violation', '790']]",['2021'],,,,,,,
+180,268,EAST 181 STREET,10457.0,1.0,"[['maintenance code violation', '501']]",['2013'],,,,,,,
+181,265,MILL ROAD,10306.0,5.0,"[['maintenance code violation', '583'], ['maintenance code violation', '502'], ['maintenance code violation', '556'], ['maintenance code violation', '508'], ['maintenance code violation', '556']]","['2013', '2013', '2013', '2013', '2013']",,,,,,,
+182,55,HOLLAND AVENUE,10303.0,1.0,"[['maintenance code violation', '569']]",['2021'],,,,,,,
+183,244,EAST 79 STREET,10075.0,2.0,"[['maintenance code violation', '504'], ['maintenance code violation', '514']]","['2019', '2019']",,,,,,,
+184,97,NEPTUNE AVENUE,11235.0,5.0,"[['maintenance code violation', '583'], ['maintenance code violation', '484'], ['maintenance code violation', '700'], ['maintenance code violation', '1501'], ['maintenance code violation', '1506']]","['2021', '2021', '2021', '2021', '2021']",,,,,,,
+185,180,PARKHILL AVENUE,10304.0,2.0,"[['maintenance code violation', '508'], ['maintenance code violation', '501']]","['2013', '2013']",,,,,,,
+186,1215,AVENUE N,11230.0,1.0,"[['maintenance code violation', '539']]",['2021'],,,,,,,
+187,10-12,NAMEOKE STREET,11691.0,3.0,"[['maintenance code violation', '510'], ['maintenance code violation', '510'], ['maintenance code violation', '505']]","['2020', '2020', '2020']",,,,,,,
+188,3301,PERRY AVENUE,10467.0,3.0,"[['maintenance code violation', '550'], ['maintenance code violation', '702'], ['maintenance code violation', '556']]","['2020', '2020', '2020']",,,,,,,
+189,3528,MERMAID AVENUE,11224.0,4.0,"[['maintenance code violation', '583'], ['maintenance code violation', '1503'], ['maintenance code violation', '583'], ['maintenance code violation', '509']]","['2021', '2021', '2021', '2021']",,,,,,,
+190,1726,AMSTERDAM AVENUE,10031.0,2.0,"[['maintenance code violation', '556'], ['maintenance code violation', '508']]","['2014', '2019']",,,,,,,
+191,1840,SEDGWICK AVENUE,10453.0,1.0,"[['maintenance code violation', '505']]",['2020'],,,,,,,
+192,6719,13 AVENUE,11219.0,4.0,"[['maintenance code violation', '491'], ['maintenance code violation', '508'], ['maintenance code violation', '502'], ['maintenance code violation', '508']]","['2020', '2020', '2020', '2020']",,,,,,,
+193,218,EAST 79 STREET,10075.0,1.0,"[['maintenance code violation', '780']]",['2015'],,,,,,,
+194,83-78,DANIELS STREET,11435.0,1.0,"[['maintenance code violation', '1067']]",['2013'],,,,,,,
+195,710,EAST 93 STREET,11236.0,4.0,"[['maintenance code violation', '1503'], ['maintenance code violation', '949'], ['maintenance code violation', '846'], ['maintenance code violation', '802']]","['2019', '2019', '2019', '2019']",,,,,,,
+196,1451,OVERING STREET,10461.0,11.0,"[['maintenance code violation', '672'], ['maintenance code violation', '508'], ['maintenance code violation', '508'], ['maintenance code violation', '508'], ['maintenance code violation', '569'], ['maintenance code violation', '1503'], ['maintenance code violation', '702'], ['maintenance code violation', '790'], ['maintenance code violation', '702'], ['maintenance code violation', '1503'], ['maintenance code violation', '556']]","['2013', '2013', '2013', '2013', '2013', '2013', '2013', '2014', '2014', '2014', '2014']",,,,,,,
+197,382,SOUTH 4 STREET,11211.0,1.0,"[['maintenance code violation', '530']]",['2020'],,,,,,,
+198,244,FILLMORE STREET,10301.0,4.0,"[['maintenance code violation', '868'], ['maintenance code violation', '988'], ['maintenance code violation', '949'], ['maintenance code violation', '869']]","['2021', '2021', '2021', '2021']",,,,,,,
+199,1877,HARRISON AVENUE,10453.0,8.0,"[['maintenance code violation', '808'], ['maintenance code violation', '1503'], ['maintenance code violation', '856'], ['maintenance code violation', '808'], ['maintenance code violation', '801'], ['maintenance code violation', '810'], ['maintenance code violation', '550'], ['maintenance code violation', '809']]","['2013', '2013', '2013', '2013', '2013', '2013', '2013', '2013']",,,,,,,
+200,150-36,118 AVENUE,11434.0,1.0,"[['maintenance code violation', '804']]",['2013'],,,,,,,
+201,1704,MORRIS AVENUE,10457.0,2.0,"[['maintenance code violation', '556'], ['maintenance code violation', '556']]","['2021', '2021']",,,,,,,
+202,353,BEEKMAN AVENUE,10454.0,17.0,"[['maintenance code violation', '502'], ['maintenance code violation', '505'], ['maintenance code violation', '506'], ['maintenance code violation', '505'], ['maintenance code violation', '505'], ['maintenance code violation', '508'], ['maintenance code violation', '583'], ['maintenance code violation', '556'], ['maintenance code violation', '591'], ['maintenance code violation', '556'], ['maintenance code violation', '505'], ['maintenance code violation', '508'], ['maintenance code violation', '583'], ['maintenance code violation', '508'], ['maintenance code violation', '501'], ['maintenance code violation', '593'], ['maintenance code violation', '583']]","['2014', '2014', '2014', '2014', '2014', '2014', '2014', '2014', '2014', '2014', '2014', '2014', '2014', '2014', '2014', '2014', '2014']",,,,,,,
+203,900,EAST 18 STREET,11230.0,1.0,"[['maintenance code violation', '550']]",['2021'],,,,,,,
+204,1995,LEXINGTON AVENUE,10035.0,1.0,"[['maintenance code violation', '507']]",['2022'],,,,,,,
+205,2913,MIDDLETOWN ROAD,10461.0,1.0,"[['maintenance code violation', '670']]",['2013'],,,,,,,
+206,147-38,ASH AVENUE,11355.0,1.0,"[['maintenance code violation', '808']]",['2019'],,,,,,,
+207,137-29,81 STREET,11414.0,1.0,"[['maintenance code violation', '780']]",['2021'],,,,,,,
+208,115,EAST MOSHOLU PARKWAY NORTH,10467.0,2.0,"[['maintenance code violation', '550'], ['maintenance code violation', '530']]","['2021', '2021']",,,,,,,
+209,580,EMPIRE BOULEVARD,11225.0,6.0,"[['maintenance code violation', '568'], ['maintenance code violation', '569'], ['maintenance code violation', '521'], ['maintenance code violation', '510'], ['maintenance code violation', '510'], ['maintenance code violation', '508']]","['2019', '2019', '2019', '2019', '2019', '2019']",,,,,,,
+210,208,TAPSCOTT STREET,11212.0,1.0,"[['maintenance code violation', '801']]",['2016'],,,,,,,
+211,3440,GATES PLACE,10467.0,1.0,"[['maintenance code violation', '702']]",['2021'],,,,,,,
+212,71,WEST 118 STREET,10026.0,3.0,"[['maintenance code violation', '790'], ['maintenance code violation', '702'], ['maintenance code violation', '1502']]","['2013', '2013', '2013']",,,,,,,
+213,1453,PROSPECT PLACE,11213.0,1.0,"[['maintenance code violation', '513']]",['2013'],,,,,,,
+214,43-09,40 STREET,11104.0,3.0,"[['maintenance code violation', '553'], ['maintenance code violation', '569'], ['maintenance code violation', '508']]","['2021', '2021', '2021']",,,,,,,
+215,101-17,115 STREET,11419.0,1.0,"[['maintenance code violation', '1501']]",['2021'],,,,,,,
+216,109,EAST 153 STREET,10451.0,1.0,"[['maintenance code violation', '616']]",['2013'],,,,,,,
+217,700,EAST NEW YORK AVENUE,11203.0,1.0,"[['maintenance code violation', '550']]",['2021'],,,,,,,
+218,643,WEST 172 STREET,10032.0,1.0,"[['maintenance code violation', '556']]",['2017'],,,,,,,
+219,1660,CROTONA PARK EAST,10460.0,1.0,"[['maintenance code violation', '508']]",['2013'],,,,,,,
+220,157-30,96 STREET,11414.0,1.0,"[['maintenance code violation', '780']]",['2021'],,,,,,,
+221,521,ISHAM STREET,10034.0,2.0,"[['maintenance code violation', '502'], ['maintenance code violation', '802']]","['2019', '2019']",,,,,,,
+222,607,WEST 139 STREET,10031.0,2.0,"[['maintenance code violation', '502'], ['maintenance code violation', '596']]","['2019', '2019']",,,,,,,
+223,87,EAST 53 STREET,11203.0,1.0,"[['maintenance code violation', '508']]",['2021'],,,,,,,
+224,601,PARK PLACE,11238.0,2.0,"[['maintenance code violation', '649'], ['maintenance code violation', '551']]","['2020', '2020']",,,,,,,
+225,1251,BRONX RIVER AVENUE,10472.0,1.0,"[['maintenance code violation', '568']]",['2021'],,,,,,,
+226,165,SHERMAN AVENUE,10034.0,22.0,"[['maintenance code violation', '526'], ['maintenance code violation', '570'], ['maintenance code violation', '790'], ['maintenance code violation', '570'], ['maintenance code violation', '569'], ['maintenance code violation', '508'], ['maintenance code violation', '508'], ['maintenance code violation', '508'], ['maintenance code violation', '508'], ['maintenance code violation', '550'], ['maintenance code violation', '501'], ['maintenance code violation', '501'], ['maintenance code violation', '501'], ['maintenance code violation', '569'], ['maintenance code violation', '508'], ['maintenance code violation', '502'], ['maintenance code violation', '1503'], ['maintenance code violation', '702'], ['maintenance code violation', '501'], ['maintenance code violation', '502'], ['maintenance code violation', '501'], ['maintenance code violation', '501']]","['2014', '2014', '2014', '2014', '2014', '2014', '2014', '2014', '2014', '2014', '2014', '2014', '2014', '2014', '2014', '2014', '2014', '2014', '2014', '2014', '2014', '2014']",,,,,,,
+227,2805,HEATH AVENUE,10463.0,1.0,"[['maintenance code violation', '790']]",['2021'],,,,,,,
+228,828,FAILE STREET,10474.0,6.0,"[['maintenance code violation', '508'], ['maintenance code violation', '508'], ['maintenance code violation', '508'], ['maintenance code violation', '501'], ['maintenance code violation', '501'], ['maintenance code violation', '506']]","['2014', '2014', '2014', '2014', '2014', '2014']",,,,,,,
+229,612,BEECH TERRACE,10454.0,2.0,"[['maintenance code violation', '583'], ['maintenance code violation', '508']]","['2021', '2021']",,,,,,,
+230,4220,15 AVENUE,11219.0,1.0,"[['maintenance code violation', '552']]",['2013'],,,,,,,
+231,96,BRISTOL STREET,11212.0,1.0,"[['maintenance code violation', '1507']]",['2021'],,,,,,,
+232,604,WYONA STREET,11207.0,1.0,"[['maintenance code violation', '530']]",['2020'],,,,,,,
+233,1824,WEEKS AVENUE,10457.0,2.0,"[['maintenance code violation', '583'], ['maintenance code violation', '501']]","['2021', '2021']",,,,,,,
+234,3046,HOLLAND AVENUE,10467.0,1.0,"[['maintenance code violation', '765']]",['2021'],,,,,,,
+235,1505,TOWNSEND AVENUE,10452.0,5.0,"[['maintenance code violation', '702'], ['maintenance code violation', '790'], ['maintenance code violation', '1503'], ['maintenance code violation', '569'], ['maintenance code violation', '509']]","['2014', '2014', '2014', '2014', '2014']",,,,,,,
+236,154,EAST 175 STREET,10457.0,2.0,"[['maintenance code violation', '664'], ['maintenance code violation', '670']]","['2020', '2020']",,,,,,,
+237,1020,45 STREET,11219.0,1.0,"[['maintenance code violation', '617']]",['2021'],,,,,,,
+238,55,HARMAN STREET,11221.0,1.0,"[['maintenance code violation', '550']]",['2021'],,,,,,,
+239,519,WEST 147 STREET,10031.0,1.0,"[['maintenance code violation', '550']]",['2021'],,,,,,,
+240,153-28,75 AVENUE,11367.0,3.0,"[['maintenance code violation', '583'], ['maintenance code violation', '502'], ['maintenance code violation', '556']]","['2021', '2021', '2021']",,,,,,,
+241,540,CONCORD AVENUE,10455.0,1.0,"[['maintenance code violation', '577']]",['2020'],,,,,,,
+242,888,EAST 96 STREET,11236.0,2.0,"[['maintenance code violation', '553'], ['maintenance code violation', '583']]","['2014', '2015']",,,,,,,
+243,24,JANE STREET,10014.0,1.0,"[['maintenance code violation', '507']]",['2022'],,,,,,,
+244,131,EAST 21 STREET,11226.0,1.0,"[['maintenance code violation', '658']]",['2013'],,,,,,,
+245,1858,BAY RIDGE AVENUE,11204.0,1.0,"[['maintenance code violation', '509']]",['2020'],,,,,,,
+246,1410,PROSPECT PLACE,11213.0,2.0,"[['maintenance code violation', '506'], ['maintenance code violation', '506']]","['2020', '2020']",,,,,,,
+247,35-13,109 STREET,11368.0,2.0,"[['maintenance code violation', '484'], ['maintenance code violation', '700']]","['2021', '2021']",,,,,,,
+248,73,LINDEN STREET,11221.0,1.0,"[['maintenance code violation', '1503']]",['2021'],,,,,,,
+249,428,EAST 46 STREET,11203.0,1.0,"[['maintenance code violation', '530']]",['2021'],,,,,,,
+250,1255,STRATFORD AVENUE,10472.0,1.0,"[['maintenance code violation', '670']]",['2021'],,,,,,,
+251,40,ARDEN STREET,10040.0,4.0,"[['maintenance code violation', '554'], ['maintenance code violation', '508'], ['maintenance code violation', '508'], ['maintenance code violation', '501']]","['2015', '2018', '2018', '2018']",,,,,,,
+252,1941,OCEAN AVENUE,11230.0,5.0,"[['maintenance code violation', '671'], ['maintenance code violation', '688'], ['maintenance code violation', '538'], ['maintenance code violation', '538'], ['maintenance code violation', '571']]","['2013', '2013', '2013', '2013', '2013']",,,,,,,
+253,1622,PRESIDENT STREET,11213.0,1.0,"[['maintenance code violation', '508']]",['2022'],,,,,,,
+254,1056,ST NICHOLAS AVENUE,10032.0,1.0,"[['maintenance code violation', '550']]",['2021'],,,,,,,
+255,719,MILLER AVENUE,11207.0,1.0,"[['maintenance code violation', '569']]",['2013'],,,,,,,
+256,465,WEST 152 STREET,10031.0,1.0,"[['maintenance code violation', '556']]",['2021'],,,,,,,
+257,3195,DECATUR AVENUE,10467.0,1.0,"[['maintenance code violation', '508']]",['2013'],,,,,,,
+258,7,HEGEMAN AVENUE,11212.0,1.0,"[['maintenance code violation', '688']]",['2013'],,,,,,,
+259,1314,LAFAYETTE AVENUE,10474.0,1.0,"[['maintenance code violation', '501']]",['2021'],,,,,,,
+260,209,WADSWORTH AVENUE,10033.0,1.0,"[['maintenance code violation', '550']]",['2020'],,,,,,,
+261,608,WEST 184 STREET,10033.0,4.0,"[['maintenance code violation', '501'], ['maintenance code violation', '501'], ['maintenance code violation', '568'], ['maintenance code violation', '556']]","['2020', '2020', '2020', '2020']",,,,,,,
+262,100,SEAMAN AVENUE,10034.0,1.0,"[['maintenance code violation', '553']]",['2021'],,,,,,,
+263,379,MENAHAN STREET,11237.0,1.0,"[['maintenance code violation', '1507']]",['2021'],,,,,,,
+264,1918,RICHMOND TERRACE,10302.0,1.0,"[['maintenance code violation', '502']]",['2015'],,,,,,,
+265,2816,HEATH AVENUE,10463.0,1.0,"[['maintenance code violation', '550']]",['2020'],,,,,,,
+266,32,CLARKSON AVENUE,11226.0,1.0,"[['maintenance code violation', '691']]",['2021'],,,,,,,
+267,348,MAPLE STREET,11225.0,1.0,"[['maintenance code violation', '550']]",['2021'],,,,,,,
+268,260,PARKHILL AVENUE,10304.0,5.0,"[['maintenance code violation', '508'], ['maintenance code violation', '583'], ['maintenance code violation', '583'], ['maintenance code violation', '550'], ['maintenance code violation', '539']]","['2013', '2013', '2013', '2013', '2013']",,,,,,,
+269,1166,FULTON STREET,11216.0,1.0,"[['maintenance code violation', '670']]",['2021'],,,,,,,
+270,510,RALPH AVENUE,11233.0,1.0,"[['maintenance code violation', '501']]",['2015'],,,,,,,
+271,2535,HOLLAND AVENUE,10467.0,1.0,"[['maintenance code violation', '805']]",['2020'],,,,,,,
+272,25-69,33 STREET,11102.0,5.0,"[['maintenance code violation', '566'], ['maintenance code violation', '702'], ['maintenance code violation', '508'], ['maintenance code violation', '509'], ['maintenance code violation', '566']]","['1993', '1993', '2009', '1993', '1993']",,,,,,,
+273,780,LIVONIA AVENUE,11207.0,1.0,"[['maintenance code violation', '505']]",['2020'],,,,,,,
+274,1141,TIFFANY STREET,10459.0,12.0,"[['maintenance code violation', '501'], ['maintenance code violation', '556'], ['maintenance code violation', '583'], ['maintenance code violation', '556'], ['maintenance code violation', '556'], ['maintenance code violation', '508'], ['maintenance code violation', '702'], ['maintenance code violation', '556'], ['maintenance code violation', '505'], ['maintenance code violation', '502'], ['maintenance code violation', '501'], ['maintenance code violation', '502']]","['2013', '2013', '2013', '2013', '2013', '2017', '2017', '2018', '2018', '2020', '2020', '2020']",,,,,,,
+275,552,WEST 185 STREET,10033.0,6.0,"[['maintenance code violation', '1503'], ['maintenance code violation', '702'], ['maintenance code violation', '1503'], ['maintenance code violation', '568'], ['maintenance code violation', '569'], ['maintenance code violation', '567']]","['2021', '2021', '2021', '2021', '2021', '2021']",,,,,,,
+276,2132,BEVERLY ROAD,11226.0,1.0,"[['maintenance code violation', '709']]",['2020'],,,,,,,
+277,1330,FULTON STREET,11216.0,2.0,"[['maintenance code violation', '508'], ['maintenance code violation', '508']]","['2013', '2013']",,,,,,,
+278,2407,EAST 12 STREET,11235.0,2.0,"[['maintenance code violation', '1507'], ['maintenance code violation', '780']]","['2021', '2021']",,,,,,,
+279,964,OCEAN PARKWAY,11230.0,1.0,"[['maintenance code violation', '508']]",['2021'],,,,,,,
+280,664,SAGAMORE STREET,10462.0,1.0,"[['maintenance code violation', '556']]",['2021'],,,,,,,
+281,2625,GRAND CONCOURSE,10468.0,1.0,"[['maintenance code violation', '670']]",['2020'],,,,,,,
+282,988,GREENE AVENUE,11221.0,1.0,"[['maintenance code violation', '508']]",['2020'],,,,,,,
+283,535,56 STREET,11220.0,1.0,"[['maintenance code violation', '702']]",['2020'],,,,,,,
+284,3540,DEKALB AVENUE,10467.0,2.0,"[['maintenance code violation', '521'], ['maintenance code violation', '501']]","['2013', '2013']",,,,,,,
+285,7801,3 AVENUE,11209.0,1.0,"[['maintenance code violation', '505']]",['2020'],,,,,,,
+286,330,EAST 22 STREET,11226.0,1.0,"[['maintenance code violation', '501']]",['2021'],,,,,,,
+287,2,ELTON STREET,11208.0,1.0,"[['maintenance code violation', '670']]",['2013'],,,,,,,
+288,265,EAST 78 STREET,10075.0,7.0,"[['maintenance code violation', '552'], ['maintenance code violation', '502'], ['maintenance code violation', '571'], ['maintenance code violation', '500'], ['maintenance code violation', '508'], ['maintenance code violation', '1506'], ['maintenance code violation', '501']]","['2014', '2014', '2016', '2018', '2018', '2018', '2020']",,,,,,,
+289,2243,WEST 7 STREET,11223.0,1.0,"[['maintenance code violation', '556']]",['2021'],,,,,,,
+290,274,EAST 3 STREET,10009.0,1.0,"[['maintenance code violation', '666']]",['2020'],,,,,,,
+291,246,PRESIDENT STREET,11231.0,5.0,"[['maintenance code violation', '556'], ['maintenance code violation', '508'], ['maintenance code violation', '510'], ['maintenance code violation', '702'], ['maintenance code violation', '702']]","['2013', '2013', '2013', '2013', '2013']",,,,,,,
+292,1492,1 AVENUE,10075.0,1.0,"[['maintenance code violation', '670']]",['2020'],,,,,,,
+293,68,MAC DOUGAL STREET,11233.0,1.0,"[['maintenance code violation', '790']]",['2021'],,,,,,,
+294,2848,BRIGHTON 7 STREET,11235.0,1.0,"[['maintenance code violation', '1507']]",['2021'],,,,,,,
+295,785,MACE AVENUE,10467.0,2.0,"[['maintenance code violation', '583'], ['maintenance code violation', '502']]","['2013', '2013']",,,,,,,
+296,20,CROOKE AVENUE,11226.0,1.0,"[['maintenance code violation', '568']]",['2021'],,,,,,,
+297,920,TAYLOR AVENUE,10473.0,1.0,"[['maintenance code violation', '550']]",['2020'],,,,,,,
+298,530,ST PAULS PLACE,10456.0,2.0,"[['maintenance code violation', '790'], ['maintenance code violation', '568']]","['2013', '2013']",,,,,,,
+299,305,LINDEN BOULEVARD,11226.0,1.0,"[['maintenance code violation', '790']]",['2021'],,,,,,,
+300,145-20,LAKEWOOD AVENUE,11435.0,1.0,"[['maintenance code violation', '780']]",['2017'],,,,,,,
+301,250,STOCKHOLM STREET,11237.0,1.0,"[['maintenance code violation', '510']]",['2020'],,,,,,,
+302,287,EAST 18 STREET,11226.0,1.0,"[['maintenance code violation', '508']]",['2018'],,,,,,,
+303,527,FLUSHING AVENUE,11205.0,1.0,"[['maintenance code violation', '530']]",['2021'],,,,,,,
+304,278,EAST 237 STREET,10470.0,3.0,"[['maintenance code violation', '507'], ['maintenance code violation', '508'], ['maintenance code violation', '790']]","['2018', '2018', '2018']",,,,,,,
+305,29-66,FAR ROCKAWAY BOULEVARD,11691.0,1.0,"[['maintenance code violation', '616']]",['2021'],,,,,,,
+306,1231,FULTON AVENUE,10456.0,1.0,"[['maintenance code violation', '505']]",['2021'],,,,,,,
+307,195,MADISON STREET,10002.0,1.0,"[['maintenance code violation', '1501']]",['2021'],,,,,,,
+308,2001,WOODBINE STREET,11385.0,1.0,"[['maintenance code violation', '1507']]",['2021'],,,,,,,
+309,158-03,SANFORD AVENUE,11358.0,1.0,"[['maintenance code violation', '616']]",['2013'],,,,,,,
+310,4420,3 AVENUE,11220.0,2.0,"[['maintenance code violation', '554'], ['maintenance code violation', '506']]","['2013', '2013']",,,,,,,
+311,454,BARRETT AVENUE,10473.0,1.0,"[['maintenance code violation', '491']]",['2014'],,,,,,,
+312,192,HEBERTON AVENUE,10302.0,1.0,"[['maintenance code violation', '583']]",['2021'],,,,,,,
+313,103,VERMILYEA AVENUE,10034.0,1.0,"[['maintenance code violation', '570']]",['2015'],,,,,,,
+314,985,EAST 163 STREET,10459.0,1.0,"[['maintenance code violation', '501']]",['2021'],,,,,,,
+315,1890,WALTON AVENUE,10453.0,1.0,"[['maintenance code violation', '790']]",['2021'],,,,,,,
+316,8797,25 AVENUE,11214.0,2.0,"[['maintenance code violation', '579'], ['maintenance code violation', '1503']]","['2021', '2021']",,,,,,,
+317,1760,MONTGOMERY AVENUE,10453.0,3.0,"[['maintenance code violation', '508'], ['maintenance code violation', '550'], ['maintenance code violation', '556']]","['2013', '2013', '2013']",,,,,,,
+318,3929,CARPENTER AVENUE,10466.0,1.0,"[['maintenance code violation', '790']]",['2020'],,,,,,,
+319,3380,NOSTRAND AVENUE,11229.0,5.0,"[['maintenance code violation', '550'], ['maintenance code violation', '583'], ['maintenance code violation', '583'], ['maintenance code violation', '790'], ['maintenance code violation', '550']]","['2014', '2014', '2014', '2014', '2014']",,,,,,,
+320,110,TERRACE VIEW AVENUE,10463.0,6.0,"[['maintenance code violation', '506'], ['maintenance code violation', '506'], ['maintenance code violation', '505'], ['maintenance code violation', '505'], ['maintenance code violation', '502'], ['maintenance code violation', '508']]","['2013', '2013', '2013', '2013', '2013', '2013']",,,,,,,
+321,123,WEST 135 STREET,10030.0,1.0,"[['maintenance code violation', '568']]",['2016'],,,,,,,
+322,3885,BROADWAY,10032.0,1.0,"[['maintenance code violation', '790']]",['2013'],,,,,,,
+323,425,ROCKAWAY PARKWAY,11212.0,1.0,"[['maintenance code violation', '550']]",['2020'],,,,,,,
+324,4535,PARK AVENUE,10457.0,2.0,"[['maintenance code violation', '550'], ['maintenance code violation', '550']]","['2020', '2020']",,,,,,,
+325,221-35,90 AVENUE,11428.0,1.0,"[['maintenance code violation', '742']]",['2021'],,,,,,,
+326,1744,MERRILL STREET,10460.0,1.0,"[['maintenance code violation', '556']]",['2021'],,,,,,,
+327,560,WEST 160 STREET,10032.0,5.0,"[['maintenance code violation', '702'], ['maintenance code violation', '1502'], ['maintenance code violation', '521'], ['maintenance code violation', '508'], ['maintenance code violation', '506']]","['2013', '2013', '2013', '2021', '2021']",,,,,,,
+328,1520,SEDGWICK AVENUE,10453.0,1.0,"[['maintenance code violation', '556']]",['2021'],,,,,,,
+329,1802,AMSTERDAM AVENUE,10031.0,1.0,"[['maintenance code violation', '501']]",['2013'],,,,,,,
+330,338,SOUTH 3 STREET,11211.0,3.0,"[['maintenance code violation', '790'], ['maintenance code violation', '1502'], ['maintenance code violation', '702']]","['2013', '2013', '2013']",,,,,,,
+331,224,BEACH 30 STREET,11691.0,1.0,"[['maintenance code violation', '790']]",['2020'],,,,,,,
+332,640,KOSCIUSZKO STREET,11221.0,2.0,"[['maintenance code violation', '780'], ['maintenance code violation', '780']]","['2015', '2017']",,,,,,,
+333,371,LENOX AVENUE,10027.0,1.0,"[['maintenance code violation', '538']]",['2022'],,,,,,,
+334,6324,4 AVENUE,11220.0,1.0,"[['maintenance code violation', '502']]",['2020'],,,,,,,
+335,1684,WEST 10 STREET,11223.0,1.0,"[['maintenance code violation', '554']]",['2021'],,,,,,,
+336,1750,GRAND CONCOURSE,10457.0,16.0,"[['maintenance code violation', '510'], ['maintenance code violation', '702'], ['maintenance code violation', '1502'], ['maintenance code violation', '550'], ['maintenance code violation', '567'], ['maintenance code violation', '567'], ['maintenance code violation', '721'], ['maintenance code violation', '790'], ['maintenance code violation', '510'], ['maintenance code violation', '790'], ['maintenance code violation', '522'], ['maintenance code violation', '616'], ['maintenance code violation', '616'], ['maintenance code violation', '670'], ['maintenance code violation', '1502'], ['maintenance code violation', '526']]","['2013', '2013', '2013', '2013', '2013', '2013', '2013', '2013', '2013', '2013', '2013', '2013', '2013', '2013', '2013', '2013']",,,,,,,
+337,509,WEST 170 STREET,10032.0,3.0,"[['maintenance code violation', '502'], ['maintenance code violation', '505'], ['maintenance code violation', '501']]","['2017', '2017', '2017']",,,,,,,
+338,6653,BROADWAY,10471.0,9.0,"[['maintenance code violation', '502'], ['maintenance code violation', '502'], ['maintenance code violation', '583'], ['maintenance code violation', '508'], ['maintenance code violation', '550'], ['maintenance code violation', '569'], ['maintenance code violation', '568'], ['maintenance code violation', '550'], ['maintenance code violation', '550']]","['2021', '2021', '2021', '2021', '2013', '2013', '2013', '2013', '2013']",,,,,,,
+339,1270,GERARD AVENUE,10452.0,2.0,"[['maintenance code violation', '502'], ['maintenance code violation', '556']]","['2021', '2021']",,,,,,,
+340,141-11,78 ROAD,11367.0,1.0,"[['maintenance code violation', '502']]",['2021'],,,,,,,
+341,820,FREEMAN STREET,10459.0,3.0,"[['maintenance code violation', '765'], ['maintenance code violation', '765'], ['maintenance code violation', '765']]","['2013', '2013', '2013']",,,,,,,
+342,3990,BRONX BOULEVARD,10466.0,2.0,"[['maintenance code violation', '508'], ['maintenance code violation', '583']]","['2021', '2021']",,,,,,,
+343,351,LEGION STREET,11212.0,4.0,"[['maintenance code violation', '508'], ['maintenance code violation', '509'], ['maintenance code violation', '501'], ['maintenance code violation', '509']]","['2021', '2021', '2021', '2021']",,,,,,,
+344,2409,EAST 12 STREET,11235.0,2.0,"[['maintenance code violation', '1507'], ['maintenance code violation', '780']]","['2021', '2021']",,,,,,,
+345,15,CROOKE AVENUE,11226.0,1.0,"[['maintenance code violation', '569']]",['2016'],,,,,,,
+346,231,ECHO PLACE,10457.0,1.0,"[['maintenance code violation', '506']]",['2013'],,,,,,,
+347,636,WEST 172 STREET,10032.0,2.0,"[['maintenance code violation', '617'], ['maintenance code violation', '569']]","['2016', '2019']",,,,,,,
+348,2800,COYLE STREET,11235.0,1.0,"[['maintenance code violation', '508']]",['2013'],,,,,,,
+349,377,MONTGOMERY STREET,11225.0,2.0,"[['maintenance code violation', '502'], ['maintenance code violation', '556']]","['2021', '2021']",,,,,,,
+350,854,JACKSON AVE,10456.0,1.0,"[['maintenance code violation', '670']]",['2021'],,,,,,,
+351,2874,GRAND CONCOURSE,10458.0,2.0,"[['maintenance code violation', '508'], ['maintenance code violation', '595']]","['2013', '2013']",,,,,,,
+352,503,COLUMBUS AVENUE,10024.0,2.0,"[['maintenance code violation', '530'], ['maintenance code violation', '530']]","['2020', '2020']",,,,,,,
+353,1534,ST NICHOLAS AVENUE,10033.0,5.0,"[['maintenance code violation', '579'], ['maintenance code violation', '501'], ['maintenance code violation', '502'], ['maintenance code violation', '702'], ['maintenance code violation', '510']]","['2013', '2013', '2013', '2013', '2013']",,,,,,,
+354,33-36,102 STREET,11368.0,2.0,"[['maintenance code violation', '501'], ['maintenance code violation', '502']]","['2021', '2021']",,,,,,,
+355,79,ST MARKS PLACE,10003.0,3.0,"[['maintenance code violation', '664'], ['maintenance code violation', '670'], ['maintenance code violation', '530']]","['2020', '2020', '2020']",,,,,,,
+356,497,DEAN STREET,11217.0,1.0,"[['maintenance code violation', '702']]",['2021'],,,,,,,
+357,3801,REVIEW PLACE,10463.0,1.0,"[['maintenance code violation', '702']]",['2021'],,,,,,,
+358,97,HART STREET,11206.0,1.0,"[['maintenance code violation', '780']]",['2021'],,,,,,,
+359,168-38,89 AVENUE,11432.0,1.0,"[['maintenance code violation', '1503']]",['2021'],,,,,,,
+360,1054,EAST 15 STREET,11230.0,2.0,"[['maintenance code violation', '552'], ['maintenance code violation', '513']]","['2021', '2021']",,,,,,,
+361,106-45,156 STREET,11433.0,3.0,"[['maintenance code violation', '568'], ['maintenance code violation', '1502'], ['maintenance code violation', '509']]","['2017', '2017', '2017']",,,,,,,
+362,1059,UNION STREET,11225.0,1.0,"[['maintenance code violation', '502']]",['2021'],1.0,"[['DOB violation', 'E']]",['2007'],,,,
+363,105,WEST 168 STREET,10452.0,1.0,"[['maintenance code violation', '568']]",['2021'],,,,,,,
+364,40,ARGYLE ROAD,11218.0,1.0,"[['maintenance code violation', '506']]",['2021'],,,,,,,
+365,547,WEST 186 STREET,10033.0,1.0,"[['maintenance code violation', '501']]",['2021'],,,,,,,
+366,66,BLEECKER STREET,11221.0,1.0,"[['maintenance code violation', '810']]",['2013'],,,,,,,
+367,143-09,BARCLAY AVENUE,11355.0,1.0,"[['maintenance code violation', '790']]",['2013'],,,,,,,
+368,1113,WALTON AVENUE,10452.0,1.0,"[['maintenance code violation', '501']]",['2017'],,,,,,,
+369,1176,OCEAN PARKWAY,11230.0,1.0,"[['maintenance code violation', '671']]",['2021'],,,,,,,
+370,192,NAGLE AVENUE,10034.0,8.0,"[['maintenance code violation', '569'], ['maintenance code violation', '568'], ['maintenance code violation', '509'], ['maintenance code violation', '702'], ['maintenance code violation', '1503'], ['maintenance code violation', '501'], ['maintenance code violation', '539'], ['maintenance code violation', '505']]","['2015', '2015', '2015', '2015', '2015', '2015', '2015', '2015']",,,,,,,
+371,177,CHRYSTIE STREET,10002.0,7.0,"[['maintenance code violation', '509'], ['maintenance code violation', '568'], ['maintenance code violation', '579'], ['maintenance code violation', '505'], ['maintenance code violation', '502'], ['maintenance code violation', '501'], ['maintenance code violation', '709']]","['2015', '2015', '2015', '2015', '2015', '2015', '2020']",,,,,,,
+372,181,ROCKAWAY PARKWAY,11212.0,11.0,"[['maintenance code violation', '501'], ['maintenance code violation', '649'], ['maintenance code violation', '502'], ['maintenance code violation', '1502'], ['maintenance code violation', '702'], ['maintenance code violation', '583'], ['maintenance code violation', '529'], ['maintenance code violation', '1502'], ['maintenance code violation', '702'], ['maintenance code violation', '505'], ['maintenance code violation', '529']]","['2013', '2013', '2013', '2013', '2013', '2013', '2013', '2013', '2013', '2013', '2013']",,,,,,,
+373,177,8 STREET,11215.0,1.0,"[['maintenance code violation', '671']]",['2013'],,,,,,,
+374,116-21,148 STREET,11436.0,1.0,"[['maintenance code violation', '988']]",['2013'],,,,,,,
+375,2675,VALENTINE AVENUE,10458.0,1.0,"[['maintenance code violation', '508']]",['2021'],,,,,,,
+376,2093,MADISON AVENUE,10037.0,1.0,"[['maintenance code violation', '502']]",['2021'],,,,,,,
+377,86-08,ATLANTIC AVENUE,11416.0,1.0,"[['maintenance code violation', '530']]",['2020'],,,,,,,
+378,1807,PHELAN PLACE,10453.0,1.0,"[['maintenance code violation', '502']]",['2013'],,,,,,,
+379,200,NAGLE AVENUE,10034.0,12.0,"[['maintenance code violation', '502'], ['maintenance code violation', '508'], ['maintenance code violation', '550'], ['maintenance code violation', '508'], ['maintenance code violation', '509'], ['maintenance code violation', '501'], ['maintenance code violation', '501'], ['maintenance code violation', '579'], ['maintenance code violation', '501'], ['maintenance code violation', '702'], ['maintenance code violation', '1503'], ['maintenance code violation', '569']]","['2015', '2015', '2015', '2015', '2015', '2015', '2015', '2015', '2015', '2015', '2015', '2015']",,,,,,,
+380,221,WEST 139 STREET,10030.0,1.0,"[['maintenance code violation', '598']]",['2016'],,,,,,,
+381,77-07,WOODSIDE AVENUE,11373.0,1.0,"[['maintenance code violation', '550']]",['2021'],,,,,,,
+382,506,WEST 146 STREET,10031.0,1.0,"[['maintenance code violation', '502']]",['2021'],,,,,,,
+383,109,SHERMAN AVENUE,10034.0,1.0,"[['maintenance code violation', '501']]",['2021'],,,,,,,
+384,69-01,62 STREET,11385.0,4.0,"[['maintenance code violation', '556'], ['maintenance code violation', '505'], ['maintenance code violation', '501'], ['maintenance code violation', '510']]","['2016', '2016', '2016', '2018']",,,,,,,
+385,3230,CRUGER AVENUE,10467.0,84.0,"[['maintenance code violation', '502'], ['maintenance code violation', '583'], ['maintenance code violation', '689'], ['maintenance code violation', '670'], ['maintenance code violation', '672'], ['maintenance code violation', '501'], ['maintenance code violation', '790'], ['maintenance code violation', '790'], ['maintenance code violation', '510'], ['maintenance code violation', '702'], ['maintenance code violation', '790'], ['maintenance code violation', '1502'], ['maintenance code violation', '702'], ['maintenance code violation', '521'], ['maintenance code violation', '702'], ['maintenance code violation', '579'], ['maintenance code violation', '579'], ['maintenance code violation', '502'], ['maintenance code violation', '505'], ['maintenance code violation', '507'], ['maintenance code violation', '508'], ['maintenance code violation', '579'], ['maintenance code violation', '502'], ['maintenance code violation', '670'], ['maintenance code violation', '579'], ['maintenance code violation', '508'], ['maintenance code violation', '506'], ['maintenance code violation', '506'], ['maintenance code violation', '501'], ['maintenance code violation', '583'], ['maintenance code violation', '583'], ['maintenance code violation', '1502'], ['maintenance code violation', '702'], ['maintenance code violation', '790'], ['maintenance code violation', '501'], ['maintenance code violation', '702'], ['maintenance code violation', '510'], ['maintenance code violation', '702'], ['maintenance code violation', '502'], ['maintenance code violation', '702'], ['maintenance code violation', '569'], ['maintenance code violation', '568'], ['maintenance code violation', '593'], ['maintenance code violation', '510'], ['maintenance code violation', '526'], ['maintenance code violation', '691'], ['maintenance code violation', '507'], ['maintenance code violation', '790'], ['maintenance code violation', '702'], ['maintenance code violation', '529'], ['maintenance code violation', '106'], ['maintenance code violation', '568'], ['maintenance code violation', '569'], ['maintenance code violation', '570'], ['maintenance code violation', '702'], ['maintenance code violation', '568'], ['maintenance code violation', '530'], ['maintenance code violation', '501'], ['maintenance code violation', '502'], ['maintenance code violation', '550'], ['maintenance code violation', '502'], ['maintenance code violation', '508'], ['maintenance code violation', '579'], ['maintenance code violation', '700'], ['maintenance code violation', '722'], ['maintenance code violation', '508'], ['maintenance code violation', '583'], ['maintenance code violation', '529'], ['maintenance code violation', '508'], ['maintenance code violation', '502'], ['maintenance code violation', '508'], ['maintenance code violation', '583'], ['maintenance code violation', '508'], ['maintenance code violation', '508'], ['maintenance code violation', '510'], ['maintenance code violation', '529'], ['maintenance code violation', '568'], ['maintenance code violation', '569'], ['maintenance code violation', '505'], ['maintenance code violation', '508'], ['maintenance code violation', '501'], ['maintenance code violation', '106'], ['maintenance code violation', '569'], ['maintenance code violation', '649']]","['2013', '2013', '2013', '2013', '2013', '2013', '2013', '2013', '2013', '2013', '2013', '2013', '2013', '2013', '2013', '2013', '2013', '2013', '2013', '2013', '2013', '2013', '2013', '2013', '2013', '2013', '2013', '2013', '2013', '2013', '2013', '2013', '2013', '2013', '2013', '2013', '2013', '2013', '2013', '2013', '2013', '2013', '2013', '2013', '2013', '2013', '2013', '2013', '2013', '2013', '2013', '2013', '2013', '2013', '2013', '2013', '2013', '2013', '2013', '2013', '2013', '2013', '2013', '2013', '2013', '2013', '2013', '2013', '2013', '2013', '2013', '2013', '2013', '2013', '2013', '2013', '2013', '2013', '2013', '2013', '2013', '2013', '2013', '2013']",,,,,,,
+386,30,COOPER STREET,10034.0,1.0,"[['maintenance code violation', '509']]",['2013'],,,,,,,
+387,61,5 AVENUE,11217.0,2.0,"[['maintenance code violation', '664'], ['maintenance code violation', '670']]","['2020', '2020']",,,,,,,
+388,1047,TELLER AVENUE,10456.0,1.0,"[['maintenance code violation', '790']]",['2021'],,,,,,,
+389,2070,POWELL AVENUE,10472.0,1.0,"[['maintenance code violation', '1503']]",['2016'],,,,,,,
+390,361,MILLER AVENUE,11207.0,1.0,"[['maintenance code violation', '569']]",['2021'],,,,,,,
+391,700,AMSTERDAM AVENUE,10025.0,2.0,"[['maintenance code violation', '507'], ['maintenance code violation', '507']]","['2020', '2020']",,,,,,,
+392,1620,PROSPECT PLACE,11233.0,1.0,"[['maintenance code violation', '508']]",['2020'],,,,,,,
+393,237,EAST 194 STREET,10458.0,1.0,"[['maintenance code violation', '556']]",['2021'],,,,,,,
+394,1775,CLAY AVENUE,10457.0,1.0,"[['maintenance code violation', '508']]",['2021'],,,,,,,
+395,334,WEST 37 STREET,10018.0,1.0,"[['maintenance code violation', '502']]",['2020'],,,,,,,
+396,2706,BEVERLY ROAD,11226.0,1.0,"[['maintenance code violation', '501']]",['2020'],,,,,,,
+397,144-35,ROOSEVELT AVENUE,11354.0,1.0,"[['maintenance code violation', '550']]",['2020'],,,,,,,
+398,1314,SENECA AVENUE,10474.0,1.0,"[['maintenance code violation', '550']]",['2021'],,,,,,,
+399,357,WEST 22 STREET,10011.0,1.0,"[['maintenance code violation', '505']]",['2014'],,,,,,,
+400,2630,OCEAN AVENUE,11229.0,1.0,"[['maintenance code violation', '550']]",['2013'],,,,,,,
+401,169,NEW YORK AVENUE,11216.0,1.0,"[['maintenance code violation', '550']]",['2020'],,,,,,,
+402,899,MONTGOMERY STREET,11213.0,7.0,"[['maintenance code violation', '702'], ['maintenance code violation', '508'], ['maintenance code violation', '505'], ['maintenance code violation', '1503'], ['maintenance code violation', '579'], ['maintenance code violation', '508'], ['maintenance code violation', '666']]","['2018', '2018', '2018', '2018', '2018', '2018', '2018']",,,,,,,
+403,1232,PACIFIC STREET,11216.0,2.0,"[['maintenance code violation', '1503'], ['maintenance code violation', '530']]","['2021', '2021']",,,,,,,
+404,700,GATES AVENUE,11221.0,1.0,"[['maintenance code violation', '508']]",['2021'],,,,,,,
+405,174,SOUTH AVENUE,,,,,1.0,"[['DOB violation', 'LBLVIO']]",['2015'],,,,
+406,744,SCHENCK AVENUE,,,,,1.0,"[['DOB violation', 'C']]",['2022'],,,,
+407,3314,STEUBEN AVENUE,,,,,2.0,"[['DOB violation', 'E'], ['DOB violation', 'E']]","['2018', '2020']",,,,
+408,335,SUMPTER STREET,,,,,1.0,"[['DOB violation', 'C']]",['2022'],,,,
+409,920,RIVERSIDE DRIVE,,,,,1.0,"[['DOB violation', 'C']]",['2007'],,,,
+410,329,WEST 112 STREET,,,,,1.0,"[['DOB violation', 'EVCAT1']]",['2015'],,,,
+411,17790,LINCOLN ROAD,,,,,1.0,"[['DOB violation', 'LL6291']]",['1997'],,,,
+412,7013,VETERANS AVENUE,,,,,2.0,"[['DOB violation', 'C'], ['DOB violation', 'UB']]","['2008', '2013']",,,,
+413,2465,JEROME AVE,,,,,1.0,"[['DOB violation', 'E']]",['2020'],,,,
+414,286,ASHLAND PLACE,,,,,2.0,"[['DOB violation', 'E'], ['DOB violation', 'E']]","['2021', '2021']",,,,
+415,473,AMSTERDAM AVENUE,,,,,1.0,"[['DOB violation', 'FISPHAZ']]",['2022'],,,,
+416,6,CHATHAM SQUARE,,,,,1.0,"[['DOB violation', 'C']]",['2022'],,,,
+417,1656,51 STREET,,,,,1.0,"[['DOB violation', 'C']]",['2022'],,,,
+418,2286,CROPSEY AVENUE,,,,,1.0,"[['DOB violation', 'P']]",['2022'],,,,
+419,1221,COLLEGE AVE,,,,,2.0,"[['DOB violation', 'E'], ['DOB violation', 'E']]","['2018', '2019']",,,,
+420,31,E 72 ST,,,,,2.0,"[['DOB violation', 'E'], ['DOB violation', 'E']]","['2020', '2020']",,,,
+421,137-47,WESTGATE STREET,,,,,1.0,"[['DOB violation', 'C']]",['2022'],,,,
+422,105,WEST   55 STREET,,,,,1.0,"[['DOB violation', 'E']]",['2011'],,,,
+423,636,FAILE STREET,,,,,2.0,"[['DOB violation', 'AEUHAZ1'], ['DOB violation', 'AEUHAZ1']]","['2022', '2015']",,,,
+424,235,WEST 63 ST,,,,,1.0,"[['DOB violation', 'E']]",['2021'],,,,
+425,623,WEST  142 STREET,,,,,1.0,"[['DOB violation', 'C']]",['2007'],,,,
+426,315,EAST 9 STREET,,,,,2.0,"[['DOB violation', 'C'], ['DOB violation', 'C']]","['2022', '2022']",,,,
+427,118,91 STREET,,,,,1.0,"[['DOB violation', 'C']]",['2021'],,,,
+428,2-26,50 AVENUE,,,,,1.0,"[['DOB violation', 'P']]",['2022'],,,,
+429,PIER 59,NORTH RIVER,,,,,1.0,"[['DOB violation', 'E']]",['2020'],,,,
+430,104-41GAR,134 STREET,,,,,1.0,"[['DOB violation', 'C']]",['2022'],,,,
+431,159-02,JAMAICA AVE,,,,,6.0,"[['DOB violation', 'E'], ['DOB violation', 'E'], ['DOB violation', 'E'], ['DOB violation', 'E'], ['DOB violation', 'E'], ['DOB violation', 'E']]","['2019', '2019', '2016', '2020', '2019', '2017']",,,,
+432,108-03,101 AVENUE,,,,,3.0,"[['DOB violation', 'LL6291'], ['DOB violation', 'LL6291'], ['DOB violation', 'LL6291']]","['1995', '1999', '1993']",,,,
+433,52,WEST 126 STREET,,,,,1.0,"[['DOB violation', 'LBLVIO']]",['2020'],,,,
+434,127,EAST   82 STREET,,,,,1.0,"[['DOB violation', 'LL6291']]",['2003'],,,,
+435,447,EAST   14 STREET,,,,,1.0,"[['DOB violation', 'E']]",['2003'],,,,
+436,915,WEST END AVENUE,,,,,1.0,"[['DOB violation', 'FISPNRF']]",['2019'],,,,
+437,1383,SHORE PARKWAY,,,,,1.0,"[['DOB violation', 'UB']]",['2022'],,,,
+438,741,ST NICHOLAS AVE,,,,,1.0,"[['DOB violation', 'LL6291']]",['2003'],,,,
+439,5415,NETHERLAND AV,,,,,1.0,"[['DOB violation', 'E']]",['2020'],,,,
+440,74,GATLING PLACE,,,,,1.0,"[['DOB violation', 'BENCH']]",['2022'],,,,
+441,99-23,43 AVENUE,,,,,1.0,"[['DOB violation', 'LBLVIO']]",['2009'],,,,
+442,273         ,WEST 131 STREET,,,,,4.0,"[['DOB violation', 'AEUHAZ1'], ['DOB violation', 'AEUHAZ1'], ['DOB violation', 'AEUHAZ1'], ['DOB violation', 'AEUHAZ1']]","['2013', '2013', '2013', '2013']",,,,
+443,434,CLERMONT AVENUE,,,,,1.0,"[['DOB violation', 'C']]",['2022'],,,,
+444,510,EAST  163 STREET,,,,,2.0,"[['DOB violation', 'LL6291'], ['DOB violation', 'LL6291']]","['2002', '1995']",,,,
+445,86,THOMAS STREET,,,,,2.0,"[['DOB violation', 'E'], ['DOB violation', 'E']]","['2021', '2020']",,,,
+446,1208,AVENUE U,,,,,1.0,"[['DOB violation', 'P']]",['2019'],,,,
+447,119,SCRIBNER AVENUE,,,,,2.0,"[['DOB violation', 'C'], ['DOB violation', 'C']]","['2022', '2022']",,,,
+448,253-24,NORTHERN BOULEVARD,,,,,1.0,"[['DOB violation', 'C']]",['2010'],,,,
+449,92,CHAMBERS STREET,,,,,1.0,"[['DOB violation', 'LL6291']]",['2007'],,,,
+450,243,TOMPKINS AVENUE,,,,,1.0,"[['DOB violation', 'LL6291']]",['2006'],,,,
+451,1370,RALPH AVENUE,,,,,1.0,"[['DOB violation', 'LL1081']]",['2000'],,,,
+452,2861,EXTERIOR STREET,,,,,1.0,"[['DOB violation', 'FISPNRF']]",['2022'],,,,
+453,14-04,111 STREET,,,,,7.0,"[['DOB violation', 'E'], ['DOB violation', 'E'], ['DOB violation', 'E'], ['DOB violation', 'E'], ['DOB violation', 'E'], ['DOB violation', 'E'], ['DOB violation', 'E']]","['2021', '2021', '2020', '2021', '2019', '2019', '2019']",,,,
+454,95-20,76 STREET,,,,,1.0,"[['DOB violation', 'EGNCY']]",['2008'],,,,
+455,12,SIMMONS LANE,,,,,1.0,"[['DOB violation', 'C']]",['2018'],,,,
+456,89-11,153 STREET,,,,,1.0,"[['DOB violation', 'EGRADE']]",['2021'],,,,
+457,140,RIVERSIDE BOULEVARD,,,,,2.0,"[['DOB violation', 'E'], ['DOB violation', 'E']]","['2021', '2021']",,,,
+458,32,PIERREPONT STREET,,,,,4.0,"[['DOB violation', 'LL6291'], ['DOB violation', 'LL6291'], ['DOB violation', 'LL6291'], ['DOB violation', 'LL6291']]","['1995', '1994', '1998', '2002']",,,,
+459,301,HENRY STREET,,,,,2.0,"[['DOB violation', 'E'], ['DOB violation', 'E']]","['2012', '2012']",,,,
+460,63,WEST 127 STREET,,,,,1.0,"[['DOB violation', 'C']]",['2022'],,,,
+461,29159,BRIGHTON    6 STREET,,,,,1.0,"[['DOB violation', 'LL6291']]",['1997'],,,,
+462,55,JOHNSON STREET,,,,,11.0,"[['DOB violation', 'LL6291'], ['DOB violation', 'LL6291'], ['DOB violation', 'LL6291'], ['DOB violation', 'LL6291'], ['DOB violation', 'LL6291'], ['DOB violation', 'LL6291'], ['DOB violation', 'LL6291'], ['DOB violation', 'LL6291'], ['DOB violation', 'LL6291'], ['DOB violation', 'LL6291'], ['DOB violation', 'LL6291']]","['1998', '1999', '2004', '1994', '2003', '2002', '1995', '1997', '2001', '2000', '1993']",,,,
+463,3803,NOSTRAND AVENUE,,,,,1.0,"[['DOB violation', 'ES']]",['1988'],,,,
+464,160,FRANKLIN STREET,,,,,1.0,"[['DOB violation', 'E']]",['2021'],,,,
+465,5515V0,JOHNSON STREET,,,,,1.0,"[['DOB violation', 'LL6291']]",['1997'],,,,
+466,86-21,112 STREET,,,,,1.0,"[['DOB violation', 'EGRADE']]",['2021'],,,,
+467,2552,DECATUR AVENUE,,,,,1.0,"[['DOB violation', 'LBLVIO']]",['2009'],,,,
+468,5,LORIMER STREET,,,,,1.0,"[['DOB violation', 'E']]",['2021'],,,,
+469,87-36,PARSONS BOULEVARD,,,,,3.0,"[['DOB violation', 'LL6291'], ['DOB violation', 'LL6291'], ['DOB violation', 'LL6291']]","['2006', '2008', '2009']",,,,
+470,41,CLARK STREET,,,,,1.0,"[['DOB violation', 'BENCH']]",['2019'],,,,
+471,1216,AVENUE Y,,,,,2.0,"[['DOB violation', 'C'], ['DOB violation', 'C']]","['1989', '1989']",,,,
+472,90,BANK STREET,,,,,1.0,"[['DOB violation', 'C']]",['2022'],,,,
+473,769,5 AVENUE,,,,,1.0,"[['DOB violation', 'P']]",['1988'],,,,
+474,21,ST PAULS CT,,,,,1.0,"[['DOB violation', 'E']]",['2021'],,,,
+475,30-05,QUEENS BOULEVARD,,,,,1.0,"[['DOB violation', 'C']]",['2008'],,,,
+476,204,GREENPOINT AVENUE,,,,,1.0,"[['DOB violation', 'LL6291']]",['1995'],,,,
+477,2110,FOREST AVENUE,,,,,1.0,"[['DOB violation', 'LL6291']]",['1999'],,,,
+478,3000,VALENTINE AVE,,,,,1.0,"[['DOB violation', 'E']]",['2020'],,,,
+479,5401,7 AVENUE,,,,,1.0,"[['DOB violation', 'C']]",['2022'],,,,
+480,101,HICKS STREET,,,,,1.0,"[['DOB violation', 'EVCAT5']]",['2016'],,,,
+481,17,EAST   70 STREET,,,,,3.0,"[['DOB violation', 'E'], ['DOB violation', 'E'], ['DOB violation', 'E']]","['2010', '2011', '2008']",,,,
+482,535,PARK AVE,,,,,1.0,"[['DOB violation', 'E']]",['2021'],,,,
+483,115-23,MARSDEN STREET,,,,,1.0,"[['DOB violation', 'C']]",['2022'],,,,
+484,663 1/2,CITY ISLAND AVENUE,,,,,1.0,"[['DOB violation', 'C']]",['2022'],,,,
+485,25-17,ASTORIA BOULEVARD,,,,,1.0,"[['DOB violation', 'P']]",['2022'],,,,
+486,309,HOLLYWOOD AVENUE,,,,,2.0,"[['DOB violation', 'LANDMK'], ['DOB violation', 'LANDMK']]","['2022', '2022']",,,,
+487,246,5TH AVE,,,,,3.0,"[['DOB violation', 'E'], ['DOB violation', 'E'], ['DOB violation', 'E']]","['2018', '2019', '2018']",,,,
+488,33,WEST 17 STREET,,,,,1.0,"[['DOB violation', 'FISPFCS']]",['2022'],,,,
+489,1675,METROPOLITAN AVE,,,,,1.0,"[['DOB violation', 'ACC1']]",['2018'],,,,
+490,200,MADISON STREET,,,,,3.0,"[['DOB violation', 'C'], ['DOB violation', 'C'], ['DOB violation', 'C']]","['2022', '2022', '2022']",,,,
+491,32,W 82ND ST,,,,,2.0,"[['DOB violation', 'E'], ['DOB violation', 'E']]","['2018', '2019']",,,,
+492,501,EAST 116TH STREET,,,,,4.0,"[['DOB violation', 'LL6291'], ['DOB violation', 'LL6291'], ['DOB violation', 'LL6291'], ['DOB violation', 'LL6291']]","['2002', '2007', '2001', '2000']",,,,
+493,116,WEST   11 STREET,,,,,1.0,"[['DOB violation', 'C']]",['1999'],,,,
+494,131,ESSEX STREET,,,,,1.0,"[['DOB violation', 'E']]",['2003'],,,,
+495,58,IRVING PLACE,,,,,1.0,"[['DOB violation', 'FISPNRF']]",['2019'],,,,
+496,104,CHARLTON STREET,,,,,1.0,"[['DOB violation', 'FISPNRF']]",['2019'],,,,
+497,23-26,28 STREET,,,,,1.0,"[['DOB violation', 'LL6291']]",['2009'],,,,
+498,919,KELLY STREET,,,,,1.0,"[['DOB violation', 'LL6291']]",['1998'],,,,
+499,163,WEST 17 ST,,,,,1.0,"[['DOB violation', 'CMQ']]",['2003'],,,,
+500,41,BROADWAY,,,,,1.0,"[['DOB violation', 'E']]",['2010'],,,,
+501,356,W 36TH ST,,,,,1.0,"[['DOB violation', 'E']]",['2017'],,,,
+502,301,W 34TH ST,,,,,1.0,"[['DOB violation', 'E']]",['2020'],,,,
+503,6,VARICK STREET,,,,,1.0,"[['DOB violation', 'P']]",['2022'],,,,
+504,58-04,MAIN STREET,,,,,1.0,"[['DOB violation', 'E']]",['2017'],,,,
+505,432,CLERMONT AVENUE,,,,,3.0,"[['DOB violation', 'C'], ['DOB violation', 'C'], ['DOB violation', 'C']]","['2022', '2022', '2022']",,,,
+506,1695,GRAND AVENUE,,,,,1.0,"[['DOB violation', 'AEUHAZ1']]",['2019'],,,,
+507,643,11 STREET,,,,,1.0,"[['DOB violation', 'LL6291']]",['2000'],,,,
+508,46,E 91ST ST,,,,,1.0,"[['DOB violation', 'E']]",['2018'],,,,
+509,14,WEST 86 STREET,,,,,1.0,"[['DOB violation', 'P']]",['2021'],,,,
+510,319,BEACH 98 STREET,,,,,2.0,"[['DOB violation', 'E'], ['DOB violation', 'E']]","['2017', '2017']",,,,
+511,226,WEST  123 STREET,,,,,1.0,"[['DOB violation', 'LL6291']]",['1998'],,,,
+512,2202,LINDEN BOULEVAR,,,,,1.0,"[['DOB violation', 'E']]",['1990'],,,,
+513,10,CHARLES STREET,,,,,2.0,"[['DOB violation', 'LANDMK'], ['DOB violation', 'LANDMK']]","['2010', '2012']",,,,
+514,506,6 STREET,,,,,4.0,"[['DOB violation', 'HBLVIO'], ['DOB violation', 'AEUHAZ1'], ['DOB violation', 'AEUHAZ1'], ['DOB violation', 'HBLVIO']]","['2020', '2021', '2021', '2020']",,,,
+515,9842,FAILE STREET,,,,,1.0,"[['DOB violation', 'LL6291']]",['1997'],,,,
+516,83-55,WOODHAVEN BLVD,,,,,1.0,"[['DOB violation', 'E']]",['2010'],,,,
+517,532,6 AVENUE,,,,,1.0,"[['DOB violation', 'LL6291']]",['1998'],,,,
+518,1105,8 AVENUE,,,,,1.0,"[['DOB violation', 'C']]",['2022'],,,,
+519,87-50,PARSONS BOULEVARD,,,,,2.0,"[['DOB violation', 'LL6291'], ['DOB violation', 'LL6291']]","['1993', '1994']",,,,
+520,224-19,144 AVENUE,,,,,1.0,"[['DOB violation', 'C']]",['2022'],,,,
+521,1776,EASTCHESTER ROAD,,,,,1.0,"[['DOB violation', 'FISPNRF']]",['2022'],,,,
+522,5450,NETHERLAND AVE,,,,,1.0,"[['DOB violation', 'E']]",['2020'],,,,
+523,74,WEST  120 STREET,,,,,1.0,"[['DOB violation', 'LBLVIO']]",['2009'],,,,
+524,680,WEST END AVE,,,,,3.0,"[['DOB violation', 'E'], ['DOB violation', 'E'], ['DOB violation', 'E']]","['2021', '2021', '2021']",,,,
+525,115-81,223 STREET,,,,,1.0,"[['DOB violation', 'C']]",['2008'],,,,
+526,157,KANE STREET,,,,,1.0,"[['DOB violation', 'LANDMRK']]",['1985'],,,,
+527,340,EAST 74 ST,,,,,3.0,"[['DOB violation', 'ACC1'], ['DOB violation', 'ACC1'], ['DOB violation', 'ACC1']]","['2017', '2016', '2016']",,,,
+528,355,93 STREET,,,,,1.0,"[['DOB violation', 'LBLVIO']]",['2020'],,,,
+529,340,PARK AVENUE,,,,,1.0,"[['DOB violation', 'E']]",['2010'],,,,
+530,84-09,35 AVENUE,,,,,1.0,"[['DOB violation', 'E']]",['2006'],,,,
+531,135,AVENUE P,,,,,1.0,"[['DOB violation', 'E']]",['2021'],,,,
+532,337,OCEAN PARKWAY,,,,,1.0,"[['DOB violation', 'UB']]",['2022'],,,,
+533,2830,OCEAN PKWY,,,,,9.0,"[['DOB violation', 'E'], ['DOB violation', 'E'], ['DOB violation', 'E'], ['DOB violation', 'E'], ['DOB violation', 'E'], ['DOB violation', 'E'], ['DOB violation', 'E'], ['DOB violation', 'E'], ['DOB violation', 'E']]","['2020', '2021', '2019', '2019', '2020', '2020', '2020', '2020', '2019']",,,,
+534,150-25,HILLSIDE AVENUE,,,,,7.0,"[['DOB violation', 'E'], ['DOB violation', 'E'], ['DOB violation', 'E'], ['DOB violation', 'E'], ['DOB violation', 'E'], ['DOB violation', 'E'], ['DOB violation', 'E']]","['1994', '2006', '2005', '2006', '2002', '2003', '2004']",,,,
+535,2780,WEST 5 STREET,,,,,5.0,"[['DOB violation', 'E'], ['DOB violation', 'E'], ['DOB violation', 'E'], ['DOB violation', 'E'], ['DOB violation', 'E']]","['2020', '2020', '2020', '2020', '2019']",,,,
+536,523,EAST 70 STREET,,,,,1.0,"[['DOB violation', 'C']]",['2016'],,,,
+537,138-54,94 AVENUE,,,,,1.0,"[['DOB violation', 'E']]",['2020'],,,,
+538,49,WEST 225 STREET,,,,,1.0,"[['DOB violation', 'FISPNRF']]",['2022'],,,,
+539,341,5TH AVE,,,,,3.0,"[['DOB violation', 'E'], ['DOB violation', 'E'], ['DOB violation', 'E']]","['2021', '2020', '2020']",,,,
+540,684,EAGLE AVENUE,,,,,1.0,"[['DOB violation', 'C']]",['2022'],,,,
+541,1825,ANTHONY AVENUE,,,,,1.0,"[['DOB violation', 'C']]",['2022'],,,,
+542,3760,EAST TREMONT AVENUE,,,,,1.0,"[['DOB violation', 'C']]",['2022'],,,,
+543,715,ST MARKS AV,,,,,4.0,"[['DOB violation', 'E'], ['DOB violation', 'E'], ['DOB violation', 'E'], ['DOB violation', 'E']]","['2021', '2020', '2020', '2021']",,,,
+544,525,NEPTUNE AVE,,,,,7.0,"[['DOB violation', 'E'], ['DOB violation', 'E'], ['DOB violation', 'E'], ['DOB violation', 'E'], ['DOB violation', 'E'], ['DOB violation', 'E'], ['DOB violation', 'E']]","['2020', '2020', '2020', '2020', '2020', '2021', '2020']",,,,
+545,89-34,162 STREET,,,,,6.0,"[['DOB violation', 'BENCH'], ['DOB violation', 'BENCH'], ['DOB violation', 'BENCH'], ['DOB violation', 'BENCH'], ['DOB violation', 'AEUHAZ1'], ['DOB violation', 'BENCH']]","['2022', '2021', '2021', '2021', '2019', '2022']",,,,
+546,201,EDWARD CURRY AVENUE,,,,,2.0,"[['DOB violation', 'E'], ['DOB violation', 'E']]","['2018', '2018']",,,,
+547,274,GRAND STREET,,,,,1.0,"[['DOB violation', 'C']]",['2022'],,,,
+548,4511,3 AVENUE,,,,,1.0,"[['DOB violation', 'EARCX']]",['2022'],,,,
+549,1280,6 AVENUE,,,,,1.0,"[['DOB violation', 'E']]",['2004'],,,,
+550,187,GRANT AVENUE,,,,,1.0,"[['DOB violation', 'C']]",['2009'],,,,
+551,38-43,12 STREET,,,,,3.0,"[['DOB violation', 'EGRADE'], ['DOB violation', 'BENCH'], ['DOB violation', 'EGRADE']]","['2021', '2022', '2022']",,,,
+552,2341,ADAM CLAYTON POWELL JR BOULEVARD,,,,,1.0,"[['DOB violation', 'BENCH']]",['2022'],,,,
+553,704,PRESIDENT STREET,,,,,2.0,"[['DOB violation', 'LL6291'], ['DOB violation', 'LL6291']]","['2008', '1995']",,,,
+554,699,WEST 239TH ST,,,,,1.0,"[['DOB violation', 'E']]",['2019'],,,,
+555,1173,ROGERS AVENUE,,,,,1.0,"[['DOB violation', 'C']]",['2001'],,,,
+556,1678,73 STREET,,,,,1.0,"[['DOB violation', 'C']]",['2022'],,,,
+557,275,WALNUT AVE,,,,,1.0,"[['DOB violation', 'LL1081']]",['2003'],,,,
+558,858,9 AVENUE,,,,,6.0,"[['DOB violation', 'LL6291'], ['DOB violation', 'LL6291'], ['DOB violation', 'LL6291'], ['DOB violation', 'LL6291'], ['DOB violation', 'LL6291'], ['DOB violation', 'LL6291']]","['2003', '2002', '2004', '2003', '2004', '2002']",,,,
+559,135-09,83RD AVE,,,,,2.0,"[['DOB violation', 'E'], ['DOB violation', 'E']]","['2021', '2021']",,,,
+560,1091,GATES AVE,,,,,1.0,"[['DOB violation', 'E']]",['2021'],,,,
+561,82,WEST BROADWAY,,,,,1.0,"[['DOB violation', 'E']]",['2021'],,,,
+562,650,WEST END AVENUE,,,,,2.0,"[['DOB violation', 'E'], ['DOB violation', 'E']]","['2021', '2020']",,,,
+563,730,CLASSON AVENUE,,,,,1.0,"[['DOB violation', 'LL6291']]",['2000'],,,,
+564,571,EAST 141 STREET,,,,,1.0,"[['DOB violation', 'C']]",['2022'],,,,
+565,70,INDALE AVENUE,,,,,1.0,"[['DOB violation', 'Z']]",['2009'],,,,
+566,35,MEADOW STREET,,,,,2.0,"[['DOB violation', 'LL1081'], ['DOB violation', 'E']]","['2009', '2015']",,,,
+567,438,UNION AVENUE,,,,,1.0,"[['DOB violation', 'LBLVIO']]",['2019'],,,,
+568,198,NASSAU AVENUE,,,,,4.0,"[['DOB violation', 'LL6291'], ['DOB violation', 'LL6291'], ['DOB violation', 'LL6291'], ['DOB violation', 'LL6291']]","['1993', '1995', '1998', '1994']",,,,
+569,165,WASHINGTON STREET,,,,,1.0,"[['DOB violation', 'LL1081']]",['2004'],,,,
+570,504,WEST  126 STREET,,,,,1.0,"[['DOB violation', 'LL6291']]",['1994'],,,,
+571,27,PENNSYLVANIA AVENUE,,,,,3.0,"[['DOB violation', 'BENCH'], ['DOB violation', 'BENCH'], ['DOB violation', 'BENCH']]","['2021', '2022', '2020']",,,,
+572,30,WEST 24 STREET,,,,,1.0,"[['DOB violation', 'E']]",['2020'],,,,
+573,150-15,HILLSIDE AVENUE,,,,,12.0,"[['DOB violation', 'E'], ['DOB violation', 'E'], ['DOB violation', 'E'], ['DOB violation', 'E'], ['DOB violation', 'E'], ['DOB violation', 'E'], ['DOB violation', 'E'], ['DOB violation', 'E'], ['DOB violation', 'E'], ['DOB violation', 'E'], ['DOB violation', 'E'], ['DOB violation', 'E']]","['2013', '2014', '2011', '2014', '2011', '2007', '2010', '2013', '2008', '2007', '2015', '2008']",,,,
+574,25-37,76 STREET,,,,,1.0,"[['DOB violation', 'C']]",['2005'],,,,
+575,39843,WHITE PLAINS ROAD,,,,,1.0,"[['DOB violation', 'LL6291']]",['1997'],,,,
+576,1000,PELHAM PARKWAY S,,,,,4.0,"[['DOB violation', 'E'], ['DOB violation', 'E'], ['DOB violation', 'E'], ['DOB violation', 'E']]","['2021', '2021', '2019', '2019']",,,,
+577,720,FLUSHING AVENUE,,,,,7.0,"[['DOB violation', 'E'], ['DOB violation', 'E'], ['DOB violation', 'E'], ['DOB violation', 'E'], ['DOB violation', 'E'], ['DOB violation', 'E'], ['DOB violation', 'E']]","['2020', '2020', '2020', '2021', '2021', '2020', '2021']",,,,
+578,1319,FIRST AVE,,,,,1.0,"[['DOB violation', 'LL6291']]",['2002'],,,,
+579,2550,THIRD AVENUE,,,,,1.0,"[['DOB violation', 'FISPNRF']]",['2022'],,,,
+580,224,LAFAYETTE STREET,,,,,2.0,"[['DOB violation', 'LL6291'], ['DOB violation', 'LL6291']]","['1994', '1993']",,,,
+581,452,FORT WASHINGTON AVENUE,,,,,1.0,"[['DOB violation', 'C']]",['2011'],,,,
+582,1295,MADISON AVENUE,,,,,1.0,"[['DOB violation', 'P']]",['2022'],,,,
+583,110,EAST 53 STREET,,,,,5.0,"[['DOB violation', 'AEUHAZ1'], ['DOB violation', 'AEUHAZ1'], ['DOB violation', 'AEUHAZ1'], ['DOB violation', 'AEUHAZ1'], ['DOB violation', 'AEUHAZ1']]","['2021', '2020', '2020', '2020', '2020']",,,,
+584,142-31,FRANKLIN AVENUE,,,,,1.0,"[['DOB violation', 'E']]",['2018'],,,,
+585,59,SCHERMERHORN STREET,,,,,1.0,"[['DOB violation', 'C']]",['2008'],,,,
+586,111,CLYMER STREET,,,,,1.0,"[['DOB violation', 'E']]",['2016'],,,,
+587,91-22,216 STREET,,,,,1.0,"[['DOB violation', 'C']]",['2022'],,,,
+588,442,5 AVENUE,,,,,1.0,"[['DOB violation', 'E']]",['2014'],,,,
+589,237,EAST 86 STREET,,,,,2.0,"[['DOB violation', 'E'], ['DOB violation', 'E']]","['2020', '2020']",,,,
+590,2030,7 AVENUE,,,,,1.0,"[['DOB violation', 'LL1080']]",['1992'],,,,
+591,109,EAST   38 STREET,,,,,2.0,"[['DOB violation', 'LL6291'], ['DOB violation', 'LL6291']]","['1997', '1995']",,,,
+592,181 A,VERNON AVENUE,,,,,1.0,"[['DOB violation', 'C']]",['2022'],,,,
+593,345,THATFORD AVENUE,,,,,2.0,"[['DOB violation', 'EVCAT5'], ['DOB violation', 'EVCAT5']]","['2021', '2021']",,,,
+594,261 GAR,OAKLAND AVENUE,,,,,1.0,"[['DOB violation', 'C']]",['2022'],,,,
+595,232,MESEROLE STREET,,,,,1.0,"[['DOB violation', 'LL6291']]",['2007'],,,,
+596,350,EAST 54 STREET,,,,,1.0,"[['DOB violation', 'FISP']]",['2017'],,,,
+597,412,E 147 ST,,,,,5.0,"[['DOB violation', 'E'], ['DOB violation', 'E'], ['DOB violation', 'E'], ['DOB violation', 'E'], ['DOB violation', 'E']]","['2021', '2021', '2021', '2020', '2020']",,,,
+598,2777,WEST 5 STREET,,,,,5.0,"[['DOB violation', 'E'], ['DOB violation', 'E'], ['DOB violation', 'E'], ['DOB violation', 'E'], ['DOB violation', 'E']]","['2021', '2020', '2020', '2020', '2020']",,,,
+599,1013,BROADWAY,,,,,2.0,"[['DOB violation', 'E'], ['DOB violation', 'E']]","['2020', '2021']",,,,
+600,1136,EAST   28 STREET,,,,,1.0,"[['DOB violation', 'C']]",['1995'],,,,
+601,770         ,HUNTS POINT AVENUE,,,,,1.0,"[['DOB violation', 'AEUHAZ1']]",['2016'],,,,
+602,200,CENTRAL PARK WEST,,,,,18.0,"[['DOB violation', 'E'], ['DOB violation', 'E'], ['DOB violation', 'E'], ['DOB violation', 'E'], ['DOB violation', 'E'], ['DOB violation', 'E'], ['DOB violation', 'E'], ['DOB violation', 'E'], ['DOB violation', 'E'], ['DOB violation', 'E'], ['DOB violation', 'E'], ['DOB violation', 'E'], ['DOB violation', 'E'], ['DOB violation', 'E'], ['DOB violation', 'E'], ['DOB violation', 'E'], ['DOB violation', 'E'], ['DOB violation', 'E']]","['2019', '2019', '2019', '2019', '2019', '2019', '2019', '2019', '2019', '2019', '2019', '2019', '2019', '2019', '2019', '2019', '2019', '2019']",,,,
+603,21,ROE STREET,,,,,1.0,"[['DOB violation', 'C']]",['2018'],,,,
+604,236,WEST 37 STREET,,,,,1.0,"[['DOB violation', 'FISP']]",['2017'],,,,
+605, 273        ,WEST 131 STREET,,,,,1.0,"[['DOB violation', 'AEUHAZ1']]",['2017'],,,,
+606,783,PARK AVE,,,,,2.0,"[['DOB violation', 'E'], ['DOB violation', 'E']]","['2019', '2017']",,,,
+607,345,MANOR ROAD,,,,,1.0,"[['DOB violation', 'LANDMK']]",['2022'],,,,
+608,2275,OLINVILLE AVENUE,,,,,2.0,"[['DOB violation', 'E'], ['DOB violation', 'E']]","['2021', '2021']",,,,
+609,131,8 AVENUE,,,,,1.0,"[['DOB violation', 'LBLVIO']]",['2011'],,,,
+610,313,EAST 6 STREET,,,,,1.0,"[['DOB violation', 'C']]",['2022'],,,,
+611,35-30,FARRINGTON STREET,,,,,1.0,"[['DOB violation', 'LL6291']]",['2008'],,,,
+612,95,EVERGREEN AVE,,,,,1.0,"[['DOB violation', 'E']]",['2021'],,,,
+613,2,WEST END AVE,,,,,2.0,"[['DOB violation', 'E'], ['DOB violation', 'E']]","['2017', '2017']",,,,
+614,4624,17 AVENUE,,,,,1.0,"[['DOB violation', 'E']]",['2021'],,,,
+615,161,PROSPECT PARK WEST,,,,,1.0,"[['DOB violation', 'LL6291']]",['2002'],,,,
+616,325,WEST BROADWAY,,,,,1.0,"[['DOB violation', 'C']]",['2022'],,,,
+617,46,FULTON STREET,,,,,1.0,"[['DOB violation', 'E']]",['2019'],,,,
+618,522,3 STREET,,,,,1.0,"[['DOB violation', 'LANDMK']]",['2022'],,,,
+619,41-48,40 STREET,,,,,1.0,"[['DOB violation', 'C']]",['2022'],,,,
+620,341,5 AVENUE,,,,,1.0,"[['DOB violation', 'E']]",['2003'],,,,
+621,305,E 46TH ST,,,,,1.0,"[['DOB violation', 'E']]",['2021'],,,,
+622,235,SULLIVAN STREET,,,,,1.0,"[['DOB violation', 'LL6291']]",['1994'],,,,
+623,308,WEST 36 STREET,,,,,1.0,"[['DOB violation', 'LBLVIO']]",['2018'],,,,
+624,622,WEST 168 STREET,,,,,1.0,"[['DOB violation', 'P']]",['2022'],,,,
+625,1220,SURF AVENUE,,,,,1.0,"[['DOB violation', 'C']]",['2001'],,,,
+626,444,BROADWAY,,,,,1.0,"[['DOB violation', 'E']]",['2019'],,,,
+627,952,BEDFORD AVENUE,,,,,1.0,"[['DOB violation', 'C']]",['2022'],,,,
+628,1219,ST LAWRENCE AVENUE,,,,,1.0,"[['DOB violation', 'C']]",['2022'],,,,
+629,353,W 57 ST,,,,,4.0,"[['DOB violation', 'E'], ['DOB violation', 'E'], ['DOB violation', 'E'], ['DOB violation', 'E']]","['2021', '2018', '2021', '2018']",,,,
+630,2226,HOLLAND AVE,,,,,2.0,"[['DOB violation', 'LL1081'], ['DOB violation', 'LL1081']]","['2004', '2000']",,,,
+631,229,EAST   88 STREET,,,,,2.0,"[['DOB violation', 'LL6291'], ['DOB violation', 'LL6291']]","['1994', '1993']",,,,
+632,27,W 23 ST,,,,,1.0,"[['DOB violation', 'E']]",['2020'],,,,
+633,844         ,HUNTS POINT AVENUE,,,,,1.0,"[['DOB violation', 'AEUHAZ1']]",['2013'],,,,
+634,1190,5 AVENUE,,,,,1.0,"[['DOB violation', 'E']]",['2007'],,,,
+635,182,LAFAYETTE STREET,,,,,1.0,"[['DOB violation', 'E']]",['2008'],,,,
+636,58-18,64TH STREET,,,,,1.0,"[['DOB violation', 'EVCAT1']]",['2011'],,,,
+637,2155,MADISON AVENUE,,,,,1.0,"[['DOB violation', 'FISP']]",['2018'],,,,
+638,338,WEST   12 STREET,,,,,5.0,"[['DOB violation', 'LL6291'], ['DOB violation', 'LL6291'], ['DOB violation', 'LL6291'], ['DOB violation', 'LL6291'], ['DOB violation', 'LL6291']]","['2006', '2003', '2004', '2008', '2005']",,,,
+639,5722,7 AVENUE,,,,,2.0,"[['DOB violation', 'ACC1'], ['DOB violation', 'VCAT1']]","['2016', '2010']",,,,
+640,42-05,LAYTON STREET,,,,,1.0,"[['DOB violation', 'C']]",['2022'],,,,
+641,143,NORTH 9 STREET,,,,,2.0,"[['DOB violation', 'LBLVIO'], ['DOB violation', 'LBLVIO']]","['2018', '2019']",,,,
+642,155,EAST 44 ST,,,,,1.0,"[['DOB violation', 'E']]",['2020'],,,,
+643,160,EAST 65 STREET,,,,,1.0,"[['DOB violation', 'BENCH']]",['2022'],,,,
+644,316,MANOR ROAD,,,,,2.0,"[['DOB violation', 'LL6291'], ['DOB violation', 'LL6291']]","['1993', '1993']",,,,
+645,1314,41ST STREET,,,,,1.0,"[['DOB violation', 'LL6291']]",['2000'],,,,
+646,41,W 33RD ST,,,,,1.0,"[['DOB violation', 'E']]",['2021'],,,,
+647,119,NASSAU AVENUE,,,,,1.0,"[['DOB violation', 'E']]",['2015'],,,,
+648,30,E 21ST ST,,,,,2.0,"[['DOB violation', 'E'], ['DOB violation', 'E']]","['2021', '2021']",,,,
+649,5410,NETHERLAND AV,,,,,1.0,"[['DOB violation', 'E']]",['2020'],,,,
+650,24-30,24 STREET,,,,,1.0,"[['DOB violation', 'AEUHAZ1']]",['2022'],,,,
+651,45-03,102 STREET,,,,,1.0,"[['DOB violation', 'C']]",['2011'],,,,
+652,1102,BANNER AVENUE,,,,,1.0,"[['DOB violation', 'IMEGNCY']]",['2007'],,,,
+653,5701,FORT HAMILTON PARKWAY,,,,,1.0,"[['DOB violation', 'C']]",['2022'],,,,
+654,237,WEST 63 STREET,,,,,1.0,"[['DOB violation', 'E']]",['2021'],,,,
+655,400,EAST 105 STREET,,,,,1.0,"[['DOB violation', 'FISPNRF']]",['2022'],,,,
+656,60,WEST 23 ST,,,,,1.0,"[['DOB violation', 'E']]",['2019'],,,,
+657,43-05,64 STREET,,,,,1.0,"[['DOB violation', 'C']]",['2000'],,,,
+658,320,BEACH 100 STREET,,,,,2.0,"[['DOB violation', 'E'], ['DOB violation', 'E']]","['2017', '2017']",,,,
+659,515,TRUXTON STREET,,,,,2.0,"[['DOB violation', 'C'], ['DOB violation', 'C']]","['2009', '2009']",,,,
+660,5480,BROADWAY,,,,,1.0,"[['DOB violation', 'FISPNRF']]",['2022'],,,,
+661,88-36,ELMHURST AVENUE,,,,,1.0,"[['DOB violation', 'E']]",['2012'],,,,
+662,140,AUDOBON AVENUE,,,,,1.0,"[['DOB violation', 'C']]",['2022'],,,,
+663,159-38,95 STREET,,,,,1.0,"[['DOB violation', 'C']]",['2022'],,,,
+664,2084,5 AVENUE,,,,,1.0,"[['DOB violation', 'IMEGNCY']]",['2022'],,,,
+665,164-10,104 ROAD,,,,,1.0,"[['DOB violation', 'C']]",['2022'],,,,
+666,66,EAST  127 STREET,,,,,3.0,"[['DOB violation', 'LL6291'], ['DOB violation', 'LBLVIO'], ['DOB violation', 'LL6291']]","['2009', '2009', '2008']",,,,
+667,1224,FLUSHING AVENUE,,,,,1.0,"[['DOB violation', 'C']]",['2020'],,,,
+668,770 A,HUNTS POINT AVENUE,,,,,1.0,"[['DOB violation', 'AEUHAZ1']]",['2021'],,,,
+669,526,WEST 111TH ST,,,,,4.0,"[['DOB violation', 'ACC1'], ['DOB violation', 'LL1081'], ['DOB violation', 'LL1081'], ['DOB violation', 'EVCAT1']]","['2017', '2002', '2003', '2015']",,,,
+670,3433,90 STREET,,,,,1.0,"[['DOB violation', 'E']]",['2008'],,,,
+671,446,KINGSTON AVENUE,,,,,1.0,"[['DOB violation', 'C']]",['2022'],,,,
+672,1865,BROADWAY,,,,,1.0,"[['DOB violation', 'P']]",['2022'],,,,
+673,5445,NETHERLAND AVE,,,,,1.0,"[['DOB violation', 'E']]",['2020'],,,,
+674,310,THIRD AVE,,,,,2.0,"[['DOB violation', 'E'], ['DOB violation', 'E']]","['2020', '2020']",,,,
+675,455,1 AVENUE,,,,,1.0,"[['DOB violation', 'E']]",['2009'],,,,
+676,71,HUDSON STREET,,,,,1.0,"[['DOB violation', 'E']]",['2020'],,,,
+677,845,WEST END AVE,,,,,1.0,"[['DOB violation', 'E']]",['2021'],,,,
+678,591,LEXINGTON AVE,,,,,1.0,"[['DOB violation', 'E']]",['2020'],,,,
+679,267,7 AVENUE,,,,,2.0,"[['DOB violation', 'E'], ['DOB violation', 'E']]","['2018', '2016']",,,,
+680,109,FABER STREET,,,,,1.0,"[['DOB violation', 'C']]",['2014'],,,,
+681,450,WEST   20 STREET,,,,,1.0,"[['DOB violation', 'LANDMK']]",['2003'],,,,
+682,99-25,60 AVENUE,,,,,2.0,"[['DOB violation', 'FISPNRF'], ['DOB violation', 'FISPNRF']]","['2013', '2018']",,,,
+683,56-71,49 PLACE,,,,,1.0,"[['DOB violation', 'EGRADE']]",['2021'],,,,
+684,91-61,193 STREET,,,,,1.0,"[['DOB violation', 'EGRADE']]",['2021'],,,,
+685,2,MOTT STREET,,,,,1.0,"[['DOB violation', 'C']]",['2021'],,,,
+686,1136,5 AVENUE,,,,,1.0,"[['DOB violation', 'E']]",['2012'],,,,
+687,7007,VETERANS AVENUE,,,,,4.0,"[['DOB violation', 'UB'], ['DOB violation', 'UB'], ['DOB violation', 'C'], ['DOB violation', 'UB']]","['2013', '2017', '2008', '2015']",,,,
+688,99-45,60 AVENUE,,,,,2.0,"[['DOB violation', 'LL1081'], ['DOB violation', 'FISPNRF']]","['2004', '2018']",,,,
+689,320,EAST 77TH STREET,,,,,4.0,"[['DOB violation', 'LL6291'], ['DOB violation', 'LL6291'], ['DOB violation', 'LL6291'], ['DOB violation', 'LL6291']]","['2000', '1997', '2006', '2004']",,,,
+690,111,HICKS STREET,,,,,1.0,"[['DOB violation', 'AEUHAZ1']]",['2022'],,,,
+691,40-15,61 ST,,,,,1.0,"[['DOB violation', 'E']]",['2019'],,,,
+692,248,HOLLYWOOD AVENUE,,,,,1.0,"[['DOB violation', 'LANDMK']]",['2022'],,,,
+693,5440,NETHERLAND AVE,,,,,1.0,"[['DOB violation', 'E']]",['2020'],,,,
+694,30,NEWTON STREET,,,,,1.0,"[['DOB violation', 'UB']]",['2022'],,,,
+695,154,W 14TH ST,,,,,1.0,"[['DOB violation', 'E']]",['2020'],,,,
+696,162-24,JAMAICA AVE,,,,,2.0,"[['DOB violation', 'E'], ['DOB violation', 'E']]","['2016', '2016']",,,,
+697,2828,WEST 28 STREET,,,,,1.0,"[['DOB violation', 'C']]",['2022'],,,,
+698,7002,BAY PKWAY,,,,,1.0,"[['DOB violation', 'E']]",['2020'],,,,
+699,141,E 91 ST,,,,,1.0,"[['DOB violation', 'LBLVIO']]",['2009'],,,,
+700,155,MONTAGUE STREET,,,,,3.0,"[['DOB violation', 'LANDMK'], ['DOB violation', 'LANDMK'], ['DOB violation', 'LANDMK']]","['1998', '2000', '2013']",,,,
+701,464,BUSHWICK AVENUE,,,,,1.0,"[['DOB violation', 'C']]",['2006'],,,,
+702,1220,PUTNAM AVENUE,,,,,1.0,"[['DOB violation', 'C']]",['2020'],,,,
+703,1185,6 AVENUE,,,,,1.0,"[['DOB violation', 'Z']]",['1988'],,,,
+704,141-05,CHERRY AVENUE,,,,,1.0,"[['DOB violation', 'E']]",['2012'],,,,
+705,255,18 STREET,,,,,1.0,"[['DOB violation', 'AEUHAZ1']]",['2021'],,,,
+706,3400,WAYNE AVENUE,,,,,2.0,"[['DOB violation', 'FISPHAZ'], ['DOB violation', 'FISPHAZ']]","['2020', '2020']",,,,
+707,317,PULASKI STREET,,,,,1.0,"[['DOB violation', 'LL6291']]",['1998'],,,,
+708,114-51,145 STREET,,,,,1.0,"[['DOB violation', 'UB']]",['2011'],,,,
+709,29-0,NORTHERN BOULEVARD,,,,,1.0,"[['DOB violation', 'C']]",['2009'],,,,
+710,406,WEST   31 STREET,,,,,1.0,"[['DOB violation', 'LL6291']]",['2009'],,,,
+711,1176,NOSTRAND AVENUE,,,,,1.0,"[['DOB violation', 'LL6291']]",['2009'],,,,
+712,150-47,HILLSIDE AVENUE,,,,,14.0,"[['DOB violation', 'LL6291'], ['DOB violation', 'LL6291'], ['DOB violation', 'LL6291'], ['DOB violation', 'LL6291'], ['DOB violation', 'LL6291'], ['DOB violation', 'LL6291'], ['DOB violation', 'LL6291'], ['DOB violation', 'LL6291'], ['DOB violation', 'LL6291'], ['DOB violation', 'LBLVIO'], ['DOB violation', 'LL6291'], ['DOB violation', 'LL6291'], ['DOB violation', 'LL6291'], ['DOB violation', 'LL6291']]","['1995', '1995', '1993', '1994', '1993', '1997', '2004', '2006', '2007', '2009', '2006', '2007', '1997', '2004']",,,,
+713,145,WEST 44 STREET,,,,,1.0,"[['DOB violation', 'E']]",['2020'],,,,
+714,16,E 40 ST,,,,,1.0,"[['DOB violation', 'E']]",['2020'],,,,
+715,11,BUSH STREET,,,,,1.0,"[['DOB violation', 'FISP']]",['2020'],,,,
+716,6,WEST  103 STREET,,,,,1.0,"[['DOB violation', 'LL6291']]",['2002'],,,,
+717,100,BANK STREET,,,,,1.0,"[['DOB violation', 'E']]",['2021'],,,,
+718,23,EAST   64 STREET,,,,,1.0,"[['DOB violation', 'LANDMK']]",['2019'],,,,
+719,215,W 34TH ST,,,,,1.0,"[['DOB violation', 'E']]",['2021'],,,,
+720,326,W 83RD ST,,,,,2.0,"[['DOB violation', 'E'], ['DOB violation', 'E']]","['2017', '2019']",,,,
+721,892,3 AVENUE,,,,,1.0,"[['DOB violation', 'E']]",['2011'],,,,
+722,83,WEST 115 STREET,,,,,3.0,"[['DOB violation', 'C'], ['DOB violation', 'C'], ['DOB violation', 'C']]","['2022', '2022', '2022']",,,,
+723,541,WEST  150 STREET,,,,,8.0,"[['DOB violation', 'LL6291'], ['DOB violation', 'LL6291'], ['DOB violation', 'LL6291'], ['DOB violation', 'LL6291'], ['DOB violation', 'LL6291'], ['DOB violation', 'LL6291'], ['DOB violation', 'LL6291'], ['DOB violation', 'LL6291']]","['2009', '2000', '2005', '2008', '2003', '2001', '2007', '2006']",,,,
+724,102-55,67TH DRIVE,,,,,1.0,"[['DOB violation', 'LL1081']]",['2004'],,,,
+725,1,TUDOR CITY PLACE,,,,,2.0,"[['DOB violation', 'LANDMK'], ['DOB violation', 'LANDMK']]","['2010', '2010']",,,,
+726,65,FRANKLIN STREET,,,,,1.0,"[['DOB violation', 'C']]",['2022'],,,,
+727,208-11,HOLLIS AVENUE,,,,,4.0,"[['DOB violation', 'LL6291'], ['DOB violation', 'LL6291'], ['DOB violation', 'LL6291'], ['DOB violation', 'LL6291']]","['1994', '1993', '1997', '1995']",,,,
+728,23,BARTLETT STREET,,,,,2.0,"[['DOB violation', 'BENCH'], ['DOB violation', 'BENCH']]","['2022', '2022']",,,,
+729,340220,SNYDER AVENUE,,,,,1.0,"[['DOB violation', 'LL6291']]",['1997'],,,,
+730,1918,PARK AVE,,,,,6.0,"[['DOB violation', 'E'], ['DOB violation', 'E'], ['DOB violation', 'E'], ['DOB violation', 'E'], ['DOB violation', 'E'], ['DOB violation', 'E']]","['2017', '2018', '2017', '2017', '2018', '2017']",,,,
+731,99-30,59 AVENUE,,,,,1.0,"[['DOB violation', 'FISPNRF']]",['2018'],,,,
+732,18,JACOBUS PL,,,,,2.0,"[['DOB violation', 'E'], ['DOB violation', 'E']]","['2021', '2018']",,,,
+733,3756,EAST TREMONT AVENUE,,,,,1.0,"[['DOB violation', 'C']]",['2022'],,,,
+734,81,5 AVENUE,,,,,2.0,"[['DOB violation', 'C'], ['DOB violation', 'C']]","['2001', '2001']",,,,
+735,71-28,ROOSEVELT AVENUE,,,,,1.0,"[['DOB violation', 'C']]",['2019'],,,,
+736,920,HYLAN BOULEVARD,,,,,2.0,"[['DOB violation', 'C'], ['DOB violation', 'C']]","['2022', '2022']",,,,
+737,3713,KINGS HIGHWAY,,,,,1.0,"[['DOB violation', 'LBLVIO']]",['2018'],,,,
+738,102-55,67 DRIVE,,,,,1.0,"[['DOB violation', 'LL6291']]",['1994'],,,,
+739,25,WEST 35 STREET,,,,,1.0,"[['DOB violation', 'Z']]",['2013'],,,,
+740,154,ATLANTIC AVENUE,,,,,2.0,"[['DOB violation', 'LL6291'], ['DOB violation', 'LL6291']]","['1994', '1993']",,,,
+741,1340,LAFAYETTE AVENUE,,,,,3.0,"[['DOB violation', 'E'], ['DOB violation', 'E'], ['DOB violation', 'UB']]","['2019', '2020', '1993']",,,,
+742,144-45,41 AVE,,,,,2.0,"[['DOB violation', 'E'], ['DOB violation', 'E']]","['2021', '2021']",,,,
+743,48,WEST 21ST STREET,,,,,1.0,"[['DOB violation', 'LL2604S']]",['2019'],,,,
+744,1,DEKALB AVENUE,,,,,3.0,"[['DOB violation', 'EARCX'], ['DOB violation', 'EARCX'], ['DOB violation', 'EARCX']]","['2021', '2021', '2022']",,,,
+745,139-25,31 RD,,,,,1.0,"[['DOB violation', 'LL1081']]",['2008'],,,,
+746,162-45,CROSS BAY BLVD,,,,,1.0,"[['DOB violation', 'E']]",['2021'],,,,
+747,32-50,STEINWAY STREET,,,,,1.0,"[['DOB violation', 'C']]",['2015'],,,,
+748,433,NEPTUNE.AVE,,,,,9.0,"[['DOB violation', 'E'], ['DOB violation', 'E'], ['DOB violation', 'E'], ['DOB violation', 'E'], ['DOB violation', 'E'], ['DOB violation', 'E'], ['DOB violation', 'E'], ['DOB violation', 'E'], ['DOB violation', 'E']]","['2020', '2020', '2019', '2021', '2020', '2020', '2020', '2020', '2020']",,,,
+749,620,THWAITES PLACE,,,,,2.0,"[['DOB violation', 'LBLVIO'], ['DOB violation', 'LBLVIO']]","['2017', '2019']",,,,
+750,366,WATCHOGUE ROAD,,,,,3.0,"[['DOB violation', 'LL6291'], ['DOB violation', 'LL6291'], ['DOB violation', 'LL6291']]","['2003', '2003', '2003']",,,,
+751,534,BERGEN STREET,,,,,1.0,"[['DOB violation', 'LL6291']]",['2004'],,,,
+752,3201,GR CONCOURSE,,,,,1.0,"[['DOB violation', 'E']]",['2018'],,,,
+753,53,CHAUNCEY STREET,,,,,2.0,"[['DOB violation', 'LANDMK'], ['DOB violation', 'LANDMK']]","['2022', '2022']",,,,
+754,3121,OCEAN AVENUE,,,,,1.0,"[['DOB violation', 'C']]",['2022'],,,,
+755,33-01 GAR,24 AVENUE,,,,,1.0,"[['DOB violation', 'C']]",['2022'],,,,
+756,351,EAST 57 STREET,,,,,1.0,"[['DOB violation', 'E']]",['2021'],,,,
+757,449,WALES AVENUE,,,,,2.0,"[['DOB violation', 'LL6291'], ['DOB violation', 'LL6291']]","['1999', '2008']",,,,
+758,2849,WEBB AVENUE,,,,,1.0,"[['DOB violation', 'LL6291']]",['2001'],,,,
+759,190,E MOSHOLU PKWY SO,,,,,1.0,"[['DOB violation', 'E']]",['2020'],,,,
+760,95-36,150 STREET,,,,,1.0,"[['DOB violation', 'LL6291']]",['2003'],,,,
+761,10-20,NEILSON ST,,,,,3.0,"[['DOB violation', 'E'], ['DOB violation', 'E'], ['DOB violation', 'E']]","['2021', '2021', '2021']",,,,
+762,2460,FLATBUSH AVE,,,,,2.0,"[['DOB violation', 'EVCAT1'], ['DOB violation', 'EVCAT1']]","['2014', '2011']",,,,
+763,41,KING STREET,,,,,1.0,"[['DOB violation', 'LANDMK']]",['2007'],,,,
+764,237,EAST   86 STREET,,,,,1.0,"[['DOB violation', 'E']]",['2017'],,,,
+765,914,JEFFERSON AVENUE,,,,,1.0,"[['DOB violation', 'LL6291']]",['1995'],,,,
+766,863,DE KALB AVENUE,,,,,1.0,"[['DOB violation', 'LL6291']]",['1995'],,,,
+767,103-26,68 AVENUE,,,,,1.0,"[['DOB violation', 'E']]",['2003'],,,,
+768,2991,BR 13TH ST,,,,,1.0,"[['DOB violation', 'E']]",['2020'],,,,
+769,34,WEST 14TH ST,,,,,1.0,"[['DOB violation', 'E']]",['2018'],,,,
+770,603,WEST 218 STREET,,,,,1.0,"[['DOB violation', 'P']]",['2022'],,,,
+771,130,EAST 18TH ST,,,,,2.0,"[['DOB violation', 'E'], ['DOB violation', 'E']]","['2021', '2020']",,,,
+772,1075,65 STREET,,,,,3.0,"[['DOB violation', 'LL6291'], ['DOB violation', 'LL6291'], ['DOB violation', 'LL6291']]","['1998', '2007', '2000']",,,,
+773,41-03,99 STREET,,,,,1.0,"[['DOB violation', 'LL6291']]",['2001'],,,,
+774,24,W 9TH ST,,,,,2.0,"[['DOB violation', 'LL1081'], ['DOB violation', 'LL1081']]","['1999', '2004']",,,,
+775,127-12,135 AVENUE,,,,,1.0,"[['DOB violation', 'UB']]",['1982'],,,,
+776,530,FULTON STREET,,,,,2.0,"[['DOB violation', 'C'], ['DOB violation', 'C']]","['2019', '2019']",,,,
+777,777,WEST END AVE,,,,,1.0,"[['DOB violation', 'E']]",['2018'],,,,
+778,5420,NETHERLAND AVE,,,,,1.0,"[['DOB violation', 'E']]",['2020'],,,,
+779,91-20,216 STREET,,,,,2.0,"[['DOB violation', 'C'], ['DOB violation', 'C']]","['2022', '2022']",,,,
+780,314,WEST 51 STREET,,,,,1.0,"[['DOB violation', 'C']]",['2018'],,,,
+781,17,EAST 70 STREET,,,,,3.0,"[['DOB violation', 'E'], ['DOB violation', 'E'], ['DOB violation', 'E']]","['2019', '2012', '2013']",,,,
+782,760,BROADWAY,,,,,6.0,"[['DOB violation', 'E'], ['DOB violation', 'E'], ['DOB violation', 'E'], ['DOB violation', 'E'], ['DOB violation', 'E'], ['DOB violation', 'E']]","['2021', '2020', '2021', '2020', '2021', '2020']",,,,
+783,130-03,HILLSIDE AVENUE,,,,,1.0,"[['DOB violation', 'C']]",['2022'],,,,
+784,88-05,MERRICK BOULEVARD,,,,,1.0,"[['DOB violation', 'EGRADE']]",['2021'],,,,
+785,164,WEST 25 STREET,,,,,1.0,"[['DOB violation', 'BENCH']]",['2020'],,,,
+786,21-06,45 AVENUE,,,,,1.0,"[['DOB violation', 'C']]",['2022'],,,,
+787,310,W 72ND ST,,,,,1.0,"[['DOB violation', 'E']]",['2021'],,,,
+788,151,BALTIC STREET,,,,,8.0,"[['DOB violation', 'LL6291'], ['DOB violation', 'LL6291'], ['DOB violation', 'LL6291'], ['DOB violation', 'LL6291'], ['DOB violation', 'LL6291'], ['DOB violation', 'LL6291'], ['DOB violation', 'LL6291'], ['DOB violation', 'LL6291']]","['1993', '2004', '2006', '2003', '1994', '2008', '1998', '2007']",,,,
+789,233,ROCKAWAY AVENUE,,,,,1.0,"[['DOB violation', 'C']]",['2015'],,,,
+790,1351,BROOKLYN AVENUE,,,,,1.0,"[['DOB violation', 'BENCH']]",['2022'],,,,
+791,26,WEST 9 STREET,,,,,3.0,"[['DOB violation', 'FISPHAZ'], ['DOB violation', 'FISP'], ['DOB violation', 'L1198']]","['2021', '2019', '2007']",,,,
+792,464,POILLON AVENUE,,,,,4.0,"[['DOB violation', 'LL6291'], ['DOB violation', 'LL6291'], ['DOB violation', 'LL6291'], ['DOB violation', 'LL6291']]","['1997', '1995', '1997', '1997']",,,,
+793,40-26,61 STREET,,,,,1.0,"[['DOB violation', 'C']]",['2022'],,,,
+794,374,EAST 9 STREET,,,,,1.0,"[['DOB violation', 'C']]",['2022'],,,,
+795,2758,CRUGER AVENUE,,,,,8.0,"[['DOB violation', 'LL6291'], ['DOB violation', 'LL6291'], ['DOB violation', 'LL6291'], ['DOB violation', 'LL6291'], ['DOB violation', 'LBLVIO'], ['DOB violation', 'LL6291'], ['DOB violation', 'LL6291'], ['DOB violation', 'LL6291']]","['2003', '1997', '2009', '1999', '2009', '1998', '2008', '2006']",,,,
+796,430,EAST 105 STREET,,,,,1.0,"[['DOB violation', 'FISPNRF']]",['2022'],,,,
+797,3534,WAYNE AVENUE,,,,,2.0,"[['DOB violation', 'HBLVIO'], ['DOB violation', 'LBLVIO']]","['2020', '2020']",,,,
+798,301,EAST 29 ST,,,,,1.0,"[['DOB violation', 'VCAT1']]",['2010'],,,,
+799,360,GREENE AVENUE,,,,,1.0,"[['DOB violation', 'LL6291']]",['1995'],,,,
+800,4601,DELAFIELD AVENUE,,,,,2.0,"[['DOB violation', 'LANDMK'], ['DOB violation', 'LANDMK']]","['2022', '2022']",,,,
+801,838,THIRD AVE,,,,,1.0,"[['DOB violation', 'E']]",['2021'],,,,
+802,1555,SEABURY PLACE,,,,,1.0,"[['DOB violation', 'C']]",['2022'],,,,
+803,258,BOND STREET,,,,,1.0,"[['DOB violation', 'IMEGNCY']]",['1999'],,,,
+804,241,E 21ST ST,,,,,1.0,"[['DOB violation', 'E']]",['2019'],,,,
+805,39,W 38TH ST,,,,,1.0,"[['DOB violation', 'E']]",['2020'],,,,
+806,51-57,71 STREET,,,,,1.0,"[['DOB violation', 'C']]",['2000'],,,,
+807,430,EAST 158 STREET,,,,,1.0,"[['DOB violation', 'C']]",['2022'],,,,
+808,63,BOKEE COURT,,,,,1.0,"[['DOB violation', 'E']]",['2007'],,,,
+809,25-05,45 STREET,,,,,1.0,"[['DOB violation', 'P']]",['1992'],,,,
+810,217,JEFFERSON STREET,,,,,3.0,"[['DOB violation', 'E'], ['DOB violation', 'E'], ['DOB violation', 'E']]","['2021', '2020', '2021']",,,,
+811,183,JAVA STREET,,,,,1.0,"[['DOB violation', 'AEUHAZ1']]",['2022'],,,,
+812,34-56,92 STREET,,,,,1.0,"[['DOB violation', 'AEUHAZ1']]",['2020'],,,,
+813,37-25,32 STREET,,,,,1.0,"[['DOB violation', 'AEUHAZ1']]",['2020'],,,,
+814,230,MESEROLE ST,,,,,2.0,"[['DOB violation', 'LL6291'], ['DOB violation', 'LL6291']]","['2003', '2004']",,,,
+815,3415,BAINBRIDGE AVENUE,,,,,1.0,"[['DOB violation', 'E']]",['2018'],,,,
+816,75,5 AVENUE,,,,,2.0,"[['DOB violation', 'LL6291'], ['DOB violation', 'LL6291']]","['2000', '2001']",,,,
+817,299,HENRY STREET,,,,,1.0,"[['DOB violation', 'LL1081']]",['1995'],,,,
+818,517,WEST  111 STREET,,,,,1.0,"[['DOB violation', 'LL6291']]",['2008'],,,,
+819,45-19,104 STREET,,,,,1.0,"[['DOB violation', 'LBLVIO']]",['2011'],,,,
+820,2125,72 STREET,,,,,2.0,"[['DOB violation', 'C'], ['DOB violation', 'C']]","['2022', '2022']",,,,
+821,245,WEST 63 STREET,,,,,1.0,"[['DOB violation', 'E']]",['2021'],,,,
+822,149-38,14 AVENUE,,,,,1.0,"[['DOB violation', 'LL6291']]",['2006'],,,,
+823,177,KENT STREET,,,,,1.0,"[['DOB violation', 'LBLVIO']]",['2014'],,,,
+824,41,EAST   51 STREET,,,,,1.0,"[['DOB violation', 'E']]",['2010'],,,,
+825,341,MANOR ROAD,,,,,3.0,"[['DOB violation', 'LANDMK'], ['DOB violation', 'LANDMK'], ['DOB violation', 'LANDMK']]","['2022', '2022', '2022']",,,,
+826,13-16,BEACH CHANNEL DRIVE,,,,,6.0,"[['DOB violation', 'LL6291'], ['DOB violation', 'LL6291'], ['DOB violation', 'LL6291'], ['DOB violation', 'LL6291'], ['DOB violation', 'LBLVIO'], ['DOB violation', 'LL6291']]","['2009', '1994', '2007', '2006', '2009', '2008']",,,,
+827,61-36,WOODBINE STREET,,,,,2.0,"[['DOB violation', 'LL6291'], ['DOB violation', 'LL6291']]","['1994', '1993']",,,,
+828,1883,54 STREET,,,,,1.0,"[['DOB violation', 'C']]",['2021'],,,,
+829,240,WEST 65 STREET,,,,,1.0,"[['DOB violation', 'FISPNRF']]",['2022'],,,,
+830,13,8 AVENUE,,,,,1.0,"[['DOB violation', 'LANDMK']]",['2022'],,,,
+831,139,PAYSON AVENUE,,,,,1.0,"[['DOB violation', 'BENCH']]",['2022'],,,,
+832,606,5 AVENUE,,,,,1.0,"[['DOB violation', 'LL6291']]",['2001'],,,,
+833,5444,ARLINGTON AVE,,,,,2.0,"[['DOB violation', 'E'], ['DOB violation', 'E']]","['2020', '2020']",,,,
+834,228,EAST 46 STREET,,,,,1.0,"[['DOB violation', 'E']]",['2021'],,,,
+835,220,BEACH 30 STREET,,,,,2.0,"[['DOB violation', 'C'], ['DOB violation', 'C']]","['2022', '2022']",,,,
+836,8020,FLATLANDS AVENUE,,,,,2.0,"[['DOB violation', 'LL6291'], ['DOB violation', 'LL6291']]","['1994', '1993']",,,,
+837,532,WEST  148 STREET,,,,,2.0,"[['DOB violation', 'LL6291'], ['DOB violation', 'LBLVIO']]","['2004', '2009']",,,,
+838,422,84 STREET,,,,,1.0,"[['DOB violation', 'P']]",['2022'],,,,
+839,1481,STERLING PLACE,,,,,1.0,"[['DOB violation', 'C']]",['2016'],,,,
+840,172,TOMPKINS AVENUE,,,,,1.0,"[['DOB violation', 'LL6291']]",['2004'],,,,
+841,1050,CARROLL PL,,,,,1.0,"[['DOB violation', 'E']]",['2019'],,,,
+842,3750,EAST TREMONT AVENUE,,,,,1.0,"[['DOB violation', 'C']]",['2022'],,,,
+843,140-21,31 ROAD,,,,,1.0,"[['DOB violation', 'LL1198']]",['2007'],,,,
+844,70-153,COOPER AVENUE,,,,,1.0,"[['DOB violation', 'LL6291']]",['1997'],,,,
+845,3984,WHITE PLAINS ROAD,,,,,7.0,"[['DOB violation', 'LL6291'], ['DOB violation', 'LL6291'], ['DOB violation', 'LBLVIO'], ['DOB violation', 'LL6291'], ['DOB violation', 'LL6291'], ['DOB violation', 'LL6291'], ['DOB violation', 'LL6291']]","['2003', '2008', '2019', '2000', '1993', '1997', '1998']",,,,
+846,114-54,SUTPHIN BOULEVARD,,,,,1.0,"[['DOB violation', 'C']]",['2022'],,,,
+847,5961,PALISADE AVENUE,,,,,1.0,"[['DOB violation', 'C']]",['2009'],,,,
+848,26,WEST    9 STREET,,,,,1.0,"[['DOB violation', 'LBLVIO']]",['2015'],,,,
+849,1312,INTERVALE AVENUE,,,,,1.0,"[['DOB violation', 'C']]",['2022'],,,,
+850,656,FIRST AVENUE,,,,,1.0,"[['DOB violation', 'FISPNRF']]",['2022'],,,,
+851,49-17,BROWVALE LANE,,,,,1.0,"[['DOB violation', 'C']]",['2006'],,,,
+852,88,WEST BROADWAY,,,,,1.0,"[['DOB violation', 'E']]",['2021'],,,,
+853,1413,EAST NEW YORK AVENUE,,,,,1.0,"[['DOB violation', 'LL6291']]",['1995'],,,,
+854,616,6 AVENUE,,,,,1.0,"[['DOB violation', 'E']]",['2021'],,,,
+855,401,EAST 102 STREET,,,,,1.0,"[['DOB violation', 'FISPNRF']]",['2022'],,,,
+856,52,WEST  126 STREET,,,,,10.0,"[['DOB violation', 'LL6291'], ['DOB violation', 'LL6291'], ['DOB violation', 'LL6291'], ['DOB violation', 'LL6291'], ['DOB violation', 'LL6291'], ['DOB violation', 'LBLVIO'], ['DOB violation', 'LL6291'], ['DOB violation', 'LBLVIO'], ['DOB violation', 'LL6291'], ['DOB violation', 'LL6291']]","['2007', '2002', '1993', '2008', '2003', '2015', '1995', '2009', '1997', '2005']",,,,
+857,340,EAST 74 STREET,,,,,1.0,"[['DOB violation', 'EGRADE']]",['2021'],,,,
+858,86-11,34TH AVE,,,,,2.0,"[['DOB violation', 'ACC1'], ['DOB violation', 'ACC1']]","['2018', '2018']",,,,
+859,19,GRACE COURT,,,,,1.0,"[['DOB violation', 'LANDMK']]",['2001'],,,,
+860,12,CLARK ST,,,,,2.0,"[['DOB violation', 'E'], ['DOB violation', 'E']]","['2019', '2018']",,,,
+861,186-15,AVON ROAD,,,,,1.0,"[['DOB violation', 'C']]",['2022'],,,,
+862,91-14,CORONA AVENUE,,,,,5.0,"[['DOB violation', 'LBLVIO'], ['DOB violation', 'LBLVIO'], ['DOB violation', 'LBLVIO'], ['DOB violation', 'LBLVIO'], ['DOB violation', 'LBLVIO']]","['2015', '2017', '2017', '2015', '2015']",,,,
+863,1,MAIN STREET,,,,,1.0,"[['DOB violation', 'LL6291']]",['2009'],,,,
+864,3950,BLACKSTONE AVE,,,,,3.0,"[['DOB violation', 'E'], ['DOB violation', 'E'], ['DOB violation', 'E']]","['2018', '2017', '2018']",,,,
+865,64,BROOK STREET,,,,,1.0,"[['DOB violation', 'UB']]",['2022'],,,,
+866,225,EAST 47 STREET,,,,,1.0,"[['DOB violation', 'LL1198']]",['2007'],,,,
+867,117,EAST 64 STREET,,,,,1.0,"[['DOB violation', 'C']]",['2020'],,,,
+868,23,W 36TH ST,,,,,3.0,"[['DOB violation', 'LL1081'], ['DOB violation', 'ACC1'], ['DOB violation', 'EVCAT1']]","['2004', '2019', '2014']",,,,
+869,584,SACKETT STREET,,,,,1.0,"[['DOB violation', 'C']]",['2022'],,,,
+870,581,FRANKLIN AVENUE,,,,,1.0,"[['DOB violation', 'C']]",['1989'],,,,
+871,522,STATE STREET,,,,,3.0,"[['DOB violation', 'LL6291'], ['DOB violation', 'LL6291'], ['DOB violation', 'LL6291']]","['1993', '1995', '1997']",,,,
+872,790,BUSHWICK AVENUE,,,,,2.0,"[['DOB violation', 'E'], ['DOB violation', 'E']]","['2018', '2017']",,,,
+873,401,HARDING PARK,,,,,1.0,"[['DOB violation', 'AEUHAZ1']]",['2021'],,,,
+874,232,E 6 ST,,,,,3.0,"[['DOB violation', 'E'], ['DOB violation', 'E'], ['DOB violation', 'E']]","['2020', '2018', '2021']",,,,
+875,1,UNITED NATIONS PLAZA,,,,,3.0,"[['DOB violation', 'E'], ['DOB violation', 'E'], ['DOB violation', 'E']]","['2021', '2021', '2021']",,,,
+876,175-30,LONG ISLAND EXPRESSWAY,,,,,2.0,"[['DOB violation', 'AEUHAZ1'], ['DOB violation', 'AEUHAZ1']]","['2021', '2020']",,,,
+877,341,WEST 44 STREET,,,,,1.0,"[['DOB violation', 'LBLVIO']]",['2015'],,,,
+878,183,BEDFORD AVENUE,,,,,4.0,"[['DOB violation', 'LL6291'], ['DOB violation', 'LL6291'], ['DOB violation', 'LL6291'], ['DOB violation', 'LBLVIO']]","['2008', '2009', '2007', '2009']",,,,
+879,134,DUANE STREET,,,,,1.0,"[['DOB violation', 'E']]",['2020'],,,,
+880,2995,INDEPENDENCE AVENUE,,,,,1.0,"[['DOB violation', 'EGRADE']]",['2022'],,,,
+881,528,WEST  122 STREET,,,,,2.0,"[['DOB violation', 'LL6291'], ['DOB violation', 'LL6291']]","['1999', '2006']",,,,
+882,109-24,MERRICK BOULEVARD,,,,,1.0,"[['DOB violation', 'C']]",['2021'],,,,
+883,13,VERONICA PLACE,,,,,1.0,"[['DOB violation', 'LL6291']]",['1995'],,,,
+884,77,COLUMBIA STREET,,,,,2.0,"[['DOB violation', 'E'], ['DOB violation', 'E']]","['2021', '2021']",,,,
+885,340,EAST   74 STREET,,,,,4.0,"[['DOB violation', 'LL6291'], ['DOB violation', 'LL6291'], ['DOB violation', 'LL6291'], ['DOB violation', 'LL6291']]","['2000', '1994', '2001', '2007']",,,,
+886,24,GROVE STREET,,,,,1.0,"[['DOB violation', 'UB']]",['2022'],,,,
+887,7302,5 AVENUE,,,,,1.0,"[['DOB violation', 'C']]",['1991'],,,,
+888,30,WEST 87 STREET,,,,,2.0,"[['DOB violation', 'AEUHAZ1'], ['DOB violation', 'AEUHAZ1']]","['2022', '2022']",,,,
+889,5228,NEW UTRECHT AVENUE,,,,,4.0,"[['DOB violation', 'LL6291'], ['DOB violation', 'LL6291'], ['DOB violation', 'LL6291'], ['DOB violation', 'LL6291']]","['2005', '2005', '2005', '2005']",,,,
+890,220-24,HEMPSTEAD AVENUE,,,,,10.0,"[['DOB violation', 'LL6291'], ['DOB violation', 'LL6291'], ['DOB violation', 'LL6291'], ['DOB violation', 'LL6291'], ['DOB violation', 'LL6291'], ['DOB violation', 'LL6291'], ['DOB violation', 'LBLVIO'], ['DOB violation', 'LL6291'], ['DOB violation', 'LL6291'], ['DOB violation', 'LL6291']]","['1997', '2000', '1997', '1998', '1999', '2005', '2009', '2003', '2007', '1994']",,,,
+891,540,PARK AVENUE,,,,,2.0,"[['DOB violation', 'FISPHAZ'], ['DOB violation', 'EGRADE']]","['2022', '2022']",,,,
+892,826,59 STREET,,,,,1.0,"[['DOB violation', 'C']]",['2022'],,,,
+893,135-20,39 AVENUE,,,,,4.0,"[['DOB violation', 'E'], ['DOB violation', 'E'], ['DOB violation', 'E'], ['DOB violation', 'E']]","['2020', '2020', '2021', '2020']",,,,
+894,473,CENTRAL PARK WEST,,,,,1.0,"[['DOB violation', 'P']]",['2022'],,,,
+895,406,QUENTIN ROAD,,,,,1.0,"[['DOB violation', 'C']]",['2022'],,,,
+896,1223,ATLANTIC AVENUE,,,,,1.0,"[['DOB violation', 'LBLVIO']]",['2009'],,,,
+897,130,COURT ST,,,,,1.0,"[['DOB violation', 'E']]",['2021'],,,,
+898,23-57,79 STREET,,,,,1.0,"[['DOB violation', 'C']]",['2022'],,,,
+899,99-30,59TH AVENUE,,,,,1.0,"[['DOB violation', 'FISPNRF']]",['2013'],,,,
+900,78,WINDOM AVENUE,,,,,1.0,"[['DOB violation', 'C']]",['2022'],,,,
+901,2593,WEST 13 STREET,,,,,1.0,"[['DOB violation', 'C']]",['2000'],,,,
+902,5212,WEST  126 STREET,,,,,1.0,"[['DOB violation', 'LL6291']]",['1997'],,,,
+903,105-33,66 AVENUE,,,,,1.0,"[['DOB violation', 'E']]",['2014'],,,,
+904,681,WEST END AVE,,,,,1.0,"[['DOB violation', 'E']]",['2021'],,,,
+905,290,WILD AVENUE,,,,,1.0,"[['DOB violation', 'BENCH']]",['2022'],,,,
+906,88,MESEROLE AVENUE,,,,,1.0,"[['DOB violation', 'LL6291']]",['2000'],,,,
+907,139-25,31 ROAD,,,,,1.0,"[['DOB violation', 'E']]",['2012'],,,,
+908,477,KEAP STREET,,,,,2.0,"[['DOB violation', 'LL1081'], ['DOB violation', 'VCAT1']]","['2009', '2010']",,,,
+909,132-36,41 AVENUE,,,,,1.0,"[['DOB violation', 'E']]",['2021'],,,,
+910,55,E 88 ST,,,,,2.0,"[['DOB violation', 'E'], ['DOB violation', 'E']]","['2018', '2018']",,,,
+911,623,51 ST,,,,,1.0,"[['DOB violation', 'LL6291']]",['1997'],,,,
+912,105-15,79 STREET,,,,,2.0,"[['DOB violation', 'C'], ['DOB violation', 'C']]","['2022', '2022']",,,,
+913,273,WEST 131 STREET,,,,,2.0,"[['DOB violation', 'AEUHAZ1'], ['DOB violation', 'AEUHAZ1']]","['2020', '2021']",,,,
+914,14,EAST   69 STREET,,,,,1.0,"[['DOB violation', 'LL6291']]",['2006'],,,,
+915,165,AUDUBON AVENUE,,,,,1.0,"[['DOB violation', 'FISP']]",['2019'],,,,
+916,248,MC KIBBIN STREET,,,,,1.0,"[['DOB violation', 'LL6291']]",['1994'],,,,
+917,550,CAULDWELL AVENUE,,,,,1.0,"[['DOB violation', 'FISPNRF']]",['2019'],,,,
+918,425,MORRIS AVENUE,,,,,9.0,"[['DOB violation', 'E'], ['DOB violation', 'E'], ['DOB violation', 'E'], ['DOB violation', 'E'], ['DOB violation', 'E'], ['DOB violation', 'E'], ['DOB violation', 'E'], ['DOB violation', 'E'], ['DOB violation', 'E']]","['2020', '2020', '2020', '2020', '2020', '2020', '2020', '2020', '2020']",,,,
+919,1713,MADISON AVENUE,,,,,2.0,"[['DOB violation', 'EGRADE'], ['DOB violation', 'BENCH']]","['2022', '2022']",,,,
+920,1110,EASTERN PARKWAY,,,,,1.0,"[['DOB violation', 'E']]",['2020'],,,,
+921,880,BROADWAY,,,,,2.0,"[['DOB violation', 'E'], ['DOB violation', 'E']]","['2021', '2021']",,,,
+922,155,E 52ND ST,,,,,1.0,"[['DOB violation', 'E']]",['2021'],,,,
+923,38-21,23 STREET,,,,,1.0,"[['DOB violation', 'B']]",['1995'],,,,
+924,141-48,85 RD,,,,,1.0,"[['DOB violation', 'E']]",['2018'],,,,
+925,70-15,COOPER AVENUE,,,,,17.0,"[['DOB violation', 'LL6291'], ['DOB violation', 'LL6291'], ['DOB violation', 'LL6291'], ['DOB violation', 'LL6291'], ['DOB violation', 'LL6291'], ['DOB violation', 'LBLVIO'], ['DOB violation', 'LL6291'], ['DOB violation', 'LL6291'], ['DOB violation', 'LL6291'], ['DOB violation', 'LL6291'], ['DOB violation', 'LL6291'], ['DOB violation', 'LL6291'], ['DOB violation', 'LL6291'], ['DOB violation', 'LL6291'], ['DOB violation', 'LL6291'], ['DOB violation', 'LL6291'], ['DOB violation', 'LL6291']]","['2003', '2005', '2008', '2001', '2007', '2009', '1999', '2006', '1993', '1997', '1998', '2002', '2000', '1995', '2009', '2004', '1994']",,,,
+926,110,WEST 56 STREET,,,,,1.0,"[['DOB violation', 'E']]",['2020'],,,,
+927,372,EAST 9 STREET,,,,,1.0,"[['DOB violation', 'C']]",['2022'],,,,
+928,136,LINCOLN AVENUE,,,,,1.0,"[['DOB violation', 'LL6291']]",['1995'],,,,
+929,5430,NETHERLAND AVE,,,,,1.0,"[['DOB violation', 'E']]",['2020'],,,,
+930,600,ALBANY AVENUE,,,,,2.0,"[['DOB violation', 'E'], ['DOB violation', 'E']]","['2021', '2021']",,,,
+931,150-11,HILLSIDE AVENUE,,,,,2.0,"[['DOB violation', 'LL6291'], ['DOB violation', 'LL6291']]","['2000', '1993']",,,,
+932,1825,EASTCHESTER ROAD,,,,,1.0,"[['DOB violation', 'E']]",['2017'],,,,
+933,430,CLERMONT AVENUE,,,,,1.0,"[['DOB violation', 'C']]",['2022'],,,,
+934,137,EAST   25 STREET,,,,,1.0,"[['DOB violation', 'EGRADE']]",['2022'],,,,
+935,75,BENNETT ST,,,,,1.0,"[['DOB violation', 'E']]",['2018'],,,,
+936,353,93 STREET,,,,,2.0,"[['DOB violation', 'LBLVIO'], ['DOB violation', 'LBLVIO']]","['2020', '2020']",,,,
+937,98-40,64 AVENUE,,,,,1.0,"[['DOB violation', 'E']]",['2019'],,,,
+938,219,EAST   85 STREET,,,,,2.0,"[['DOB violation', 'LL6291'], ['DOB violation', 'LL6291']]","['1998', '1998']",,,,
+939,3752,EAST TREMONT AVENUE,,,,,1.0,"[['DOB violation', 'C']]",['2022'],,,,
+940,735,PELHAM PARKWAY NORTH,,,,,1.0,"[['DOB violation', 'EGRADE']]",['2021'],,,,
+941,5240,BROADWAY,,,,,1.0,"[['DOB violation', 'FISPNRF']]",['2022'],,,,
+942,8813,FT HAMILTON AVE,,,,,3.0,"[['DOB violation', 'E'], ['DOB violation', 'E'], ['DOB violation', 'E']]","['2020', '2021', '2020']",,,,
+943,6705,FIFTH AVE,,,,,1.0,"[['DOB violation', 'LL6291']]",['1997'],,,,
+944,44,EAST 14 ST,,,,,1.0,"[['DOB violation', 'E']]",['2021'],,,,
+945,49,W 86TH ST,,,,,2.0,"[['DOB violation', 'E'], ['DOB violation', 'E']]","['2020', '2020']",,,,
+946,50,EAST    3 STREET,,,,,2.0,"[['DOB violation', 'LANDMK'], ['DOB violation', 'LANDMK']]","['2022', '2022']",,,,
+947,8,EAST 57 STREET,,,,,3.0,"[['DOB violation', 'BENCH'], ['DOB violation', 'BENCH'], ['DOB violation', 'BENCH']]","['2019', '2020', '2019']",,,,
+948,139-19,31 ROAD,,,,,3.0,"[['DOB violation', 'E'], ['DOB violation', 'E'], ['DOB violation', 'LL1081']]","['2021', '2012', '2008']",,,,
+949,5409,AVENUE O,,,,,2.0,"[['DOB violation', 'LL6291'], ['DOB violation', 'LL6291']]","['1994', '1997']",,,,
+950,582,2 STREET,,,,,1.0,"[['DOB violation', 'LANDMK']]",['2013'],,,,
+951,150-15,HILLSIDE AVE,,,,,2.0,"[['DOB violation', 'E'], ['DOB violation', 'E']]","['2017', '2016']",,,,
+952,30-11,QUEENS BOULEVARD,,,,,3.0,"[['DOB violation', 'C'], ['DOB violation', 'C'], ['DOB violation', 'C']]","['2009', '2013', '2009']",,,,
+953,1517,BUSHWICK AVENUE,,,,,2.0,"[['DOB violation', 'E'], ['DOB violation', 'E']]","['2021', '2021']",,,,
+954,1501,8 AVENUE,,,,,1.0,"[['DOB violation', 'LBLVIO']]",['2009'],,,,
+955,7901,6 AVENUE,,,,,1.0,"[['DOB violation', 'ES']]",['1994'],,,,
+956,1010,UNDERHILL AVE,,,,,1.0,"[['DOB violation', 'E']]",['2018'],,,,
+957,2829,OCEAN PARKWAY,,,,,3.0,"[['DOB violation', 'E'], ['DOB violation', 'E'], ['DOB violation', 'E']]","['2019', '2017', '2019']",,,,
+958,2606,CROPSEY AVENUE,,,,,1.0,"[['DOB violation', 'LL6291']]",['1994'],,,,
+959,35-20,BELL BOULEVARD,,,,,1.0,"[['DOB violation', 'LBLVIO']]",['2009'],,,,
+960,240,WEST 64 ST,,,,,1.0,"[['DOB violation', 'E']]",['2021'],,,,
+961,311,EAST   84 STREET,,,,,1.0,"[['DOB violation', 'LL6291']]",['2006'],,,,
+962,177,LINCOLN ROAD,,,,,4.0,"[['DOB violation', 'LL6291'], ['DOB violation', 'LL6291'], ['DOB violation', 'LL6291'], ['DOB violation', 'LL6291']]","['1993', '1997', '1995', '1994']",,,,
+963,706,MONROE STREET,,,,,1.0,"[['DOB violation', 'UB']]",['2022'],,,,
+964,420,5 AVENUE,,,,,1.0,"[['DOB violation', 'E']]",['2020'],,,,
+965,284,LAFAYETTE ST,,,,,1.0,"[['DOB violation', 'E']]",['2021'],,,,
+966,3810,GREYSTONE AVENUE,,,,,1.0,"[['DOB violation', 'LL10/80']]",['2000'],,,,
+967,145,EAST 82 STREET,,,,,,,,10028,1.0,"[['DOB complaint', '05']]",['1989']
+968,45,WADSWORTH AVENUE,,,,,,,,10033,1.0,"[['DOB complaint', '99']]",['1989']
+969,733,PARK AVENUE,,,,,,,,10021,1.0,"[['DOB complaint', '43']]",['1989']
+970,250,W 57TH ST,,,,,,,,10019,1.0,"[['DOB complaint', '54']]",['1989']
+971,205,EAST 22 STREET,,,,,,,,10010,1.0,"[['DOB complaint', '32']]",['1989']
+972,49,EAST 63 STREET,,,,,,,,10021,3.0,"[['DOB complaint', '05'], ['DOB complaint', '05'], ['DOB complaint', '05']]","['1989', '1989', '1989']"
+973,316,E 8TH ST,,,,,,,,10009,3.0,"[['DOB complaint', '41'], ['DOB complaint', '41'], ['DOB complaint', '43']]","['1989', '1989', '1989']"
+974,51,WEST 8 STREET,,,,,,,,10011,1.0,"[['DOB complaint', '41']]",['1989']
+975,268,6 AVENUE,,,,,,,,10014,1.0,"[['DOB complaint', '53']]",['1989']
+976,1621,2 AVENUE,,,,,,,,10028,1.0,"[['DOB complaint', '46']]",['1989']
+977,655,WEST 34 STREET,,,,,,,,10001,1.0,"[['DOB complaint', '32']]",['1989']
+978,75,2 AVENUE,,,,,,,,10003,1.0,"[['DOB complaint', '04']]",['1989']
+979,400,CONVENT AVENUE,,,,,,,,10031,1.0,"[['DOB complaint', '05']]",['1989']
+980,200,EAST 87 STREET,,,,,,,,10128,1.0,"[['DOB complaint', '03']]",['1989']
+981,76,EAST 4 STREET,,,,,,,,10003,1.0,"[['DOB complaint', '05']]",['1989']
+982,121,W 20TH ST,,,,,,,,10011,1.0,"[['DOB complaint', '03']]",['1989']
+983,83,MURRAY STREET,,,,,,,,10007,1.0,"[['DOB complaint', '05']]",['1989']
+984,101,LEXINGTON AVENUE,,,,,,,,10016,1.0,"[['DOB complaint', '30']]",['1989']
+985,505-8,W 37 STREET,,,,,,,,10018,1.0,"[['DOB complaint', '05']]",['1989']
+986,336,EAST 5 STREET,,,,,,,,10003,1.0,"[['DOB complaint', '05']]",['1989']
+987,1377,LEXINGTON AVENUE,,,,,,,,10128,1.0,"[['DOB complaint', '99']]",['1989']
+988,219,WEST 46 STREET,,,,,,,,10036,1.0,"[['DOB complaint', '32']]",['1989']
+989,415,EAST 57 STREET,,,,,,,,10022,1.0,"[['DOB complaint', '14']]",['1989']
+990,36,WEST 73 STREET,,,,,,,,10023,1.0,"[['DOB complaint', '05']]",['1989']
+991,426,WEST 47 STREET,,,,,,,,10036,1.0,"[['DOB complaint', '05']]",['1989']
+992,71,EAST 94 STREET,,,,,,,,10128,1.0,"[['DOB complaint', '66']]",['1989']
+993,1993,LEXINGTON AVENUE,,,,,,,,10035,1.0,"[['DOB complaint', '10']]",['1989']
+994,37,BANK STREET,,,,,,,,10014,1.0,"[['DOB complaint', '10']]",['1989']
+995,601,WEST END AVENUE,,,,,,,,10024,1.0,"[['DOB complaint', '40']]",['1989']
+996,163,WEST 72 STREET,,,,,,,,10023,1.0,"[['DOB complaint', '20']]",['1989']
+997,286,EAST 2ND STREET,,,,,,,,10009,1.0,"[['DOB complaint', '99']]",['1989']
+998,609,GREENWICH STREET,,,,,,,,10014,1.0,"[['DOB complaint', '40']]",['1989']
+999,80,4 AVENUE,,,,,,,,10003,2.0,"[['DOB complaint', '43'], ['DOB complaint', '31']]","['1989', '1989']"
+1000,15,BARROW STREET,,,,,,,,10014,1.0,"[['DOB complaint', '05']]",['1989']
+1001,389,6 AVENUE,,,,,,,,10014,1.0,"[['DOB complaint', '20']]",['1989']
+1002,169-70,E 64TH ST,,,,,,,,10021,1.0,"[['DOB complaint', '05']]",['1989']
+1003,266,WATER STREET,,,,,,,,10038,2.0,"[['DOB complaint', '05'], ['DOB complaint', '10']]","['1989', '1989']"
+1004,51,WEST 11 STREET,,,,,,,,10011,1.0,"[['DOB complaint', '30']]",['1989']
+1005,252,WEST 37 STREET,,,,,,,,10018,1.0,"[['DOB complaint', '65']]",['1989']
+1006,155,W 70 STREET,,,,,,,,10023,1.0,"[['DOB complaint', '04']]",['1989']
+1007,210,EAST 65TH STREET,,,,,,,,10021,1.0,"[['DOB complaint', '49']]",['1989']
+1008,690,FT WASHINGTON AVENUE,,,,,,,,10040,1.0,"[['DOB complaint', '30']]",['1989']
+1009,134,SPRING STREET,,,,,,,,10012,2.0,"[['DOB complaint', '05'], ['DOB complaint', '20']]","['1989', '1989']"
+1010,64,THOMAS STREET,,,,,,,,10013,2.0,"[['DOB complaint', '05'], ['DOB complaint', '05']]","['1989', '1989']"
+1011,39,EAST 4 STREET,,,,,,,,10003,1.0,"[['DOB complaint', '33']]",['1989']
+1012,132-40,W 125TH ST,,,,,,,,10027,2.0,"[['DOB complaint', '05'], ['DOB complaint', '05']]","['1989', '1989']"
+1013,16,BARROW STREET,,,,,,,,10014,1.0,"[['DOB complaint', '32']]",['1989']
+1014,6,BOND STREET,,,,,,,,10012,2.0,"[['DOB complaint', '43'], ['DOB complaint', '30']]","['1989', '1989']"
+1015,281,E 4TH ST,,,,,,,,10009,1.0,"[['DOB complaint', '40']]",['1989']
+1016,12-14,VANDERBILT AVE,,,,,,,,10017,1.0,"[['DOB complaint', '46']]",['1989']
+1017,481,WEST END AVENUE,,,,,,,,10024,1.0,"[['DOB complaint', '05']]",['1989']
+1018,452,WEST 25 STREET,,,,,,,,10001,2.0,"[['DOB complaint', '44'], ['DOB complaint', '33']]","['1989', '1989']"
+1019,22,EAST 82 STREET,,,,,,,,10028,1.0,"[['DOB complaint', '05']]",['1989']
+1020,332,EAST 76 STREET,,,,,,,,10021,2.0,"[['DOB complaint', '05'], ['DOB complaint', '42']]","['1989', '1989']"
+1021,1384,BROADWAY,,,,,,,,10018,1.0,"[['DOB complaint', '39']]",['1989']
+1022,2721,BROADWAY,,,,,,,,10025,1.0,"[['DOB complaint', '05']]",['1989']
+1023,120,WEST 3 STREET,,,,,,,,10012,3.0,"[['DOB complaint', '05'], ['DOB complaint', '05'], ['DOB complaint', '05']]","['1989', '1989', '1989']"
+1024,204,9 AVENUE,,,,,,,,10011,1.0,"[['DOB complaint', '53']]",['1989']
+1025,414,EAST 74 STREET,,,,,,,,10021,1.0,"[['DOB complaint', '05']]",['1989']
+1026,151,WEST 25 STREET,,,,,,,,10001,1.0,"[['DOB complaint', '38']]",['1989']
+1027,113,WEST 132 STREET,,,,,,,,10027,1.0,"[['DOB complaint', '33']]",['1989']
+1028,363,LENOX AVENUE,,,,,,,,10027,1.0,"[['DOB complaint', '28']]",['1989']
+1029,227,SULLIVAN STREET,,,,,,,,10012,1.0,"[['DOB complaint', '30']]",['1989']
+1030,112,7 AVENUE,,,,,,,,10011,1.0,"[['DOB complaint', '30']]",['1989']
+1031,9,EAST 40 STREET,,,,,,,,10016,1.0,"[['DOB complaint', '30']]",['1989']
+1032,134,WEST 3 STREET,,,,,,,,10012,2.0,"[['DOB complaint', '05'], ['DOB complaint', '55']]","['1989', '1989']"
+1033,517,2 AVENUE,,,,,,,,10016,1.0,"[['DOB complaint', '05']]",['1989']
+1034,275,WEST 96 STREET,,,,,,,,10025,1.0,"[['DOB complaint', '99']]",['1989']
+1035,598,BROADWAY,,,,,,,,10012,1.0,"[['DOB complaint', '32']]",['1989']
+1036,103,EAST 63 STREET,,,,,,,,10021,1.0,"[['DOB complaint', '45']]",['1989']
+1037,214,EAST 14 STREET,,,,,,,,10003,1.0,"[['DOB complaint', '43']]",['1989']
+1038,317,EAST 50 STREET,,,,,,,,10022,1.0,"[['DOB complaint', '05']]",['1989']
+1039,121,WEST 3 STREET,,,,,,,,10012,1.0,"[['DOB complaint', '05']]",['1989']
+1040,250,W 90TH ST,,,,,,,,10024,1.0,"[['DOB complaint', '32']]",['1989']
+1041,475,WEST BROADWAY,,,,,,,,10012,1.0,"[['DOB complaint', '05']]",['1989']
+1042,747,WEST END AVENUE,,,,,,,,10025,1.0,"[['DOB complaint', '48']]",['1989']
+1043,155,W 70TH ST,,,,,,,,10023,1.0,"[['DOB complaint', '05']]",['1989']
+1044,310,WEST 145 STREET,,,,,,,,10039,1.0,"[['DOB complaint', '43']]",['1989']
+1045,208,EAST 87 STREET,,,,,,,,10128,1.0,"[['DOB complaint', '09']]",['1989']
+1046,340,EAST 86 STREET,,,,,,,,10028,2.0,"[['DOB complaint', '66'], ['DOB complaint', '05']]","['1989', '1989']"
+1047,100,W 82ND ST,,,,,,,,10024,1.0,"[['DOB complaint', '10']]",['1989']
+1048,244,WEST 54 STREET,,,,,,,,10019,1.0,"[['DOB complaint', '30']]",['1989']
+1049,44,WEST 94 STREET,,,,,,,,10025,1.0,"[['DOB complaint', '05']]",['1989']
+1050,133,EAST 22 STREET,,,,,,,,10010,1.0,"[['DOB complaint', '46']]",['1989']
+1051,477,BROOME STREET,,,,,,,,10013,1.0,"[['DOB complaint', '54']]",['1989']
+1052,371/2,ST. MARKS PLACE,,,,,,,,,1.0,"[['DOB complaint', '05']]",['1989']
+1053,18,JOHN STREET,,,,,,,,10038,1.0,"[['DOB complaint', '05']]",['1989']
+1054,440,WEST 47 STREET,,,,,,,,10036,1.0,"[['DOB complaint', '99']]",['1989']
+1055,3489,BROADWAY,,,,,,,,10031,1.0,"[['DOB complaint', '49']]",['1989']
+1056,126,ELIZABETH STREET,,,,,,,,10013,2.0,"[['DOB complaint', '41'], ['DOB complaint', '53']]","['1989', '1989']"
+1057,162,EAST 92 STREET,,,,,,,,10128,1.0,"[['DOB complaint', '67']]",['1989']
+1058,64,WADSWORTH AVENUE,,,,,,,,10033,1.0,"[['DOB complaint', '31']]",['1989']
+1059,9,5 AVENUE,,,,,,,,10003,1.0,"[['DOB complaint', '05']]",['1989']
+1060,44,MORNINGSIDE DRIVE,,,,,,,,,1.0,"[['DOB complaint', '32']]",['1989']
+1061,287,3 AVENUE,,,,,,,,10010,1.0,"[['DOB complaint', '39']]",['1989']
+1062,56,IRVING PLACE,,,,,,,,10003,1.0,"[['DOB complaint', '54']]",['1989']
+1063,234,EAST 89 STREET,,,,,,,,10128,1.0,"[['DOB complaint', '05']]",['1989']
+1064,129,BOWERY,,,,,,,,10002,1.0,"[['DOB complaint', '43']]",['1989']
+1065,1079,LEXINGTON AVENUE,,,,,,,,10021,2.0,"[['DOB complaint', '53'], ['DOB complaint', '53']]","['1989', '1989']"
+1066,23,E 115TH ST,,,,,,,,,1.0,"[['DOB complaint', '32']]",['1989']
+1067,210,EAST 86 STREET,,,,,,,,10028,1.0,"[['DOB complaint', '99']]",['1989']
+1068,2101,MADISON AVENUE,,,,,,,,10037,1.0,"[['DOB complaint', '23']]",['1989']
+1069,53,PARK PLACE,,,,,,,,10007,1.0,"[['DOB complaint', '05']]",['1989']
+1070,114,WEST 47 STREET,,,,,,,,10036,1.0,"[['DOB complaint', '99']]",['1989']
+1071,469,WEST 163 STREET,,,,,,,,10032,1.0,"[['DOB complaint', '43']]",['1989']
+1072,53,CHRISTOPHER STREET,,,,,,,,10014,2.0,"[['DOB complaint', '28'], ['DOB complaint', '54']]","['1989', '1989']"
+1073,110,MULBERRY STREET,,,,,,,,10013,1.0,"[['DOB complaint', '28']]",['1989']
+1074,230,E 121 STREET,,,,,,,,10035,1.0,"[['DOB complaint', '99']]",['1989']
+1075,1240,PARK AVENUE,,,,,,,,10029,1.0,"[['DOB complaint', '45']]",['1989']
+1076,2783,BROADWAY,,,,,,,,10025,1.0,"[['DOB complaint', '99']]",['1989']
+1077,601,WEST 110 STREET,,,,,,,,10025,1.0,"[['DOB complaint', '33']]",['1989']
+1078,173,HENRY STREET,,,,,,,,10002,1.0,"[['DOB complaint', '05']]",['1989']
+1079,109,EAST BROADWAY,,,,,,,,10002,1.0,"[['DOB complaint', '39']]",['1989']
+1080,110,ST MARKS PLACE,,,,,,,,10009,1.0,"[['DOB complaint', '45']]",['1989']
+1081,20,W 33RD ST,,,,,,,,,1.0,"[['DOB complaint', '46']]",['1989']
+1082,205-7,ELIZABETH STREET,,,,,,,,10012,1.0,"[['DOB complaint', '32']]",['1989']
+1083,15,WEST 84 STREET,,,,,,,,10024,1.0,"[['DOB complaint', '05']]",['1989']
+1084,88,7 AVENUE,,,,,,,,10011,2.0,"[['DOB complaint', '31'], ['DOB complaint', '32']]","['1989', '1989']"
+1085,164,LEXINGTON AVENUE,,,,,,,,10016,1.0,"[['DOB complaint', '39']]",['1989']
+1086,218-22,FIRST AVENUE,,,,,,,,10009,1.0,"[['DOB complaint', '43']]",['1989']
+1087,14,2 AVENUE,,,,,,,,10003,1.0,"[['DOB complaint', '41']]",['1989']
+1088,375,3 AVENUE,,,,,,,,10016,1.0,"[['DOB complaint', '46']]",['1989']
+1089,91,GREENWICH STREET,,,,,,,,10006,1.0,"[['DOB complaint', '40']]",['1989']
+1090,198,EAST 58 STREET,,,,,,,,10022,1.0,"[['DOB complaint', '09']]",['1989']
+1091,11,WEST 34 STREET,,,,,,,,10001,1.0,"[['DOB complaint', '32']]",['1989']
+1092,654,ST NICHOLAS AVENUE,,,,,,,,10030,1.0,"[['DOB complaint', '28']]",['1989']
+1093,1578,BROADWAY,,,,,,,,10036,1.0,"[['DOB complaint', '32']]",['1989']
+1094,421,7 AVENUE,,,,,,,,10001,1.0,"[['DOB complaint', '05']]",['1989']
+1095,238,WEST 137 STREET,,,,,,,,10030,1.0,"[['DOB complaint', '99']]",['1989']
+1096,22,EAST 8 STREET,,,,,,,,10003,1.0,"[['DOB complaint', '05']]",['1989']
+1097,2840,BROADWAY,,,,,,,,10025,1.0,"[['DOB complaint', '05']]",['1989']
+1098,336,EAST 30 STREET,,,,,,,,10016,1.0,"[['DOB complaint', '66']]",['1989']
+1099,37,EAST 7 STREET,,,,,,,,10003,3.0,"[['DOB complaint', '39'], ['DOB complaint', '31'], ['DOB complaint', '39']]","['1989', '1989', '1989']"
+1100,308,EAST 48 STREET,,,,,,,,10017,1.0,"[['DOB complaint', '99']]",['1989']
+1101,1364,BROADWAY,,,,,,,,10018,1.0,"[['DOB complaint', '05']]",['1989']
+1102,503,W 37 STREET,,,,,,,,10018,1.0,"[['DOB complaint', '05']]",['1989']
+1103,915,2 AVENUE,,,,,,,,10017,1.0,"[['DOB complaint', '39']]",['1989']
+1104,531,EAST 81 STREET,,,,,,,,10028,1.0,"[['DOB complaint', '05']]",['1989']
+1105,179,AVENUE B,,,,,,,,10009,3.0,"[['DOB complaint', '10'], ['DOB complaint', '54'], ['DOB complaint', '99']]","['1989', '1989', '1989']"
+1106,204,WEST 78 STREET,,,,,,,,10024,1.0,"[['DOB complaint', '66']]",['1989']
+1107,143,EAST 23 STREET,,,,,,,,10010,2.0,"[['DOB complaint', '99'], ['DOB complaint', '99']]","['1989', '1989']"
+1108,328,EAST 15 STREET,,,,,,,,10003,1.0,"[['DOB complaint', '05']]",['1989']
+1109,302,E 45TH ST,,,,,,,,10017,1.0,"[['DOB complaint', '46']]",['1989']
+1110,304,EAST 105 STREET,,,,,,,,10029,1.0,"[['DOB complaint', '28']]",['1989']
+1111,96,READE STREET,,,,,,,,10013,3.0,"[['DOB complaint', '24'], ['DOB complaint', '10'], ['DOB complaint', '03']]","['1989', '1989', '1989']"
+1112,215,WEST 28 STREET,,,,,,,,10001,1.0,"[['DOB complaint', '05']]",['1989']
+1113,172,PRINCE STREET,,,,,,,,10012,2.0,"[['DOB complaint', '05'], ['DOB complaint', '40']]","['1989', '1989']"
+1114,315,WEST 82 STREET,,,,,,,,10024,1.0,"[['DOB complaint', '99']]",['1989']
+1115,766,MADISON AVENUE,,,,,,,,10021,1.0,"[['DOB complaint', '49']]",['1989']
+1116,565,BROADWAY,,,,,,,,10012,1.0,"[['DOB complaint', '40']]",['1989']
+1117,201,ALLEN STREET,,,,,,,,10002,1.0,"[['DOB complaint', '05']]",['1989']
+1118,1824,MADISON AVE,,,,,,,,10035,1.0,"[['DOB complaint', '99']]",['1989']
+1119,10,E 16 ST,,,,,,,,10003,5.0,"[['DOB complaint', '65'], ['DOB complaint', '05'], ['DOB complaint', '99'], ['DOB complaint', '05'], ['DOB complaint', '65']]","['1989', '1989', '1989', '1989', '1989']"
+1120,500,FORT WASHINGTON AVE,,,,,,,,10033,1.0,"[['DOB complaint', '30']]",['1989']
+1121,40,WEST 17 STREET,,,,,,,,10011,1.0,"[['DOB complaint', '10']]",['1989']
+1122,54,MARKET STREET,,,,,,,,10002,1.0,"[['DOB complaint', '30']]",['1989']
+1123,144,BARROW STREET,,,,,,,,10014,1.0,"[['DOB complaint', '55']]",['1989']
+1124,863,9 AVENUE,,,,,,,,10019,1.0,"[['DOB complaint', '46']]",['1989']
+1125,349,WEST 86 STREET,,,,,,,,10024,3.0,"[['DOB complaint', '05'], ['DOB complaint', '05'], ['DOB complaint', '05']]","['1989', '1989', '1989']"
+1126,1501,YORK AVENUE,,,,,,,,10021,1.0,"[['DOB complaint', '53']]",['1989']
+1127,592,WEST 178 STREET,,,,,,,,10033,1.0,"[['DOB complaint', '05']]",['1989']
+1128,195,9 AVENUE,,,,,,,,10011,1.0,"[['DOB complaint', '99']]",['1989']
+1129,178,8 AVENUE,,,,,,,,10011,1.0,"[['DOB complaint', '99']]",['1989']
+1130,550,3 AVENUE,,,,,,,,10016,1.0,"[['DOB complaint', '55']]",['1989']
+1131,955,MADISON  AV,,,,,,,,10021,1.0,"[['DOB complaint', '05']]",['1989']
+1132,421,EAST 65 STREET,,,,,,,,10021,2.0,"[['DOB complaint', '05'], ['DOB complaint', '05']]","['1989', '1989']"
+1133,125,EAST 15 STREET,,,,,,,,10003,2.0,"[['DOB complaint', '05'], ['DOB complaint', '04']]","['1989', '1989']"
+1134,330,EAST 54 STREET,,,,,,,,10022,1.0,"[['DOB complaint', '05']]",['1989']
+1135,228,W 25TH ST,,,,,,,,10001,2.0,"[['DOB complaint', '05'], ['DOB complaint', '05']]","['1989', '1989']"
+1136,430,EAST 88 STREET,,,,,,,,10128,1.0,"[['DOB complaint', '28']]",['1989']
+1137,533,3 AVENUE,,,,,,,,10016,2.0,"[['DOB complaint', '05'], ['DOB complaint', '05']]","['1989', '1989']"
+1138,300,EAST HOUSTON STREET,,,,,,,,10002,1.0,"[['DOB complaint', '05']]",['1989']
+1139,2,SPRING STREET,,,,,,,,10012,3.0,"[['DOB complaint', '33'], ['DOB complaint', '31'], ['DOB complaint', '55']]","['1989', '1989', '1989']"
+1140,34,PECK SLIP,,,,,,,,10038,1.0,"[['DOB complaint', '29']]",['1989']
+1141,42,W 8 STREET,,,,,,,,10011,1.0,"[['DOB complaint', '20']]",['1989']
+1142,202,EAST 35 STREET,,,,,,,,10016,1.0,"[['DOB complaint', '54']]",['1989']
+1143,314,WEST 100 STREET,,,,,,,,10025,1.0,"[['DOB complaint', '33']]",['1989']
+1144,86,EAST 111 STREET,,,,,,,,10029,1.0,"[['DOB complaint', '29']]",['1989']
+1145,11,BROADWAY,,,,,,,,10004,1.0,"[['DOB complaint', '53']]",['1989']
+1146,129,EAST 82 STREET,,,,,,,,10028,1.0,"[['DOB complaint', '48']]",['1989']
+1147,8,WEST 15 STREET,,,,,,,,10011,1.0,"[['DOB complaint', '10']]",['1989']
+1148,251,DELANCEY STREET,,,,,,,,10002,1.0,"[['DOB complaint', '46']]",['1989']
+1149,3,EAST 43 STREET,,,,,,,,10017,1.0,"[['DOB complaint', '32']]",['1989']
+1150,1,WEST 88 STREET,,,,,,,,10024,2.0,"[['DOB complaint', '04'], ['DOB complaint', '05']]","['1989', '1989']"
+1151,37,WEST 17 STREET,,,,,,,,10011,1.0,"[['DOB complaint', '05']]",['1989']
+1152,316,WEST 19 STREET,,,,,,,,10011,1.0,"[['DOB complaint', '43']]",['1989']
+1153,268,WEST 125 STREET,,,,,,,,10027,1.0,"[['DOB complaint', '39']]",['1989']
+1154,154,WEST 14 STREET,,,,,,,,10011,1.0,"[['DOB complaint', '99']]",['1989']
+1155,43,WEST 55 STREET,,,,,,,,10019,1.0,"[['DOB complaint', '46']]",['1989']
+1156,18,EAST 41 STREET,,,,,,,,10017,1.0,"[['DOB complaint', '99']]",['1989']
+1157,309,EAST 75 STREET,,,,,,,,10021,1.0,"[['DOB complaint', '32']]",['1989']
+1158,171,1 AVENUE,,,,,,,,10003,1.0,"[['DOB complaint', '05']]",['1989']
+1159,253,8TH AVE,,,,,,,,10011,1.0,"[['DOB complaint', '53']]",['1989']
+1160,69,WEST 55 STREET,,,,,,,,10019,1.0,"[['DOB complaint', '48']]",['1989']
+1161,226,EAST 36 STREET,,,,,,,,10016,3.0,"[['DOB complaint', '05'], ['DOB complaint', '05'], ['DOB complaint', '05']]","['1989', '1989', '1989']"
+1162,520,8TH AVE,,,,,,,,10018,1.0,"[['DOB complaint', '31']]",['1989']
+1163,474,WEST BROADWAY,,,,,,,,10012,1.0,"[['DOB complaint', '05']]",['1989']
+1164,155,6 AVENUE,,,,,,,,10013,1.0,"[['DOB complaint', '05']]",['1989']
+1165,570,FT WASHINGTON AVENUE,,,,,,,,10033,1.0,"[['DOB complaint', '03']]",['1989']
+1166,612,EAST 10TH ST,,,,,,,,,1.0,"[['DOB complaint', '54']]",['1989']
+1167,564,WEST 126 STREET,,,,,,,,10027,1.0,"[['DOB complaint', '28']]",['1989']
+1168,390-6,6TH AVE,,,,,,,,10011,1.0,"[['DOB complaint', '39']]",['1989']
+1169,606,9 AVENUE,,,,,,,,10036,1.0,"[['DOB complaint', '05']]",['1989']
+1170,159,WEST 53 STREET,,,,,,,,10019,1.0,"[['DOB complaint', '99']]",['1989']
+1171,413,WEST 23 STREET,,,,,,,,10011,1.0,"[['DOB complaint', '33']]",['1989']
+1172,11,ABINGDON SQUARE,,,,,,,,10014,1.0,"[['DOB complaint', '32']]",['1989']
+1173,307,WEST 125 STREET,,,,,,,,10027,1.0,"[['DOB complaint', '49']]",['1989']
+1174,235,EAST 40 STREET,,,,,,,,10016,2.0,"[['DOB complaint', '32'], ['DOB complaint', '53']]","['1989', '1989']"
+1175,207,THOMPSON STREET,,,,,,,,10012,1.0,"[['DOB complaint', '02']]",['1989']
+1176,116,UNIVERSITY PLACE,,,,,,,,10003,1.0,"[['DOB complaint', '48']]",['1989']
+1177,206,EAST 87 STREET,,,,,,,,10128,1.0,"[['DOB complaint', '30']]",['1989']
+1178,114,W 47 STREET,,,,,,,,10036,1.0,"[['DOB complaint', '10']]",['1989']
+1179,625,WEST 169 STREET,,,,,,,,10032,1.0,"[['DOB complaint', '28']]",['1989']
+1180,58,EAST 58 STREET,,,,,,,,10022,1.0,"[['DOB complaint', '99']]",['1989']
+1181,756,BROADWAY,,,,,,,,10003,1.0,"[['DOB complaint', '05']]",['1989']
+1182,275,WEST 4 STREET,,,,,,,,10014,1.0,"[['DOB complaint', '44']]",['1989']
+1183,3560,BROADWAY,,,,,,,,10031,1.0,"[['DOB complaint', '32']]",['1989']
+1184,519,EAST 81 STREET,,,,,,,,10028,1.0,"[['DOB complaint', '39']]",['1989']
+1185,226,WEST 72 STREET,,,,,,,,10023,1.0,"[['DOB complaint', '30']]",['1989']
+1186,140,WEST 4 STREET,,,,,,,,10012,1.0,"[['DOB complaint', '05']]",['1989']
+1187,200,WEST END AVENUE,,,,,,,,10023,1.0,"[['DOB complaint', '32']]",['1989']
+1188,104,POST AVENUE,,,,,,,,10034,1.0,"[['DOB complaint', '05']]",['1989']
+1189,67-72,SPRING ST,,,,,,,,10012,1.0,"[['DOB complaint', '46']]",['1989']
+1190,684,6 AVENUE,,,,,,,,10010,2.0,"[['DOB complaint', '40'], ['DOB complaint', '65']]","['1989', '1989']"
+1191,35,EAST 41 STREET,,,,,,,,10017,2.0,"[['DOB complaint', '05'], ['DOB complaint', '66']]","['1989', '1989']"
+1192,28,WEST 56 STREET,,,,,,,,10019,2.0,"[['DOB complaint', '05'], ['DOB complaint', '05']]","['1989', '1989']"
+1193,251,EAST HOUSTON STREET,,,,,,,,,1.0,"[['DOB complaint', '99']]",['1989']
+1194,524,EAST 14 STREET,,,,,,,,10009,1.0,"[['DOB complaint', '32']]",['1989']
+1195,268,WATER STREET,,,,,,,,10038,1.0,"[['DOB complaint', '31']]",['1989']
+1196,268,WEST 73 STREET,,,,,,,,10023,1.0,"[['DOB complaint', '32']]",['1989']
+1197,90,FULTON STREET,,,,,,,,10038,1.0,"[['DOB complaint', '39']]",['1989']
+1198,301,EAST 79 STREET,,,,,,,,10021,2.0,"[['DOB complaint', '05'], ['DOB complaint', '66']]","['1989', '1989']"
+1199,90,PRINCE STREET,,,,,,,,10012,1.0,"[['DOB complaint', '05']]",['1989']
+1200,274,BROADWAY,,,,,,,,10007,1.0,"[['DOB complaint', '49']]",['1989']
+1201,95,PITT STREET,,,,,,,,10002,1.0,"[['DOB complaint', '05']]",['1989']
+1202,33,ST MARKS PLACE,,,,,,,,10003,1.0,"[['DOB complaint', '54']]",['1989']
+1203,2,WALL STREET,,,,,,,,10005,1.0,"[['DOB complaint', '38']]",['1989']
+1204,123,WEST 16 STREET,,,,,,,,10011,1.0,"[['DOB complaint', '05']]",['1989']
+1205,2,WEST 88 STREET,,,,,,,,10024,1.0,"[['DOB complaint', '37']]",['1989']
+1206,13,ASTOR PLACE,,,,,,,,10003,1.0,"[['DOB complaint', '99']]",['1989']
+1207,403,PARK AVENUE SOUTH,,,,,,,,10016,1.0,"[['DOB complaint', '05']]",['1989']
+1208,116,EAST 39 STREET,,,,,,,,10016,1.0,"[['DOB complaint', '46']]",['1989']
+1209,172-76,NORFOLK ST,,,,,,,,10002,1.0,"[['DOB complaint', '31']]",['1989']
+1210,99,PERRY STREET,,,,,,,,10014,2.0,"[['DOB complaint', '05'], ['DOB complaint', '05']]","['1989', '1989']"
+1211,95-109,6TH AVE,,,,,,,,10013,1.0,"[['DOB complaint', '05']]",['1989']
+1212,360,6 AVENUE,,,,,,,,10011,1.0,"[['DOB complaint', '05']]",['1989']
+1213,155,EAST 2 STREET,,,,,,,,10009,1.0,"[['DOB complaint', '05']]",['1989']
+1214,137-141,DUANE STREET,,,,,,,,10013,1.0,"[['DOB complaint', '05']]",['1989']
+1215,526,COLUMBUS AVENUE,,,,,,,,10024,1.0,"[['DOB complaint', '05']]",['1989']
+1216,168-70,E 64TH ST,,,,,,,,10021,1.0,"[['DOB complaint', '05']]",['1989']
+1217,62,WATTS STREET,,,,,,,,10013,1.0,"[['DOB complaint', '45']]",['1989']
+1218,171,MORNINGSIDE AVENUE,,,,,,,,10027,1.0,"[['DOB complaint', '28']]",['1989']
+1219,226,EAST 89 STREET,,,,,,,,10128,1.0,"[['DOB complaint', '54']]",['1989']
+1220,146,WEST 111 STREET,,,,,,,,10026,1.0,"[['DOB complaint', '41']]",['1989']
+1221,210,WEST 104 STREET,,,,,,,,10025,1.0,"[['DOB complaint', '05']]",['1989']
+1222,9,WEST 82 STREET,,,,,,,,10024,1.0,"[['DOB complaint', '05']]",['1989']
+1223,324,WEST 87 STREET,,,,,,,,10024,2.0,"[['DOB complaint', '05'], ['DOB complaint', '05']]","['1989', '1989']"
+1224,49,W 8TH ST,,,,,,,,10011,2.0,"[['DOB complaint', '20'], ['DOB complaint', '05']]","['1989', '1989']"
+1225,321,WEST 54 STREET,,,,,,,,10019,1.0,"[['DOB complaint', '41']]",['1989']
+1226,513,EAST 81 STREET,,,,,,,,10028,1.0,"[['DOB complaint', '39']]",['1989']
+1227,54,3 AVENUE,,,,,,,,10003,1.0,"[['DOB complaint', '23']]",['1989']
+1228,93,GREENE STREET,,,,,,,,10012,1.0,"[['DOB complaint', '43']]",['1989']
+1229,32,WEST 18 STREET,,,,,,,,10011,1.0,"[['DOB complaint', '66']]",['1989']
+1230,265,HENRY STREET,,,,,,,,10002,1.0,"[['DOB complaint', '05']]",['1989']
+1231,114,W 117TH ST,,,,,,,,10026,1.0,"[['DOB complaint', '41']]",['1989']
+1232,226,EAST 68TH STREET,,,,,,,,10021,1.0,"[['DOB complaint', '05']]",['1989']
+1233,3-9,W 108 ST,,,,,,,,10025,1.0,"[['DOB complaint', '99']]",['1989']
+1234,131,AVE A,,,,,,,,10009,1.0,"[['DOB complaint', '05']]",['1989']
+1235,234,8 AVENUE,,,,,,,,10011,1.0,"[['DOB complaint', '99']]",['1989']
+1236,164,EAST 92 STREET,,,,,,,,10128,1.0,"[['DOB complaint', '05']]",['1989']
+1237,36,EAST 73 STREET,,,,,,,,10021,1.0,"[['DOB complaint', '32']]",['1989']
+1238,67,8 AVENUE,,,,,,,,10014,1.0,"[['DOB complaint', '05']]",['1989']
+1239,520,EAST 86 STREET,,,,,,,,10028,1.0,"[['DOB complaint', '99']]",['1989']
+1240,691,BROADWAY,,,,,,,,10012,1.0,"[['DOB complaint', '23']]",['1989']
+1241,602,10 AVENUE,,,,,,,,10036,1.0,"[['DOB complaint', '43']]",['1989']
+1242,200,MANHATTAN AVENUE,,,,,,,,10025,1.0,"[['DOB complaint', '99']]",['1989']
+1243,131,CHRYSTIE STREET,,,,,,,,10002,4.0,"[['DOB complaint', '32'], ['DOB complaint', '55'], ['DOB complaint', '31'], ['DOB complaint', '48']]","['1989', '1989', '1989', '1989']"
+1244,29,WEST 131 STREET,,,,,,,,10037,1.0,"[['DOB complaint', '29']]",['1989']
+1245,161,WEST 75 STREET,,,,,,,,10023,1.0,"[['DOB complaint', '48']]",['1989']
+1246,66,MULBERRY STREET,,,,,,,,10013,1.0,"[['DOB complaint', '53']]",['1989']
+1247,247-251,WEST 26TH ST,,,,,,,,10001,1.0,"[['DOB complaint', '99']]",['1989']
+1248,455,EAST 86 STREET,,,,,,,,10028,1.0,"[['DOB complaint', '05']]",['1989']
+1249,244,WEST HOUSTON ST,,,,,,,,,1.0,"[['DOB complaint', '46']]",['1989']
+1250,3863,10 AVENUE,,,,,,,,10034,1.0,"[['DOB complaint', '05']]",['1989']
+1251,123,EAST 82 STREET,,,,,,,,10028,1.0,"[['DOB complaint', '42']]",['1989']
+1252,253,WEST 131 STREET,,,,,,,,10027,2.0,"[['DOB complaint', '05'], ['DOB complaint', '45']]","['1989', '1989']"
+1253,1602,1 AVENUE,,,,,,,,,1.0,"[['DOB complaint', '05']]",['1989']
+1254,88,2 AVENUE,,,,,,,,10003,1.0,"[['DOB complaint', '53']]",['1989']
+1255,60-62,CARMINE ST,,,,,,,,10014,1.0,"[['DOB complaint', '05']]",['1989']
+1256,607,HUDSON STREET,,,,,,,,10014,1.0,"[['DOB complaint', '99']]",['1989']
+1257,2-8,PELL ST,,,,,,,,10013,1.0,"[['DOB complaint', '05']]",['1989']
+1258,86,ELIZABETH STREET,,,,,,,,10013,2.0,"[['DOB complaint', '48'], ['DOB complaint', '33']]","['1989', '1989']"
+1259,14,EAST 81 STREET,,,,,,,,10028,1.0,"[['DOB complaint', '99']]",['1989']
+1260,14,WEST 8 STREET,,,,,,,,10011,1.0,"[['DOB complaint', '05']]",['1989']
+1261,156,E 81 STREET,,,,,,,,10028,1.0,"[['DOB complaint', '39']]",['1989']
+1262,281,CENTRAL PARK WEST,,,,,,,,10024,6.0,"[['DOB complaint', '04'], ['DOB complaint', '04'], ['DOB complaint', '04'], ['DOB complaint', '04'], ['DOB complaint', '04'], ['DOB complaint', '04']]","['1989', '1989', '1989', '1989', '1989', '1989']"
+1263,721,10 AVENUE,,,,,,,,10019,1.0,"[['DOB complaint', '05']]",['1989']
+1264,279-81,W 4TH ST,,,,,,,,10014,1.0,"[['DOB complaint', '05']]",['1989']
+1265,17,VERMILYEA AVENUE,,,,,,,,10034,2.0,"[['DOB complaint', '33'], ['DOB complaint', '05']]","['1989', '1989']"
+1266,7,W 38TH ST,,,,,,,,10018,1.0,"[['DOB complaint', '29']]",['1989']
+1267,140,EAST 56 STREET,,,,,,,,10022,2.0,"[['DOB complaint', '48'], ['DOB complaint', '48']]","['1989', '1989']"
+1268,330,E 38 STREET,,,,,,,,,1.0,"[['DOB complaint', '05']]",['1989']
+1269,40,CLINTON STREET,,,,,,,,10002,1.0,"[['DOB complaint', '05']]",['1989']
+1270,122,EAST 42 STREET,,,,,,,,10017,1.0,"[['DOB complaint', '46']]",['1989']
+1271,564,WEST 184 STREET,,,,,,,,10033,1.0,"[['DOB complaint', '54']]",['1989']
+1272,1711,1 AVENUE,,,,,,,,10128,1.0,"[['DOB complaint', '05']]",['1989']
+1273,8,EAST 62 STREET,,,,,,,,10021,1.0,"[['DOB complaint', '32']]",['1989']
+1274,116,LEXINGTON AVENUE,,,,,,,,10016,1.0,"[['DOB complaint', '33']]",['1989']
+1275,18,THOMAS STREET,,,,,,,,10007,2.0,"[['DOB complaint', '43'], ['DOB complaint', '43']]","['1989', '1989']"
+1276,34,ST NICHOLAS PLACE,,,,,,,,10031,1.0,"[['DOB complaint', '99']]",['1989']
+1277,182,COLUMBUS AVENUE,,,,,,,,10023,1.0,"[['DOB complaint', '30']]",['1989']
+1278,508,W 136TH ST,,,,,,,,10031,3.0,"[['DOB complaint', '54'], ['DOB complaint', '28'], ['DOB complaint', '99']]","['1989', '1989', '1989']"
+1279,622,W 51ST ST,,,,,,,,10019,1.0,"[['DOB complaint', '29']]",['1989']
+1280,471,6 AVENUE,,,,,,,,10011,3.0,"[['DOB complaint', '05'], ['DOB complaint', '20'], ['DOB complaint', '49']]","['1989', '1989', '1989']"
+1281,371,WEST END AVENUE,,,,,,,,10024,1.0,"[['DOB complaint', '05']]",['1989']
+1282,156-60,BLEECKER ST,,,,,,,,10012,1.0,"[['DOB complaint', '52']]",['1989']
+1283,255,WEST 98 STREET,,,,,,,,10025,1.0,"[['DOB complaint', '33']]",['1989']
+1284,1056,5 AVENUE,,,,,,,,10028,1.0,"[['DOB complaint', '05']]",['1989']
+1285,135,EAST 54 STREET,,,,,,,,10022,1.0,"[['DOB complaint', '05']]",['1989']
+1286,26,BROADWAY,,,,,,,,10004,1.0,"[['DOB complaint', '99']]",['1989']
+1287,28,EAST 9 STREET,,,,,,,,10003,2.0,"[['DOB complaint', '70'], ['DOB complaint', '23']]","['1989', '1989']"
+1288,1024,2 AVENUE,,,,,,,,10022,1.0,"[['DOB complaint', '05']]",['1989']
+1289,400,EAST 54 STREET,,,,,,,,10022,1.0,"[['DOB complaint', '05']]",['1989']
+1290,234,5 AVENUE,,,,,,,,10001,1.0,"[['DOB complaint', '05']]",['1989']
+1291,1,CENTRE STREET,,,,,,,,10007,2.0,"[['DOB complaint', '39'], ['DOB complaint', '01']]","['1989', '1989']"
+1292,333,HUDSON STREET,,,,,,,,10013,2.0,"[['DOB complaint', '67'], ['DOB complaint', '10']]","['1989', '1989']"
+1293,6,EAST 2 STREET,,,,,,,,10003,1.0,"[['DOB complaint', '37']]",['1989']
+1294,459,BROADWAY,,,,,,,,10013,1.0,"[['DOB complaint', '54']]",['1989']
+1295,345-39,W 50TH ST,,,,,,,,10019,1.0,"[['DOB complaint', '39']]",['1989']
+1296,1824,2 AVENUE,,,,,,,,10128,1.0,"[['DOB complaint', '14']]",['1989']
+1297,720,3 AVENUE,,,,,,,,10017,1.0,"[['DOB complaint', '05']]",['1989']
+1298,463,LEXINGTON AVENUE,,,,,,,,10017,1.0,"[['DOB complaint', '05']]",['1989']
+1299,605,WEST 156 STREET,,,,,,,,10032,1.0,"[['DOB complaint', '05']]",['1989']
+1300,61-71,VERMILYEA AVE,,,,,,,,10034,1.0,"[['DOB complaint', '05']]",['1989']
+1301,606,WEST 142 STREET,,,,,,,,10031,1.0,"[['DOB complaint', '30']]",['1989']
+1302,467,WEST 163 STREET,,,,,,,,10032,1.0,"[['DOB complaint', '43']]",['1989']
+1303,251,WEST 100 STREET,,,,,,,,10025,1.0,"[['DOB complaint', '99']]",['1989']
+1304,264,EAST 1 STREET,,,,,,,,,1.0,"[['DOB complaint', '05']]",['1989']
+1305,75,HUDSON STREET,,,,,,,,10013,1.0,"[['DOB complaint', '05']]",['1989']
+1306,1272,LEXINGTON AVENUE,,,,,,,,10028,4.0,"[['DOB complaint', '05'], ['DOB complaint', '05'], ['DOB complaint', '05'], ['DOB complaint', '05']]","['1989', '1989', '1989', '1989']"
+1307,535,HUDSON STREET,,,,,,,,10014,3.0,"[['DOB complaint', '05'], ['DOB complaint', '53'], ['DOB complaint', '53']]","['1989', '1989', '1989']"
+1308,275,1 AVENUE,,,,,,,,10003,1.0,"[['DOB complaint', '05']]",['1989']
+1309,25,WALKER STREET,,,,,,,,10013,1.0,"[['DOB complaint', '43']]",['1989']
+1310,229,SULLIVAN STREET,,,,,,,,10012,1.0,"[['DOB complaint', '32']]",['1989']
+1311,254,WEST 54 STREET,,,,,,,,10019,1.0,"[['DOB complaint', '05']]",['1989']
+1312,85,4 AVENUE,,,,,,,,10003,1.0,"[['DOB complaint', '05']]",['1989']
+1313,300,WEST 145 STREET,,,,,,,,10039,1.0,"[['DOB complaint', '43']]",['1989']
+1314,95,MORTON ST,,,,,,,,10014,2.0,"[['DOB complaint', '66'], ['DOB complaint', '66']]","['1989', '1989']"
+1315,285,LAFAYETTE ST,,,,,,,,10012,1.0,"[['DOB complaint', '05']]",['1989']
+1316,212,WEST 104 STREET,,,,,,,,10025,1.0,"[['DOB complaint', '05']]",['1989']
+1317,1900,BROADWAY,,,,,,,,10023,1.0,"[['DOB complaint', '10']]",['1989']
+1318,121,2 AVENUE,,,,,,,,10003,1.0,"[['DOB complaint', '05']]",['1989']
+1319,465,LEXINGTON AVENUE,,,,,,,,10017,1.0,"[['DOB complaint', '05']]",['1989']
+1320,321,EAST 12 STREET,,,,,,,,10003,1.0,"[['DOB complaint', '05']]",['1989']
+1321,438,WEST 54 STREET,,,,,,,,10019,1.0,"[['DOB complaint', '30']]",['1989']
+1322,490,AMSTERDAM AVENUE,,,,,,,,10024,1.0,"[['DOB complaint', '99']]",['1989']
+1323,100,WEST 58 STREET,,,,,,,,10019,1.0,"[['DOB complaint', '53']]",['1989']
+1324,179,WEST BROADWAY,,,,,,,,10013,1.0,"[['DOB complaint', '31']]",['1989']
+1325,251,WEST 92 STREET,,,,,,,,10025,4.0,"[['DOB complaint', '40'], ['DOB complaint', '45'], ['DOB complaint', '05'], ['DOB complaint', '05']]","['1989', '1989', '1989', '1989']"
+1326,289,EDGECOMBE AVENUE,,,,,,,,10031,1.0,"[['DOB complaint', '09']]",['1989']
+1327,168,EAST 78 STREET,,,,,,,,10021,1.0,"[['DOB complaint', '05']]",['1989']
+1328,262,ELIZABETH STREET,,,,,,,,10012,1.0,"[['DOB complaint', '10']]",['1989']
+1329,401,7 AVENUE,,,,,,,,10001,1.0,"[['DOB complaint', '46']]",['1989']
+1330,527,E 13 STREET,,,,,,,,10009,1.0,"[['DOB complaint', '32']]",['1989']
+1331,926,COLUMBUS AVE,,,,,,,,10025,1.0,"[['DOB complaint', '05']]",['1989']
+1332,11-13,AVE D,,,,,,,,10009,1.0,"[['DOB complaint', '05']]",['1989']
+1333,130,EAST 18 STREET,,,,,,,,10003,1.0,"[['DOB complaint', '05']]",['1989']
+1334,220,EAST 29 STREET,,,,,,,,10016,1.0,"[['DOB complaint', '05']]",['1989']
+1335,128,WEST 30 STREET,,,,,,,,10001,1.0,"[['DOB complaint', '37']]",['1989']
+1336,145,EAST 81 STREET,,,,,,,,10028,1.0,"[['DOB complaint', '05']]",['1989']
+1337,241,EAST 2 STREET,,,,,,,,10009,1.0,"[['DOB complaint', '99']]",['1989']
+1338,72,THOMPSON STREET,,,,,,,,10012,1.0,"[['DOB complaint', '05']]",['1989']
+1339,182,BROADWAY,,,,,,,,10038,1.0,"[['DOB complaint', '37']]",['1989']
+1340,41,EAST 60 STREET,,,,,,,,10022,1.0,"[['DOB complaint', '05']]",['1989']
+1341,13,WEST 47 STREET,,,,,,,,10036,1.0,"[['DOB complaint', '46']]",['1989']
+1342,306,WEST 106 STREET,,,,,,,,10025,5.0,"[['DOB complaint', '55'], ['DOB complaint', '05'], ['DOB complaint', '05'], ['DOB complaint', '05'], ['DOB complaint', '55']]","['1989', '1989', '1989', '1989', '1989']"
+1343,343,CANAL STREET,,,,,,,,10013,1.0,"[['DOB complaint', '99']]",['1989']
+1344,44,W 82ND ST,,,,,,,,,1.0,"[['DOB complaint', '05']]",['1989']
+1345,120,CABRINI BOULEVARD,,,,,,,,10033,1.0,"[['DOB complaint', '41']]",['1989']
+1346,434,6 AVENUE,,,,,,,,10011,1.0,"[['DOB complaint', '49']]",['1989']
+1347,176-86,FORSYTH STREET,,,,,,,,10002,1.0,"[['DOB complaint', '99']]",['1989']
+1348,261,WEST 42 STREET,,,,,,,,10036,1.0,"[['DOB complaint', '99']]",['1989']
+1349,328,8 AVENUE,,,,,,,,10001,1.0,"[['DOB complaint', '05']]",['1989']
+1350,62-8,THOMAS STREET,,,,,,,,10013,1.0,"[['DOB complaint', '05']]",['1989']
+1351,59,GRAND STREET,,,,,,,,10013,4.0,"[['DOB complaint', '04'], ['DOB complaint', '05'], ['DOB complaint', '05'], ['DOB complaint', '05']]","['1989', '1989', '1989', '1989']"
+1352,187,DUANE ST,,,,,,,,10013,1.0,"[['DOB complaint', '05']]",['1989']
+1353,21,EAST 8 STREET,,,,,,,,10003,1.0,"[['DOB complaint', '20']]",['1989']
+1354,240,WEST 145 STREET,,,,,,,,10039,1.0,"[['DOB complaint', '43']]",['1989']
+1355,134,EAST 93 STREET,,,,,,,,10128,3.0,"[['DOB complaint', '09'], ['DOB complaint', '99'], ['DOB complaint', '03']]","['1989', '1989', '1989']"
+1356,132,WEST 45 STREET,,,,,,,,10036,1.0,"[['DOB complaint', '99']]",['1989']
+1357,210,WEST 14 STREET,,,,,,,,10011,1.0,"[['DOB complaint', '53']]",['1989']
+1358,302,WEST 76 STREET,,,,,,,,10023,2.0,"[['DOB complaint', '55'], ['DOB complaint', '55']]","['1989', '1989']"
+1359,200,EAST 26TH STREET,,,,,,,,10010,1.0,"[['DOB complaint', '05']]",['1989']
+1360,3210,BROADWAY,,,,,,,,10027,2.0,"[['DOB complaint', '30'], ['DOB complaint', '43']]","['1989', '1989']"
+1361,567,HUDSON STREET,,,,,,,,10014,1.0,"[['DOB complaint', '39']]",['1989']
+1362,32,WEST 132 STREET,,,,,,,,10037,1.0,"[['DOB complaint', '99']]",['1989']
+1363,205,W 22ND ST,,,,,,,,10011,1.0,"[['DOB complaint', '10']]",['1989']
+1364,509,EAST 85 STREET,,,,,,,,10028,2.0,"[['DOB complaint', '05'], ['DOB complaint', '05']]","['1989', '1989']"
+1365,11,EAST 89 STREET,,,,,,,,10128,1.0,"[['DOB complaint', '39']]",['1989']
+1366,165,MULBERRY STREET,,,,,,,,10013,1.0,"[['DOB complaint', '38']]",['1989']
+1367,467,WEST 157 STREET,,,,,,,,10032,1.0,"[['DOB complaint', '29']]",['1989']
+1368,945,WEST END AVE,,,,,,,,10025,1.0,"[['DOB complaint', '05']]",['1989']
+1369,251,CHURCH ST,,,,,,,,10013,2.0,"[['DOB complaint', '40'], ['DOB complaint', '99']]","['1989', '1989']"
+1370,520,WEST END AVENUE,,,,,,,,10024,1.0,"[['DOB complaint', '54']]",['1989']
+1371,345,3RD AVE,,,,,,,,10010,1.0,"[['DOB complaint', '05']]",['1989']
+1372,243,EAST 36 STREET,,,,,,,,10016,1.0,"[['DOB complaint', '39']]",['1989']
+1373,420,W 23RD ST,,,,,,,,,1.0,"[['DOB complaint', '05']]",['1989']
+1374,753,9 AVENUE,,,,,,,,10019,2.0,"[['DOB complaint', '05'], ['DOB complaint', '48']]","['1989', '1989']"
+1375,154,HESTER STREET,,,,,,,,10013,1.0,"[['DOB complaint', '31']]",['1989']
+1376,218,GRAND STREET,,,,,,,,10013,1.0,"[['DOB complaint', '43']]",['1989']
+1377,126,EAST 116 STREET,,,,,,,,10029,2.0,"[['DOB complaint', '05'], ['DOB complaint', '04']]","['1989', '1989']"
+1378,305,6 AVENUE,,,,,,,,10014,1.0,"[['DOB complaint', '53']]",['1989']
+1379,76-79,7TH AVENUE,,,,,,,,10011,1.0,"[['DOB complaint', '05']]",['1989']
+1380,19-25,ST. MARKS PLACE,,,,,,,,10003,1.0,"[['DOB complaint', '16']]",['1989']
+1381,1453,ST NICHOLAS AVENUE,,,,,,,,10033,1.0,"[['DOB complaint', '05']]",['1989']
+1382,11,WEST 8 STREET,,,,,,,,10011,1.0,"[['DOB complaint', '55']]",['1989']
+1383,130,WEST 17 STREET,,,,,,,,10011,1.0,"[['DOB complaint', '39']]",['1989']
+1384,73-5,READE STREET,,,,,,,,10007,1.0,"[['DOB complaint', '35']]",['1989']
+1385,315,EAST 43 STREET,,,,,,,,10017,1.0,"[['DOB complaint', '05']]",['1989']
+1386,8,WEST 38 STREET,,,,,,,,10018,1.0,"[['DOB complaint', '53']]",['1989']
+1387,5-7,W 127TH ST,,,,,,,,10027,1.0,"[['DOB complaint', '29']]",['1989']
+1388,546,WEST 50 STREET,,,,,,,,10019,1.0,"[['DOB complaint', '65']]",['1989']
+1389,109,WEST 26 STREET,,,,,,,,10001,1.0,"[['DOB complaint', '39']]",['1989']
+1390,1179,2 AVENUE,,,,,,,,10021,1.0,"[['DOB complaint', '39']]",['1989']
+1391,4640-48,BROADWAY,,,,,,,,10040,1.0,"[['DOB complaint', '30']]",['1989']
+1392,1312,MADISON AVENUE,,,,,,,,10128,1.0,"[['DOB complaint', '45']]",['1989']
+1393,525,PARK AVENUE,,,,,,,,10021,1.0,"[['DOB complaint', '05']]",['1989']
+1394,51,EAST 87 STREET,,,,,,,,10128,1.0,"[['DOB complaint', '05']]",['1989']
+1395,68-74,THOMAS ST,,,,,,,,10013,1.0,"[['DOB complaint', '05']]",['1989']
+1396,271,WEST 23 STREET,,,,,,,,10011,1.0,"[['DOB complaint', '28']]",['1989']
+1397,2092,8TH AVE,,,,,,,,10026,1.0,"[['DOB complaint', '43']]",['1989']
+1398,308,WEST 77 STREET,,,,,,,,10024,1.0,"[['DOB complaint', '20']]",['1989']
+1399,210,W 14THST,,,,,,,,,1.0,"[['DOB complaint', '53']]",['1989']
+1400,173-77,W 89TH ST,,,,,,,,10024,1.0,"[['DOB complaint', '43']]",['1989']
+1401,416-24,W 13TH ST,,,,,,,,10014,1.0,"[['DOB complaint', '31']]",['1989']
+1402,454,9 AVENUE,,,,,,,,10018,1.0,"[['DOB complaint', '38']]",['1989']
+1403,69,BANK STREET,,,,,,,,10014,1.0,"[['DOB complaint', '40']]",['1989']
+1404,255,WEST 43 STREET,,,,,,,,10036,1.0,"[['DOB complaint', '99']]",['1989']
+1405,16-18,EAST BROADWAY,,,,,,,,10002,1.0,"[['DOB complaint', '31']]",['1989']
+1406,505,WEST 37 STREET,,,,,,,,10018,1.0,"[['DOB complaint', '40']]",['1989']
+1407,13,EAST 17 STREET,,,,,,,,10003,1.0,"[['DOB complaint', '54']]",['1989']
+1408,600,W 111TH ST,,,,,,,,10025,1.0,"[['DOB complaint', '39']]",['1989']
+1409,14,BEDFORD STREET,,,,,,,,10014,2.0,"[['DOB complaint', '05'], ['DOB complaint', '05']]","['1989', '1989']"
+1410,101,1 AVENUE,,,,,,,,10003,3.0,"[['DOB complaint', '02'], ['DOB complaint', '03'], ['DOB complaint', '01']]","['1988', '1989', '1989']"
+1411,765,9 AVENUE,,,,,,,,10019,2.0,"[['DOB complaint', '05'], ['DOB complaint', '53']]","['1989', '1989']"
+1412,545,WEST 125 STREET,,,,,,,,10027,1.0,"[['DOB complaint', '40']]",['1989']
+1413,144,EAST 86 STREET,,,,,,,,10028,1.0,"[['DOB complaint', '99']]",['1989']
+1414,724,2 AVENUE,,,,,,,,10016,1.0,"[['DOB complaint', '43']]",['1989']
+1415,1266-8,FIRST AVENUE,,,,,,,,10021,1.0,"[['DOB complaint', '29']]",['1989']
+1416,1412,1ST AVE,,,,,,,,10021,1.0,"[['DOB complaint', '05']]",['1989']
+1417,34,WEST 14 STREET,,,,,,,,10011,1.0,"[['DOB complaint', '39']]",['1989']
+1418,202,WEST 84 STREET,,,,,,,,10024,1.0,"[['DOB complaint', '05']]",['1989']
+1419,350,WEST END AVENUE,,,,,,,,10024,1.0,"[['DOB complaint', '05']]",['1989']
+1420,42,E 33 STREET,,,,,,,,10016,1.0,"[['DOB complaint', '40']]",['1989']
+1421,228,EAST 86 STREET,,,,,,,,10028,1.0,"[['DOB complaint', '05']]",['1989']
+1422,3,WEST 30 STREET,,,,,,,,10001,1.0,"[['DOB complaint', '32']]",['1989']
+1423,115,EAST 57 STREET,,,,,,,,10022,1.0,"[['DOB complaint', '05']]",['1989']
+1424,3815,10 AVENUE,,,,,,,,10034,1.0,"[['DOB complaint', '46']]",['1989']
+1425,9,ST MARKS PLACE,,,,,,,,10003,1.0,"[['DOB complaint', '05']]",['1989']
+1426,78,WEST 82 STREET,,,,,,,,10024,1.0,"[['DOB complaint', '05']]",['1989']
+1427,106,FULTON STREET,,,,,,,,10038,1.0,"[['DOB complaint', '38']]",['1989']
+1428,123,WEST 28 STREET,,,,,,,,10001,1.0,"[['DOB complaint', '32']]",['1989']
+1429,61-69,COOPER ST,,,,,,,,10034,1.0,"[['DOB complaint', '04']]",['1989']
+1430,352,WEST 110 STREET,,,,,,,,10025,1.0,"[['DOB complaint', '43']]",['1989']
+1431,37,WEST 8 STREET,,,,,,,,10011,1.0,"[['DOB complaint', '05']]",['1989']
+1432,51,BETHUNE STREET,,,,,,,,10014,1.0,"[['DOB complaint', '31']]",['1989']
+1433,143,EAST 13 STREET,,,,,,,,10003,1.0,"[['DOB complaint', '05']]",['1989']
+1434,133,CENTRE STREET,,,,,,,,10013,1.0,"[['DOB complaint', '99']]",['1989']
+1435,44,WEST 8 STREET,,,,,,,,10011,3.0,"[['DOB complaint', '49'], ['DOB complaint', '49'], ['DOB complaint', '49']]","['1989', '1989', '1989']"
+1436,66,2ND AVE,,,,,,,,10003,1.0,"[['DOB complaint', '50']]",['1989']
+1437,531,WEST 211 STREET,,,,,,,,10034,1.0,"[['DOB complaint', '10']]",['1989']
+1438,1716,2 AVENUE,,,,,,,,10128,1.0,"[['DOB complaint', '05']]",['1989']
+1439,545,BROADWAY,,,,,,,,10012,1.0,"[['DOB complaint', '05']]",['1989']
+1440,158,EAST 35 STREET,,,,,,,,10016,1.0,"[['DOB complaint', '32']]",['1989']
+1441,264,ELIZABETH STREET,,,,,,,,10012,2.0,"[['DOB complaint', '16'], ['DOB complaint', '04']]","['1989', '1989']"
+1442,420,W 23 ST,,,,,,,,,1.0,"[['DOB complaint', '05']]",['1989']
+1443,251,CANAL STREET,,,,,,,,10013,2.0,"[['DOB complaint', '43'], ['DOB complaint', '52']]","['1989', '1989']"
+1444,148,WEST 70 STREET,,,,,,,,10023,1.0,"[['DOB complaint', '05']]",['1989']
+1445,8,WEST 13 STREET,,,,,,,,10011,1.0,"[['DOB complaint', '49']]",['1989']
+1446,13,EAST 37 STREET,,,,,,,,10016,1.0,"[['DOB complaint', '05']]",['1989']
+1447,90-94,HAMILTON PLACE,,,,,,,,10031,1.0,"[['DOB complaint', '14']]",['1989']
+1448,263,WEST END AVENUE,,,,,,,,10023,1.0,"[['DOB complaint', '70']]",['1989']
+1449,39,CHARLES STREET,,,,,,,,10014,1.0,"[['DOB complaint', '28']]",['1989']
+1450,97,CHARLES STREET,,,,,,,,10014,1.0,"[['DOB complaint', '33']]",['1989']
+1451,638,EAST 12 STREET,,,,,,,,10009,1.0,"[['DOB complaint', '28']]",['1989']
+1452,4,WEST 18 STREET,,,,,,,,10011,1.0,"[['DOB complaint', '40']]",['1989']
+1453,172,THOMPSON STREET,,,,,,,,10012,1.0,"[['DOB complaint', '05']]",['1989']
+1454,155,EAST 52 STREET,,,,,,,,10022,1.0,"[['DOB complaint', '05']]",['1989']
+1455,118,EAST 40 STREET,,,,,,,,10016,1.0,"[['DOB complaint', '46']]",['1989']
+1456,328,WEST 15 STREET,,,,,,,,10011,1.0,"[['DOB complaint', '05']]",['1989']
+1457,101,RIVINGTON STREET,,,,,,,,10002,1.0,"[['DOB complaint', '05']]",['1989']
+1458,328,WEST 17TH STREET,,,,,,,,,1.0,"[['DOB complaint', '54']]",['1989']
+1459,155,W 70 ST,,,,,,,,10023,1.0,"[['DOB complaint', '03']]",['1989']
+1460,200,EAST 27 STREET,,,,,,,,10016,1.0,"[['DOB complaint', '67']]",['1989']
+1461,31,WEST 21 STREET,,,,,,,,10010,1.0,"[['DOB complaint', '38']]",['1989']
+1462,3,HANOVER SQUARE,,,,,,,,10005,4.0,"[['DOB complaint', '05'], ['DOB complaint', '70'], ['DOB complaint', '99'], ['DOB complaint', '99']]","['1989', '1989', '1989', '1989']"
+1463,422,6 AVENUE,,,,,,,,10011,1.0,"[['DOB complaint', '99']]",['1989']
+1464,135,WEST 50 STREET,,,,,,,,10019,1.0,"[['DOB complaint', '05']]",['1989']
+1465,80,UNIVERSITY PLACE,,,,,,,,10003,1.0,"[['DOB complaint', '49']]",['1989']
+1466,1205,1 AVENUE,,,,,,,,10021,1.0,"[['DOB complaint', '30']]",['1989']
+1467,54,BARROW STREET,,,,,,,,10014,2.0,"[['DOB complaint', '43'], ['DOB complaint', '41']]","['1989', '1989']"
+1468,629,WEST 27 STREET,,,,,,,,10001,1.0,"[['DOB complaint', '99']]",['1989']
+1469,237,PARK AVE,,,,,,,,,1.0,"[['DOB complaint', '46']]",['1989']
+1470,18,WEST 20 STREET,,,,,,,,10011,1.0,"[['DOB complaint', '05']]",['1989']
+1471,7,WEST 8 STREET,,,,,,,,10011,1.0,"[['DOB complaint', '99']]",['1989']
+1472,563,5 AVENUE,,,,,,,,10017,1.0,"[['DOB complaint', '09']]",['1989']
+1473,303,EAST 94 STREET,,,,,,,,10128,1.0,"[['DOB complaint', '54']]",['1989']
+1474,43,WEST 8 STREET,,,,,,,,10011,1.0,"[['DOB complaint', '05']]",['1989']
+1475,199,EAST 3 STREET,,,,,,,,10009,1.0,"[['DOB complaint', '05']]",['1989']
+1476,2480-82,8TH AVENUE,,,,,,,,,1.0,"[['DOB complaint', '43']]",['1989']
+1477,225,WEST 131 STREET,,,,,,,,10027,1.0,"[['DOB complaint', '05']]",['1989']
+1478,111-3,W 28TH ST,,,,,,,,10001,1.0,"[['DOB complaint', '31']]",['1989']
+1479,204,EAST 32 STREET,,,,,,,,10016,1.0,"[['DOB complaint', '03']]",['1989']
+1480,177,EAST 96 STREET,,,,,,,,10128,1.0,"[['DOB complaint', '43']]",['1989']
+1481,202,EAST 42 STREET,,,,,,,,10017,1.0,"[['DOB complaint', '02']]",['1989']
+1482,145,WEST 18 STREET,,,,,,,,10011,1.0,"[['DOB complaint', '39']]",['1989']
+1483,76-78,THOMPSON ST,,,,,,,,10012,1.0,"[['DOB complaint', '05']]",['1989']
+1484,100,WEST 86 STREET,,,,,,,,10024,1.0,"[['DOB complaint', '29']]",['1989']
+1485,219,WEST 22 STREET,,,,,,,,10011,1.0,"[['DOB complaint', '05']]",['1989']
+1486,240,PARK AVENUE,,,,,,,,10017,3.0,"[['DOB complaint', '05'], ['DOB complaint', '05'], ['DOB complaint', '05']]","['1989', '1989', '1989']"
+1487,321,EAST 85 STREET,,,,,,,,10028,1.0,"[['DOB complaint', '31']]",['1989']
+1488,555,3 AVENUE,,,,,,,,10016,1.0,"[['DOB complaint', '10']]",['1989']
+1489,41,WEST 24 STREET,,,,,,,,10010,2.0,"[['DOB complaint', '05'], ['DOB complaint', '65']]","['1989', '1989']"
+1490,548,5 AVENUE,,,,,,,,10036,1.0,"[['DOB complaint', '99']]",['1989']
+1491,199,8 AVENUE,,,,,,,,10011,1.0,"[['DOB complaint', '99']]",['1989']
+1492,1452,2 AVENUE,,,,,,,,10021,3.0,"[['DOB complaint', '05'], ['DOB complaint', '05'], ['DOB complaint', '66']]","['1989', '1989', '1989']"
+1493,81,ST MARKS PLACE,,,,,,,,10003,1.0,"[['DOB complaint', '53']]",['1989']
+1494,309,EAST 8 STREET,,,,,,,,10009,1.0,"[['DOB complaint', '05']]",['1989']
+1495,167,BLEECKER STREET,,,,,,,,10012,1.0,"[['DOB complaint', '05']]",['1989']
+1496,65,BANK STREET,,,,,,,,10014,2.0,"[['DOB complaint', '32'], ['DOB complaint', '05']]","['1989', '1989']"
+1497,38,WEST 21 STREET,,,,,,,,10010,1.0,"[['DOB complaint', '66']]",['1989']
+1498,82,THOMPSON ST,,,,,,,,10012,1.0,"[['DOB complaint', '30']]",['1989']
+1499,268,WEST 12 STREET,,,,,,,,10014,1.0,"[['DOB complaint', '10']]",['1989']
+1500,234,THOMPSON STREET,,,,,,,,10012,1.0,"[['DOB complaint', '54']]",['1989']
+1501,2201,AMSTERDAM AVENUE,,,,,,,,10032,3.0,"[['DOB complaint', '05'], ['DOB complaint', '31'], ['DOB complaint', '43']]","['1989', '1989', '1989']"
+1502,201-3,E 86TH ST,,,,,,,,10028,1.0,"[['DOB complaint', '05']]",['1989']
+1503,37 1/2,SAINT MARKS PLACE,,,,,,,,,2.0,"[['DOB complaint', '05'], ['DOB complaint', '05']]","['1989', '1989']"
+1504,109,EAST 35 STREET,,,,,,,,10016,1.0,"[['DOB complaint', '55']]",['1989']
+1505,308,EAST 44 STREET,,,,,,,,10017,1.0,"[['DOB complaint', '46']]",['1989']
+1506,318,EAST 8 STREET,,,,,,,,10009,1.0,"[['DOB complaint', '43']]",['1989']
+1507,142,STANTON STREET,,,,,,,,10002,1.0,"[['DOB complaint', '28']]",['1989']
+1508,52-54,3RD AVE,,,,,,,,10003,1.0,"[['DOB complaint', '05']]",['1989']
+1509,956,5 AVENUE,,,,,,,,10021,1.0,"[['DOB complaint', '05']]",['1989']
+1510,2101,BROADWAY,,,,,,,,10023,1.0,"[['DOB complaint', '43']]",['1989']
+1511,24,JEFFERSON STREET,,,,,,,,10002,1.0,"[['DOB complaint', '55']]",['1989']
+1512,1071,5TH AVE,,,,,,,,,1.0,"[['DOB complaint', '24']]",['1989']
+1513,1364-8,LEXINGTON AVE,,,,,,,,10128,1.0,"[['DOB complaint', '05']]",['1989']
+1514,179,MADISON AVENUE,,,,,,,,10016,1.0,"[['DOB complaint', '04']]",['1989']
+1515,2101-15,BROADWAY,,,,,,,,10023,1.0,"[['DOB complaint', '53']]",['1989']
+1516,134,WEST 4 STREET,,,,,,,,10012,1.0,"[['DOB complaint', '05']]",['1989']
+1517,210,WEST 55 STREET,,,,,,,,10019,3.0,"[['DOB complaint', '45'], ['DOB complaint', '05'], ['DOB complaint', '05']]","['1989', '1989', '1989']"
+1518,60,WATTS STREET,,,,,,,,10013,1.0,"[['DOB complaint', '45']]",['1989']
+1519,400,WEST 43 STREET,,,,,,,,10036,1.0,"[['DOB complaint', '46']]",['1989']
+1520,660,ACADEMY STREET,,,,,,,,10034,1.0,"[['DOB complaint', '43']]",['1989']
+1521,247,WEST 131 STREET,,,,,,,,10027,1.0,"[['DOB complaint', '05']]",['1989']
+1522,263,W 12TH ST,,,,,,,,,1.0,"[['DOB complaint', '48']]",['1989']
+1523,521,WEST 39 STREET,,,,,,,,10018,1.0,"[['DOB complaint', '05']]",['1989']
+1524,300,WEST 72 STREET,,,,,,,,10023,1.0,"[['DOB complaint', '99']]",['1989']
+1525,305,WEST END AVENUE,,,,,,,,10023,3.0,"[['DOB complaint', '66'], ['DOB complaint', '53'], ['DOB complaint', '05']]","['1989', '1989', '1989']"
+1526,112-8,W 21TH ST,,,,,,,,10011,1.0,"[['DOB complaint', '54']]",['1989']
+1527,204,EAST 84 STREET,,,,,,,,10028,1.0,"[['DOB complaint', '05']]",['1989']
+1528,60,BAYARD STREET,,,,,,,,10013,1.0,"[['DOB complaint', '43']]",['1989']
+1529,501,WEST 19TH STREET,,,,,,,,10011,1.0,"[['DOB complaint', '99']]",['1989']
+1530,675,MADISON AVENUE,,,,,,,,10021,2.0,"[['DOB complaint', '05'], ['DOB complaint', '05']]","['1989', '1989']"
+1531,45,TUDOR CITY PLACE,,,,,,,,10017,1.0,"[['DOB complaint', '46']]",['1989']
+1532,545,8 AVENUE,,,,,,,,10018,1.0,"[['DOB complaint', '39']]",['1989']
+1533,11,WEST 20 STREET,,,,,,,,10011,1.0,"[['DOB complaint', '53']]",['1989']
+1534,256-8,E 2ND ST,,,,,,,,10009,2.0,"[['DOB complaint', '46'], ['DOB complaint', '46']]","['1989', '1989']"
+1535,234,EAST 24 STREET,,,,,,,,10010,1.0,"[['DOB complaint', '05']]",['1989']
+1536,201,WEST 79 STREET,,,,,,,,10024,1.0,"[['DOB complaint', '05']]",['1989']
+1537,420,PARK AVENUE,,,,,,,,10022,1.0,"[['DOB complaint', '53']]",['1989']
+1538,45,WEST 86 STREET,,,,,,,,10024,2.0,"[['DOB complaint', '05'], ['DOB complaint', '05']]","['1989', '1989']"
+1539,573,BROADWAY,,,,,,,,10012,1.0,"[['DOB complaint', '05']]",['1989']
+1540,149,EAST 33 STREET,,,,,,,,10016,1.0,"[['DOB complaint', '99']]",['1989']
+1541,27,ELDRIDGE STREET,,,,,,,,10002,1.0,"[['DOB complaint', '46']]",['1989']
+1542,237,WEST 37 STREET,,,,,,,,10018,1.0,"[['DOB complaint', '38']]",['1989']
+1543,1631,2 AVENUE,,,,,,,,10028,1.0,"[['DOB complaint', '53']]",['1989']
+1544,150,WEST 83 STREET,,,,,,,,10024,1.0,"[['DOB complaint', '40']]",['1989']
+1545,508,7 AVENUE,,,,,,,,10018,1.0,"[['DOB complaint', '99']]",['1989']
+1546,87,CHRISTOPHER STREET,,,,,,,,10014,1.0,"[['DOB complaint', '32']]",['1989']
+1547,1713,1ST AVE,,,,,,,,10128,1.0,"[['DOB complaint', '05']]",['1989']
+1548,248,WEST 20 STREET,,,,,,,,10011,1.0,"[['DOB complaint', '05']]",['1989']
+1549,511,GREENWICH STREET,,,,,,,,10013,1.0,"[['DOB complaint', '39']]",['1989']
+1550,31,BEDFORD STREET,,,,,,,,10014,1.0,"[['DOB complaint', '05']]",['1989']
+1551,12,EAST 64 STREET,,,,,,,,10021,1.0,"[['DOB complaint', '05']]",['1989']
+1552,231,GRAND STREET,,,,,,,,10013,1.0,"[['DOB complaint', '41']]",['1989']
+1553,28,OLD SLIP,,,,,,,,10005,1.0,"[['DOB complaint', '49']]",['1989']
+1554,250,PARK AVENUE SOUTH,,,,,,,,10003,2.0,"[['DOB complaint', '99'], ['DOB complaint', '99']]","['1989', '1989']"
+1555,319,WEST 94 STREET,,,,,,,,10025,1.0,"[['DOB complaint', '99']]",['1989']
+1556,24,CHARLES STREET,,,,,,,,10014,1.0,"[['DOB complaint', '05']]",['1989']
+1557,68,THOMPSON STREET,,,,,,,,10012,1.0,"[['DOB complaint', '05']]",['1989']
+1558,307,EAST 92 STREET,,,,,,,,10128,1.0,"[['DOB complaint', '65']]",['1989']
+1559,266,WEST 22 STREET,,,,,,,,10011,2.0,"[['DOB complaint', '05'], ['DOB complaint', '05']]","['1989', '1989']"
+1560,25,EAST 10 STREET,,,,,,,,10003,1.0,"[['DOB complaint', '53']]",['1989']
+1561,390,6 AVENUE,,,,,,,,10011,1.0,"[['DOB complaint', '38']]",['1989']
+1562,1928,2 AVENUE,,,,,,,,10029,1.0,"[['DOB complaint', '10']]",['1989']
+1563,4,SOUTH PINEHURST AVENUE,,,,,,,,10033,1.0,"[['DOB complaint', '54']]",['1989']
+1564,33,POST AVENUE,,,,,,,,10034,1.0,"[['DOB complaint', '99']]",['1989']
+1565,261,WEST 22 STREET,,,,,,,,10011,3.0,"[['DOB complaint', '04'], ['DOB complaint', '04'], ['DOB complaint', '05']]","['1989', '1989', '1989']"
+1566,77,WHITE STREET,,,,,,,,10013,1.0,"[['DOB complaint', '05']]",['1989']
+1567,299,MADISON AVENUE,,,,,,,,10017,2.0,"[['DOB complaint', '05'], ['DOB complaint', '05']]","['1989', '1989']"
+1568,55,WEST 46 STREET,,,,,,,,10036,1.0,"[['DOB complaint', '99']]",['1989']
+1569,38,WEST 43 STREET,,,,,,,,10036,1.0,"[['DOB complaint', '40']]",['1989']
+1570,29,EAST 64 STREET,,,,,,,,10021,1.0,"[['DOB complaint', '99']]",['1989']
+1571,403,WEST 154 STREET,,,,,,,,10032,1.0,"[['DOB complaint', '99']]",['1989']
+1572,1702,AMSTERDAM AVENUE,,,,,,,,10031,1.0,"[['DOB complaint', '28']]",['1989']
+1573,96-102,READE STREET,,,,,,,,10013,1.0,"[['DOB complaint', '43']]",['1989']
+1574,362,WEST 117 STREET,,,,,,,,10026,1.0,"[['DOB complaint', '10']]",['1989']
+1575,17,WEST 45 STREET,,,,,,,,10036,1.0,"[['DOB complaint', '05']]",['1989']
+1576,18,EAST 116 STREET,,,,,,,,10029,1.0,"[['DOB complaint', '31']]",['1989']
+1577,2785,BROADWAY,,,,,,,,10025,1.0,"[['DOB complaint', '55']]",['1989']
+1578,263,EAST 10 STREET,,,,,,,,10009,3.0,"[['DOB complaint', '05'], ['DOB complaint', '05'], ['DOB complaint', '05']]","['1989', '1989', '1989']"
+1579,22,WEST 16 STREET,,,,,,,,10011,3.0,"[['DOB complaint', '40'], ['DOB complaint', '99'], ['DOB complaint', '99']]","['1989', '1989', '1989']"
+1580,213-17,GRAND ST,,,,,,,,10013,1.0,"[['DOB complaint', '39']]",['1989']
+1581,338,WEST 19 STREET,,,,,,,,10011,1.0,"[['DOB complaint', '05']]",['1989']
+1582,147,WEST 81 STREET,,,,,,,,10024,3.0,"[['DOB complaint', '05'], ['DOB complaint', '05'], ['DOB complaint', '05']]","['1989', '1989', '1989']"
+1583,1825,2 AVENUE,,,,,,,,10128,1.0,"[['DOB complaint', '05']]",['1989']
+1584,415,BLEECKER STREET,,,,,,,,10014,1.0,"[['DOB complaint', '05']]",['1989']
+1585,529,HUDSON STREET,,,,,,,,10014,1.0,"[['DOB complaint', '05']]",['1989']
+1586,121,MAC DOUGAL STREET,,,,,,,,10012,1.0,"[['DOB complaint', '55']]",['1989']
+1587,15,MAIDEN LANE,,,,,,,,10038,1.0,"[['DOB complaint', '39']]",['1989']
+1588,428,E 116TH ST,,,,,,,,10029,1.0,"[['DOB complaint', '54']]",['1989']
+1589,97,7 AVENUE SOUTH,,,,,,,,10014,1.0,"[['DOB complaint', '53']]",['1989']
+1590,53,WEST 14 STREET,,,,,,,,10011,1.0,"[['DOB complaint', '33']]",['1989']
+1591,2094,8TH AVE,,,,,,,,10026,1.0,"[['DOB complaint', '29']]",['1989']
+1592,380,MADISON AVENUE,,,,,,,,10017,1.0,"[['DOB complaint', '38']]",['1989']
+1593,15,WEST 65 STREET,,,,,,,,10023,1.0,"[['DOB complaint', '46']]",['1989']
+1594,519,3 AVENUE,,,,,,,,10016,1.0,"[['DOB complaint', '53']]",['1989']
+1595,179,7 AVENUE,,,,,,,,10011,1.0,"[['DOB complaint', '05']]",['1989']
+1596,29,WASHINGTON SQUARE WEST,,,,,,,,,1.0,"[['DOB complaint', '05']]",['1989']
+1597,422,EAST 72 STREET,,,,,,,,10021,1.0,"[['DOB complaint', '14']]",['1989']
+1598,422,EAST 86 STREET,,,,,,,,10028,1.0,"[['DOB complaint', '30']]",['1989']
+1599,144,7 AVENUE SOUTH,,,,,,,,10014,1.0,"[['DOB complaint', '65']]",['1989']
+1600,68,CROSBY STREET,,,,,,,,10012,2.0,"[['DOB complaint', '67'], ['DOB complaint', '23']]","['1989', '1989']"
+1601,639-45,W 207TH ST,,,,,,,,10034,1.0,"[['DOB complaint', '10']]",['1989']
+1602,186,WEST 4 STREET,,,,,,,,10014,1.0,"[['DOB complaint', '05']]",['1989']
+1603,1521,3 AVENUE,,,,,,,,10028,1.0,"[['DOB complaint', '05']]",['1989']
+1604,45,WEST 21 STREET,,,,,,,,10010,1.0,"[['DOB complaint', '99']]",['1989']
+1605,605,WEST END AVENUE,,,,,,,,10024,1.0,"[['DOB complaint', '54']]",['1989']
+1606,605,WEST 114 STREET,,,,,,,,10025,2.0,"[['DOB complaint', '10'], ['DOB complaint', '40']]","['1989', '1989']"
+1607,922,7 AVENUE,,,,,,,,10019,1.0,"[['DOB complaint', '70']]",['1989']
+1608,87,BARROW STREET,,,,,,,,10014,1.0,"[['DOB complaint', '54']]",['1989']
+1609,215,DYCKMAN STREET,,,,,,,,10034,1.0,"[['DOB complaint', '43']]",['1989']
+1610,526,EAST 84 STREET,,,,,,,,10028,1.0,"[['DOB complaint', '05']]",['1989']
+1611,362-66,W 116TH ST,,,,,,,,10026,1.0,"[['DOB complaint', '05']]",['1989']
+1612,2067,BROADWAY,,,,,,,,10023,1.0,"[['DOB complaint', '38']]",['1989']
+1613,132,EAST 35 STREET,,,,,,,,10016,1.0,"[['DOB complaint', '05']]",['1989']
+1614,360,WEST 22 STREET,,,,,,,,10011,1.0,"[['DOB complaint', '05']]",['1989']
+1615,953,5 AVENUE,,,,,,,,10021,1.0,"[['DOB complaint', '03']]",['1989']
+1616,20,EAST 42 STREET,,,,,,,,10017,1.0,"[['DOB complaint', '31']]",['1989']
+1617,97,ST MARKS PLACE,,,,,,,,10009,1.0,"[['DOB complaint', '43']]",['1989']
+1618,1120,6 AVENUE,,,,,,,,10036,1.0,"[['DOB complaint', '05']]",['1989']
+1619,2096,8 AVENUE,,,,,,,,10026,1.0,"[['DOB complaint', '29']]",['1989']
+1620,414,WEST 51 STREET,,,,,,,,10019,2.0,"[['DOB complaint', '31'], ['DOB complaint', '99']]","['1989', '1989']"
+1621,128,SPRING STREET,,,,,,,,10012,1.0,"[['DOB complaint', '32']]",['1989']
+1622,2051,2 AVENUE,,,,,,,,10029,1.0,"[['DOB complaint', '41']]",['1989']
+1623,406,WEST 42 STREET,,,,,,,,10036,1.0,"[['DOB complaint', '10']]",['1989']
+1624,304,WEST 145 STREET,,,,,,,,10039,1.0,"[['DOB complaint', '43']]",['1989']
+1625,20,WEST 16 STREET,,,,,,,,10011,1.0,"[['DOB complaint', '69']]",['1989']
+1626,129,WEST 27 STREET,,,,,,,,10001,1.0,"[['DOB complaint', '99']]",['1989']
+1627,110,E 1ST ST,,,,,,,,10009,1.0,"[['DOB complaint', '05']]",['1989']
+1628,653,EAST 5 STREET,,,,,,,,10009,1.0,"[['DOB complaint', '01']]",['1989']
+1629,310,WEST 81 STREET,,,,,,,,10024,1.0,"[['DOB complaint', '41']]",['1989']
+1630,146,WEST 79 STREET,,,,,,,,10024,1.0,"[['DOB complaint', '05']]",['1989']
+1631,1175,3 AVENUE,,,,,,,,10021,2.0,"[['DOB complaint', '04'], ['DOB complaint', '04']]","['1989', '1989']"
+1632,605-9,WEST 114 STREET,,,,,,,,10025,1.0,"[['DOB complaint', '10']]",['1989']
+1633,14,WEST 68 STREET,,,,,,,,10023,1.0,"[['DOB complaint', '05']]",['1989']
+1634,516,WEST 151 STREET,,,,,,,,10031,1.0,"[['DOB complaint', '05']]",['1989']
+1635,120,WEST 46 STREET,,,,,,,,10036,3.0,"[['DOB complaint', '23'], ['DOB complaint', '68'], ['DOB complaint', '69']]","['1989', '1989', '1989']"
+1636,810,6 AVENUE,,,,,,,,10001,1.0,"[['DOB complaint', '99']]",['1989']
+1637,203,WEST 25 STREET,,,,,,,,10001,1.0,"[['DOB complaint', '29']]",['1989']
+1638,22,EAST 38 STREET,,,,,,,,10016,1.0,"[['DOB complaint', '46']]",['1989']
+1639,43-45,WORTH STREET,,,,,,,,10013,1.0,"[['DOB complaint', '05']]",['1989']
+1640,176,WEST 81 STREET,,,,,,,,10024,1.0,"[['DOB complaint', '05']]",['1989']
+1641,132,EAST 17 STREET,,,,,,,,10003,1.0,"[['DOB complaint', '54']]",['1989']
+1642,156,BLEECKER STREET,,,,,,,,10012,1.0,"[['DOB complaint', '05']]",['1989']
+1643,4,EAST 125 STREET,,,,,,,,10035,1.0,"[['DOB complaint', '31']]",['1989']
+1644,72,THOMAS STREET,,,,,,,,10013,1.0,"[['DOB complaint', '41']]",['1989']
+1645,363,WEST 57 STREET,,,,,,,,10019,4.0,"[['DOB complaint', '39'], ['DOB complaint', '99'], ['DOB complaint', '39'], ['DOB complaint', '39']]","['1989', '1989', '1989', '1989']"
+1646,101,WEST 67 STREET,,,,,,,,10023,1.0,"[['DOB complaint', '46']]",['1989']
+1647,102,WEST 80 STREET,,,,,,,,10024,1.0,"[['DOB complaint', '05']]",['1989']
+1648,96-102,READE ST,,,,,,,,10013,1.0,"[['DOB complaint', '05']]",['1989']
+1649,208-10,W 55 STREET,,,,,,,,10019,1.0,"[['DOB complaint', '05']]",['1989']
+1650,345,6 AVENUE,,,,,,,,10014,2.0,"[['DOB complaint', '05'], ['DOB complaint', '05']]","['1989', '1989']"
+1651,398,WEST BROADWAY,,,,,,,,10012,2.0,"[['DOB complaint', '05'], ['DOB complaint', '05']]","['1989', '1989']"
+1652,151,EAST 20 STREET,,,,,,,,10003,1.0,"[['DOB complaint', '54']]",['1989']
+1653,103-9,WEST 104 STREET,,,,,,,,10025,1.0,"[['DOB complaint', '04']]",['1989']
+1654,1,EAST 93 STREET,,,,,,,,10128,1.0,"[['DOB complaint', '05']]",['1989']
+1655,1,ELIZABETH STREET,,,,,,,,10013,1.0,"[['DOB complaint', '43']]",['1989']
+1656,208-10,1 AVE,,,,,,,,10009,1.0,"[['DOB complaint', '54']]",['1989']
+1657,2480,8TH AVENUE,,,,,,,,,1.0,"[['DOB complaint', '05']]",['1989']
+1658,62-66,THOMAS STREET,,,,,,,,10013,1.0,"[['DOB complaint', '05']]",['1989']
+1659,176,SUFFOLK STREET,,,,,,,,10002,1.0,"[['DOB complaint', '05']]",['1989']
+1660,462,E 115TH ST,,,,,,,,10029,1.0,"[['DOB complaint', '10']]",['1989']
+1661,133,WEST 25 STREET,,,,,,,,10001,1.0,"[['DOB complaint', '38']]",['1989']
+1662,511,WEST 159 STREET,,,,,,,,10032,1.0,"[['DOB complaint', '43']]",['1989']
+1663,219,1 AVENUE,,,,,,,,10003,1.0,"[['DOB complaint', '05']]",['1989']
+1664,288,8 AVENUE,,,,,,,,10001,1.0,"[['DOB complaint', '44']]",['1989']
+1665,45,WEST 8 STREET,,,,,,,,10011,3.0,"[['DOB complaint', '05'], ['DOB complaint', '99'], ['DOB complaint', '99']]","['1989', '1989', '1989']"
+1666,528,EAST 85 STREET,,,,,,,,10028,1.0,"[['DOB complaint', '32']]",['1989']
+1667,329,EAST 94 STREET,,,,,,,,10128,1.0,"[['DOB complaint', '43']]",['1989']
+1668,247,WEST 98 STREET,,,,,,,,10025,1.0,"[['DOB complaint', '05']]",['1989']
+1669,39,5 AVENUE,,,,,,,,10003,1.0,"[['DOB complaint', '99']]",['1989']
+1670,608,EAST 12 STREET,,,,,,,,10009,2.0,"[['DOB complaint', '54'], ['DOB complaint', '54']]","['1989', '1989']"
+1671,7,EAST 40 STREET,,,,,,,,10016,1.0,"[['DOB complaint', '52']]",['1989']
+1672,265,WEST 19 STREET,,,,,,,,10011,1.0,"[['DOB complaint', '05']]",['1989']
+1673,15,LEROY STREET,,,,,,,,10014,1.0,"[['DOB complaint', '05']]",['1989']
+1674,99,PARK AVE,,,,,,,,10016,1.0,"[['DOB complaint', '46']]",['1989']
+1675,2,WEST 129 STREET,,,,,,,,10027,1.0,"[['DOB complaint', '05']]",['1989']
+1676,43,WEST 86 STREET,,,,,,,,10024,1.0,"[['DOB complaint', '41']]",['1989']
+1677,23,THOMPSON ST,,,,,,,,10013,1.0,"[['DOB complaint', '05']]",['1989']
+1678,1156,2 AVENUE,,,,,,,,10021,1.0,"[['DOB complaint', '05']]",['1989']
+1679,150,EAST 61 STREET,,,,,,,,10021,1.0,"[['DOB complaint', '05']]",['1989']
+1680,148-50,WEST 46TH ST,,,,,,,,10036,1.0,"[['DOB complaint', '39']]",['1989']
+1681,130,WEST 32 STREET,,,,,,,,10001,1.0,"[['DOB complaint', '01']]",['1989']
+1682,25,WEST 71 STREET,,,,,,,,10023,1.0,"[['DOB complaint', '05']]",['1989']
+1683,323,WEST 38 STREET,,,,,,,,10018,1.0,"[['DOB complaint', '30']]",['1989']
+1684,228,WEST 43 STREET,,,,,,,,10036,1.0,"[['DOB complaint', '05']]",['1989']
+1685,19,WEST 8 STREET,,,,,,,,10011,2.0,"[['DOB complaint', '43'], ['DOB complaint', '99']]","['1989', '1989']"
+1686,355,WEST 115 STREET,,,,,,,,10026,1.0,"[['DOB complaint', '24']]",['1989']
+1687,517,WEST 29 STREET,,,,,,,,10001,1.0,"[['DOB complaint', '99']]",['1989']
+1688,140,7 AVENUE,,,,,,,,10011,1.0,"[['DOB complaint', '69']]",['1989']
+1689,443,LENOX AVENUE,,,,,,,,10037,1.0,"[['DOB complaint', '45']]",['1989']
+1690,40,W 8TH ST,,,,,,,,10011,2.0,"[['DOB complaint', '20'], ['DOB complaint', '49']]","['1989', '1989']"
+1691,145-9,W 122ND ST,,,,,,,,10027,1.0,"[['DOB complaint', '05']]",['1989']
+1692,332,EAST 84 STREET,,,,,,,,10028,2.0,"[['DOB complaint', '05'], ['DOB complaint', '05']]","['1989', '1989']"
+1693,505,E 6TH ST,,,,,,,,10009,2.0,"[['DOB complaint', '46'], ['DOB complaint', '46']]","['1989', '1989']"
+1694,53-55,BEACH STREET,,,,,,,,10013,1.0,"[['DOB complaint', '30']]",['1989']
+1695,49,WEST 9 STREET,,,,,,,,10011,1.0,"[['DOB complaint', '05']]",['1989']
+1696,1101,BROADWAY,,,,,,,,10010,2.0,"[['DOB complaint', '05'], ['DOB complaint', '05']]","['1989', '1989']"
+1697,143-47,FRANKLIN ST,,,,,,,,10013,1.0,"[['DOB complaint', '99']]",['1989']
+1698,1090,ST NICHOLAS AVENUE,,,,,,,,10032,1.0,"[['DOB complaint', '05']]",['1989']
+1699,100,WEST 139 STREET,,,,,,,,10030,1.0,"[['DOB complaint', '05']]",['1989']
+1700,244-50,W 54TH ST,,,,,,,,10019,1.0,"[['DOB complaint', '05']]",['1989']
+1701,718,BROADWAY,,,,,,,,10003,1.0,"[['DOB complaint', '05']]",['1989']
+1702,60,ST MARKS PLACE,,,,,,,,10003,1.0,"[['DOB complaint', '04']]",['1989']
+1703,111,WADSWORTH AVE,,,,,,,,10033,1.0,"[['DOB complaint', '99']]",['1989']
+1704,510,W 35 STREET,,,,,,,,10001,1.0,"[['DOB complaint', '31']]",['1989']
+1705,302,W 145 STREET,,,,,,,,10039,1.0,"[['DOB complaint', '43']]",['1989']
+1706,38,RENWICK STREET,,,,,,,,10013,1.0,"[['DOB complaint', '54']]",['1989']
+1707,477-79,W 165TH ST,,,,,,,,10032,1.0,"[['DOB complaint', '43']]",['1989']
+1708,357,E 78TH ST,,,,,,,,10021,1.0,"[['DOB complaint', '43']]",['1989']
+1709,330,EAST 75 STREET,,,,,,,,10021,1.0,"[['DOB complaint', '04']]",['1989']
+1710,622,BROADWAY,,,,,,,,10012,1.0,"[['DOB complaint', '99']]",['1989']
+1711,32,EAST 58 STREET,,,,,,,,10022,1.0,"[['DOB complaint', '43']]",['1989']
+1712,657,WEST 161 STREET,,,,,,,,10032,1.0,"[['DOB complaint', '41']]",['1989']
+1713,137-39,DUANE,,,,,,,,10013,1.0,"[['DOB complaint', '04']]",['1989']
+1714,380,RIVERSIDE DRIVE,,,,,,,,10025,1.0,"[['DOB complaint', '69']]",['1989']
+1715,1151,BROADWAY,,,,,,,,10001,1.0,"[['DOB complaint', '05']]",['1989']
+1716,1592,2 AVENUE,,,,,,,,10028,1.0,"[['DOB complaint', '30']]",['1989']
+1717,59,CHRISTOPHER STREET,,,,,,,,10014,1.0,"[['DOB complaint', '39']]",['1989']
+1718,208,WEST 23 STREET,,,,,,,,10011,2.0,"[['DOB complaint', '05'], ['DOB complaint', '05']]","['1989', '1989']"
+1719,908,COLUMBUS AVENUE,,,,,,,,10025,1.0,"[['DOB complaint', '43']]",['1989']
+1720,251,WEST 42 STREET,,,,,,,,10036,1.0,"[['DOB complaint', '41']]",['1989']
+1721,154-60,W 14TH ST,,,,,,,,10011,1.0,"[['DOB complaint', '99']]",['1989']
+1722,123,EDGECOMBE AVENUE,,,,,,,,10030,1.0,"[['DOB complaint', '29']]",['1989']
+1723,37,WEST 46 STREET,,,,,,,,10036,1.0,"[['DOB complaint', '05']]",['1989']
+1724,815,WEST 181 STREET,,,,,,,,10033,1.0,"[['DOB complaint', '05']]",['1989']
+1725,9,EAST 59 STREET,,,,,,,,10022,1.0,"[['DOB complaint', '99']]",['1989']
+1726,453,3 AVENUE,,,,,,,,10016,1.0,"[['DOB complaint', '23']]",['1989']
+1727,303,E 10 STREET,,,,,,,,,1.0,"[['DOB complaint', '99']]",['1989']
+1728,34-36,E 4TH ST,,,,,,,,10003,1.0,"[['DOB complaint', '38']]",['1989']
+1729,1186,BROADWAY,,,,,,,,10001,1.0,"[['DOB complaint', '54']]",['1989']
+1730,861,WEST END AVENUE,,,,,,,,10025,1.0,"[['DOB complaint', '03']]",['1989']
+1731,2-6,LAFAYETTE ST,,,,,,,,10007,1.0,"[['DOB complaint', '54']]",['1989']
+1732,36,WEST 29 STREET,,,,,,,,10001,1.0,"[['DOB complaint', '40']]",['1989']
+1733,443,E 49TH ST,,,,,,,,10017,1.0,"[['DOB complaint', '54']]",['1989']
+1734,16,AVENUE D,,,,,,,,10009,1.0,"[['DOB complaint', '05']]",['1989']
+1735,15,ST MARKS PLACE,,,,,,,,10003,1.0,"[['DOB complaint', '05']]",['1989']
+1736,125,WEST 78 STREET,,,,,,,,10024,1.0,"[['DOB complaint', '05']]",['1989']
+1737,53,EAST 65 STREET,,,,,,,,10021,1.0,"[['DOB complaint', '40']]",['1989']
+1738,2124,BROADWAY,,,,,,,,10023,1.0,"[['DOB complaint', '32']]",['1989']
+1739,2,MAGAW PLACE,,,,,,,,10033,1.0,"[['DOB complaint', '05']]",['1989']
+1740,41,WEST 74 STREET,,,,,,,,10023,1.0,"[['DOB complaint', '05']]",['1989']
+1741,401,WEST 57 STREET,,,,,,,,10019,3.0,"[['DOB complaint', '05'], ['DOB complaint', '05'], ['DOB complaint', '05']]","['1989', '1989', '1989']"
+1742,1332,BROADWAY,,,,,,,,10018,1.0,"[['DOB complaint', '05']]",['1989']
+1743,655,6 AVENUE,,,,,,,,10010,1.0,"[['DOB complaint', '23']]",['1989']
+1744,2020,7TH AVE,,,,,,,,10027,1.0,"[['DOB complaint', '99']]",['1989']
+1745,4,E 34TH ST,,,,,,,,10016,1.0,"[['DOB complaint', '38']]",['1989']
+1746,113,WEST 113 STREET,,,,,,,,10026,1.0,"[['DOB complaint', '43']]",['1989']
+1747,182,NORFOLK ST,,,,,,,,,1.0,"[['DOB complaint', '29']]",['1989']
+1748,79,5 AVENUE,,,,,,,,10003,1.0,"[['DOB complaint', '39']]",['1989']
+1749,136,WEST HOUSTON STREET,,,,,,,,10012,1.0,"[['DOB complaint', '53']]",['1989']
+1750,424,5 AVENUE,,,,,,,,10018,1.0,"[['DOB complaint', '46']]",['1989']
+1751,195,EAST 3 STREET,,,,,,,,10009,1.0,"[['DOB complaint', '05']]",['1989']
+1752,262,11 AVENUE,,,,,,,,10001,2.0,"[['DOB complaint', '51'], ['DOB complaint', '51']]","['1989', '1989']"
+1753,114,EAST 1 STREET,,,,,,,,10009,1.0,"[['DOB complaint', '30']]",['1989']
+1754,214,EAST 90 STREET,,,,,,,,10128,1.0,"[['DOB complaint', '05']]",['1989']
+1755,47,8 AVENUE,,,,,,,,10014,1.0,"[['DOB complaint', '40']]",['1989']
+1756,71-73,SPRING STREET,,,,,,,,10012,1.0,"[['DOB complaint', '03']]",['1989']
+1757,50,WEST 34TH STREET,,,,,,,,10001,1.0,"[['DOB complaint', '28']]",['1989']
+1758,208,WEST 104 STREET,,,,,,,,10025,1.0,"[['DOB complaint', '05']]",['1989']
+1759,306,WEST 145 STREET,,,,,,,,10039,1.0,"[['DOB complaint', '43']]",['1989']
+1760,370,COLUMBUS AVENUE,,,,,,,,10024,1.0,"[['DOB complaint', '23']]",['1989']
+1761,118,EAST 102,,,,,,,,10029,1.0,"[['DOB complaint', '99']]",['1989']
+1762,59,EAST 3 STREET,,,,,,,,10003,1.0,"[['DOB complaint', '05']]",['1989']
+1763,470,W 24TH ST,,,,,,,,10011,1.0,"[['DOB complaint', '05']]",['1989']
+1764,423,E 65TH ST,,,,,,,,10021,1.0,"[['DOB complaint', '05']]",['1989']
+1765,224,WEST 79 STREET,,,,,,,,10024,2.0,"[['DOB complaint', '05'], ['DOB complaint', '05']]","['1989', '1989']"
+1766,300,EAST 33 STREET,,,,,,,,10016,1.0,"[['DOB complaint', '05']]",['1989']
+1767,357-365,W 117TH ST,,,,,,,,10026,1.0,"[['DOB complaint', '09']]",['1989']
+1768,23,EAST 74 STREET,,,,,,,,10021,1.0,"[['DOB complaint', '53']]",['1989']
+1769,175,EAST 90 STREET,,,,,,,,10128,1.0,"[['DOB complaint', '54']]",['1989']
+1770,221,WEST END AVENUE,,,,,,,,10023,3.0,"[['DOB complaint', '03'], ['DOB complaint', '05'], ['DOB complaint', '54']]","['1989', '1989', '1989']"
+1771,165,BLEECKER STREET,,,,,,,,10012,1.0,"[['DOB complaint', '53']]",['1989']
+1772,18,EAST 53 STREET,,,,,,,,10022,1.0,"[['DOB complaint', '30']]",['1989']
+1773,78,7 AVENUE,,,,,,,,10011,1.0,"[['DOB complaint', '05']]",['1989']
+1774,280,EAST 10 STREET,,,,,,,,10009,1.0,"[['DOB complaint', '10']]",['1989']
+1775,711,WEST END AVENUE,,,,,,,,10025,2.0,"[['DOB complaint', '48'], ['DOB complaint', '48']]","['1989', '1989']"
+1776,89,GRAND STREET,,,,,,,,10013,1.0,"[['DOB complaint', '05']]",['1989']
+1777,4760,BROADWAY,,,,,,,,10034,1.0,"[['DOB complaint', '28']]",['1989']
+1778,169-71,MANHATTAN AVE,,,,,,,,10025,1.0,"[['DOB complaint', '32']]",['1989']
+1779,636,WEST 174 STREET,,,,,,,,10033,1.0,"[['DOB complaint', '55']]",['1989']
+1780,76,9TH AVE,,,,,,,,10011,1.0,"[['DOB complaint', '69']]",['1989']
+1781,344,WEST 72 STREET,,,,,,,,10023,2.0,"[['DOB complaint', '05'], ['DOB complaint', '05']]","['1989', '1989']"
+1782,112-4,E 96 ST,,,,,,,,10128,1.0,"[['DOB complaint', '31']]",['1989']
+1783,306,WEST 76 STREET,,,,,,,,10023,1.0,"[['DOB complaint', '99']]",['1989']
+1784,137,WEST 25 STREET,,,,,,,,10001,2.0,"[['DOB complaint', '38'], ['DOB complaint', '38']]","['1989', '1989']"
+1785,211,CENTRAL PARK WEST,,,,,,,,10024,1.0,"[['DOB complaint', '05']]",['1989']
+1786,19,VESTRY STREET,,,,,,,,10013,1.0,"[['DOB complaint', '39']]",['1989']
+1787,48,WEST 8 STREET,,,,,,,,10011,1.0,"[['DOB complaint', '49']]",['1989']
+1788,422,EAST 118 STREET,,,,,,,,10035,1.0,"[['DOB complaint', '55']]",['1989']
+1789,303,WEST 117 STREET,,,,,,,,10026,1.0,"[['DOB complaint', '05']]",['1989']
+1790,1830,2 AVENUE,,,,,,,,10128,1.0,"[['DOB complaint', '54']]",['1989']
+1791,61,WEST 85 STREET,,,,,,,,10024,1.0,"[['DOB complaint', '05']]",['1989']
+1792,234,EAST 63 STREET,,,,,,,,10021,2.0,"[['DOB complaint', '32'], ['DOB complaint', '05']]","['1989', '1989']"
+1793,438-40,W 54TH ST,,,,,,,,10019,1.0,"[['DOB complaint', '30']]",['1989']
+1794,55,OVERLOOK TERRACE,,,,,,,,10033,1.0,"[['DOB complaint', '37']]",['1989']
+1795,140-144,WEST 72ND STREET,,,,,,,,10023,1.0,"[['DOB complaint', '39']]",['1989']
+1796,357,6 AVENUE,,,,,,,,10014,1.0,"[['DOB complaint', '05']]",['1989']
+1797,344,WEST 89 STREET,,,,,,,,10024,1.0,"[['DOB complaint', '05']]",['1989']
