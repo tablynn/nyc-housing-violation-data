@@ -4,6 +4,7 @@ from pyspark import SparkContext
 import os
 import json
 import argparse
+import pandas as pd
 
 HOUSING_MAINTENANCE_CODE_VIOLATIONS = \
     'https://data.cityofnewyork.us/resource/wvxf-dwi5.json'
@@ -13,6 +14,9 @@ DOB_VIOLATIONS = \
 
 DOB_COMPLAINTS = \
     "https://data.cityofnewyork.us/resource/eabe-havv.json"
+
+ZIPCODE_DEMOGRAPHICS = \
+    "https://data.cityofnewyork.us/resource/kku6-nxdu.json"
 
 
 def scrape(link):
@@ -100,9 +104,6 @@ def main():
     complaints2 = sc.parallelize(complaints, 128).flatMap(mapper_complaints).reduceByKey(reducer).flatMap(mapper2_complaints).collect()
 
 
-
-
-
     if not os.path.exists("data"):
         os.makedirs("data")
 
@@ -128,7 +129,13 @@ def main():
 
     with open('data/housing_code_violations2.json', 'w') as outfile:
             json.dump(code2, outfile, indent=4)
-    
+
+
+    # with open('data/dob_complaints.json', 'w') as outfile:
+    #     json.dump(scrape(DOB_COMPLAINTS), outfile, indent=4)
+
+   
+
     if not os.path.exists("data"):
         os.makedirs("data")
 
