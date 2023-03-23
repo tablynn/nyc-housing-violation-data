@@ -49,7 +49,7 @@ def mapper2_code(record):
     date_list = []
     violation_list = []
     num_violations = len(record[1])
-    zip_code = record[1][0]['zip']
+    zip_code = record[1][0]['zip'].strip(' \t')
     for rec in record[1]:
         date_list.append(rec['inspectiondate'][:4])
         violation_list.append(('maintenance code violation', rec['ordernumber']))
@@ -80,7 +80,7 @@ def mapper2_complaints(record):
     date_list = []
     violation_list = []
     num_violations = len(record[1])
-    zip_code = record[1][0]['zip_code']
+    zip_code = record[1][0]['zip_code'].strip(' \t')
     for rec in record[1]:
         violation_list.append(('DOB complaint', rec['complaint_category']))
         date_list.append(rec['date_entered'][-4:])
@@ -110,54 +110,33 @@ def main():
     with open('data/housing_code_violations.json', 'w') as outfile:
             json.dump(code_violations, outfile, indent=4)
 
-    if not os.path.exists("data"):
-        os.makedirs("data")
-
     with open('data/dob_violations.json', 'w') as outfile:
         json.dump(dob_violations, outfile, indent=4)
 
-    if not os.path.exists("data"):
-        os.makedirs("data")
-
     with open('data/dob_complaints.json', 'w') as outfile:
         json.dump(complaints, outfile, indent=4)
-
-
-
-    if not os.path.exists("data"):
-        os.makedirs("data")
 
     with open('data/housing_code_violations2.json', 'w') as outfile:
             json.dump(code2, outfile, indent=4)
 
 
-    # with open('data/dob_complaints.json', 'w') as outfile:
-    #     json.dump(scrape(DOB_COMPLAINTS), outfile, indent=4)
 
-    if not os.path.exists("data"):
-        os.makedirs("data")
 
-    with open('data/zipcode_demographics.json', 'w') as outfile:
-        json.dump(scrape(ZIPCODE_DEMOGRAPHICS), outfile, indent=4)
+    #with open('data/zipcode_demographics.json', 'w') as outfile:
+     #   json.dump(scrape(ZIPCODE_DEMOGRAPHICS), outfile, indent=4)
 
     # df1 = pd.json_normalize(data['all_spas.json'])
     # df2 = pd.json_normalize(data['zipcode_demographics.json'])
     df1 = pd.read_json('data/all_spas.json')
     df2 = pd.read_json('data/zipcode_demographics.json')
-    zipcode_merge_df = pd.merge(df1, df2, left_on='zip_code', right_on='jurisdiction_name', how='left')
-    zipcode_json = zipcode_merge_df.to_json()
+    #zipcode_merge_df = pd.merge(df1, df2, left_on='zip_code', right_on='jurisdiction_name', how='left')
+    #zipcode_json = zipcode_merge_df.to_json()
 
-    with open('data/merged_zipcodes.json', 'w') as outfile:
-        outfile.write(zipcode_json)
-
-    if not os.path.exists("data"):
-        os.makedirs("data")
+    #with open('data/merged_zipcodes.json', 'w') as outfile:
+    #    outfile.write(zipcode_json)
 
     with open('data/dob_violations2.json', 'w') as outfile:
         json.dump(dob, outfile, indent=4)
-
-    if not os.path.exists("data"):
-        os.makedirs("data")
 
     with open('data/dob_complaints2.json', 'w') as outfile:
         json.dump(complaints2, outfile, indent=4)

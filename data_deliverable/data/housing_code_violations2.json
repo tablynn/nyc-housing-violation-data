@@ -20,26 +20,6 @@
         ]
     },
     {
-        "house_number": "1319",
-        "street": "ELDER AVENUE",
-        "zipcode": "10472",
-        "total_housing_maintenance_code_violations": 2,
-        "list of violations": [
-            [
-                "maintenance code violation",
-                "501"
-            ],
-            [
-                "maintenance code violation",
-                "688"
-            ]
-        ],
-        "years_of_violations": [
-            "2023",
-            "2023"
-        ]
-    },
-    {
         "house_number": "129",
         "street": "SENECA STREET",
         "zipcode": "10310",
@@ -65,6 +45,21 @@
         ]
     },
     {
+        "house_number": "2440",
+        "street": "TIEBOUT AVENUE",
+        "zipcode": "10458",
+        "total_housing_maintenance_code_violations": 1,
+        "list of violations": [
+            [
+                "maintenance code violation",
+                "502"
+            ]
+        ],
+        "years_of_violations": [
+            "2014"
+        ]
+    },
+    {
         "house_number": "1801",
         "street": "MARMION AVENUE",
         "zipcode": "10460",
@@ -83,7 +78,7 @@
         "house_number": "515",
         "street": "CATHEDRAL PARKWAY",
         "zipcode": "10025",
-        "total_housing_maintenance_code_violations": 15,
+        "total_housing_maintenance_code_violations": 13,
         "list of violations": [
             [
                 "maintenance code violation",
@@ -96,10 +91,6 @@
             [
                 "maintenance code violation",
                 "507"
-            ],
-            [
-                "maintenance code violation",
-                "508"
             ],
             [
                 "maintenance code violation",
@@ -131,23 +122,18 @@
             ],
             [
                 "maintenance code violation",
+                "550"
+            ],
+            [
+                "maintenance code violation",
                 "554"
             ],
             [
                 "maintenance code violation",
                 "553"
-            ],
-            [
-                "maintenance code violation",
-                "689"
-            ],
-            [
-                "maintenance code violation",
-                "1506"
             ]
         ],
         "years_of_violations": [
-            "2016",
             "2016",
             "2016",
             "2016",
@@ -160,8 +146,7 @@
             "2019",
             "2019",
             "2019",
-            "2020",
-            "2020"
+            "2019"
         ]
     },
     {
@@ -182,6 +167,36 @@
         "years_of_violations": [
             "2021",
             "2021"
+        ]
+    },
+    {
+        "house_number": "150",
+        "street": "WEST 195 STREET",
+        "zipcode": "10468",
+        "total_housing_maintenance_code_violations": 4,
+        "list of violations": [
+            [
+                "maintenance code violation",
+                "501"
+            ],
+            [
+                "maintenance code violation",
+                "505"
+            ],
+            [
+                "maintenance code violation",
+                "501"
+            ],
+            [
+                "maintenance code violation",
+                "598"
+            ]
+        ],
+        "years_of_violations": [
+            "2014",
+            "2014",
+            "2014",
+            "2014"
         ]
     },
     {
@@ -395,6 +410,21 @@
         ]
     },
     {
+        "house_number": "39",
+        "street": "KENILWORTH PLACE",
+        "zipcode": "11210",
+        "total_housing_maintenance_code_violations": 1,
+        "list of violations": [
+            [
+                "maintenance code violation",
+                "988"
+            ]
+        ],
+        "years_of_violations": [
+            "2016"
+        ]
+    },
+    {
         "house_number": "521",
         "street": "WEST 156 STREET",
         "zipcode": "10032",
@@ -450,143 +480,18 @@
         ]
     },
     {
-        "house_number": "50",
-        "street": "KENILWORTH PLACE",
-        "zipcode": "11210",
-        "total_housing_maintenance_code_violations": 9,
+        "house_number": "337",
+        "street": "EAST 26 STREET",
+        "zipcode": "11226",
+        "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
                 "maintenance code violation",
-                "501"
-            ],
-            [
-                "maintenance code violation",
-                "566"
-            ],
-            [
-                "maintenance code violation",
-                "501"
-            ],
-            [
-                "maintenance code violation",
-                "550"
-            ],
-            [
-                "maintenance code violation",
-                "502"
-            ],
-            [
-                "maintenance code violation",
-                "510"
-            ],
-            [
-                "maintenance code violation",
-                "702"
-            ],
-            [
-                "maintenance code violation",
-                "1502"
-            ],
-            [
-                "maintenance code violation",
-                "790"
+                "869"
             ]
         ],
         "years_of_violations": [
-            "2014",
-            "2014",
-            "2014",
-            "2014",
-            "2014",
-            "2014",
-            "2014",
-            "2014",
-            "2014"
-        ]
-    },
-    {
-        "house_number": "1231",
-        "street": "WHITE PLAINS ROAD",
-        "zipcode": "10472",
-        "total_housing_maintenance_code_violations": 15,
-        "list of violations": [
-            [
-                "maintenance code violation",
-                "614"
-            ],
-            [
-                "maintenance code violation",
-                "614"
-            ],
-            [
-                "maintenance code violation",
-                "790"
-            ],
-            [
-                "maintenance code violation",
-                "1502"
-            ],
-            [
-                "maintenance code violation",
-                "702"
-            ],
-            [
-                "maintenance code violation",
-                "702"
-            ],
-            [
-                "maintenance code violation",
-                "506"
-            ],
-            [
-                "maintenance code violation",
-                "508"
-            ],
-            [
-                "maintenance code violation",
-                "501"
-            ],
-            [
-                "maintenance code violation",
-                "567"
-            ],
-            [
-                "maintenance code violation",
-                "550"
-            ],
-            [
-                "maintenance code violation",
-                "556"
-            ],
-            [
-                "maintenance code violation",
-                "508"
-            ],
-            [
-                "maintenance code violation",
-                "508"
-            ],
-            [
-                "maintenance code violation",
-                "583"
-            ]
-        ],
-        "years_of_violations": [
-            "2021",
-            "2021",
-            "2013",
-            "2013",
-            "2013",
-            "2013",
-            "2013",
-            "2013",
-            "2013",
-            "2013",
-            "2014",
-            "2014",
-            "2014",
-            "2014",
-            "2014"
+            "2016"
         ]
     },
     {
@@ -602,6 +507,91 @@
         ],
         "years_of_violations": [
             "2021"
+        ]
+    },
+    {
+        "house_number": "950",
+        "street": "EAST 163 STREET",
+        "zipcode": "10459",
+        "total_housing_maintenance_code_violations": 11,
+        "list of violations": [
+            [
+                "maintenance code violation",
+                "502"
+            ],
+            [
+                "maintenance code violation",
+                "702"
+            ],
+            [
+                "maintenance code violation",
+                "569"
+            ],
+            [
+                "maintenance code violation",
+                "583"
+            ],
+            [
+                "maintenance code violation",
+                "502"
+            ],
+            [
+                "maintenance code violation",
+                "508"
+            ],
+            [
+                "maintenance code violation",
+                "577"
+            ],
+            [
+                "maintenance code violation",
+                "790"
+            ],
+            [
+                "maintenance code violation",
+                "501"
+            ],
+            [
+                "maintenance code violation",
+                "505"
+            ],
+            [
+                "maintenance code violation",
+                "505"
+            ]
+        ],
+        "years_of_violations": [
+            "2014",
+            "2014",
+            "2014",
+            "2014",
+            "2014",
+            "2014",
+            "2014",
+            "2014",
+            "2014",
+            "2014",
+            "2014"
+        ]
+    },
+    {
+        "house_number": "516",
+        "street": "WEST 159 STREET",
+        "zipcode": "10032",
+        "total_housing_maintenance_code_violations": 2,
+        "list of violations": [
+            [
+                "maintenance code violation",
+                "569"
+            ],
+            [
+                "maintenance code violation",
+                "529"
+            ]
+        ],
+        "years_of_violations": [
+            "2013",
+            "2013"
         ]
     },
     {
@@ -915,6 +905,26 @@
         ]
     },
     {
+        "house_number": "691",
+        "street": "GERARD AVENUE",
+        "zipcode": "10451",
+        "total_housing_maintenance_code_violations": 2,
+        "list of violations": [
+            [
+                "maintenance code violation",
+                "505"
+            ],
+            [
+                "maintenance code violation",
+                "501"
+            ]
+        ],
+        "years_of_violations": [
+            "2014",
+            "2014"
+        ]
+    },
+    {
         "house_number": "311",
         "street": "ONDERDONK AVENUE",
         "zipcode": "11385",
@@ -1022,6 +1032,21 @@
         ],
         "years_of_violations": [
             "2020"
+        ]
+    },
+    {
+        "house_number": "1625",
+        "street": "PRESIDENT STREET",
+        "zipcode": "11213",
+        "total_housing_maintenance_code_violations": 1,
+        "list of violations": [
+            [
+                "maintenance code violation",
+                "550"
+            ]
+        ],
+        "years_of_violations": [
+            "2016"
         ]
     },
     {
@@ -1243,7 +1268,7 @@
         "house_number": "451",
         "street": "KINGSTON AVENUE",
         "zipcode": "11225",
-        "total_housing_maintenance_code_violations": 25,
+        "total_housing_maintenance_code_violations": 21,
         "list of violations": [
             [
                 "maintenance code violation",
@@ -1328,29 +1353,9 @@
             [
                 "maintenance code violation",
                 "550"
-            ],
-            [
-                "maintenance code violation",
-                "583"
-            ],
-            [
-                "maintenance code violation",
-                "550"
-            ],
-            [
-                "maintenance code violation",
-                "550"
-            ],
-            [
-                "maintenance code violation",
-                "501"
             ]
         ],
         "years_of_violations": [
-            "2013",
-            "2013",
-            "2013",
-            "2013",
             "2013",
             "2013",
             "2013",
@@ -1378,7 +1383,7 @@
         "house_number": "1562",
         "street": "THIERIOT AVENUE",
         "zipcode": "10460",
-        "total_housing_maintenance_code_violations": 6,
+        "total_housing_maintenance_code_violations": 5,
         "list of violations": [
             [
                 "maintenance code violation",
@@ -1399,10 +1404,6 @@
             [
                 "maintenance code violation",
                 "702"
-            ],
-            [
-                "maintenance code violation",
-                "702"
             ]
         ],
         "years_of_violations": [
@@ -1410,43 +1411,7 @@
             "2016",
             "2017",
             "2017",
-            "2018",
-            "2019"
-        ]
-    },
-    {
-        "house_number": "201",
-        "street": "SHERMAN AVENUE",
-        "zipcode": "10034",
-        "total_housing_maintenance_code_violations": 5,
-        "list of violations": [
-            [
-                "maintenance code violation",
-                "688"
-            ],
-            [
-                "maintenance code violation",
-                "508"
-            ],
-            [
-                "maintenance code violation",
-                "583"
-            ],
-            [
-                "maintenance code violation",
-                "579"
-            ],
-            [
-                "maintenance code violation",
-                "502"
-            ]
-        ],
-        "years_of_violations": [
-            "2013",
-            "2013",
-            "2013",
-            "2013",
-            "2013"
+            "2018"
         ]
     },
     {
@@ -1910,6 +1875,21 @@
         ]
     },
     {
+        "house_number": "24",
+        "street": "COVERT STREET",
+        "zipcode": "11207",
+        "total_housing_maintenance_code_violations": 1,
+        "list of violations": [
+            [
+                "maintenance code violation",
+                "702"
+            ]
+        ],
+        "years_of_violations": [
+            "2017"
+        ]
+    },
+    {
         "house_number": "2067",
         "street": "VYSE AVENUE",
         "zipcode": "10460",
@@ -2015,18 +1995,18 @@
         ]
     },
     {
-        "house_number": "1120",
-        "street": "BRIGHTON BEACH AVENUE",
-        "zipcode": "11235",
+        "house_number": "2280",
+        "street": "OLINVILLE AVENUE",
+        "zipcode": "10467",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
                 "maintenance code violation",
-                "526"
+                "568"
             ]
         ],
         "years_of_violations": [
-            "2013"
+            "2016"
         ]
     },
     {
@@ -2412,21 +2392,6 @@
         ],
         "years_of_violations": [
             "2021"
-        ]
-    },
-    {
-        "house_number": "135-01",
-        "street": "72 AVENUE",
-        "zipcode": "11367",
-        "total_housing_maintenance_code_violations": 1,
-        "list of violations": [
-            [
-                "maintenance code violation",
-                "801"
-            ]
-        ],
-        "years_of_violations": [
-            "2003"
         ]
     },
     {
@@ -2870,6 +2835,21 @@
         ]
     },
     {
+        "house_number": "282",
+        "street": "ASHFORD STREET",
+        "zipcode": "11207",
+        "total_housing_maintenance_code_violations": 1,
+        "list of violations": [
+            [
+                "maintenance code violation",
+                "509"
+            ]
+        ],
+        "years_of_violations": [
+            "2017"
+        ]
+    },
+    {
         "house_number": "1165",
         "street": "ELTON STREET",
         "zipcode": "11208",
@@ -2882,6 +2862,26 @@
         ],
         "years_of_violations": [
             "2020"
+        ]
+    },
+    {
+        "house_number": "1039",
+        "street": "SIMPSON STREET",
+        "zipcode": "10459",
+        "total_housing_maintenance_code_violations": 2,
+        "list of violations": [
+            [
+                "maintenance code violation",
+                "504"
+            ],
+            [
+                "maintenance code violation",
+                "552"
+            ]
+        ],
+        "years_of_violations": [
+            "2018",
+            "2019"
         ]
     },
     {
@@ -3165,21 +3165,6 @@
         ]
     },
     {
-        "house_number": "428",
-        "street": "WEST 48 STREET",
-        "zipcode": "10036",
-        "total_housing_maintenance_code_violations": 1,
-        "list of violations": [
-            [
-                "maintenance code violation",
-                "530"
-            ]
-        ],
-        "years_of_violations": [
-            "2021"
-        ]
-    },
-    {
         "house_number": "120",
         "street": "EAST 102 STREET",
         "zipcode": "10029",
@@ -3395,41 +3380,6 @@
         ]
     },
     {
-        "house_number": "196",
-        "street": "HURON STREET",
-        "zipcode": "11222",
-        "total_housing_maintenance_code_violations": 1,
-        "list of violations": [
-            [
-                "maintenance code violation",
-                "550"
-            ]
-        ],
-        "years_of_violations": [
-            "2021"
-        ]
-    },
-    {
-        "house_number": "354",
-        "street": "STATE STREET",
-        "zipcode": "11217",
-        "total_housing_maintenance_code_violations": 2,
-        "list of violations": [
-            [
-                "maintenance code violation",
-                "1502"
-            ],
-            [
-                "maintenance code violation",
-                "702"
-            ]
-        ],
-        "years_of_violations": [
-            "2013",
-            "2013"
-        ]
-    },
-    {
         "house_number": "534",
         "street": "EAST 138 STREET",
         "zipcode": "10454",
@@ -3487,21 +3437,6 @@
         ],
         "years_of_violations": [
             "2017"
-        ]
-    },
-    {
-        "house_number": "14-15",
-        "street": "MOTT AVENUE",
-        "zipcode": "11691",
-        "total_housing_maintenance_code_violations": 1,
-        "list of violations": [
-            [
-                "maintenance code violation",
-                "556"
-            ]
-        ],
-        "years_of_violations": [
-            "2013"
         ]
     },
     {
@@ -3580,6 +3515,21 @@
         ]
     },
     {
+        "house_number": "456",
+        "street": "BROOKLYN AVENUE",
+        "zipcode": "11225",
+        "total_housing_maintenance_code_violations": 1,
+        "list of violations": [
+            [
+                "maintenance code violation",
+                "702"
+            ]
+        ],
+        "years_of_violations": [
+            "2019"
+        ]
+    },
+    {
         "house_number": "950",
         "street": "BERGEN STREET",
         "zipcode": "11216",
@@ -3622,21 +3572,6 @@
         ],
         "years_of_violations": [
             "2021"
-        ]
-    },
-    {
-        "house_number": "461",
-        "street": "NEW LOTS AVENUE",
-        "zipcode": "11207",
-        "total_housing_maintenance_code_violations": 1,
-        "list of violations": [
-            [
-                "maintenance code violation",
-                "505"
-            ]
-        ],
-        "years_of_violations": [
-            "2023"
         ]
     },
     {
@@ -3782,21 +3717,6 @@
         ],
         "years_of_violations": [
             "2014"
-        ]
-    },
-    {
-        "house_number": "3034",
-        "street": "ALBANY CRESCENT",
-        "zipcode": "10463",
-        "total_housing_maintenance_code_violations": 1,
-        "list of violations": [
-            [
-                "maintenance code violation",
-                "583"
-            ]
-        ],
-        "years_of_violations": [
-            "2021"
         ]
     },
     {
@@ -4040,21 +3960,6 @@
         ]
     },
     {
-        "house_number": "99",
-        "street": "MARBLE HILL AVENUE",
-        "zipcode": "10463",
-        "total_housing_maintenance_code_violations": 1,
-        "list of violations": [
-            [
-                "maintenance code violation",
-                "583"
-            ]
-        ],
-        "years_of_violations": [
-            "2016"
-        ]
-    },
-    {
         "house_number": "97",
         "street": "NEPTUNE AVENUE",
         "zipcode": "11235",
@@ -4087,6 +3992,26 @@
             "2021",
             "2021",
             "2021"
+        ]
+    },
+    {
+        "house_number": "180",
+        "street": "PARKHILL AVENUE",
+        "zipcode": "10304",
+        "total_housing_maintenance_code_violations": 2,
+        "list of violations": [
+            [
+                "maintenance code violation",
+                "508"
+            ],
+            [
+                "maintenance code violation",
+                "501"
+            ]
+        ],
+        "years_of_violations": [
+            "2013",
+            "2013"
         ]
     },
     {
@@ -4280,6 +4205,101 @@
         ]
     },
     {
+        "house_number": "710",
+        "street": "EAST 93 STREET",
+        "zipcode": "11236",
+        "total_housing_maintenance_code_violations": 4,
+        "list of violations": [
+            [
+                "maintenance code violation",
+                "1503"
+            ],
+            [
+                "maintenance code violation",
+                "949"
+            ],
+            [
+                "maintenance code violation",
+                "846"
+            ],
+            [
+                "maintenance code violation",
+                "802"
+            ]
+        ],
+        "years_of_violations": [
+            "2019",
+            "2019",
+            "2019",
+            "2019"
+        ]
+    },
+    {
+        "house_number": "1451",
+        "street": "OVERING STREET",
+        "zipcode": "10461",
+        "total_housing_maintenance_code_violations": 11,
+        "list of violations": [
+            [
+                "maintenance code violation",
+                "672"
+            ],
+            [
+                "maintenance code violation",
+                "508"
+            ],
+            [
+                "maintenance code violation",
+                "508"
+            ],
+            [
+                "maintenance code violation",
+                "508"
+            ],
+            [
+                "maintenance code violation",
+                "569"
+            ],
+            [
+                "maintenance code violation",
+                "1503"
+            ],
+            [
+                "maintenance code violation",
+                "702"
+            ],
+            [
+                "maintenance code violation",
+                "790"
+            ],
+            [
+                "maintenance code violation",
+                "702"
+            ],
+            [
+                "maintenance code violation",
+                "1503"
+            ],
+            [
+                "maintenance code violation",
+                "556"
+            ]
+        ],
+        "years_of_violations": [
+            "2013",
+            "2013",
+            "2013",
+            "2013",
+            "2013",
+            "2013",
+            "2013",
+            "2014",
+            "2014",
+            "2014",
+            "2014"
+        ]
+    },
+    {
         "house_number": "382",
         "street": "SOUTH 4 STREET",
         "zipcode": "11211",
@@ -4375,21 +4395,6 @@
         ]
     },
     {
-        "house_number": "560",
-        "street": "AUDUBON AVENUE",
-        "zipcode": "10040",
-        "total_housing_maintenance_code_violations": 1,
-        "list of violations": [
-            [
-                "maintenance code violation",
-                "550"
-            ]
-        ],
-        "years_of_violations": [
-            "2021"
-        ]
-    },
-    {
         "house_number": "150-36",
         "street": "118 AVENUE",
         "zipcode": "11434",
@@ -4425,6 +4430,101 @@
         ]
     },
     {
+        "house_number": "353",
+        "street": "BEEKMAN AVENUE",
+        "zipcode": "10454",
+        "total_housing_maintenance_code_violations": 17,
+        "list of violations": [
+            [
+                "maintenance code violation",
+                "502"
+            ],
+            [
+                "maintenance code violation",
+                "505"
+            ],
+            [
+                "maintenance code violation",
+                "506"
+            ],
+            [
+                "maintenance code violation",
+                "505"
+            ],
+            [
+                "maintenance code violation",
+                "505"
+            ],
+            [
+                "maintenance code violation",
+                "508"
+            ],
+            [
+                "maintenance code violation",
+                "583"
+            ],
+            [
+                "maintenance code violation",
+                "556"
+            ],
+            [
+                "maintenance code violation",
+                "591"
+            ],
+            [
+                "maintenance code violation",
+                "556"
+            ],
+            [
+                "maintenance code violation",
+                "505"
+            ],
+            [
+                "maintenance code violation",
+                "508"
+            ],
+            [
+                "maintenance code violation",
+                "583"
+            ],
+            [
+                "maintenance code violation",
+                "508"
+            ],
+            [
+                "maintenance code violation",
+                "501"
+            ],
+            [
+                "maintenance code violation",
+                "593"
+            ],
+            [
+                "maintenance code violation",
+                "583"
+            ]
+        ],
+        "years_of_violations": [
+            "2014",
+            "2014",
+            "2014",
+            "2014",
+            "2014",
+            "2014",
+            "2014",
+            "2014",
+            "2014",
+            "2014",
+            "2014",
+            "2014",
+            "2014",
+            "2014",
+            "2014",
+            "2014",
+            "2014"
+        ]
+    },
+    {
         "house_number": "900",
         "street": "EAST 18 STREET",
         "zipcode": "11230",
@@ -4443,19 +4543,14 @@
         "house_number": "1995",
         "street": "LEXINGTON AVENUE",
         "zipcode": "10035",
-        "total_housing_maintenance_code_violations": 2,
+        "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
                 "maintenance code violation",
                 "507"
-            ],
-            [
-                "maintenance code violation",
-                "508"
             ]
         ],
         "years_of_violations": [
-            "2022",
             "2022"
         ]
     },
@@ -4528,8 +4623,12 @@
         "house_number": "580",
         "street": "EMPIRE BOULEVARD",
         "zipcode": "11225",
-        "total_housing_maintenance_code_violations": 5,
+        "total_housing_maintenance_code_violations": 6,
         "list of violations": [
+            [
+                "maintenance code violation",
+                "568"
+            ],
             [
                 "maintenance code violation",
                 "569"
@@ -4552,6 +4651,7 @@
             ]
         ],
         "years_of_violations": [
+            "2019",
             "2019",
             "2019",
             "2019",
@@ -4715,6 +4815,21 @@
         ]
     },
     {
+        "house_number": "1660",
+        "street": "CROTONA PARK EAST",
+        "zipcode": "10460",
+        "total_housing_maintenance_code_violations": 1,
+        "list of violations": [
+            [
+                "maintenance code violation",
+                "508"
+            ]
+        ],
+        "years_of_violations": [
+            "2013"
+        ]
+    },
+    {
         "house_number": "157-30",
         "street": "96 STREET",
         "zipcode": "11414",
@@ -4820,6 +4935,126 @@
         ]
     },
     {
+        "house_number": "165",
+        "street": "SHERMAN AVENUE",
+        "zipcode": "10034",
+        "total_housing_maintenance_code_violations": 22,
+        "list of violations": [
+            [
+                "maintenance code violation",
+                "526"
+            ],
+            [
+                "maintenance code violation",
+                "570"
+            ],
+            [
+                "maintenance code violation",
+                "790"
+            ],
+            [
+                "maintenance code violation",
+                "570"
+            ],
+            [
+                "maintenance code violation",
+                "569"
+            ],
+            [
+                "maintenance code violation",
+                "508"
+            ],
+            [
+                "maintenance code violation",
+                "508"
+            ],
+            [
+                "maintenance code violation",
+                "508"
+            ],
+            [
+                "maintenance code violation",
+                "508"
+            ],
+            [
+                "maintenance code violation",
+                "550"
+            ],
+            [
+                "maintenance code violation",
+                "501"
+            ],
+            [
+                "maintenance code violation",
+                "501"
+            ],
+            [
+                "maintenance code violation",
+                "501"
+            ],
+            [
+                "maintenance code violation",
+                "569"
+            ],
+            [
+                "maintenance code violation",
+                "508"
+            ],
+            [
+                "maintenance code violation",
+                "502"
+            ],
+            [
+                "maintenance code violation",
+                "1503"
+            ],
+            [
+                "maintenance code violation",
+                "702"
+            ],
+            [
+                "maintenance code violation",
+                "501"
+            ],
+            [
+                "maintenance code violation",
+                "502"
+            ],
+            [
+                "maintenance code violation",
+                "501"
+            ],
+            [
+                "maintenance code violation",
+                "501"
+            ]
+        ],
+        "years_of_violations": [
+            "2014",
+            "2014",
+            "2014",
+            "2014",
+            "2014",
+            "2014",
+            "2014",
+            "2014",
+            "2014",
+            "2014",
+            "2014",
+            "2014",
+            "2014",
+            "2014",
+            "2014",
+            "2014",
+            "2014",
+            "2014",
+            "2014",
+            "2014",
+            "2014",
+            "2014"
+        ]
+    },
+    {
         "house_number": "2805",
         "street": "HEATH AVENUE",
         "zipcode": "10463",
@@ -4832,6 +5067,46 @@
         ],
         "years_of_violations": [
             "2021"
+        ]
+    },
+    {
+        "house_number": "828",
+        "street": "FAILE STREET",
+        "zipcode": "10474",
+        "total_housing_maintenance_code_violations": 6,
+        "list of violations": [
+            [
+                "maintenance code violation",
+                "508"
+            ],
+            [
+                "maintenance code violation",
+                "508"
+            ],
+            [
+                "maintenance code violation",
+                "508"
+            ],
+            [
+                "maintenance code violation",
+                "501"
+            ],
+            [
+                "maintenance code violation",
+                "501"
+            ],
+            [
+                "maintenance code violation",
+                "506"
+            ]
+        ],
+        "years_of_violations": [
+            "2014",
+            "2014",
+            "2014",
+            "2014",
+            "2014",
+            "2014"
         ]
     },
     {
@@ -5060,6 +5335,21 @@
         ]
     },
     {
+        "house_number": "540",
+        "street": "CONCORD AVENUE",
+        "zipcode": "10455",
+        "total_housing_maintenance_code_violations": 1,
+        "list of violations": [
+            [
+                "maintenance code violation",
+                "577"
+            ]
+        ],
+        "years_of_violations": [
+            "2020"
+        ]
+    },
+    {
         "house_number": "888",
         "street": "EAST 96 STREET",
         "zipcode": "11236",
@@ -5077,6 +5367,21 @@
         "years_of_violations": [
             "2014",
             "2015"
+        ]
+    },
+    {
+        "house_number": "24",
+        "street": "JANE STREET",
+        "zipcode": "10014",
+        "total_housing_maintenance_code_violations": 1,
+        "list of violations": [
+            [
+                "maintenance code violation",
+                "507"
+            ]
+        ],
+        "years_of_violations": [
+            "2022"
         ]
     },
     {
@@ -5195,21 +5500,6 @@
         ]
     },
     {
-        "house_number": "1278",
-        "street": "EAST 85 STREET",
-        "zipcode": "11236",
-        "total_housing_maintenance_code_violations": 1,
-        "list of violations": [
-            [
-                "maintenance code violation",
-                "988"
-            ]
-        ],
-        "years_of_violations": [
-            "2021"
-        ]
-    },
-    {
         "house_number": "40",
         "street": "ARDEN STREET",
         "zipcode": "10040",
@@ -5275,6 +5565,21 @@
         ]
     },
     {
+        "house_number": "1622",
+        "street": "PRESIDENT STREET",
+        "zipcode": "11213",
+        "total_housing_maintenance_code_violations": 1,
+        "list of violations": [
+            [
+                "maintenance code violation",
+                "508"
+            ]
+        ],
+        "years_of_violations": [
+            "2022"
+        ]
+    },
+    {
         "house_number": "1056",
         "street": "ST NICHOLAS AVENUE",
         "zipcode": "10032",
@@ -5290,33 +5595,18 @@
         ]
     },
     {
-        "house_number": "483",
-        "street": "PACIFIC STREET",
-        "zipcode": "11217",
-        "total_housing_maintenance_code_violations": 4,
+        "house_number": "719",
+        "street": "MILLER AVENUE",
+        "zipcode": "11207",
+        "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
                 "maintenance code violation",
-                "502"
-            ],
-            [
-                "maintenance code violation",
-                "502"
-            ],
-            [
-                "maintenance code violation",
-                "504"
-            ],
-            [
-                "maintenance code violation",
-                "502"
+                "569"
             ]
         ],
         "years_of_violations": [
-            "2020",
-            "2020",
-            "2020",
-            "2020"
+            "2013"
         ]
     },
     {
@@ -5455,6 +5745,21 @@
         ]
     },
     {
+        "house_number": "1918",
+        "street": "RICHMOND TERRACE",
+        "zipcode": "10302",
+        "total_housing_maintenance_code_violations": 1,
+        "list of violations": [
+            [
+                "maintenance code violation",
+                "502"
+            ]
+        ],
+        "years_of_violations": [
+            "2015"
+        ]
+    },
+    {
         "house_number": "2816",
         "street": "HEATH AVENUE",
         "zipcode": "10463",
@@ -5507,6 +5812,14 @@
         "list of violations": [
             [
                 "maintenance code violation",
+                "508"
+            ],
+            [
+                "maintenance code violation",
+                "583"
+            ],
+            [
+                "maintenance code violation",
                 "583"
             ],
             [
@@ -5515,15 +5828,7 @@
             ],
             [
                 "maintenance code violation",
-                "583"
-            ],
-            [
-                "maintenance code violation",
-                "508"
-            ],
-            [
-                "maintenance code violation",
-                "502"
+                "539"
             ]
         ],
         "years_of_violations": [
@@ -5615,51 +5920,6 @@
         ]
     },
     {
-        "house_number": "84-53",
-        "street": "DANA COURT",
-        "zipcode": "11379",
-        "total_housing_maintenance_code_violations": 1,
-        "list of violations": [
-            [
-                "maintenance code violation",
-                "568"
-            ]
-        ],
-        "years_of_violations": [
-            "2021"
-        ]
-    },
-    {
-        "house_number": "129-15",
-        "street": "135 STREET",
-        "zipcode": "11420",
-        "total_housing_maintenance_code_violations": 4,
-        "list of violations": [
-            [
-                "maintenance code violation",
-                "805"
-            ],
-            [
-                "maintenance code violation",
-                "952"
-            ],
-            [
-                "maintenance code violation",
-                "801"
-            ],
-            [
-                "maintenance code violation",
-                "805"
-            ]
-        ],
-        "years_of_violations": [
-            "2002",
-            "2002",
-            "2002",
-            "2002"
-        ]
-    },
-    {
         "house_number": "780",
         "street": "LIVONIA AVENUE",
         "zipcode": "11207",
@@ -5678,7 +5938,7 @@
         "house_number": "1141",
         "street": "TIFFANY STREET",
         "zipcode": "10459",
-        "total_housing_maintenance_code_violations": 13,
+        "total_housing_maintenance_code_violations": 12,
         "list of violations": [
             [
                 "maintenance code violation",
@@ -5718,10 +5978,6 @@
             ],
             [
                 "maintenance code violation",
-                "569"
-            ],
-            [
-                "maintenance code violation",
                 "502"
             ],
             [
@@ -5743,7 +5999,6 @@
             "2017",
             "2018",
             "2018",
-            "2019",
             "2020",
             "2020",
             "2020"
@@ -5890,26 +6145,6 @@
         ]
     },
     {
-        "house_number": "410",
-        "street": "ST NICHOLAS AVENUE",
-        "zipcode": "10027",
-        "total_housing_maintenance_code_violations": 2,
-        "list of violations": [
-            [
-                "maintenance code violation",
-                "570"
-            ],
-            [
-                "maintenance code violation",
-                "508"
-            ]
-        ],
-        "years_of_violations": [
-            "2013",
-            "2013"
-        ]
-    },
-    {
         "house_number": "988",
         "street": "GREENE AVENUE",
         "zipcode": "11221",
@@ -5937,6 +6172,26 @@
         ],
         "years_of_violations": [
             "2020"
+        ]
+    },
+    {
+        "house_number": "3540",
+        "street": "DEKALB AVENUE",
+        "zipcode": "10467",
+        "total_housing_maintenance_code_violations": 2,
+        "list of violations": [
+            [
+                "maintenance code violation",
+                "521"
+            ],
+            [
+                "maintenance code violation",
+                "501"
+            ]
+        ],
+        "years_of_violations": [
+            "2013",
+            "2013"
         ]
     },
     {
@@ -5982,36 +6237,6 @@
         ],
         "years_of_violations": [
             "2013"
-        ]
-    },
-    {
-        "house_number": "95-05",
-        "street": "41 AVENUE",
-        "zipcode": "11373",
-        "total_housing_maintenance_code_violations": 4,
-        "list of violations": [
-            [
-                "maintenance code violation",
-                "617"
-            ],
-            [
-                "maintenance code violation",
-                "616"
-            ],
-            [
-                "maintenance code violation",
-                "617"
-            ],
-            [
-                "maintenance code violation",
-                "617"
-            ]
-        ],
-        "years_of_violations": [
-            "2016",
-            "2016",
-            "2016",
-            "2016"
         ]
     },
     {
@@ -6220,46 +6445,6 @@
         ]
     },
     {
-        "house_number": "1654",
-        "street": "UNION STREET",
-        "zipcode": "11213",
-        "total_housing_maintenance_code_violations": 6,
-        "list of violations": [
-            [
-                "maintenance code violation",
-                "508"
-            ],
-            [
-                "maintenance code violation",
-                "1502"
-            ],
-            [
-                "maintenance code violation",
-                "702"
-            ],
-            [
-                "maintenance code violation",
-                "501"
-            ],
-            [
-                "maintenance code violation",
-                "552"
-            ],
-            [
-                "maintenance code violation",
-                "502"
-            ]
-        ],
-        "years_of_violations": [
-            "2013",
-            "2013",
-            "2013",
-            "2014",
-            "2014",
-            "2014"
-        ]
-    },
-    {
         "house_number": "530",
         "street": "ST PAULS PLACE",
         "zipcode": "10456",
@@ -6352,21 +6537,6 @@
         ],
         "years_of_violations": [
             "2021"
-        ]
-    },
-    {
-        "house_number": "269",
-        "street": "WEST 146 STREET",
-        "zipcode": "10039",
-        "total_housing_maintenance_code_violations": 1,
-        "list of violations": [
-            [
-                "maintenance code violation",
-                "556"
-            ]
-        ],
-        "years_of_violations": [
-            "2020"
         ]
     },
     {
@@ -6588,7 +6758,7 @@
         "house_number": "1760",
         "street": "MONTGOMERY AVENUE",
         "zipcode": "10453",
-        "total_housing_maintenance_code_violations": 4,
+        "total_housing_maintenance_code_violations": 3,
         "list of violations": [
             [
                 "maintenance code violation",
@@ -6601,14 +6771,9 @@
             [
                 "maintenance code violation",
                 "556"
-            ],
-            [
-                "maintenance code violation",
-                "491"
             ]
         ],
         "years_of_violations": [
-            "2013",
             "2013",
             "2013",
             "2013"
@@ -6705,6 +6870,21 @@
         ]
     },
     {
+        "house_number": "123",
+        "street": "WEST 135 STREET",
+        "zipcode": "10030",
+        "total_housing_maintenance_code_violations": 1,
+        "list of violations": [
+            [
+                "maintenance code violation",
+                "568"
+            ]
+        ],
+        "years_of_violations": [
+            "2016"
+        ]
+    },
+    {
         "house_number": "3885",
         "street": "BROADWAY",
         "zipcode": "10032",
@@ -6770,26 +6950,6 @@
         ]
     },
     {
-        "house_number": "1011",
-        "street": "CARROLL PLACE",
-        "zipcode": "10456",
-        "total_housing_maintenance_code_violations": 2,
-        "list of violations": [
-            [
-                "maintenance code violation",
-                "569"
-            ],
-            [
-                "maintenance code violation",
-                "568"
-            ]
-        ],
-        "years_of_violations": [
-            "2021",
-            "2021"
-        ]
-    },
-    {
         "house_number": "1744",
         "street": "MERRILL STREET",
         "zipcode": "10460",
@@ -6836,6 +6996,21 @@
             "2013",
             "2013",
             "2021",
+            "2021"
+        ]
+    },
+    {
+        "house_number": "1520",
+        "street": "SEDGWICK AVENUE",
+        "zipcode": "10453",
+        "total_housing_maintenance_code_violations": 1,
+        "list of violations": [
+            [
+                "maintenance code violation",
+                "556"
+            ]
+        ],
+        "years_of_violations": [
             "2021"
         ]
     },
@@ -6895,21 +7070,6 @@
         ]
     },
     {
-        "house_number": "1520",
-        "street": "SEDGWICK AVENUE",
-        "zipcode": "10453",
-        "total_housing_maintenance_code_violations": 1,
-        "list of violations": [
-            [
-                "maintenance code violation",
-                "508"
-            ]
-        ],
-        "years_of_violations": [
-            "2021"
-        ]
-    },
-    {
         "house_number": "640",
         "street": "KOSCIUSZKO STREET",
         "zipcode": "11221",
@@ -6927,6 +7087,21 @@
         "years_of_violations": [
             "2015",
             "2017"
+        ]
+    },
+    {
+        "house_number": "371",
+        "street": "LENOX AVENUE",
+        "zipcode": "10027",
+        "total_housing_maintenance_code_violations": 1,
+        "list of violations": [
+            [
+                "maintenance code violation",
+                "538"
+            ]
+        ],
+        "years_of_violations": [
+            "2022"
         ]
     },
     {
@@ -6960,95 +7135,10 @@
         ]
     },
     {
-        "house_number": "1843",
-        "street": "PITKIN AVENUE",
-        "zipcode": "11212",
-        "total_housing_maintenance_code_violations": 12,
-        "list of violations": [
-            [
-                "maintenance code violation",
-                "506"
-            ],
-            [
-                "maintenance code violation",
-                "689"
-            ],
-            [
-                "maintenance code violation",
-                "551"
-            ],
-            [
-                "maintenance code violation",
-                "556"
-            ],
-            [
-                "maintenance code violation",
-                "708"
-            ],
-            [
-                "maintenance code violation",
-                "689"
-            ],
-            [
-                "maintenance code violation",
-                "1501"
-            ],
-            [
-                "maintenance code violation",
-                "485"
-            ],
-            [
-                "maintenance code violation",
-                "778"
-            ],
-            [
-                "maintenance code violation",
-                "712"
-            ],
-            [
-                "maintenance code violation",
-                "713"
-            ],
-            [
-                "maintenance code violation",
-                "504"
-            ]
-        ],
-        "years_of_violations": [
-            "2013",
-            "2013",
-            "2013",
-            "2013",
-            "2013",
-            "2013",
-            "2013",
-            "2013",
-            "2013",
-            "2013",
-            "2013",
-            "2013"
-        ]
-    },
-    {
-        "house_number": "2941",
-        "street": "FULTON STREET",
-        "zipcode": "11207",
-        "total_housing_maintenance_code_violations": 1,
-        "list of violations": [
-            [
-                "maintenance code violation",
-                "802"
-            ]
-        ],
-        "years_of_violations": [
-            "2003"
-        ]
-    },
-    {
         "house_number": "1750",
         "street": "GRAND CONCOURSE",
         "zipcode": "10457",
-        "total_housing_maintenance_code_violations": 19,
+        "total_housing_maintenance_code_violations": 16,
         "list of violations": [
             [
                 "maintenance code violation",
@@ -7113,24 +7203,9 @@
             [
                 "maintenance code violation",
                 "526"
-            ],
-            [
-                "maintenance code violation",
-                "579"
-            ],
-            [
-                "maintenance code violation",
-                "506"
-            ],
-            [
-                "maintenance code violation",
-                "790"
             ]
         ],
         "years_of_violations": [
-            "2013",
-            "2013",
-            "2013",
             "2013",
             "2013",
             "2013",
@@ -7360,6 +7435,21 @@
         ]
     },
     {
+        "house_number": "15",
+        "street": "CROOKE AVENUE",
+        "zipcode": "11226",
+        "total_housing_maintenance_code_violations": 1,
+        "list of violations": [
+            [
+                "maintenance code violation",
+                "569"
+            ]
+        ],
+        "years_of_violations": [
+            "2016"
+        ]
+    },
+    {
         "house_number": "231",
         "street": "ECHO PLACE",
         "zipcode": "10457",
@@ -7485,6 +7575,41 @@
         ]
     },
     {
+        "house_number": "1534",
+        "street": "ST NICHOLAS AVENUE",
+        "zipcode": "10033",
+        "total_housing_maintenance_code_violations": 5,
+        "list of violations": [
+            [
+                "maintenance code violation",
+                "579"
+            ],
+            [
+                "maintenance code violation",
+                "501"
+            ],
+            [
+                "maintenance code violation",
+                "502"
+            ],
+            [
+                "maintenance code violation",
+                "702"
+            ],
+            [
+                "maintenance code violation",
+                "510"
+            ]
+        ],
+        "years_of_violations": [
+            "2013",
+            "2013",
+            "2013",
+            "2013",
+            "2013"
+        ]
+    },
+    {
         "house_number": "33-36",
         "street": "102 STREET",
         "zipcode": "11368",
@@ -7502,46 +7627,6 @@
         "years_of_violations": [
             "2021",
             "2021"
-        ]
-    },
-    {
-        "house_number": "3770",
-        "street": "BROADWAY",
-        "zipcode": "10032",
-        "total_housing_maintenance_code_violations": 6,
-        "list of violations": [
-            [
-                "maintenance code violation",
-                "616"
-            ],
-            [
-                "maintenance code violation",
-                "616"
-            ],
-            [
-                "maintenance code violation",
-                "616"
-            ],
-            [
-                "maintenance code violation",
-                "616"
-            ],
-            [
-                "maintenance code violation",
-                "616"
-            ],
-            [
-                "maintenance code violation",
-                "554"
-            ]
-        ],
-        "years_of_violations": [
-            "2013",
-            "2013",
-            "2013",
-            "2013",
-            "2013",
-            "2013"
         ]
     },
     {
@@ -7735,101 +7820,6 @@
         ]
     },
     {
-        "house_number": "151",
-        "street": "DANIEL LOW TERRACE",
-        "zipcode": "10301",
-        "total_housing_maintenance_code_violations": 1,
-        "list of violations": [
-            [
-                "maintenance code violation",
-                "568"
-            ]
-        ],
-        "years_of_violations": [
-            "2013"
-        ]
-    },
-    {
-        "house_number": "1660",
-        "street": "UNION STREET",
-        "zipcode": "11213",
-        "total_housing_maintenance_code_violations": 14,
-        "list of violations": [
-            [
-                "maintenance code violation",
-                "505"
-            ],
-            [
-                "maintenance code violation",
-                "692"
-            ],
-            [
-                "maintenance code violation",
-                "530"
-            ],
-            [
-                "maintenance code violation",
-                "1503"
-            ],
-            [
-                "maintenance code violation",
-                "702"
-            ],
-            [
-                "maintenance code violation",
-                "554"
-            ],
-            [
-                "maintenance code violation",
-                "556"
-            ],
-            [
-                "maintenance code violation",
-                "508"
-            ],
-            [
-                "maintenance code violation",
-                "508"
-            ],
-            [
-                "maintenance code violation",
-                "510"
-            ],
-            [
-                "maintenance code violation",
-                "617"
-            ],
-            [
-                "maintenance code violation",
-                "617"
-            ],
-            [
-                "maintenance code violation",
-                "556"
-            ],
-            [
-                "maintenance code violation",
-                "570"
-            ]
-        ],
-        "years_of_violations": [
-            "2013",
-            "2013",
-            "2013",
-            "2013",
-            "2013",
-            "2013",
-            "2013",
-            "2013",
-            "2013",
-            "2013",
-            "2013",
-            "2013",
-            "2013",
-            "2013"
-        ]
-    },
-    {
         "house_number": "66",
         "street": "BLEECKER STREET",
         "zipcode": "11221",
@@ -7860,6 +7850,21 @@
         ]
     },
     {
+        "house_number": "1113",
+        "street": "WALTON AVENUE",
+        "zipcode": "10452",
+        "total_housing_maintenance_code_violations": 1,
+        "list of violations": [
+            [
+                "maintenance code violation",
+                "501"
+            ]
+        ],
+        "years_of_violations": [
+            "2017"
+        ]
+    },
+    {
         "house_number": "1176",
         "street": "OCEAN PARKWAY",
         "zipcode": "11230",
@@ -7872,6 +7877,56 @@
         ],
         "years_of_violations": [
             "2021"
+        ]
+    },
+    {
+        "house_number": "192",
+        "street": "NAGLE AVENUE",
+        "zipcode": "10034",
+        "total_housing_maintenance_code_violations": 8,
+        "list of violations": [
+            [
+                "maintenance code violation",
+                "569"
+            ],
+            [
+                "maintenance code violation",
+                "568"
+            ],
+            [
+                "maintenance code violation",
+                "509"
+            ],
+            [
+                "maintenance code violation",
+                "702"
+            ],
+            [
+                "maintenance code violation",
+                "1503"
+            ],
+            [
+                "maintenance code violation",
+                "501"
+            ],
+            [
+                "maintenance code violation",
+                "539"
+            ],
+            [
+                "maintenance code violation",
+                "505"
+            ]
+        ],
+        "years_of_violations": [
+            "2015",
+            "2015",
+            "2015",
+            "2015",
+            "2015",
+            "2015",
+            "2015",
+            "2015"
         ]
     },
     {
@@ -8060,21 +8115,6 @@
         ]
     },
     {
-        "house_number": "541",
-        "street": "BERGEN STREET",
-        "zipcode": "11217",
-        "total_housing_maintenance_code_violations": 1,
-        "list of violations": [
-            [
-                "maintenance code violation",
-                "1506"
-            ]
-        ],
-        "years_of_violations": [
-            "2021"
-        ]
-    },
-    {
         "house_number": "1807",
         "street": "PHELAN PLACE",
         "zipcode": "10453",
@@ -8087,6 +8127,76 @@
         ],
         "years_of_violations": [
             "2013"
+        ]
+    },
+    {
+        "house_number": "200",
+        "street": "NAGLE AVENUE",
+        "zipcode": "10034",
+        "total_housing_maintenance_code_violations": 12,
+        "list of violations": [
+            [
+                "maintenance code violation",
+                "502"
+            ],
+            [
+                "maintenance code violation",
+                "508"
+            ],
+            [
+                "maintenance code violation",
+                "550"
+            ],
+            [
+                "maintenance code violation",
+                "508"
+            ],
+            [
+                "maintenance code violation",
+                "509"
+            ],
+            [
+                "maintenance code violation",
+                "501"
+            ],
+            [
+                "maintenance code violation",
+                "501"
+            ],
+            [
+                "maintenance code violation",
+                "579"
+            ],
+            [
+                "maintenance code violation",
+                "501"
+            ],
+            [
+                "maintenance code violation",
+                "702"
+            ],
+            [
+                "maintenance code violation",
+                "1503"
+            ],
+            [
+                "maintenance code violation",
+                "569"
+            ]
+        ],
+        "years_of_violations": [
+            "2015",
+            "2015",
+            "2015",
+            "2015",
+            "2015",
+            "2015",
+            "2015",
+            "2015",
+            "2015",
+            "2015",
+            "2015",
+            "2015"
         ]
     },
     {
@@ -8660,6 +8770,21 @@
         ]
     },
     {
+        "house_number": "2070",
+        "street": "POWELL AVENUE",
+        "zipcode": "10472",
+        "total_housing_maintenance_code_violations": 1,
+        "list of violations": [
+            [
+                "maintenance code violation",
+                "1503"
+            ]
+        ],
+        "years_of_violations": [
+            "2016"
+        ]
+    },
+    {
         "house_number": "361",
         "street": "MILLER AVENUE",
         "zipcode": "11207",
@@ -8672,6 +8797,26 @@
         ],
         "years_of_violations": [
             "2021"
+        ]
+    },
+    {
+        "house_number": "700",
+        "street": "AMSTERDAM AVENUE",
+        "zipcode": "10025",
+        "total_housing_maintenance_code_violations": 2,
+        "list of violations": [
+            [
+                "maintenance code violation",
+                "507"
+            ],
+            [
+                "maintenance code violation",
+                "507"
+            ]
+        ],
+        "years_of_violations": [
+            "2020",
+            "2020"
         ]
     },
     {
@@ -8750,21 +8895,6 @@
         ]
     },
     {
-        "house_number": "327",
-        "street": "43 STREET",
-        "zipcode": "11232",
-        "total_housing_maintenance_code_violations": 1,
-        "list of violations": [
-            [
-                "maintenance code violation",
-                "502"
-            ]
-        ],
-        "years_of_violations": [
-            "2019"
-        ]
-    },
-    {
         "house_number": "144-35",
         "street": "ROOSEVELT AVENUE",
         "zipcode": "11354",
@@ -8776,46 +8906,6 @@
             ]
         ],
         "years_of_violations": [
-            "2020"
-        ]
-    },
-    {
-        "house_number": "155",
-        "street": "HANCOCK STREET",
-        "zipcode": "11216",
-        "total_housing_maintenance_code_violations": 6,
-        "list of violations": [
-            [
-                "maintenance code violation",
-                "566"
-            ],
-            [
-                "maintenance code violation",
-                "568"
-            ],
-            [
-                "maintenance code violation",
-                "556"
-            ],
-            [
-                "maintenance code violation",
-                "530"
-            ],
-            [
-                "maintenance code violation",
-                "546"
-            ],
-            [
-                "maintenance code violation",
-                "568"
-            ]
-        ],
-        "years_of_violations": [
-            "2020",
-            "2020",
-            "2020",
-            "2020",
-            "2020",
             "2020"
         ]
     },
@@ -8835,67 +8925,17 @@
         ]
     },
     {
-        "house_number": "2979",
-        "street": "MARION AVENUE",
-        "zipcode": "10458",
-        "total_housing_maintenance_code_violations": 11,
+        "house_number": "357",
+        "street": "WEST 22 STREET",
+        "zipcode": "10011",
+        "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
                 "maintenance code violation",
-                "670"
-            ],
-            [
-                "maintenance code violation",
-                "670"
-            ],
-            [
-                "maintenance code violation",
-                "672"
-            ],
-            [
-                "maintenance code violation",
-                "670"
-            ],
-            [
-                "maintenance code violation",
-                "666"
-            ],
-            [
-                "maintenance code violation",
-                "670"
-            ],
-            [
-                "maintenance code violation",
-                "501"
-            ],
-            [
-                "maintenance code violation",
-                "569"
-            ],
-            [
-                "maintenance code violation",
-                "670"
-            ],
-            [
-                "maintenance code violation",
-                "672"
-            ],
-            [
-                "maintenance code violation",
-                "672"
+                "505"
             ]
         ],
         "years_of_violations": [
-            "2013",
-            "2013",
-            "2013",
-            "2013",
-            "2013",
-            "2013",
-            "2014",
-            "2014",
-            "2014",
-            "2014",
             "2014"
         ]
     },
