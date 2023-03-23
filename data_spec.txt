@@ -1,0 +1,26 @@
+Each DOB has the following keys and values that we are interested in:
+house_number: 
+- int, the house number of the police report address
+- not unique
+- will be used in comparison to other DOB addresses
+zip_code: 
+- int, the zip code of the police report address
+- not unique
+- will be used in comparison to other DOB addresses
+house_street: 
+- string, the street of the police report address
+- not unique
+- will be used in comparison to other DOB addresses
+violationid: 
+- int, unique identifier of violation
+disposition_date:
+- string, day/month/year of the report's dispostion 
+- not unique 
+inspection_date:
+- string, year-month-day of the inspection_date
+- not unique
+
+The Rubmaps data has the following: 
+store_name: string, name of the massage parlour 
+address: string, massage parlour address
+
