@@ -73,7 +73,7 @@ def mapper2_dob(record):
         violation_list.append(('DOB violation', rec['violation_type_code']))
     
     return [{'house_number': housenum, 'street': street, \
-        'total_housing_maintenance_code_violations': num_violations, \
+        'total_dob_violations': num_violations, \
             'list of violations': violation_list, 'years_of_violations': date_list}]
 
 def mapper2_complaints(record):
@@ -90,7 +90,7 @@ def mapper2_complaints(record):
         date_list.append(rec['date_entered'][-4:])
     
     return [{'house_number': housenum, 'street': street, 'zipcode': zip_code, \
-         'total_housing_maintenance_code_violations': num_violations, \
+         'total_dob_complaints': num_violations, \
             'list of violations': violation_list, 'years_of_violations': date_list}]
 
 
