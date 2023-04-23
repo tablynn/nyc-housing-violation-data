@@ -50,11 +50,14 @@ def mapper2_code(record):
     violation_list = []
     num_violations = len(record[1])
     zip_code = record[1][0]['zip'].strip(' \t')
+    lat = record[1][0]['latitude'].strip(' \t')
+    long = record[1][0]['longitude'].strip(' \t')
     for rec in record[1]:
         date_list.append(rec['inspectiondate'][:4])
         violation_list.append(('maintenance code violation', rec['ordernumber']))
     
-    return [{'house_number': housenum, 'street': street, 'zipcode': zip_code, \
+    return [{'house_number': housenum, 'street': street, 'zipcode': zip_code, 'latitude': lat, \
+        'longitude': long, \
         'total_housing_maintenance_code_violations': num_violations, \
             'list of violations': violation_list, 'years_of_violations': date_list}]
 
@@ -81,12 +84,13 @@ def mapper2_complaints(record):
     violation_list = []
     num_violations = len(record[1])
     zip_code = record[1][0]['zip_code'].strip(' \t')
+    
     for rec in record[1]:
         violation_list.append(('DOB complaint', rec['complaint_category']))
         date_list.append(rec['date_entered'][-4:])
     
     return [{'house_number': housenum, 'street': street, 'zipcode': zip_code, \
-        'total_housing_maintenance_code_violations': num_violations, \
+         'total_housing_maintenance_code_violations': num_violations, \
             'list of violations': violation_list, 'years_of_violations': date_list}]
 
 

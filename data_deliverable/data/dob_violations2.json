@@ -1322,20 +1322,6 @@
         ]
     },
     {
-        "house_number": "115-23",
-        "street": "MARSDEN STREET",
-        "total_housing_maintenance_code_violations": 1,
-        "list of violations": [
-            [
-                "DOB violation",
-                "C"
-            ]
-        ],
-        "years_of_violations": [
-            "2022"
-        ]
-    },
-    {
         "house_number": "663 1/2",
         "street": "CITY ISLAND AVENUE",
         "total_housing_maintenance_code_violations": 1,
@@ -3690,20 +3676,6 @@
         "years_of_violations": [
             "2019",
             "2017"
-        ]
-    },
-    {
-        "house_number": "345",
-        "street": "MANOR ROAD",
-        "total_housing_maintenance_code_violations": 1,
-        "list of violations": [
-            [
-                "DOB violation",
-                "LANDMK"
-            ]
-        ],
-        "years_of_violations": [
-            "2022"
         ]
     },
     {
@@ -6825,6 +6797,20 @@
         ]
     },
     {
+        "house_number": "45",
+        "street": "EAST 68 STREET",
+        "total_housing_maintenance_code_violations": 1,
+        "list of violations": [
+            [
+                "DOB violation",
+                "LANDMK"
+            ]
+        ],
+        "years_of_violations": [
+            "1996"
+        ]
+    },
+    {
         "house_number": "1351",
         "street": "BROOKLYN AVENUE",
         "total_housing_maintenance_code_violations": 1,
@@ -7102,6 +7088,20 @@
         ],
         "years_of_violations": [
             "2019"
+        ]
+    },
+    {
+        "house_number": "8",
+        "street": "JAY STREET",
+        "total_housing_maintenance_code_violations": 1,
+        "list of violations": [
+            [
+                "DOB violation",
+                "E"
+            ]
+        ],
+        "years_of_violations": [
+            "2014"
         ]
     },
     {
@@ -8377,6 +8377,20 @@
         ]
     },
     {
+        "house_number": "589320",
+        "street": "16 STREET",
+        "total_housing_maintenance_code_violations": 1,
+        "list of violations": [
+            [
+                "DOB violation",
+                "LL6291"
+            ]
+        ],
+        "years_of_violations": [
+            "1997"
+        ]
+    },
+    {
         "house_number": "183",
         "street": "BEDFORD AVENUE",
         "total_housing_maintenance_code_violations": 4,
@@ -8664,25 +8678,6 @@
         ]
     },
     {
-        "house_number": "540",
-        "street": "PARK AVENUE",
-        "total_housing_maintenance_code_violations": 2,
-        "list of violations": [
-            [
-                "DOB violation",
-                "FISPHAZ"
-            ],
-            [
-                "DOB violation",
-                "EGRADE"
-            ]
-        ],
-        "years_of_violations": [
-            "2022",
-            "2022"
-        ]
-    },
-    {
         "house_number": "826",
         "street": "59 STREET",
         "total_housing_maintenance_code_violations": 1,
@@ -8747,6 +8742,20 @@
             [
                 "DOB violation",
                 "C"
+            ]
+        ],
+        "years_of_violations": [
+            "2022"
+        ]
+    },
+    {
+        "house_number": "540",
+        "street": "PARK AVENUE",
+        "total_housing_maintenance_code_violations": 1,
+        "list of violations": [
+            [
+                "DOB violation",
+                "EGRADE"
             ]
         ],
         "years_of_violations": [
@@ -9352,20 +9361,6 @@
         ]
     },
     {
-        "house_number": "372",
-        "street": "EAST 9 STREET",
-        "total_housing_maintenance_code_violations": 1,
-        "list of violations": [
-            [
-                "DOB violation",
-                "C"
-            ]
-        ],
-        "years_of_violations": [
-            "2022"
-        ]
-    },
-    {
         "house_number": "136",
         "street": "LINCOLN AVENUE",
         "total_housing_maintenance_code_violations": 1,
@@ -9750,6 +9745,20 @@
         ],
         "years_of_violations": [
             "2013"
+        ]
+    },
+    {
+        "house_number": "3165",
+        "street": "EMMONS AVENUE",
+        "total_housing_maintenance_code_violations": 1,
+        "list of violations": [
+            [
+                "DOB violation",
+                "C"
+            ]
+        ],
+        "years_of_violations": [
+            "2007"
         ]
     },
     {
