@@ -102,7 +102,7 @@ def mapper2_complaints(record):
         date_list.append(rec['date_entered'][-4:])
     
     return [{'house_number': housenum, 'street': street, 'zipcode': zip_code, \
-         'total_housing_maintenance_code_violations': num_violations, \
+         'total_dob_complaints': num_violations, \
             'list of violations': violation_list, 'years_of_violations': date_list}]
 
 
