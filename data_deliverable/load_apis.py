@@ -38,60 +38,32 @@ def mapper_complaints(record2):
     except:
         return
 
-def reducer(a, b):
-     return a + b
 
 
 def mapper2_code(record):
     housenum = record[0][0]
     street = record[0][1]
-    
-    date_list = []
-    violation_list = []
-    num_violations = len(record[1])
     zip_code = record[1][0]['zip'].strip(' \t')
     lat = record[1][0]['latitude'].strip(' \t')
     long = record[1][0]['longitude'].strip(' \t')
-    for rec in record[1]:
-        date_list.append(rec['inspectiondate'][:4])
-        violation_list.append(('maintenance code violation', rec['ordernumber']))
     
     return [{'house_number': housenum, 'street': street, 'zipcode': zip_code, 'latitude': lat, \
-        'longitude': long, \
-        'total_housing_maintenance_code_violations': num_violations, \
-            'list of violations': violation_list, 'years_of_violations': date_list}]
+        'longitude': long, 'type of violation': 'maintenance code violation', \
+            'year_of_violation': record[1][0]['inspectiondate'][:4]}]
 
 def mapper2_dob(record):
     housenum = record[0][0]
     street = record[0][1]
-    
-    date_list = []
-    violation_list = []
-    num_violations = len(record[1])
-    for rec in record[1]:
-        date_list.append(rec['issue_date'][:4])
-        violation_list.append(('DOB violation', rec['violation_type_code']))
-    
     return [{'house_number': housenum, 'street': street, \
-        'total_dob_violations': num_violations, \
-            'list of violations': violation_list, 'years_of_violations': date_list}]
+            'type_of_violation': 'DOB Violation', 'year_of_violation': record[1][0]['issue_date'][:4]}]
 
 def mapper2_complaints(record):
     housenum = record[0][0]
     street = record[0][1]
-    
-    date_list = []
-    violation_list = []
-    num_violations = len(record[1])
     zip_code = record[1][0]['zip_code'].strip(' \t')
-    
-    for rec in record[1]:
-        violation_list.append(('DOB complaint', rec['complaint_category']))
-        date_list.append(rec['date_entered'][-4:])
-    
     return [{'house_number': housenum, 'street': street, 'zipcode': zip_code, \
-         'total_dob_complaints': num_violations, \
-            'list of violations': violation_list, 'years_of_violations': date_list}]
+     'type of violation': 'DOB Complaint', \
+        'year_of_violation': record[1][0]['date_entered'][:4]}]
 
 
 
@@ -103,9 +75,9 @@ def main():
     complaints = scrape(DOB_COMPLAINTS)
 
 
-    code2 = sc.parallelize(code_violations, 128).map(mapper_code_violation).reduceByKey(reducer).flatMap(mapper2_code).collect()
-    dob = sc.parallelize(dob_violations, 128).flatMap(mapper_dob_violation).reduceByKey(reducer).flatMap(mapper2_dob).collect()
-    complaints2 = sc.parallelize(complaints, 128).flatMap(mapper_complaints).reduceByKey(reducer).flatMap(mapper2_complaints).collect()
+    code2 = sc.parallelize(code_violations, 128).map(mapper_code_violation).map(mapper2_code).collect()
+    dob = sc.parallelize(dob_violations, 128).flatMap(mapper_dob_violation).map(mapper2_dob).collect()
+    complaints2 = sc.parallelize(complaints, 128).flatMap(mapper_complaints).map(mapper2_complaints).collect()
 
 
     if not os.path.exists("data"):
