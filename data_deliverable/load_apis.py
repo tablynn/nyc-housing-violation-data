@@ -46,16 +46,30 @@ def mapper2_code(record):
     zip_code = record[1][0]['zip'].strip(' \t')
     lat = record[1][0]['latitude'].strip(' \t')
     long = record[1][0]['longitude'].strip(' \t')
+    boro = record[1][0]['boro'].strip(' \t')
     
-    return [{'house_number': housenum, 'street': street, 'zipcode': zip_code, 'latitude': lat, \
+    return [{'house_number': housenum, 'street': street, 'zipcode': zip_code, 'boro': boro, 'latitude': lat, \
         'longitude': long, 'type of violation': 'maintenance code violation', \
             'year_of_violation': record[1][0]['inspectiondate'][:4]}]
 
 def mapper2_dob(record):
     housenum = record[0][0]
     street = record[0][1]
-    return [{'house_number': housenum, 'street': street, \
+    boro = record[1][0]['boro'].strip(' \t')
+    if boro == '1':
+        boro = 'MANHATTAN'
+    elif boro == '2':
+        boro = 'BRONX'
+    elif boro == '3':
+        boro = 'BROOKLYN'
+    elif boro == '4':
+        boro == 'QUEENS'
+    elif boro == '5':
+        boro = 'STATEN ISLAND'
+    return [{'house_number': housenum, 'street': street, 'boro': boro, \
             'type_of_violation': 'DOB Violation', 'year_of_violation': record[1][0]['issue_date'][:4]}]
+    
+    
 
 def mapper2_complaints(record):
     housenum = record[0][0]
