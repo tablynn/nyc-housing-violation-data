@@ -34,6 +34,7 @@ addresses = []
 address_df = []
 geo_dictionary = []
 dob_dictionary = []
+
 with open('data/all_spas.json') as json_file:
     data = json.load(json_file)
     spa_df = pd.DataFrame.from_dict(data)
@@ -67,7 +68,9 @@ with open('data/dob_violations2.json') as json_file:
     data = json.load(json_file)
 
     for i in data:
-        address = i['house_number'] + " " + i['street']# + " " + i['zipcode']
+        
+        # these addresses have borough instead of zipcode
+        address = i['house_number'] + " " + i['street'] + " " + i['boro']
         vio_count = i['total_housing_maintenance_code_violations']
         vio_list = i['list of violations']
         vio_years = i['years_of_violations']

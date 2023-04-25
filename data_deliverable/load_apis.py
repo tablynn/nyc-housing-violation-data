@@ -64,6 +64,18 @@ def mapper2_code(record):
 def mapper2_dob(record):
     housenum = record[0][0]
     street = record[0][1]
+    boro = record[1][0]['boro'].strip(' \t')
+
+    if boro == '1':
+        boro = 'MANHATTAN'
+    elif boro == '2':
+        boro = 'BRONX'
+    elif boro == '3':
+        boro = 'BROOKLYN'
+    elif boro == '4':
+        boro == 'QUEENS'
+    elif boro == '5':
+        boro = 'STATEN ISLAND'
     
     date_list = []
     violation_list = []
@@ -72,7 +84,7 @@ def mapper2_dob(record):
         date_list.append(rec['issue_date'][:4])
         violation_list.append(('DOB violation', rec['violation_type_code']))
     
-    return [{'house_number': housenum, 'street': street, \
+    return [{'house_number': housenum, 'street': street, 'boro': boro, \
         'total_housing_maintenance_code_violations': num_violations, \
             'list of violations': violation_list, 'years_of_violations': date_list}]
 

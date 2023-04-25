@@ -89,8 +89,8 @@
         ]
     },
     {
-        "lat": null,
-        "lon": null,
+        "lat": 40.66127,
+        "lon": -73.9555,
         "violation_count": 1,
         "list_of_violations": [
             [
@@ -103,8 +103,8 @@
         ]
     },
     {
-        "lat": null,
-        "lon": null,
+        "lat": 40.6203,
+        "lon": -73.90866,
         "violation_count": 2,
         "list_of_violations": [
             [
@@ -183,8 +183,8 @@
         ]
     },
     {
-        "lat": 40.76327,
-        "lon": -73.98647,
+        "lat": 40.62891,
+        "lon": -73.98536,
         "violation_count": 1,
         "list_of_violations": [
             [
@@ -211,8 +211,8 @@
         ]
     },
     {
-        "lat": 37.85293,
-        "lon": -122.25265,
+        "lat": 40.83321,
+        "lon": -73.91334,
         "violation_count": 2,
         "list_of_violations": [
             [
@@ -249,8 +249,8 @@
         ]
     },
     {
-        "lat": 51.86797,
-        "lon": -2.25291,
+        "lat": null,
+        "lon": null,
         "violation_count": 1,
         "list_of_violations": [
             [
@@ -324,8 +324,8 @@
         ]
     },
     {
-        "lat": 40.72896,
-        "lon": -73.98634,
+        "lat": 40.64096,
+        "lon": -73.96995,
         "violation_count": 2,
         "list_of_violations": [
             [
@@ -343,8 +343,8 @@
         ]
     },
     {
-        "lat": 53.4673,
-        "lon": -113.46776,
+        "lat": 40.62099,
+        "lon": -74.03729,
         "violation_count": 1,
         "list_of_violations": [
             [
@@ -357,8 +357,8 @@
         ]
     },
     {
-        "lat": 40.74305,
-        "lon": -73.95716,
+        "lat": null,
+        "lon": null,
         "violation_count": 1,
         "list_of_violations": [
             [
@@ -371,8 +371,8 @@
         ]
     },
     {
-        "lat": null,
-        "lon": null,
+        "lat": 40.74575,
+        "lon": -74.0086,
         "violation_count": 1,
         "list_of_violations": [
             [
@@ -758,8 +758,8 @@
         ]
     },
     {
-        "lat": null,
-        "lon": null,
+        "lat": 40.87548,
+        "lon": -73.90653,
         "violation_count": 1,
         "list_of_violations": [
             [
@@ -830,8 +830,8 @@
         ]
     },
     {
-        "lat": -37.93091,
-        "lon": 145.36286,
+        "lat": 40.59454,
+        "lon": -74.18523,
         "violation_count": 1,
         "list_of_violations": [
             [
@@ -939,8 +939,8 @@
         ]
     },
     {
-        "lat": null,
-        "lon": null,
+        "lat": 40.57958,
+        "lon": -73.96221,
         "violation_count": 1,
         "list_of_violations": [
             [
@@ -953,8 +953,8 @@
         ]
     },
     {
-        "lat": null,
-        "lon": null,
+        "lat": 40.69477,
+        "lon": -73.98671,
         "violation_count": 11,
         "list_of_violations": [
             [
@@ -1031,8 +1031,8 @@
         ]
     },
     {
-        "lat": 40.719,
-        "lon": -74.00668,
+        "lat": 40.71946,
+        "lon": -74.00818,
         "violation_count": 1,
         "list_of_violations": [
             [
@@ -1045,8 +1045,8 @@
         ]
     },
     {
-        "lat": null,
-        "lon": null,
+        "lat": 40.69494,
+        "lon": -73.98646,
         "violation_count": 1,
         "list_of_violations": [
             [
@@ -1125,8 +1125,8 @@
         ]
     },
     {
-        "lat": 40.69782,
-        "lon": -73.99397,
+        "lat": 40.69792,
+        "lon": -73.99442,
         "violation_count": 1,
         "list_of_violations": [
             [
@@ -1186,8 +1186,8 @@
         ]
     },
     {
-        "lat": 51.44801,
-        "lon": -0.97731,
+        "lat": 40.6512,
+        "lon": -73.96209,
         "violation_count": 1,
         "list_of_violations": [
             [
@@ -1256,8 +1256,8 @@
         ]
     },
     {
-        "lat": 40.75177,
-        "lon": -73.99007,
+        "lat": 40.64002,
+        "lon": -74.00822,
         "violation_count": 1,
         "list_of_violations": [
             [
@@ -1322,20 +1322,6 @@
         ]
     },
     {
-        "lat": -33.81836,
-        "lon": 151.00057,
-        "violation_count": 1,
-        "list_of_violations": [
-            [
-                "DOB violation",
-                "C"
-            ]
-        ],
-        "years_of_violations": [
-            "2022"
-        ]
-    },
-    {
         "lat": 40.8563,
         "lon": -73.79193,
         "violation_count": 1,
@@ -1364,8 +1350,8 @@
         ]
     },
     {
-        "lat": 34.10155,
-        "lon": -118.34026,
+        "lat": null,
+        "lon": null,
         "violation_count": 2,
         "list_of_violations": [
             [
@@ -1421,8 +1407,8 @@
         ]
     },
     {
-        "lat": 40.71404,
-        "lon": -73.92456,
+        "lat": 40.84071,
+        "lon": -73.85534,
         "violation_count": 1,
         "list_of_violations": [
             [
@@ -1435,8 +1421,8 @@
         ]
     },
     {
-        "lat": 40.74914,
-        "lon": -73.98259,
+        "lat": 40.68447,
+        "lon": -73.95107,
         "violation_count": 3,
         "list_of_violations": [
             [
@@ -1507,8 +1493,8 @@
         ]
     },
     {
-        "lat": 43.61634,
-        "lon": -116.20312,
+        "lat": 40.73559,
+        "lon": -73.99921,
         "violation_count": 1,
         "list_of_violations": [
             [
@@ -1591,8 +1577,8 @@
         ]
     },
     {
-        "lat": 40.74139,
-        "lon": -74.00041,
+        "lat": 40.74057,
+        "lon": -73.99792,
         "violation_count": 1,
         "list_of_violations": [
             [
@@ -1605,8 +1591,8 @@
         ]
     },
     {
-        "lat": 41.04139,
-        "lon": -73.86419,
+        "lat": 40.70639,
+        "lon": -74.01324,
         "violation_count": 1,
         "list_of_violations": [
             [
@@ -1699,8 +1685,8 @@
         ]
     },
     {
-        "lat": null,
-        "lon": null,
+        "lat": 40.84855,
+        "lon": -73.91423,
         "violation_count": 1,
         "list_of_violations": [
             [
@@ -1713,8 +1699,8 @@
         ]
     },
     {
-        "lat": null,
-        "lon": null,
+        "lat": 40.66361,
+        "lon": -73.97805,
         "violation_count": 1,
         "list_of_violations": [
             [
@@ -1741,8 +1727,8 @@
         ]
     },
     {
-        "lat": null,
-        "lon": null,
+        "lat": 40.7855,
+        "lon": -73.9704,
         "violation_count": 1,
         "list_of_violations": [
             [
@@ -1821,8 +1807,8 @@
         ]
     },
     {
-        "lat": null,
-        "lon": null,
+        "lat": 40.66849,
+        "lon": -73.97984,
         "violation_count": 4,
         "list_of_violations": [
             [
@@ -1864,8 +1850,8 @@
         ]
     },
     {
-        "lat": 40.70031,
-        "lon": -73.85355,
+        "lat": 40.70059,
+        "lon": -73.85456,
         "violation_count": 1,
         "list_of_violations": [
             [
@@ -1878,8 +1864,8 @@
         ]
     },
     {
-        "lat": null,
-        "lon": null,
+        "lat": 40.66479,
+        "lon": -73.98693,
         "violation_count": 1,
         "list_of_violations": [
             [
@@ -1892,8 +1878,8 @@
         ]
     },
     {
-        "lat": 40.63775,
-        "lon": -74.00721,
+        "lat": 40.66431,
+        "lon": -73.98022,
         "violation_count": 1,
         "list_of_violations": [
             [
@@ -2019,8 +2005,8 @@
         ]
     },
     {
-        "lat": 41.75048,
-        "lon": -72.72163,
+        "lat": 40.68698,
+        "lon": -73.9985,
         "violation_count": 1,
         "list_of_violations": [
             [
@@ -2057,8 +2043,8 @@
         ]
     },
     {
-        "lat": null,
-        "lon": null,
+        "lat": 40.61825,
+        "lon": -74.03132,
         "violation_count": 1,
         "list_of_violations": [
             [
@@ -2367,8 +2353,8 @@
         ]
     },
     {
-        "lat": null,
-        "lon": null,
+        "lat": 40.6754,
+        "lon": -73.94907,
         "violation_count": 4,
         "list_of_violations": [
             [
@@ -2526,8 +2512,8 @@
         ]
     },
     {
-        "lat": null,
-        "lon": null,
+        "lat": 40.76047,
+        "lon": -73.97888,
         "violation_count": 1,
         "list_of_violations": [
             [
@@ -2540,8 +2526,8 @@
         ]
     },
     {
-        "lat": 37.79748,
-        "lon": -122.40697,
+        "lat": 40.68645,
+        "lon": -73.86781,
         "violation_count": 1,
         "list_of_violations": [
             [
@@ -2554,8 +2540,8 @@
         ]
     },
     {
-        "lat": 40.75692,
-        "lon": -73.94163,
+        "lat": null,
+        "lon": null,
         "violation_count": 3,
         "list_of_violations": [
             [
@@ -2578,8 +2564,8 @@
         ]
     },
     {
-        "lat": 40.75771,
-        "lon": -73.98574,
+        "lat": 40.81662,
+        "lon": -73.94222,
         "violation_count": 1,
         "list_of_violations": [
             [
@@ -2625,8 +2611,8 @@
         ]
     },
     {
-        "lat": 40.65692,
-        "lon": -73.95315,
+        "lat": 40.64136,
+        "lon": -73.95121,
         "violation_count": 1,
         "list_of_violations": [
             [
@@ -2639,8 +2625,8 @@
         ]
     },
     {
-        "lat": null,
-        "lon": null,
+        "lat": 40.61616,
+        "lon": -73.99784,
         "violation_count": 1,
         "list_of_violations": [
             [
@@ -2653,8 +2639,8 @@
         ]
     },
     {
-        "lat": 40.64088,
-        "lon": -74.30545,
+        "lat": 40.80398,
+        "lon": -73.90776,
         "violation_count": 1,
         "list_of_violations": [
             [
@@ -2667,8 +2653,8 @@
         ]
     },
     {
-        "lat": null,
-        "lon": null,
+        "lat": 40.7669,
+        "lon": -73.9861,
         "violation_count": 6,
         "list_of_violations": [
             [
@@ -2833,8 +2819,8 @@
         ]
     },
     {
-        "lat": 35.14032,
-        "lon": -90.04281,
+        "lat": 40.71352,
+        "lon": -73.9513,
         "violation_count": 1,
         "list_of_violations": [
             [
@@ -2876,8 +2862,8 @@
         ]
     },
     {
-        "lat": null,
-        "lon": null,
+        "lat": 40.70078,
+        "lon": -73.98973,
         "violation_count": 1,
         "list_of_violations": [
             [
@@ -2904,8 +2890,8 @@
         ]
     },
     {
-        "lat": 40.65846,
-        "lon": -73.89045,
+        "lat": 40.67746,
+        "lon": -73.897,
         "violation_count": 3,
         "list_of_violations": [
             [
@@ -3112,8 +3098,8 @@
         ]
     },
     {
-        "lat": null,
-        "lon": null,
+        "lat": 40.7671,
+        "lon": -73.95689,
         "violation_count": 1,
         "list_of_violations": [
             [
@@ -3187,8 +3173,8 @@
         ]
     },
     {
-        "lat": 40.75845,
-        "lon": -73.97133,
+        "lat": 40.65753,
+        "lon": -73.92833,
         "violation_count": 5,
         "list_of_violations": [
             [
@@ -3263,8 +3249,8 @@
         ]
     },
     {
-        "lat": 49.09665,
-        "lon": -122.62451,
+        "lat": null,
+        "lon": null,
         "violation_count": 1,
         "list_of_violations": [
             [
@@ -3310,8 +3296,8 @@
         ]
     },
     {
-        "lat": 40.75177,
-        "lon": -73.99007,
+        "lat": 40.80682,
+        "lon": -73.95024,
         "violation_count": 1,
         "list_of_violations": [
             [
@@ -3343,8 +3329,8 @@
         ]
     },
     {
-        "lat": null,
-        "lon": null,
+        "lat": 40.69528,
+        "lon": -73.94473,
         "violation_count": 1,
         "list_of_violations": [
             [
@@ -3376,8 +3362,8 @@
         ]
     },
     {
-        "lat": null,
-        "lon": null,
+        "lat": 40.63038,
+        "lon": -74.1103,
         "violation_count": 1,
         "list_of_violations": [
             [
@@ -3452,8 +3438,8 @@
         ]
     },
     {
-        "lat": 40.59348,
-        "lon": -73.97591,
+        "lat": 40.58056,
+        "lon": -73.97149,
         "violation_count": 5,
         "list_of_violations": [
             [
@@ -3486,8 +3472,8 @@
         ]
     },
     {
-        "lat": null,
-        "lon": null,
+        "lat": 40.69583,
+        "lon": -73.93278,
         "violation_count": 2,
         "list_of_violations": [
             [
@@ -3505,8 +3491,8 @@
         ]
     },
     {
-        "lat": 30.01428,
-        "lon": -99.12463,
+        "lat": 40.62322,
+        "lon": -73.94844,
         "violation_count": 1,
         "list_of_violations": [
             [
@@ -3632,8 +3618,8 @@
         ]
     },
     {
-        "lat": -31.94969,
-        "lon": 115.85806,
+        "lat": 40.63354,
+        "lon": -74.12163,
         "violation_count": 1,
         "list_of_violations": [
             [
@@ -3693,20 +3679,6 @@
         ]
     },
     {
-        "lat": 40.61956,
-        "lon": -74.12269,
-        "violation_count": 1,
-        "list_of_violations": [
-            [
-                "DOB violation",
-                "LANDMK"
-            ]
-        ],
-        "years_of_violations": [
-            "2022"
-        ]
-    },
-    {
         "lat": 40.85992,
         "lon": -73.86877,
         "violation_count": 2,
@@ -3726,8 +3698,8 @@
         ]
     },
     {
-        "lat": 40.63775,
-        "lon": -74.00721,
+        "lat": 40.74143,
+        "lon": -74.00169,
         "violation_count": 1,
         "list_of_violations": [
             [
@@ -3754,8 +3726,8 @@
         ]
     },
     {
-        "lat": 40.7636,
-        "lon": -73.83163,
+        "lat": 40.76357,
+        "lon": -73.8311,
         "violation_count": 1,
         "list_of_violations": [
             [
@@ -3843,8 +3815,8 @@
         ]
     },
     {
-        "lat": 40.7081,
-        "lon": -74.00475,
+        "lat": 40.6897,
+        "lon": -73.98296,
         "violation_count": 1,
         "list_of_violations": [
             [
@@ -3857,8 +3829,8 @@
         ]
     },
     {
-        "lat": null,
-        "lon": null,
+        "lat": 40.66962,
+        "lon": -73.99282,
         "violation_count": 1,
         "list_of_violations": [
             [
@@ -3969,8 +3941,8 @@
         ]
     },
     {
-        "lat": 42.70132,
-        "lon": -73.71704,
+        "lat": 40.72016,
+        "lon": -74.00084,
         "violation_count": 1,
         "list_of_violations": [
             [
@@ -3997,8 +3969,8 @@
         ]
     },
     {
-        "lat": 50.82385,
-        "lon": -0.38549,
+        "lat": 40.83036,
+        "lon": -73.86725,
         "violation_count": 1,
         "list_of_violations": [
             [
@@ -4059,8 +4031,8 @@
         ]
     },
     {
-        "lat": 40.77945,
-        "lon": -73.95141,
+        "lat": 40.77965,
+        "lon": -73.95144,
         "violation_count": 2,
         "list_of_violations": [
             [
@@ -4134,8 +4106,8 @@
         ]
     },
     {
-        "lat": 39.2106,
-        "lon": -94.64898,
+        "lat": null,
+        "lon": null,
         "violation_count": 1,
         "list_of_violations": [
             [
@@ -4196,8 +4168,8 @@
         ]
     },
     {
-        "lat": null,
-        "lon": null,
+        "lat": 40.63823,
+        "lon": -74.01065,
         "violation_count": 2,
         "list_of_violations": [
             [
@@ -4248,8 +4220,8 @@
         ]
     },
     {
-        "lat": 40.7524,
-        "lon": -73.97428,
+        "lat": 40.75247,
+        "lon": -73.97394,
         "violation_count": 1,
         "list_of_violations": [
             [
@@ -4262,8 +4234,8 @@
         ]
     },
     {
-        "lat": 40.76689,
-        "lon": -73.96758,
+        "lat": 40.76516,
+        "lon": -73.9644,
         "violation_count": 1,
         "list_of_violations": [
             [
@@ -4295,8 +4267,8 @@
         ]
     },
     {
-        "lat": 39.33622,
-        "lon": -76.64103,
+        "lat": 40.63913,
+        "lon": -73.98722,
         "violation_count": 1,
         "list_of_violations": [
             [
@@ -4337,8 +4309,8 @@
         ]
     },
     {
-        "lat": 40.73792,
-        "lon": -73.98498,
+        "lat": 40.7394,
+        "lon": -73.98875,
         "violation_count": 2,
         "list_of_violations": [
             [
@@ -4454,8 +4426,8 @@
         ]
     },
     {
-        "lat": null,
-        "lon": null,
+        "lat": 40.74257,
+        "lon": -73.99236,
         "violation_count": 1,
         "list_of_violations": [
             [
@@ -4534,8 +4506,8 @@
         ]
     },
     {
-        "lat": 40.73797,
-        "lon": -73.88013,
+        "lat": null,
+        "lon": null,
         "violation_count": 1,
         "list_of_violations": [
             [
@@ -4576,8 +4548,8 @@
         ]
     },
     {
-        "lat": null,
-        "lon": null,
+        "lat": 40.80871,
+        "lon": -73.94093,
         "violation_count": 1,
         "list_of_violations": [
             [
@@ -4590,8 +4562,8 @@
         ]
     },
     {
-        "lat": 40.70011,
-        "lon": -73.79188,
+        "lat": 40.69989,
+        "lon": -73.79201,
         "violation_count": 1,
         "list_of_violations": [
             [
@@ -4713,8 +4685,8 @@
         ]
     },
     {
-        "lat": null,
-        "lon": null,
+        "lat": 40.77018,
+        "lon": -73.98274,
         "violation_count": 1,
         "list_of_violations": [
             [
@@ -4741,8 +4713,8 @@
         ]
     },
     {
-        "lat": 32.64088,
-        "lon": -117.08037,
+        "lat": 40.73935,
+        "lon": -73.98303,
         "violation_count": 2,
         "list_of_violations": [
             [
@@ -4760,8 +4732,8 @@
         ]
     },
     {
-        "lat": 40.76302,
-        "lon": -73.9595,
+        "lat": 40.73941,
+        "lon": -73.97764,
         "violation_count": 1,
         "list_of_violations": [
             [
@@ -4816,8 +4788,8 @@
         ]
     },
     {
-        "lat": 40.67147,
-        "lon": -73.98733,
+        "lat": 40.66876,
+        "lon": -73.97977,
         "violation_count": 2,
         "list_of_violations": [
             [
@@ -4835,8 +4807,8 @@
         ]
     },
     {
-        "lat": 40.63789,
-        "lon": -74.13576,
+        "lat": 40.63803,
+        "lon": -74.13544,
         "violation_count": 1,
         "list_of_violations": [
             [
@@ -4863,8 +4835,8 @@
         ]
     },
     {
-        "lat": null,
-        "lon": null,
+        "lat": 40.73729,
+        "lon": -73.85593,
         "violation_count": 2,
         "list_of_violations": [
             [
@@ -4938,8 +4910,8 @@
         ]
     },
     {
-        "lat": null,
-        "lon": null,
+        "lat": 40.62031,
+        "lon": -73.90877,
         "violation_count": 4,
         "list_of_violations": [
             [
@@ -4967,8 +4939,8 @@
         ]
     },
     {
-        "lat": null,
-        "lon": null,
+        "lat": 40.73729,
+        "lon": -73.85593,
         "violation_count": 2,
         "list_of_violations": [
             [
@@ -5043,8 +5015,8 @@
         ]
     },
     {
-        "lat": 34.10155,
-        "lon": -118.34026,
+        "lat": null,
+        "lon": null,
         "violation_count": 1,
         "list_of_violations": [
             [
@@ -5071,8 +5043,8 @@
         ]
     },
     {
-        "lat": 53.48224,
-        "lon": -2.23243,
+        "lat": 40.52777,
+        "lon": -74.17242,
         "violation_count": 1,
         "list_of_violations": [
             [
@@ -5118,8 +5090,8 @@
         ]
     },
     {
-        "lat": 40.57465,
-        "lon": -73.99415,
+        "lat": 40.5763,
+        "lon": -73.9948,
         "violation_count": 1,
         "list_of_violations": [
             [
@@ -5146,8 +5118,8 @@
         ]
     },
     {
-        "lat": 40.65564,
-        "lon": -73.9218,
+        "lat": 40.78269,
+        "lon": -73.95326,
         "violation_count": 1,
         "list_of_violations": [
             [
@@ -5240,8 +5212,8 @@
         ]
     },
     {
-        "lat": null,
-        "lon": null,
+        "lat": 40.66281,
+        "lon": -73.99081,
         "violation_count": 1,
         "list_of_violations": [
             [
@@ -5450,8 +5422,8 @@
         ]
     },
     {
-        "lat": 37.79111,
-        "lon": -122.39925,
+        "lat": 40.6758,
+        "lon": -74.00872,
         "violation_count": 1,
         "list_of_violations": [
             [
@@ -5539,8 +5511,8 @@
         ]
     },
     {
-        "lat": 40.83275,
-        "lon": -73.90509,
+        "lat": 40.65763,
+        "lon": -74.00629,
         "violation_count": 1,
         "list_of_violations": [
             [
@@ -5626,8 +5598,8 @@
         ]
     },
     {
-        "lat": 40.72703,
-        "lon": -73.84975,
+        "lat": 40.72607,
+        "lon": -73.85153,
         "violation_count": 1,
         "list_of_violations": [
             [
@@ -5659,8 +5631,8 @@
         ]
     },
     {
-        "lat": 40.719,
-        "lon": -74.00668,
+        "lat": 40.71758,
+        "lon": -74.00362,
         "violation_count": 1,
         "list_of_violations": [
             [
@@ -5702,8 +5674,8 @@
         ]
     },
     {
-        "lat": 40.70125,
-        "lon": -73.94629,
+        "lat": 40.70046,
+        "lon": -73.94749,
         "violation_count": 2,
         "list_of_violations": [
             [
@@ -5721,8 +5693,8 @@
         ]
     },
     {
-        "lat": null,
-        "lon": null,
+        "lat": 40.64959,
+        "lon": -73.93888,
         "violation_count": 1,
         "list_of_violations": [
             [
@@ -5735,8 +5707,8 @@
         ]
     },
     {
-        "lat": null,
-        "lon": null,
+        "lat": 40.80878,
+        "lon": -73.93678,
         "violation_count": 6,
         "list_of_violations": [
             [
@@ -5821,8 +5793,8 @@
         ]
     },
     {
-        "lat": 40.73707,
-        "lon": -73.99246,
+        "lat": 40.68011,
+        "lon": -73.97775,
         "violation_count": 2,
         "list_of_violations": [
             [
@@ -5840,8 +5812,8 @@
         ]
     },
     {
-        "lat": 40.7464,
-        "lon": -73.89388,
+        "lat": null,
+        "lon": null,
         "violation_count": 1,
         "list_of_violations": [
             [
@@ -5934,8 +5906,8 @@
         ]
     },
     {
-        "lat": 40.69336,
-        "lon": -73.92578,
+        "lat": 40.81663,
+        "lon": -73.88482,
         "violation_count": 3,
         "list_of_violations": [
             [
@@ -5958,8 +5930,8 @@
         ]
     },
     {
-        "lat": 40.76124,
-        "lon": -73.8198,
+        "lat": null,
+        "lon": null,
         "violation_count": 2,
         "list_of_violations": [
             [
@@ -5991,8 +5963,8 @@
         ]
     },
     {
-        "lat": 40.69094,
-        "lon": -73.98306,
+        "lat": 40.6904,
+        "lon": -73.98294,
         "violation_count": 3,
         "list_of_violations": [
             [
@@ -6347,8 +6319,8 @@
         ]
     },
     {
-        "lat": null,
-        "lon": null,
+        "lat": 40.72794,
+        "lon": -74.00451,
         "violation_count": 1,
         "list_of_violations": [
             [
@@ -6375,8 +6347,8 @@
         ]
     },
     {
-        "lat": 42.90129,
-        "lon": -78.85395,
+        "lat": 40.68643,
+        "lon": -73.92113,
         "violation_count": 1,
         "list_of_violations": [
             [
@@ -6403,8 +6375,8 @@
         ]
     },
     {
-        "lat": 40.72478,
-        "lon": -73.84972,
+        "lat": null,
+        "lon": null,
         "violation_count": 1,
         "list_of_violations": [
             [
@@ -6417,8 +6389,8 @@
         ]
     },
     {
-        "lat": 51.84938,
-        "lon": 4.55523,
+        "lat": 40.66658,
+        "lon": -73.98791,
         "violation_count": 1,
         "list_of_violations": [
             [
@@ -6431,8 +6403,8 @@
         ]
     },
     {
-        "lat": null,
-        "lon": null,
+        "lat": 40.73652,
+        "lon": -73.99551,
         "violation_count": 1,
         "list_of_violations": [
             [
@@ -6459,8 +6431,8 @@
         ]
     },
     {
-        "lat": 40.926,
-        "lon": -74.15339,
+        "lat": 40.64805,
+        "lon": -73.96308,
         "violation_count": 2,
         "list_of_violations": [
             [
@@ -6478,8 +6450,8 @@
         ]
     },
     {
-        "lat": 40.6247,
-        "lon": -73.99939,
+        "lat": 40.62897,
+        "lon": -74.00614,
         "violation_count": 3,
         "list_of_violations": [
             [
@@ -6825,6 +6797,20 @@
         ]
     },
     {
+        "lat": 40.76897,
+        "lon": -73.96637,
+        "violation_count": 1,
+        "list_of_violations": [
+            [
+                "DOB violation",
+                "LANDMK"
+            ]
+        ],
+        "years_of_violations": [
+            "1996"
+        ]
+    },
+    {
         "lat": 40.64031,
         "lon": -73.94234,
         "violation_count": 1,
@@ -6906,8 +6892,8 @@
         ]
     },
     {
-        "lat": 40.72813,
-        "lon": -73.98504,
+        "lat": 40.63951,
+        "lon": -73.97011,
         "violation_count": 1,
         "list_of_violations": [
             [
@@ -6983,8 +6969,8 @@
         ]
     },
     {
-        "lat": 39.73846,
-        "lon": -84.14526,
+        "lat": 40.88156,
+        "lon": -73.87703,
         "violation_count": 2,
         "list_of_violations": [
             [
@@ -7002,8 +6988,8 @@
         ]
     },
     {
-        "lat": 40.74259,
-        "lon": -73.98041,
+        "lat": 40.74163,
+        "lon": -73.97754,
         "violation_count": 1,
         "list_of_violations": [
             [
@@ -7049,8 +7035,8 @@
         ]
     },
     {
-        "lat": 40.83275,
-        "lon": -73.90509,
+        "lat": 40.75671,
+        "lon": -73.97054,
         "violation_count": 1,
         "list_of_violations": [
             [
@@ -7063,8 +7049,8 @@
         ]
     },
     {
-        "lat": 40.83474,
-        "lon": -73.89146,
+        "lat": 40.83547,
+        "lon": -73.89118,
         "violation_count": 1,
         "list_of_violations": [
             [
@@ -7077,8 +7063,8 @@
         ]
     },
     {
-        "lat": 51.51432,
-        "lon": -0.14656,
+        "lat": 40.68179,
+        "lon": -73.98851,
         "violation_count": 1,
         "list_of_violations": [
             [
@@ -7102,6 +7088,20 @@
         ],
         "years_of_violations": [
             "2019"
+        ]
+    },
+    {
+        "lat": 40.71784,
+        "lon": -74.00968,
+        "violation_count": 1,
+        "list_of_violations": [
+            [
+                "DOB violation",
+                "E"
+            ]
+        ],
+        "years_of_violations": [
+            "2014"
         ]
     },
     {
@@ -7175,8 +7175,8 @@
         ]
     },
     {
-        "lat": null,
-        "lon": null,
+        "lat": 40.7022,
+        "lon": -73.92835,
         "violation_count": 3,
         "list_of_violations": [
             [
@@ -7227,8 +7227,8 @@
         ]
     },
     {
-        "lat": 40.74811,
-        "lon": -73.9872,
+        "lat": null,
+        "lon": null,
         "violation_count": 1,
         "list_of_violations": [
             [
@@ -7274,8 +7274,8 @@
         ]
     },
     {
-        "lat": -26.14798,
-        "lon": 27.99277,
+        "lat": 40.68041,
+        "lon": -73.9775,
         "violation_count": 2,
         "list_of_violations": [
             [
@@ -7293,8 +7293,8 @@
         ]
     },
     {
-        "lat": 40.69154,
-        "lon": -73.99565,
+        "lat": 40.71424,
+        "lon": -73.98272,
         "violation_count": 1,
         "list_of_violations": [
             [
@@ -7307,8 +7307,8 @@
         ]
     },
     {
-        "lat": 38.92675,
-        "lon": -94.6059,
+        "lat": 40.80421,
+        "lon": -73.96428,
         "violation_count": 1,
         "list_of_violations": [
             [
@@ -7335,8 +7335,8 @@
         ]
     },
     {
-        "lat": 53.6224,
-        "lon": -113.45255,
+        "lat": 40.61092,
+        "lon": -73.98693,
         "violation_count": 2,
         "list_of_violations": [
             [
@@ -7368,8 +7368,8 @@
         ]
     },
     {
-        "lat": 40.73135,
-        "lon": -73.98257,
+        "lat": null,
+        "lon": null,
         "violation_count": 1,
         "list_of_violations": [
             [
@@ -7382,8 +7382,8 @@
         ]
     },
     {
-        "lat": -33.86667,
-        "lon": 151.20436,
+        "lat": 40.73127,
+        "lon": -73.95358,
         "violation_count": 1,
         "list_of_violations": [
             [
@@ -7396,8 +7396,8 @@
         ]
     },
     {
-        "lat": 40.75651,
-        "lon": -73.97042,
+        "lat": 40.7586,
+        "lon": -73.97481,
         "violation_count": 1,
         "list_of_violations": [
             [
@@ -7492,8 +7492,8 @@
         ]
     },
     {
-        "lat": null,
-        "lon": null,
+        "lat": 40.62438,
+        "lon": -73.98166,
         "violation_count": 1,
         "list_of_violations": [
             [
@@ -7520,8 +7520,8 @@
         ]
     },
     {
-        "lat": 40.63775,
-        "lon": -74.00721,
+        "lat": 40.73768,
+        "lon": -74.00488,
         "violation_count": 1,
         "list_of_violations": [
             [
@@ -7548,8 +7548,8 @@
         ]
     },
     {
-        "lat": 40.75766,
-        "lon": -73.97783,
+        "lat": 40.66396,
+        "lon": -73.99098,
         "violation_count": 1,
         "list_of_violations": [
             [
@@ -7562,8 +7562,8 @@
         ]
     },
     {
-        "lat": 33.94573,
-        "lon": -117.42173,
+        "lat": 40.90248,
+        "lon": -73.90755,
         "violation_count": 2,
         "list_of_violations": [
             [
@@ -7652,8 +7652,8 @@
         ]
     },
     {
-        "lat": 40.78849,
-        "lon": -73.98105,
+        "lat": 40.62371,
+        "lon": -74.02725,
         "violation_count": 1,
         "list_of_violations": [
             [
@@ -7694,8 +7694,8 @@
         ]
     },
     {
-        "lat": 40.83131,
-        "lon": -73.91913,
+        "lat": 40.83088,
+        "lon": -73.91904,
         "violation_count": 1,
         "list_of_violations": [
             [
@@ -7722,8 +7722,8 @@
         ]
     },
     {
-        "lat": 40.76483,
-        "lon": -73.92708,
+        "lat": null,
+        "lon": null,
         "violation_count": 1,
         "list_of_violations": [
             [
@@ -7906,8 +7906,8 @@
         ]
     },
     {
-        "lat": null,
-        "lon": null,
+        "lat": 40.7398,
+        "lon": -73.99461,
         "violation_count": 1,
         "list_of_violations": [
             [
@@ -8007,8 +8007,8 @@
         ]
     },
     {
-        "lat": 40.75453,
-        "lon": -73.8808,
+        "lat": 40.75412,
+        "lon": -73.88131,
         "violation_count": 2,
         "list_of_violations": [
             [
@@ -8040,8 +8040,8 @@
         ]
     },
     {
-        "lat": null,
-        "lon": null,
+        "lat": 40.69809,
+        "lon": -73.99578,
         "violation_count": 2,
         "list_of_violations": [
             [
@@ -8107,8 +8107,8 @@
         ]
     },
     {
-        "lat": null,
-        "lon": null,
+        "lat": 40.67818,
+        "lon": -73.94416,
         "violation_count": 1,
         "list_of_violations": [
             [
@@ -8145,8 +8145,8 @@
         ]
     },
     {
-        "lat": -27.42723,
-        "lon": 153.02757,
+        "lat": 40.63687,
+        "lon": -74.08291,
         "violation_count": 1,
         "list_of_violations": [
             [
@@ -8225,8 +8225,8 @@
         ]
     },
     {
-        "lat": 40.72304,
-        "lon": -73.63313,
+        "lat": 40.67862,
+        "lon": -73.95496,
         "violation_count": 1,
         "list_of_violations": [
             [
@@ -8239,8 +8239,8 @@
         ]
     },
     {
-        "lat": 43.07506,
-        "lon": -89.39408,
+        "lat": 40.68568,
+        "lon": -73.97991,
         "violation_count": 3,
         "list_of_violations": [
             [
@@ -8282,8 +8282,8 @@
         ]
     },
     {
-        "lat": 37.72546,
-        "lon": -122.49868,
+        "lat": 40.80614,
+        "lon": -73.85799,
         "violation_count": 1,
         "list_of_violations": [
             [
@@ -8296,8 +8296,8 @@
         ]
     },
     {
-        "lat": 68.35686,
-        "lon": 17.01022,
+        "lat": 40.72752,
+        "lon": -73.98932,
         "violation_count": 3,
         "list_of_violations": [
             [
@@ -8320,8 +8320,8 @@
         ]
     },
     {
-        "lat": 40.75067,
-        "lon": -73.96896,
+        "lat": 40.7504,
+        "lon": -73.96905,
         "violation_count": 3,
         "list_of_violations": [
             [
@@ -8377,6 +8377,20 @@
         ]
     },
     {
+        "lat": 40.66266,
+        "lon": -73.98505,
+        "violation_count": 1,
+        "list_of_violations": [
+            [
+                "DOB violation",
+                "LL6291"
+            ]
+        ],
+        "years_of_violations": [
+            "1997"
+        ]
+    },
+    {
         "lat": 40.71779,
         "lon": -73.95747,
         "violation_count": 4,
@@ -8420,8 +8434,8 @@
         ]
     },
     {
-        "lat": 38.88701,
-        "lon": -77.04995,
+        "lat": 40.88308,
+        "lon": -73.91775,
         "violation_count": 1,
         "list_of_violations": [
             [
@@ -8467,8 +8481,8 @@
         ]
     },
     {
-        "lat": 41.28645,
-        "lon": -73.75073,
+        "lat": 40.65026,
+        "lon": -73.95274,
         "violation_count": 1,
         "list_of_violations": [
             [
@@ -8543,8 +8557,8 @@
         ]
     },
     {
-        "lat": null,
-        "lon": null,
+        "lat": 40.63099,
+        "lon": -74.02236,
         "violation_count": 1,
         "list_of_violations": [
             [
@@ -8664,27 +8678,8 @@
         ]
     },
     {
-        "lat": 40.76457,
-        "lon": -73.96901,
-        "violation_count": 2,
-        "list_of_violations": [
-            [
-                "DOB violation",
-                "FISPHAZ"
-            ],
-            [
-                "DOB violation",
-                "EGRADE"
-            ]
-        ],
-        "years_of_violations": [
-            "2022",
-            "2022"
-        ]
-    },
-    {
-        "lat": 40.76444,
-        "lon": -73.97328,
+        "lat": 40.63546,
+        "lon": -74.0084,
         "violation_count": 1,
         "list_of_violations": [
             [
@@ -8747,6 +8742,20 @@
             [
                 "DOB violation",
                 "C"
+            ]
+        ],
+        "years_of_violations": [
+            "2022"
+        ]
+    },
+    {
+        "lat": 40.76457,
+        "lon": -73.96901,
+        "violation_count": 1,
+        "list_of_violations": [
+            [
+                "DOB violation",
+                "EGRADE"
             ]
         ],
         "years_of_violations": [
@@ -8824,8 +8833,8 @@
         ]
     },
     {
-        "lat": 40.7384,
-        "lon": -74.00144,
+        "lat": 40.58489,
+        "lon": -73.98144,
         "violation_count": 1,
         "list_of_violations": [
             [
@@ -8838,8 +8847,8 @@
         ]
     },
     {
-        "lat": 33.91845,
-        "lon": -118.3717,
+        "lat": 40.81077,
+        "lon": -73.95051,
         "violation_count": 1,
         "list_of_violations": [
             [
@@ -8969,8 +8978,8 @@
         ]
     },
     {
-        "lat": 40.77945,
-        "lon": -73.95141,
+        "lat": 40.78215,
+        "lon": -73.95699,
         "violation_count": 2,
         "list_of_violations": [
             [
@@ -8988,8 +8997,8 @@
         ]
     },
     {
-        "lat": 40.76723,
-        "lon": -73.99524,
+        "lat": 40.64298,
+        "lon": -74.0079,
         "violation_count": 1,
         "list_of_violations": [
             [
@@ -9054,8 +9063,8 @@
         ]
     },
     {
-        "lat": 40.84372,
-        "lon": -73.93576,
+        "lat": 40.8387,
+        "lon": -73.93984,
         "violation_count": 1,
         "list_of_violations": [
             [
@@ -9183,8 +9192,8 @@
         ]
     },
     {
-        "lat": null,
-        "lon": null,
+        "lat": 40.73807,
+        "lon": -73.98989,
         "violation_count": 2,
         "list_of_violations": [
             [
@@ -9230,8 +9239,8 @@
         ]
     },
     {
-        "lat": 40.70945,
-        "lon": -73.81497,
+        "lat": null,
+        "lon": null,
         "violation_count": 1,
         "list_of_violations": [
             [
@@ -9352,22 +9361,8 @@
         ]
     },
     {
-        "lat": 40.72813,
-        "lon": -73.98505,
-        "violation_count": 1,
-        "list_of_violations": [
-            [
-                "DOB violation",
-                "C"
-            ]
-        ],
-        "years_of_violations": [
-            "2022"
-        ]
-    },
-    {
-        "lat": 42.11005,
-        "lon": -87.73487,
+        "lat": 40.68688,
+        "lon": -73.87029,
         "violation_count": 1,
         "list_of_violations": [
             [
@@ -9474,8 +9469,8 @@
         ]
     },
     {
-        "lat": 33.81191,
-        "lon": -84.39422,
+        "lat": 40.63756,
+        "lon": -74.13111,
         "violation_count": 1,
         "list_of_violations": [
             [
@@ -9488,8 +9483,8 @@
         ]
     },
     {
-        "lat": null,
-        "lon": null,
+        "lat": 40.61829,
+        "lon": -74.03134,
         "violation_count": 2,
         "list_of_violations": [
             [
@@ -9568,8 +9563,8 @@
         ]
     },
     {
-        "lat": null,
-        "lon": null,
+        "lat": 40.87526,
+        "lon": -73.90822,
         "violation_count": 1,
         "list_of_violations": [
             [
@@ -9582,8 +9577,8 @@
         ]
     },
     {
-        "lat": null,
-        "lon": null,
+        "lat": 40.619,
+        "lon": -74.02533,
         "violation_count": 3,
         "list_of_violations": [
             [
@@ -9606,8 +9601,8 @@
         ]
     },
     {
-        "lat": 40.77797,
-        "lon": -73.96302,
+        "lat": 40.63524,
+        "lon": -74.02003,
         "violation_count": 1,
         "list_of_violations": [
             [
@@ -9620,8 +9615,8 @@
         ]
     },
     {
-        "lat": null,
-        "lon": null,
+        "lat": 40.73485,
+        "lon": -73.99128,
         "violation_count": 1,
         "list_of_violations": [
             [
@@ -9672,8 +9667,8 @@
         ]
     },
     {
-        "lat": null,
-        "lon": null,
+        "lat": 40.76509,
+        "lon": -73.97941,
         "violation_count": 3,
         "list_of_violations": [
             [
@@ -9720,8 +9715,8 @@
         ]
     },
     {
-        "lat": 29.28411,
-        "lon": -94.82581,
+        "lat": 40.6171,
+        "lon": -73.92232,
         "violation_count": 2,
         "list_of_violations": [
             [
@@ -9739,8 +9734,8 @@
         ]
     },
     {
-        "lat": null,
-        "lon": null,
+        "lat": 40.66973,
+        "lon": -73.97545,
         "violation_count": 1,
         "list_of_violations": [
             [
@@ -9750,6 +9745,20 @@
         ],
         "years_of_violations": [
             "2013"
+        ]
+    },
+    {
+        "lat": 40.58461,
+        "lon": -73.93369,
+        "violation_count": 1,
+        "list_of_violations": [
+            [
+                "DOB violation",
+                "C"
+            ]
+        ],
+        "years_of_violations": [
+            "2007"
         ]
     },
     {
@@ -9815,8 +9824,8 @@
         ]
     },
     {
-        "lat": 40.63775,
-        "lon": -74.00721,
+        "lat": 40.66194,
+        "lon": -73.98207,
         "violation_count": 1,
         "list_of_violations": [
             [
@@ -9829,8 +9838,8 @@
         ]
     },
     {
-        "lat": null,
-        "lon": null,
+        "lat": 40.62486,
+        "lon": -74.02136,
         "violation_count": 1,
         "list_of_violations": [
             [
@@ -9909,8 +9918,8 @@
         ]
     },
     {
-        "lat": 42.54818,
-        "lon": -88.57633,
+        "lat": 40.77427,
+        "lon": -73.98732,
         "violation_count": 1,
         "list_of_violations": [
             [
@@ -9923,8 +9932,8 @@
         ]
     },
     {
-        "lat": 41.74241,
-        "lon": -87.58287,
+        "lat": 40.77647,
+        "lon": -73.95188,
         "violation_count": 1,
         "list_of_violations": [
             [
@@ -9937,8 +9946,8 @@
         ]
     },
     {
-        "lat": 25.79088,
-        "lon": -80.12988,
+        "lat": 40.66136,
+        "lon": -73.95676,
         "violation_count": 4,
         "list_of_violations": [
             [
@@ -9966,8 +9975,8 @@
         ]
     },
     {
-        "lat": 41.65052,
-        "lon": -83.54019,
+        "lat": 40.68785,
+        "lon": -73.92846,
         "violation_count": 1,
         "list_of_violations": [
             [

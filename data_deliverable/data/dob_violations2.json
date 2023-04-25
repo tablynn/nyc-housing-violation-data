@@ -2,6 +2,7 @@
     {
         "house_number": "174",
         "street": "SOUTH AVENUE",
+        "boro": "STATEN ISLAND",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -16,6 +17,7 @@
     {
         "house_number": "744",
         "street": "SCHENCK AVENUE",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -30,6 +32,7 @@
     {
         "house_number": "3314",
         "street": "STEUBEN AVENUE",
+        "boro": "BRONX",
         "total_housing_maintenance_code_violations": 2,
         "list of violations": [
             [
@@ -49,6 +52,7 @@
     {
         "house_number": "335",
         "street": "SUMPTER STREET",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -63,6 +67,7 @@
     {
         "house_number": "920",
         "street": "RIVERSIDE DRIVE",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -77,6 +82,7 @@
     {
         "house_number": "329",
         "street": "WEST 112 STREET",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -91,6 +97,7 @@
     {
         "house_number": "17790",
         "street": "LINCOLN ROAD",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -105,6 +112,7 @@
     {
         "house_number": "7013",
         "street": "VETERANS AVENUE",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 2,
         "list of violations": [
             [
@@ -124,6 +132,7 @@
     {
         "house_number": "2465",
         "street": "JEROME AVE",
+        "boro": "BRONX",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -138,6 +147,7 @@
     {
         "house_number": "286",
         "street": "ASHLAND PLACE",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 2,
         "list of violations": [
             [
@@ -157,6 +167,7 @@
     {
         "house_number": "473",
         "street": "AMSTERDAM AVENUE",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -171,6 +182,7 @@
     {
         "house_number": "6",
         "street": "CHATHAM SQUARE",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -185,6 +197,7 @@
     {
         "house_number": "1656",
         "street": "51 STREET",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -199,6 +212,7 @@
     {
         "house_number": "2286",
         "street": "CROPSEY AVENUE",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -213,6 +227,7 @@
     {
         "house_number": "1221",
         "street": "COLLEGE AVE",
+        "boro": "BRONX",
         "total_housing_maintenance_code_violations": 2,
         "list of violations": [
             [
@@ -232,6 +247,7 @@
     {
         "house_number": "31",
         "street": "E 72 ST",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 2,
         "list of violations": [
             [
@@ -251,6 +267,7 @@
     {
         "house_number": "137-47",
         "street": "WESTGATE STREET",
+        "boro": "4",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -265,6 +282,7 @@
     {
         "house_number": "105",
         "street": "WEST   55 STREET",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -279,6 +297,7 @@
     {
         "house_number": "636",
         "street": "FAILE STREET",
+        "boro": "BRONX",
         "total_housing_maintenance_code_violations": 2,
         "list of violations": [
             [
@@ -298,6 +317,7 @@
     {
         "house_number": "235",
         "street": "WEST 63 ST",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -312,6 +332,7 @@
     {
         "house_number": "623",
         "street": "WEST  142 STREET",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -326,6 +347,7 @@
     {
         "house_number": "315",
         "street": "EAST 9 STREET",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 2,
         "list of violations": [
             [
@@ -345,6 +367,7 @@
     {
         "house_number": "118",
         "street": "91 STREET",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -359,6 +382,7 @@
     {
         "house_number": "2-26",
         "street": "50 AVENUE",
+        "boro": "4",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -373,6 +397,7 @@
     {
         "house_number": "PIER 59",
         "street": "NORTH RIVER",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -387,6 +412,7 @@
     {
         "house_number": "104-41GAR",
         "street": "134 STREET",
+        "boro": "4",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -401,6 +427,7 @@
     {
         "house_number": "159-02",
         "street": "JAMAICA AVE",
+        "boro": "4",
         "total_housing_maintenance_code_violations": 6,
         "list of violations": [
             [
@@ -440,6 +467,7 @@
     {
         "house_number": "108-03",
         "street": "101 AVENUE",
+        "boro": "4",
         "total_housing_maintenance_code_violations": 3,
         "list of violations": [
             [
@@ -464,6 +492,7 @@
     {
         "house_number": "52",
         "street": "WEST 126 STREET",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -478,6 +507,7 @@
     {
         "house_number": "127",
         "street": "EAST   82 STREET",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -492,6 +522,7 @@
     {
         "house_number": "447",
         "street": "EAST   14 STREET",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -506,6 +537,7 @@
     {
         "house_number": "915",
         "street": "WEST END AVENUE",
+        "boro": "M",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -520,6 +552,7 @@
     {
         "house_number": "1383",
         "street": "SHORE PARKWAY",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -534,6 +567,7 @@
     {
         "house_number": "741",
         "street": "ST NICHOLAS AVE",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -548,6 +582,7 @@
     {
         "house_number": "5415",
         "street": "NETHERLAND AV",
+        "boro": "BRONX",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -562,6 +597,7 @@
     {
         "house_number": "74",
         "street": "GATLING PLACE",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -576,6 +612,7 @@
     {
         "house_number": "99-23",
         "street": "43 AVENUE",
+        "boro": "4",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -590,6 +627,7 @@
     {
         "house_number": "273        \u00a0",
         "street": "WEST 131 STREET",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 4,
         "list of violations": [
             [
@@ -619,6 +657,7 @@
     {
         "house_number": "434",
         "street": "CLERMONT AVENUE",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -633,6 +672,7 @@
     {
         "house_number": "510",
         "street": "EAST  163 STREET",
+        "boro": "BRONX",
         "total_housing_maintenance_code_violations": 2,
         "list of violations": [
             [
@@ -652,6 +692,7 @@
     {
         "house_number": "86",
         "street": "THOMAS STREET",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 2,
         "list of violations": [
             [
@@ -671,6 +712,7 @@
     {
         "house_number": "1208",
         "street": "AVENUE U",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -685,6 +727,7 @@
     {
         "house_number": "119",
         "street": "SCRIBNER AVENUE",
+        "boro": "STATEN ISLAND",
         "total_housing_maintenance_code_violations": 2,
         "list of violations": [
             [
@@ -704,6 +747,7 @@
     {
         "house_number": "253-24",
         "street": "NORTHERN BOULEVARD",
+        "boro": "4",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -718,6 +762,7 @@
     {
         "house_number": "92",
         "street": "CHAMBERS STREET",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -732,6 +777,7 @@
     {
         "house_number": "243",
         "street": "TOMPKINS AVENUE",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -746,6 +792,7 @@
     {
         "house_number": "1370",
         "street": "RALPH AVENUE",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -760,6 +807,7 @@
     {
         "house_number": "2861",
         "street": "EXTERIOR STREET",
+        "boro": "BRONX",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -774,6 +822,7 @@
     {
         "house_number": "14-04",
         "street": "111 STREET",
+        "boro": "4",
         "total_housing_maintenance_code_violations": 7,
         "list of violations": [
             [
@@ -818,6 +867,7 @@
     {
         "house_number": "95-20",
         "street": "76 STREET",
+        "boro": "4",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -832,6 +882,7 @@
     {
         "house_number": "12",
         "street": "SIMMONS LANE",
+        "boro": "STATEN ISLAND",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -846,6 +897,7 @@
     {
         "house_number": "89-11",
         "street": "153 STREET",
+        "boro": "4",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -860,6 +912,7 @@
     {
         "house_number": "140",
         "street": "RIVERSIDE BOULEVARD",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 2,
         "list of violations": [
             [
@@ -879,6 +932,7 @@
     {
         "house_number": "32",
         "street": "PIERREPONT STREET",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 4,
         "list of violations": [
             [
@@ -908,6 +962,7 @@
     {
         "house_number": "301",
         "street": "HENRY STREET",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 2,
         "list of violations": [
             [
@@ -927,6 +982,7 @@
     {
         "house_number": "63",
         "street": "WEST 127 STREET",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -941,6 +997,7 @@
     {
         "house_number": "29159",
         "street": "BRIGHTON    6 STREET",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -955,6 +1012,7 @@
     {
         "house_number": "55",
         "street": "JOHNSON STREET",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 11,
         "list of violations": [
             [
@@ -1019,6 +1077,7 @@
     {
         "house_number": "3803",
         "street": "NOSTRAND AVENUE",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -1033,6 +1092,7 @@
     {
         "house_number": "160",
         "street": "FRANKLIN STREET",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -1047,6 +1107,7 @@
     {
         "house_number": "5515V0",
         "street": "JOHNSON STREET",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -1061,6 +1122,7 @@
     {
         "house_number": "86-21",
         "street": "112 STREET",
+        "boro": "4",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -1075,6 +1137,7 @@
     {
         "house_number": "2552",
         "street": "DECATUR AVENUE",
+        "boro": "BRONX",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -1089,6 +1152,7 @@
     {
         "house_number": "5",
         "street": "LORIMER STREET",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -1103,6 +1167,7 @@
     {
         "house_number": "87-36",
         "street": "PARSONS BOULEVARD",
+        "boro": "4",
         "total_housing_maintenance_code_violations": 3,
         "list of violations": [
             [
@@ -1127,6 +1192,7 @@
     {
         "house_number": "41",
         "street": "CLARK STREET",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -1141,6 +1207,7 @@
     {
         "house_number": "1216",
         "street": "AVENUE Y",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 2,
         "list of violations": [
             [
@@ -1160,6 +1227,7 @@
     {
         "house_number": "90",
         "street": "BANK STREET",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -1174,6 +1242,7 @@
     {
         "house_number": "769",
         "street": "5 AVENUE",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -1188,6 +1257,7 @@
     {
         "house_number": "21",
         "street": "ST PAULS CT",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -1202,6 +1272,7 @@
     {
         "house_number": "30-05",
         "street": "QUEENS BOULEVARD",
+        "boro": "4",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -1216,6 +1287,7 @@
     {
         "house_number": "204",
         "street": "GREENPOINT AVENUE",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -1230,6 +1302,7 @@
     {
         "house_number": "2110",
         "street": "FOREST AVENUE",
+        "boro": "STATEN ISLAND",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -1244,6 +1317,7 @@
     {
         "house_number": "3000",
         "street": "VALENTINE AVE",
+        "boro": "BRONX",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -1258,6 +1332,7 @@
     {
         "house_number": "5401",
         "street": "7 AVENUE",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -1272,6 +1347,7 @@
     {
         "house_number": "101",
         "street": "HICKS STREET",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -1286,6 +1362,7 @@
     {
         "house_number": "17",
         "street": "EAST   70 STREET",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 3,
         "list of violations": [
             [
@@ -1310,6 +1387,7 @@
     {
         "house_number": "535",
         "street": "PARK AVE",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -1324,6 +1402,7 @@
     {
         "house_number": "663 1/2",
         "street": "CITY ISLAND AVENUE",
+        "boro": "BRONX",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -1338,6 +1417,7 @@
     {
         "house_number": "25-17",
         "street": "ASTORIA BOULEVARD",
+        "boro": "4",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -1352,6 +1432,7 @@
     {
         "house_number": "309",
         "street": "HOLLYWOOD AVENUE",
+        "boro": "4",
         "total_housing_maintenance_code_violations": 2,
         "list of violations": [
             [
@@ -1371,6 +1452,7 @@
     {
         "house_number": "246",
         "street": "5TH AVE",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 3,
         "list of violations": [
             [
@@ -1395,6 +1477,7 @@
     {
         "house_number": "33",
         "street": "WEST 17 STREET",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -1409,6 +1492,7 @@
     {
         "house_number": "1675",
         "street": "METROPOLITAN AVE",
+        "boro": "BRONX",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -1423,6 +1507,7 @@
     {
         "house_number": "200",
         "street": "MADISON STREET",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 3,
         "list of violations": [
             [
@@ -1447,6 +1532,7 @@
     {
         "house_number": "32",
         "street": "W 82ND ST",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 2,
         "list of violations": [
             [
@@ -1466,6 +1552,7 @@
     {
         "house_number": "501",
         "street": "EAST 116TH STREET",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 4,
         "list of violations": [
             [
@@ -1495,6 +1582,7 @@
     {
         "house_number": "116",
         "street": "WEST   11 STREET",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -1509,6 +1597,7 @@
     {
         "house_number": "131",
         "street": "ESSEX STREET",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -1523,6 +1612,7 @@
     {
         "house_number": "58",
         "street": "IRVING PLACE",
+        "boro": "M",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -1537,6 +1627,7 @@
     {
         "house_number": "104",
         "street": "CHARLTON STREET",
+        "boro": "M",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -1551,6 +1642,7 @@
     {
         "house_number": "23-26",
         "street": "28 STREET",
+        "boro": "4",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -1565,6 +1657,7 @@
     {
         "house_number": "919",
         "street": "KELLY STREET",
+        "boro": "BRONX",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -1579,6 +1672,7 @@
     {
         "house_number": "163",
         "street": "WEST 17 ST",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -1593,6 +1687,7 @@
     {
         "house_number": "41",
         "street": "BROADWAY",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -1607,6 +1702,7 @@
     {
         "house_number": "356",
         "street": "W 36TH ST",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -1621,6 +1717,7 @@
     {
         "house_number": "301",
         "street": "W 34TH ST",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -1635,6 +1732,7 @@
     {
         "house_number": "6",
         "street": "VARICK STREET",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -1649,6 +1747,7 @@
     {
         "house_number": "58-04",
         "street": "MAIN STREET",
+        "boro": "4",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -1663,6 +1762,7 @@
     {
         "house_number": "432",
         "street": "CLERMONT AVENUE",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 3,
         "list of violations": [
             [
@@ -1687,6 +1787,7 @@
     {
         "house_number": "1695",
         "street": "GRAND AVENUE",
+        "boro": "BRONX",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -1701,6 +1802,7 @@
     {
         "house_number": "643",
         "street": "11 STREET",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -1715,6 +1817,7 @@
     {
         "house_number": "46",
         "street": "E 91ST ST",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -1729,6 +1832,7 @@
     {
         "house_number": "14",
         "street": "WEST 86 STREET",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -1743,6 +1847,7 @@
     {
         "house_number": "319",
         "street": "BEACH 98 STREET",
+        "boro": "4",
         "total_housing_maintenance_code_violations": 2,
         "list of violations": [
             [
@@ -1762,6 +1867,7 @@
     {
         "house_number": "226",
         "street": "WEST  123 STREET",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -1776,6 +1882,7 @@
     {
         "house_number": "2202",
         "street": "LINDEN BOULEVAR",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -1790,6 +1897,7 @@
     {
         "house_number": "10",
         "street": "CHARLES STREET",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 2,
         "list of violations": [
             [
@@ -1809,6 +1917,7 @@
     {
         "house_number": "506",
         "street": "6 STREET",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 4,
         "list of violations": [
             [
@@ -1838,6 +1947,7 @@
     {
         "house_number": "9842",
         "street": "FAILE STREET",
+        "boro": "BRONX",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -1852,6 +1962,7 @@
     {
         "house_number": "83-55",
         "street": "WOODHAVEN BLVD",
+        "boro": "4",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -1866,6 +1977,7 @@
     {
         "house_number": "532",
         "street": "6 AVENUE",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -1880,6 +1992,7 @@
     {
         "house_number": "1105",
         "street": "8 AVENUE",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -1894,6 +2007,7 @@
     {
         "house_number": "87-50",
         "street": "PARSONS BOULEVARD",
+        "boro": "4",
         "total_housing_maintenance_code_violations": 2,
         "list of violations": [
             [
@@ -1913,6 +2027,7 @@
     {
         "house_number": "224-19",
         "street": "144 AVENUE",
+        "boro": "4",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -1927,6 +2042,7 @@
     {
         "house_number": "1776",
         "street": "EASTCHESTER ROAD",
+        "boro": "BRONX",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -1941,6 +2057,7 @@
     {
         "house_number": "5450",
         "street": "NETHERLAND AVE",
+        "boro": "BRONX",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -1955,6 +2072,7 @@
     {
         "house_number": "74",
         "street": "WEST  120 STREET",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -1969,6 +2087,7 @@
     {
         "house_number": "680",
         "street": "WEST END AVE",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 3,
         "list of violations": [
             [
@@ -1993,6 +2112,7 @@
     {
         "house_number": "115-81",
         "street": "223 STREET",
+        "boro": "4",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -2007,6 +2127,7 @@
     {
         "house_number": "157",
         "street": "KANE STREET",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -2021,6 +2142,7 @@
     {
         "house_number": "340",
         "street": "EAST 74 ST",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 3,
         "list of violations": [
             [
@@ -2045,6 +2167,7 @@
     {
         "house_number": "355",
         "street": "93 STREET",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -2059,6 +2182,7 @@
     {
         "house_number": "340",
         "street": "PARK AVENUE",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -2073,6 +2197,7 @@
     {
         "house_number": "84-09",
         "street": "35 AVENUE",
+        "boro": "4",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -2087,6 +2212,7 @@
     {
         "house_number": "135",
         "street": "AVENUE P",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -2101,6 +2227,7 @@
     {
         "house_number": "337",
         "street": "OCEAN PARKWAY",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -2115,6 +2242,7 @@
     {
         "house_number": "2830",
         "street": "OCEAN PKWY",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 9,
         "list of violations": [
             [
@@ -2169,6 +2297,7 @@
     {
         "house_number": "150-25",
         "street": "HILLSIDE AVENUE",
+        "boro": "4",
         "total_housing_maintenance_code_violations": 7,
         "list of violations": [
             [
@@ -2213,6 +2342,7 @@
     {
         "house_number": "2780",
         "street": "WEST 5 STREET",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 5,
         "list of violations": [
             [
@@ -2247,6 +2377,7 @@
     {
         "house_number": "523",
         "street": "EAST 70 STREET",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -2261,6 +2392,7 @@
     {
         "house_number": "138-54",
         "street": "94 AVENUE",
+        "boro": "4",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -2275,6 +2407,7 @@
     {
         "house_number": "49",
         "street": "WEST 225 STREET",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -2289,6 +2422,7 @@
     {
         "house_number": "341",
         "street": "5TH AVE",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 3,
         "list of violations": [
             [
@@ -2313,6 +2447,7 @@
     {
         "house_number": "684",
         "street": "EAGLE AVENUE",
+        "boro": "BRONX",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -2327,6 +2462,7 @@
     {
         "house_number": "1825",
         "street": "ANTHONY AVENUE",
+        "boro": "BRONX",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -2341,6 +2477,7 @@
     {
         "house_number": "3760",
         "street": "EAST TREMONT AVENUE",
+        "boro": "BRONX",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -2355,6 +2492,7 @@
     {
         "house_number": "715",
         "street": "ST MARKS AV",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 4,
         "list of violations": [
             [
@@ -2384,6 +2522,7 @@
     {
         "house_number": "525",
         "street": "NEPTUNE AVE",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 7,
         "list of violations": [
             [
@@ -2428,6 +2567,7 @@
     {
         "house_number": "89-34",
         "street": "162 STREET",
+        "boro": "4",
         "total_housing_maintenance_code_violations": 6,
         "list of violations": [
             [
@@ -2467,6 +2607,7 @@
     {
         "house_number": "201",
         "street": "EDWARD CURRY AVENUE",
+        "boro": "STATEN ISLAND",
         "total_housing_maintenance_code_violations": 2,
         "list of violations": [
             [
@@ -2486,6 +2627,7 @@
     {
         "house_number": "274",
         "street": "GRAND STREET",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -2500,6 +2642,7 @@
     {
         "house_number": "4511",
         "street": "3 AVENUE",
+        "boro": "BRONX",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -2514,6 +2657,7 @@
     {
         "house_number": "1280",
         "street": "6 AVENUE",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -2528,6 +2672,7 @@
     {
         "house_number": "187",
         "street": "GRANT AVENUE",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -2542,6 +2687,7 @@
     {
         "house_number": "38-43",
         "street": "12 STREET",
+        "boro": "4",
         "total_housing_maintenance_code_violations": 3,
         "list of violations": [
             [
@@ -2566,6 +2712,7 @@
     {
         "house_number": "2341",
         "street": "ADAM CLAYTON POWELL JR BOULEVARD",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -2580,6 +2727,7 @@
     {
         "house_number": "704",
         "street": "PRESIDENT STREET",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 2,
         "list of violations": [
             [
@@ -2599,6 +2747,7 @@
     {
         "house_number": "699",
         "street": "WEST 239TH ST",
+        "boro": "BRONX",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -2613,6 +2762,7 @@
     {
         "house_number": "1173",
         "street": "ROGERS AVENUE",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -2627,6 +2777,7 @@
     {
         "house_number": "1678",
         "street": "73 STREET",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -2641,6 +2792,7 @@
     {
         "house_number": "275",
         "street": "WALNUT AVE",
+        "boro": "BRONX",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -2655,6 +2807,7 @@
     {
         "house_number": "858",
         "street": "9 AVENUE",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 6,
         "list of violations": [
             [
@@ -2694,6 +2847,7 @@
     {
         "house_number": "135-09",
         "street": "83RD AVE",
+        "boro": "4",
         "total_housing_maintenance_code_violations": 2,
         "list of violations": [
             [
@@ -2713,6 +2867,7 @@
     {
         "house_number": "1091",
         "street": "GATES AVE",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -2727,6 +2882,7 @@
     {
         "house_number": "82",
         "street": "WEST BROADWAY",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -2741,6 +2897,7 @@
     {
         "house_number": "650",
         "street": "WEST END AVENUE",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 2,
         "list of violations": [
             [
@@ -2760,6 +2917,7 @@
     {
         "house_number": "730",
         "street": "CLASSON AVENUE",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -2774,6 +2932,7 @@
     {
         "house_number": "571",
         "street": "EAST 141 STREET",
+        "boro": "BRONX",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -2788,6 +2947,7 @@
     {
         "house_number": "70",
         "street": "INDALE AVENUE",
+        "boro": "STATEN ISLAND",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -2802,6 +2962,7 @@
     {
         "house_number": "35",
         "street": "MEADOW STREET",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 2,
         "list of violations": [
             [
@@ -2821,6 +2982,7 @@
     {
         "house_number": "438",
         "street": "UNION AVENUE",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -2835,6 +2997,7 @@
     {
         "house_number": "198",
         "street": "NASSAU AVENUE",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 4,
         "list of violations": [
             [
@@ -2864,6 +3027,7 @@
     {
         "house_number": "165",
         "street": "WASHINGTON STREET",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -2878,6 +3042,7 @@
     {
         "house_number": "504",
         "street": "WEST  126 STREET",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -2892,6 +3057,7 @@
     {
         "house_number": "27",
         "street": "PENNSYLVANIA AVENUE",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 3,
         "list of violations": [
             [
@@ -2916,6 +3082,7 @@
     {
         "house_number": "30",
         "street": "WEST 24 STREET",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -2930,6 +3097,7 @@
     {
         "house_number": "150-15",
         "street": "HILLSIDE AVENUE",
+        "boro": "4",
         "total_housing_maintenance_code_violations": 12,
         "list of violations": [
             [
@@ -2999,6 +3167,7 @@
     {
         "house_number": "25-37",
         "street": "76 STREET",
+        "boro": "4",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -3013,6 +3182,7 @@
     {
         "house_number": "39843",
         "street": "WHITE PLAINS ROAD",
+        "boro": "BRONX",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -3027,6 +3197,7 @@
     {
         "house_number": "1000",
         "street": "PELHAM PARKWAY S",
+        "boro": "BRONX",
         "total_housing_maintenance_code_violations": 4,
         "list of violations": [
             [
@@ -3056,6 +3227,7 @@
     {
         "house_number": "720",
         "street": "FLUSHING AVENUE",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 7,
         "list of violations": [
             [
@@ -3100,6 +3272,7 @@
     {
         "house_number": "1319",
         "street": "FIRST AVE",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -3114,6 +3287,7 @@
     {
         "house_number": "2550",
         "street": "THIRD AVENUE",
+        "boro": "BRONX",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -3128,6 +3302,7 @@
     {
         "house_number": "224",
         "street": "LAFAYETTE STREET",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 2,
         "list of violations": [
             [
@@ -3147,6 +3322,7 @@
     {
         "house_number": "452",
         "street": "FORT WASHINGTON AVENUE",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -3161,6 +3337,7 @@
     {
         "house_number": "1295",
         "street": "MADISON AVENUE",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -3175,6 +3352,7 @@
     {
         "house_number": "110",
         "street": "EAST 53 STREET",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 5,
         "list of violations": [
             [
@@ -3209,6 +3387,7 @@
     {
         "house_number": "142-31",
         "street": "FRANKLIN AVENUE",
+        "boro": "4",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -3223,6 +3402,7 @@
     {
         "house_number": "59",
         "street": "SCHERMERHORN STREET",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -3237,6 +3417,7 @@
     {
         "house_number": "111",
         "street": "CLYMER STREET",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -3251,6 +3432,7 @@
     {
         "house_number": "91-22",
         "street": "216 STREET",
+        "boro": "4",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -3265,6 +3447,7 @@
     {
         "house_number": "442",
         "street": "5 AVENUE",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -3279,6 +3462,7 @@
     {
         "house_number": "237",
         "street": "EAST 86 STREET",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 2,
         "list of violations": [
             [
@@ -3298,6 +3482,7 @@
     {
         "house_number": "2030",
         "street": "7 AVENUE",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -3312,6 +3497,7 @@
     {
         "house_number": "109",
         "street": "EAST   38 STREET",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 2,
         "list of violations": [
             [
@@ -3331,6 +3517,7 @@
     {
         "house_number": "181 A",
         "street": "VERNON AVENUE",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -3345,6 +3532,7 @@
     {
         "house_number": "345",
         "street": "THATFORD AVENUE",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 2,
         "list of violations": [
             [
@@ -3364,6 +3552,7 @@
     {
         "house_number": "261 GAR",
         "street": "OAKLAND AVENUE",
+        "boro": "STATEN ISLAND",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -3378,6 +3567,7 @@
     {
         "house_number": "232",
         "street": "MESEROLE STREET",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -3392,6 +3582,7 @@
     {
         "house_number": "350",
         "street": "EAST 54 STREET",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -3406,6 +3597,7 @@
     {
         "house_number": "412",
         "street": "E 147 ST",
+        "boro": "BRONX",
         "total_housing_maintenance_code_violations": 5,
         "list of violations": [
             [
@@ -3440,6 +3632,7 @@
     {
         "house_number": "2777",
         "street": "WEST 5 STREET",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 5,
         "list of violations": [
             [
@@ -3474,6 +3667,7 @@
     {
         "house_number": "1013",
         "street": "BROADWAY",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 2,
         "list of violations": [
             [
@@ -3493,6 +3687,7 @@
     {
         "house_number": "1136",
         "street": "EAST   28 STREET",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -3507,6 +3702,7 @@
     {
         "house_number": "770        \u00a0",
         "street": "HUNTS POINT AVENUE",
+        "boro": "BRONX",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -3521,6 +3717,7 @@
     {
         "house_number": "200",
         "street": "CENTRAL PARK WEST",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 18,
         "list of violations": [
             [
@@ -3620,6 +3817,7 @@
     {
         "house_number": "21",
         "street": "ROE STREET",
+        "boro": "STATEN ISLAND",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -3634,6 +3832,7 @@
     {
         "house_number": "236",
         "street": "WEST 37 STREET",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -3648,6 +3847,7 @@
     {
         "house_number": "\u00a0273       \u00a0",
         "street": "WEST 131 STREET",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -3662,6 +3862,7 @@
     {
         "house_number": "783",
         "street": "PARK AVE",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 2,
         "list of violations": [
             [
@@ -3681,6 +3882,7 @@
     {
         "house_number": "2275",
         "street": "OLINVILLE AVENUE",
+        "boro": "BRONX",
         "total_housing_maintenance_code_violations": 2,
         "list of violations": [
             [
@@ -3700,6 +3902,7 @@
     {
         "house_number": "131",
         "street": "8 AVENUE",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -3714,6 +3917,7 @@
     {
         "house_number": "313",
         "street": "EAST 6 STREET",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -3728,6 +3932,7 @@
     {
         "house_number": "35-30",
         "street": "FARRINGTON STREET",
+        "boro": "4",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -3742,6 +3947,7 @@
     {
         "house_number": "95",
         "street": "EVERGREEN AVE",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -3756,6 +3962,7 @@
     {
         "house_number": "2",
         "street": "WEST END AVE",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 2,
         "list of violations": [
             [
@@ -3775,6 +3982,7 @@
     {
         "house_number": "4624",
         "street": "17 AVENUE",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -3789,6 +3997,7 @@
     {
         "house_number": "161",
         "street": "PROSPECT PARK WEST",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -3803,6 +4012,7 @@
     {
         "house_number": "325",
         "street": "WEST BROADWAY",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -3817,6 +4027,7 @@
     {
         "house_number": "46",
         "street": "FULTON STREET",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -3831,6 +4042,7 @@
     {
         "house_number": "522",
         "street": "3 STREET",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -3845,6 +4057,7 @@
     {
         "house_number": "41-48",
         "street": "40 STREET",
+        "boro": "4",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -3859,6 +4072,7 @@
     {
         "house_number": "341",
         "street": "5 AVENUE",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -3873,6 +4087,7 @@
     {
         "house_number": "305",
         "street": "E 46TH ST",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -3887,6 +4102,7 @@
     {
         "house_number": "235",
         "street": "SULLIVAN STREET",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -3901,6 +4117,7 @@
     {
         "house_number": "308",
         "street": "WEST 36 STREET",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -3915,6 +4132,7 @@
     {
         "house_number": "622",
         "street": "WEST 168 STREET",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -3929,6 +4147,7 @@
     {
         "house_number": "1220",
         "street": "SURF AVENUE",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -3943,6 +4162,7 @@
     {
         "house_number": "444",
         "street": "BROADWAY",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -3957,6 +4177,7 @@
     {
         "house_number": "952",
         "street": "BEDFORD AVENUE",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -3971,6 +4192,7 @@
     {
         "house_number": "1219",
         "street": "ST LAWRENCE AVENUE",
+        "boro": "BRONX",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -3985,6 +4207,7 @@
     {
         "house_number": "353",
         "street": "W 57 ST",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 4,
         "list of violations": [
             [
@@ -4014,6 +4237,7 @@
     {
         "house_number": "2226",
         "street": "HOLLAND AVE",
+        "boro": "BRONX",
         "total_housing_maintenance_code_violations": 2,
         "list of violations": [
             [
@@ -4033,6 +4257,7 @@
     {
         "house_number": "229",
         "street": "EAST   88 STREET",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 2,
         "list of violations": [
             [
@@ -4052,6 +4277,7 @@
     {
         "house_number": "27",
         "street": "W 23 ST",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -4066,6 +4292,7 @@
     {
         "house_number": "844        \u00a0",
         "street": "HUNTS POINT AVENUE",
+        "boro": "BRONX",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -4080,6 +4307,7 @@
     {
         "house_number": "1190",
         "street": "5 AVENUE",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -4094,6 +4322,7 @@
     {
         "house_number": "182",
         "street": "LAFAYETTE STREET",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -4108,6 +4337,7 @@
     {
         "house_number": "58-18",
         "street": "64TH STREET",
+        "boro": "4",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -4122,6 +4352,7 @@
     {
         "house_number": "2155",
         "street": "MADISON AVENUE",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -4136,6 +4367,7 @@
     {
         "house_number": "338",
         "street": "WEST   12 STREET",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 5,
         "list of violations": [
             [
@@ -4170,6 +4402,7 @@
     {
         "house_number": "5722",
         "street": "7 AVENUE",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 2,
         "list of violations": [
             [
@@ -4189,6 +4422,7 @@
     {
         "house_number": "42-05",
         "street": "LAYTON STREET",
+        "boro": "4",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -4203,6 +4437,7 @@
     {
         "house_number": "143",
         "street": "NORTH 9 STREET",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 2,
         "list of violations": [
             [
@@ -4222,6 +4457,7 @@
     {
         "house_number": "155",
         "street": "EAST 44 ST",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -4236,6 +4472,7 @@
     {
         "house_number": "160",
         "street": "EAST 65 STREET",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -4250,6 +4487,7 @@
     {
         "house_number": "316",
         "street": "MANOR ROAD",
+        "boro": "STATEN ISLAND",
         "total_housing_maintenance_code_violations": 2,
         "list of violations": [
             [
@@ -4269,6 +4507,7 @@
     {
         "house_number": "1314",
         "street": "41ST STREET",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -4283,6 +4522,7 @@
     {
         "house_number": "41",
         "street": "W 33RD ST",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -4297,6 +4537,7 @@
     {
         "house_number": "119",
         "street": "NASSAU AVENUE",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -4311,6 +4552,7 @@
     {
         "house_number": "30",
         "street": "E 21ST ST",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 2,
         "list of violations": [
             [
@@ -4330,6 +4572,7 @@
     {
         "house_number": "5410",
         "street": "NETHERLAND AV",
+        "boro": "BRONX",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -4344,6 +4587,7 @@
     {
         "house_number": "24-30",
         "street": "24 STREET",
+        "boro": "4",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -4358,6 +4602,7 @@
     {
         "house_number": "45-03",
         "street": "102 STREET",
+        "boro": "4",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -4372,6 +4617,7 @@
     {
         "house_number": "1102",
         "street": "BANNER AVENUE",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -4386,6 +4632,7 @@
     {
         "house_number": "5701",
         "street": "FORT HAMILTON PARKWAY",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -4400,6 +4647,7 @@
     {
         "house_number": "237",
         "street": "WEST 63 STREET",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -4414,6 +4662,7 @@
     {
         "house_number": "400",
         "street": "EAST 105 STREET",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -4428,6 +4677,7 @@
     {
         "house_number": "60",
         "street": "WEST 23 ST",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -4442,6 +4692,7 @@
     {
         "house_number": "43-05",
         "street": "64 STREET",
+        "boro": "4",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -4456,6 +4707,7 @@
     {
         "house_number": "320",
         "street": "BEACH 100 STREET",
+        "boro": "4",
         "total_housing_maintenance_code_violations": 2,
         "list of violations": [
             [
@@ -4475,6 +4727,7 @@
     {
         "house_number": "515",
         "street": "TRUXTON STREET",
+        "boro": "BRONX",
         "total_housing_maintenance_code_violations": 2,
         "list of violations": [
             [
@@ -4494,6 +4747,7 @@
     {
         "house_number": "5480",
         "street": "BROADWAY",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -4508,6 +4762,7 @@
     {
         "house_number": "88-36",
         "street": "ELMHURST AVENUE",
+        "boro": "4",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -4522,6 +4777,7 @@
     {
         "house_number": "140",
         "street": "AUDOBON AVENUE",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -4536,6 +4792,7 @@
     {
         "house_number": "159-38",
         "street": "95 STREET",
+        "boro": "4",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -4550,6 +4807,7 @@
     {
         "house_number": "2084",
         "street": "5 AVENUE",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -4564,6 +4822,7 @@
     {
         "house_number": "164-10",
         "street": "104 ROAD",
+        "boro": "4",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -4578,6 +4837,7 @@
     {
         "house_number": "66",
         "street": "EAST  127 STREET",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 3,
         "list of violations": [
             [
@@ -4602,6 +4862,7 @@
     {
         "house_number": "1224",
         "street": "FLUSHING AVENUE",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -4616,6 +4877,7 @@
     {
         "house_number": "770 A",
         "street": "HUNTS POINT AVENUE",
+        "boro": "BRONX",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -4630,6 +4892,7 @@
     {
         "house_number": "526",
         "street": "WEST 111TH ST",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 4,
         "list of violations": [
             [
@@ -4659,6 +4922,7 @@
     {
         "house_number": "3433",
         "street": "90 STREET",
+        "boro": "4",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -4673,6 +4937,7 @@
     {
         "house_number": "446",
         "street": "KINGSTON AVENUE",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -4687,6 +4952,7 @@
     {
         "house_number": "1865",
         "street": "BROADWAY",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -4701,6 +4967,7 @@
     {
         "house_number": "5445",
         "street": "NETHERLAND AVE",
+        "boro": "BRONX",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -4715,6 +4982,7 @@
     {
         "house_number": "310",
         "street": "THIRD AVE",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 2,
         "list of violations": [
             [
@@ -4734,6 +5002,7 @@
     {
         "house_number": "455",
         "street": "1 AVENUE",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -4748,6 +5017,7 @@
     {
         "house_number": "71",
         "street": "HUDSON STREET",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -4762,6 +5032,7 @@
     {
         "house_number": "845",
         "street": "WEST END AVE",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -4776,6 +5047,7 @@
     {
         "house_number": "591",
         "street": "LEXINGTON AVE",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -4790,6 +5062,7 @@
     {
         "house_number": "267",
         "street": "7 AVENUE",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 2,
         "list of violations": [
             [
@@ -4809,6 +5082,7 @@
     {
         "house_number": "109",
         "street": "FABER STREET",
+        "boro": "STATEN ISLAND",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -4823,6 +5097,7 @@
     {
         "house_number": "450",
         "street": "WEST   20 STREET",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -4837,6 +5112,7 @@
     {
         "house_number": "99-25",
         "street": "60 AVENUE",
+        "boro": "4",
         "total_housing_maintenance_code_violations": 2,
         "list of violations": [
             [
@@ -4856,6 +5132,7 @@
     {
         "house_number": "56-71",
         "street": "49 PLACE",
+        "boro": "4",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -4870,6 +5147,7 @@
     {
         "house_number": "91-61",
         "street": "193 STREET",
+        "boro": "4",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -4884,6 +5162,7 @@
     {
         "house_number": "2",
         "street": "MOTT STREET",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -4898,6 +5177,7 @@
     {
         "house_number": "1136",
         "street": "5 AVENUE",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -4912,6 +5192,7 @@
     {
         "house_number": "7007",
         "street": "VETERANS AVENUE",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 4,
         "list of violations": [
             [
@@ -4941,6 +5222,7 @@
     {
         "house_number": "99-45",
         "street": "60 AVENUE",
+        "boro": "4",
         "total_housing_maintenance_code_violations": 2,
         "list of violations": [
             [
@@ -4960,6 +5242,7 @@
     {
         "house_number": "320",
         "street": "EAST 77TH STREET",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 4,
         "list of violations": [
             [
@@ -4989,6 +5272,7 @@
     {
         "house_number": "111",
         "street": "HICKS STREET",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -5003,6 +5287,7 @@
     {
         "house_number": "40-15",
         "street": "61 ST",
+        "boro": "4",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -5017,6 +5302,7 @@
     {
         "house_number": "248",
         "street": "HOLLYWOOD AVENUE",
+        "boro": "4",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -5031,6 +5317,7 @@
     {
         "house_number": "5440",
         "street": "NETHERLAND AVE",
+        "boro": "BRONX",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -5045,6 +5332,7 @@
     {
         "house_number": "30",
         "street": "NEWTON STREET",
+        "boro": "STATEN ISLAND",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -5059,6 +5347,7 @@
     {
         "house_number": "154",
         "street": "W 14TH ST",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -5073,6 +5362,7 @@
     {
         "house_number": "162-24",
         "street": "JAMAICA AVE",
+        "boro": "4",
         "total_housing_maintenance_code_violations": 2,
         "list of violations": [
             [
@@ -5092,6 +5382,7 @@
     {
         "house_number": "2828",
         "street": "WEST 28 STREET",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -5106,6 +5397,7 @@
     {
         "house_number": "7002",
         "street": "BAY PKWAY",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -5120,6 +5412,7 @@
     {
         "house_number": "141",
         "street": "E 91 ST",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -5134,6 +5427,7 @@
     {
         "house_number": "155",
         "street": "MONTAGUE STREET",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 3,
         "list of violations": [
             [
@@ -5158,6 +5452,7 @@
     {
         "house_number": "464",
         "street": "BUSHWICK AVENUE",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -5172,6 +5467,7 @@
     {
         "house_number": "1220",
         "street": "PUTNAM AVENUE",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -5186,6 +5482,7 @@
     {
         "house_number": "1185",
         "street": "6 AVENUE",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -5200,6 +5497,7 @@
     {
         "house_number": "141-05",
         "street": "CHERRY AVENUE",
+        "boro": "4",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -5214,6 +5512,7 @@
     {
         "house_number": "255",
         "street": "18 STREET",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -5228,6 +5527,7 @@
     {
         "house_number": "3400",
         "street": "WAYNE AVENUE",
+        "boro": "BRONX",
         "total_housing_maintenance_code_violations": 2,
         "list of violations": [
             [
@@ -5247,6 +5547,7 @@
     {
         "house_number": "317",
         "street": "PULASKI STREET",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -5261,6 +5562,7 @@
     {
         "house_number": "114-51",
         "street": "145 STREET",
+        "boro": "4",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -5275,6 +5577,7 @@
     {
         "house_number": "29-0",
         "street": "NORTHERN BOULEVARD",
+        "boro": "4",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -5289,6 +5592,7 @@
     {
         "house_number": "406",
         "street": "WEST   31 STREET",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -5303,6 +5607,7 @@
     {
         "house_number": "1176",
         "street": "NOSTRAND AVENUE",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -5317,6 +5622,7 @@
     {
         "house_number": "150-47",
         "street": "HILLSIDE AVENUE",
+        "boro": "4",
         "total_housing_maintenance_code_violations": 14,
         "list of violations": [
             [
@@ -5396,6 +5702,7 @@
     {
         "house_number": "145",
         "street": "WEST 44 STREET",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -5410,6 +5717,7 @@
     {
         "house_number": "16",
         "street": "E 40 ST",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -5424,6 +5732,7 @@
     {
         "house_number": "11",
         "street": "BUSH STREET",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -5438,6 +5747,7 @@
     {
         "house_number": "6",
         "street": "WEST  103 STREET",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -5452,6 +5762,7 @@
     {
         "house_number": "100",
         "street": "BANK STREET",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -5466,6 +5777,7 @@
     {
         "house_number": "23",
         "street": "EAST   64 STREET",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -5480,6 +5792,7 @@
     {
         "house_number": "215",
         "street": "W 34TH ST",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -5494,6 +5807,7 @@
     {
         "house_number": "326",
         "street": "W 83RD ST",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 2,
         "list of violations": [
             [
@@ -5513,6 +5827,7 @@
     {
         "house_number": "892",
         "street": "3 AVENUE",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -5527,6 +5842,7 @@
     {
         "house_number": "83",
         "street": "WEST 115 STREET",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 3,
         "list of violations": [
             [
@@ -5551,6 +5867,7 @@
     {
         "house_number": "541",
         "street": "WEST  150 STREET",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 8,
         "list of violations": [
             [
@@ -5600,6 +5917,7 @@
     {
         "house_number": "102-55",
         "street": "67TH DRIVE",
+        "boro": "4",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -5614,6 +5932,7 @@
     {
         "house_number": "1",
         "street": "TUDOR CITY PLACE",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 2,
         "list of violations": [
             [
@@ -5633,6 +5952,7 @@
     {
         "house_number": "65",
         "street": "FRANKLIN STREET",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -5647,6 +5967,7 @@
     {
         "house_number": "208-11",
         "street": "HOLLIS AVENUE",
+        "boro": "4",
         "total_housing_maintenance_code_violations": 4,
         "list of violations": [
             [
@@ -5676,6 +5997,7 @@
     {
         "house_number": "23",
         "street": "BARTLETT STREET",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 2,
         "list of violations": [
             [
@@ -5695,6 +6017,7 @@
     {
         "house_number": "340220",
         "street": "SNYDER AVENUE",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -5709,6 +6032,7 @@
     {
         "house_number": "1918",
         "street": "PARK AVE",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 6,
         "list of violations": [
             [
@@ -5748,6 +6072,7 @@
     {
         "house_number": "99-30",
         "street": "59 AVENUE",
+        "boro": "Q",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -5762,6 +6087,7 @@
     {
         "house_number": "18",
         "street": "JACOBUS PL",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 2,
         "list of violations": [
             [
@@ -5781,6 +6107,7 @@
     {
         "house_number": "3756",
         "street": "EAST TREMONT AVENUE",
+        "boro": "BRONX",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -5795,6 +6122,7 @@
     {
         "house_number": "81",
         "street": "5 AVENUE",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 2,
         "list of violations": [
             [
@@ -5814,6 +6142,7 @@
     {
         "house_number": "71-28",
         "street": "ROOSEVELT AVENUE",
+        "boro": "4",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -5828,6 +6157,7 @@
     {
         "house_number": "920",
         "street": "HYLAN BOULEVARD",
+        "boro": "STATEN ISLAND",
         "total_housing_maintenance_code_violations": 2,
         "list of violations": [
             [
@@ -5847,6 +6177,7 @@
     {
         "house_number": "3713",
         "street": "KINGS HIGHWAY",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -5861,6 +6192,7 @@
     {
         "house_number": "102-55",
         "street": "67 DRIVE",
+        "boro": "4",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -5875,6 +6207,7 @@
     {
         "house_number": "25",
         "street": "WEST 35 STREET",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -5889,6 +6222,7 @@
     {
         "house_number": "154",
         "street": "ATLANTIC AVENUE",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 2,
         "list of violations": [
             [
@@ -5908,6 +6242,7 @@
     {
         "house_number": "1340",
         "street": "LAFAYETTE AVENUE",
+        "boro": "BRONX",
         "total_housing_maintenance_code_violations": 3,
         "list of violations": [
             [
@@ -5932,6 +6267,7 @@
     {
         "house_number": "144-45",
         "street": "41 AVE",
+        "boro": "4",
         "total_housing_maintenance_code_violations": 2,
         "list of violations": [
             [
@@ -5951,6 +6287,7 @@
     {
         "house_number": "48",
         "street": "WEST 21ST STREET",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -5965,6 +6302,7 @@
     {
         "house_number": "1",
         "street": "DEKALB AVENUE",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 3,
         "list of violations": [
             [
@@ -5989,6 +6327,7 @@
     {
         "house_number": "139-25",
         "street": "31 RD",
+        "boro": "4",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -6003,6 +6342,7 @@
     {
         "house_number": "162-45",
         "street": "CROSS BAY BLVD",
+        "boro": "4",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -6017,6 +6357,7 @@
     {
         "house_number": "32-50",
         "street": "STEINWAY STREET",
+        "boro": "4",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -6031,6 +6372,7 @@
     {
         "house_number": "433",
         "street": "NEPTUNE.AVE",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 9,
         "list of violations": [
             [
@@ -6085,6 +6427,7 @@
     {
         "house_number": "620",
         "street": "THWAITES PLACE",
+        "boro": "BRONX",
         "total_housing_maintenance_code_violations": 2,
         "list of violations": [
             [
@@ -6104,6 +6447,7 @@
     {
         "house_number": "366",
         "street": "WATCHOGUE ROAD",
+        "boro": "STATEN ISLAND",
         "total_housing_maintenance_code_violations": 3,
         "list of violations": [
             [
@@ -6128,6 +6472,7 @@
     {
         "house_number": "534",
         "street": "BERGEN STREET",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -6142,6 +6487,7 @@
     {
         "house_number": "3201",
         "street": "GR CONCOURSE",
+        "boro": "BRONX",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -6156,6 +6502,7 @@
     {
         "house_number": "53",
         "street": "CHAUNCEY STREET",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 2,
         "list of violations": [
             [
@@ -6175,6 +6522,7 @@
     {
         "house_number": "3121",
         "street": "OCEAN AVENUE",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -6189,6 +6537,7 @@
     {
         "house_number": "33-01 GAR",
         "street": "24 AVENUE",
+        "boro": "4",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -6203,6 +6552,7 @@
     {
         "house_number": "351",
         "street": "EAST 57 STREET",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -6217,6 +6567,7 @@
     {
         "house_number": "449",
         "street": "WALES AVENUE",
+        "boro": "BRONX",
         "total_housing_maintenance_code_violations": 2,
         "list of violations": [
             [
@@ -6236,6 +6587,7 @@
     {
         "house_number": "2849",
         "street": "WEBB AVENUE",
+        "boro": "BRONX",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -6250,6 +6602,7 @@
     {
         "house_number": "190",
         "street": "E MOSHOLU PKWY SO",
+        "boro": "BRONX",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -6264,6 +6617,7 @@
     {
         "house_number": "95-36",
         "street": "150 STREET",
+        "boro": "4",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -6278,6 +6632,7 @@
     {
         "house_number": "10-20",
         "street": "NEILSON ST",
+        "boro": "4",
         "total_housing_maintenance_code_violations": 3,
         "list of violations": [
             [
@@ -6302,6 +6657,7 @@
     {
         "house_number": "2460",
         "street": "FLATBUSH AVE",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 2,
         "list of violations": [
             [
@@ -6321,6 +6677,7 @@
     {
         "house_number": "41",
         "street": "KING STREET",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -6335,6 +6692,7 @@
     {
         "house_number": "237",
         "street": "EAST   86 STREET",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -6349,6 +6707,7 @@
     {
         "house_number": "914",
         "street": "JEFFERSON AVENUE",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -6363,6 +6722,7 @@
     {
         "house_number": "863",
         "street": "DE KALB AVENUE",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -6377,6 +6737,7 @@
     {
         "house_number": "103-26",
         "street": "68 AVENUE",
+        "boro": "4",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -6391,6 +6752,7 @@
     {
         "house_number": "2991",
         "street": "BR 13TH ST",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -6405,6 +6767,7 @@
     {
         "house_number": "34",
         "street": "WEST 14TH ST",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -6419,6 +6782,7 @@
     {
         "house_number": "603",
         "street": "WEST 218 STREET",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -6433,6 +6797,7 @@
     {
         "house_number": "130",
         "street": "EAST 18TH ST",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 2,
         "list of violations": [
             [
@@ -6452,6 +6817,7 @@
     {
         "house_number": "1075",
         "street": "65 STREET",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 3,
         "list of violations": [
             [
@@ -6476,6 +6842,7 @@
     {
         "house_number": "41-03",
         "street": "99 STREET",
+        "boro": "4",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -6490,6 +6857,7 @@
     {
         "house_number": "24",
         "street": "W 9TH ST",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 2,
         "list of violations": [
             [
@@ -6509,6 +6877,7 @@
     {
         "house_number": "127-12",
         "street": "135 AVENUE",
+        "boro": "4",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -6523,6 +6892,7 @@
     {
         "house_number": "530",
         "street": "FULTON STREET",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 2,
         "list of violations": [
             [
@@ -6542,6 +6912,7 @@
     {
         "house_number": "777",
         "street": "WEST END AVE",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -6556,6 +6927,7 @@
     {
         "house_number": "5420",
         "street": "NETHERLAND AVE",
+        "boro": "BRONX",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -6570,6 +6942,7 @@
     {
         "house_number": "91-20",
         "street": "216 STREET",
+        "boro": "4",
         "total_housing_maintenance_code_violations": 2,
         "list of violations": [
             [
@@ -6589,6 +6962,7 @@
     {
         "house_number": "314",
         "street": "WEST 51 STREET",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -6603,6 +6977,7 @@
     {
         "house_number": "17",
         "street": "EAST 70 STREET",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 3,
         "list of violations": [
             [
@@ -6627,6 +7002,7 @@
     {
         "house_number": "760",
         "street": "BROADWAY",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 6,
         "list of violations": [
             [
@@ -6666,6 +7042,7 @@
     {
         "house_number": "130-03",
         "street": "HILLSIDE AVENUE",
+        "boro": "4",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -6680,6 +7057,7 @@
     {
         "house_number": "88-05",
         "street": "MERRICK BOULEVARD",
+        "boro": "4",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -6694,6 +7072,7 @@
     {
         "house_number": "164",
         "street": "WEST 25 STREET",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -6708,6 +7087,7 @@
     {
         "house_number": "21-06",
         "street": "45 AVENUE",
+        "boro": "4",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -6722,6 +7102,7 @@
     {
         "house_number": "310",
         "street": "W 72ND ST",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -6736,6 +7117,7 @@
     {
         "house_number": "151",
         "street": "BALTIC STREET",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 8,
         "list of violations": [
             [
@@ -6785,6 +7167,7 @@
     {
         "house_number": "233",
         "street": "ROCKAWAY AVENUE",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -6799,6 +7182,7 @@
     {
         "house_number": "45",
         "street": "EAST 68 STREET",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -6813,6 +7197,7 @@
     {
         "house_number": "1351",
         "street": "BROOKLYN AVENUE",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -6827,6 +7212,7 @@
     {
         "house_number": "26",
         "street": "WEST 9 STREET",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 3,
         "list of violations": [
             [
@@ -6851,6 +7237,7 @@
     {
         "house_number": "464",
         "street": "POILLON AVENUE",
+        "boro": "STATEN ISLAND",
         "total_housing_maintenance_code_violations": 4,
         "list of violations": [
             [
@@ -6880,6 +7267,7 @@
     {
         "house_number": "40-26",
         "street": "61 STREET",
+        "boro": "4",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -6894,6 +7282,7 @@
     {
         "house_number": "374",
         "street": "EAST 9 STREET",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -6908,6 +7297,7 @@
     {
         "house_number": "2758",
         "street": "CRUGER AVENUE",
+        "boro": "BRONX",
         "total_housing_maintenance_code_violations": 8,
         "list of violations": [
             [
@@ -6957,6 +7347,7 @@
     {
         "house_number": "430",
         "street": "EAST 105 STREET",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -6971,6 +7362,7 @@
     {
         "house_number": "3534",
         "street": "WAYNE AVENUE",
+        "boro": "BRONX",
         "total_housing_maintenance_code_violations": 2,
         "list of violations": [
             [
@@ -6990,6 +7382,7 @@
     {
         "house_number": "301",
         "street": "EAST 29 ST",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -7004,6 +7397,7 @@
     {
         "house_number": "360",
         "street": "GREENE AVENUE",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -7018,6 +7412,7 @@
     {
         "house_number": "4601",
         "street": "DELAFIELD AVENUE",
+        "boro": "BRONX",
         "total_housing_maintenance_code_violations": 2,
         "list of violations": [
             [
@@ -7037,6 +7432,7 @@
     {
         "house_number": "838",
         "street": "THIRD AVE",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -7051,6 +7447,7 @@
     {
         "house_number": "1555",
         "street": "SEABURY PLACE",
+        "boro": "BRONX",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -7065,6 +7462,7 @@
     {
         "house_number": "258",
         "street": "BOND STREET",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -7079,6 +7477,7 @@
     {
         "house_number": "241",
         "street": "E 21ST ST",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -7093,6 +7492,7 @@
     {
         "house_number": "8",
         "street": "JAY STREET",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -7107,6 +7507,7 @@
     {
         "house_number": "39",
         "street": "W 38TH ST",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -7121,6 +7522,7 @@
     {
         "house_number": "51-57",
         "street": "71 STREET",
+        "boro": "4",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -7135,6 +7537,7 @@
     {
         "house_number": "430",
         "street": "EAST 158 STREET",
+        "boro": "BRONX",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -7149,6 +7552,7 @@
     {
         "house_number": "63",
         "street": "BOKEE COURT",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -7163,6 +7567,7 @@
     {
         "house_number": "25-05",
         "street": "45 STREET",
+        "boro": "4",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -7177,6 +7582,7 @@
     {
         "house_number": "217",
         "street": "JEFFERSON STREET",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 3,
         "list of violations": [
             [
@@ -7201,6 +7607,7 @@
     {
         "house_number": "183",
         "street": "JAVA STREET",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -7215,6 +7622,7 @@
     {
         "house_number": "34-56",
         "street": "92 STREET",
+        "boro": "4",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -7229,6 +7637,7 @@
     {
         "house_number": "37-25",
         "street": "32 STREET",
+        "boro": "4",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -7243,6 +7652,7 @@
     {
         "house_number": "230",
         "street": "MESEROLE ST",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 2,
         "list of violations": [
             [
@@ -7262,6 +7672,7 @@
     {
         "house_number": "3415",
         "street": "BAINBRIDGE AVENUE",
+        "boro": "BRONX",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -7276,6 +7687,7 @@
     {
         "house_number": "75",
         "street": "5 AVENUE",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 2,
         "list of violations": [
             [
@@ -7295,6 +7707,7 @@
     {
         "house_number": "299",
         "street": "HENRY STREET",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -7309,6 +7722,7 @@
     {
         "house_number": "517",
         "street": "WEST  111 STREET",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -7323,6 +7737,7 @@
     {
         "house_number": "45-19",
         "street": "104 STREET",
+        "boro": "4",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -7337,6 +7752,7 @@
     {
         "house_number": "2125",
         "street": "72 STREET",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 2,
         "list of violations": [
             [
@@ -7356,6 +7772,7 @@
     {
         "house_number": "245",
         "street": "WEST 63 STREET",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -7370,6 +7787,7 @@
     {
         "house_number": "149-38",
         "street": "14 AVENUE",
+        "boro": "4",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -7384,6 +7802,7 @@
     {
         "house_number": "177",
         "street": "KENT STREET",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -7398,6 +7817,7 @@
     {
         "house_number": "41",
         "street": "EAST   51 STREET",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -7412,6 +7832,7 @@
     {
         "house_number": "341",
         "street": "MANOR ROAD",
+        "boro": "4",
         "total_housing_maintenance_code_violations": 3,
         "list of violations": [
             [
@@ -7436,6 +7857,7 @@
     {
         "house_number": "13-16",
         "street": "BEACH CHANNEL DRIVE",
+        "boro": "4",
         "total_housing_maintenance_code_violations": 6,
         "list of violations": [
             [
@@ -7475,6 +7897,7 @@
     {
         "house_number": "61-36",
         "street": "WOODBINE STREET",
+        "boro": "4",
         "total_housing_maintenance_code_violations": 2,
         "list of violations": [
             [
@@ -7494,6 +7917,7 @@
     {
         "house_number": "1883",
         "street": "54 STREET",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -7508,6 +7932,7 @@
     {
         "house_number": "240",
         "street": "WEST 65 STREET",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -7522,6 +7947,7 @@
     {
         "house_number": "13",
         "street": "8 AVENUE",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -7536,6 +7962,7 @@
     {
         "house_number": "139",
         "street": "PAYSON AVENUE",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -7550,6 +7977,7 @@
     {
         "house_number": "606",
         "street": "5 AVENUE",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -7564,6 +7992,7 @@
     {
         "house_number": "5444",
         "street": "ARLINGTON AVE",
+        "boro": "BRONX",
         "total_housing_maintenance_code_violations": 2,
         "list of violations": [
             [
@@ -7583,6 +8012,7 @@
     {
         "house_number": "228",
         "street": "EAST 46 STREET",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -7597,6 +8027,7 @@
     {
         "house_number": "220",
         "street": "BEACH 30 STREET",
+        "boro": "4",
         "total_housing_maintenance_code_violations": 2,
         "list of violations": [
             [
@@ -7616,6 +8047,7 @@
     {
         "house_number": "8020",
         "street": "FLATLANDS AVENUE",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 2,
         "list of violations": [
             [
@@ -7635,6 +8067,7 @@
     {
         "house_number": "532",
         "street": "WEST  148 STREET",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 2,
         "list of violations": [
             [
@@ -7654,6 +8087,7 @@
     {
         "house_number": "422",
         "street": "84 STREET",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -7668,6 +8102,7 @@
     {
         "house_number": "1481",
         "street": "STERLING PLACE",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -7682,6 +8117,7 @@
     {
         "house_number": "172",
         "street": "TOMPKINS AVENUE",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -7696,6 +8132,7 @@
     {
         "house_number": "1050",
         "street": "CARROLL PL",
+        "boro": "BRONX",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -7710,6 +8147,7 @@
     {
         "house_number": "3750",
         "street": "EAST TREMONT AVENUE",
+        "boro": "BRONX",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -7724,6 +8162,7 @@
     {
         "house_number": "140-21",
         "street": "31 ROAD",
+        "boro": "4",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -7738,6 +8177,7 @@
     {
         "house_number": "70-153",
         "street": "COOPER AVENUE",
+        "boro": "4",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -7752,6 +8192,7 @@
     {
         "house_number": "3984",
         "street": "WHITE PLAINS ROAD",
+        "boro": "BRONX",
         "total_housing_maintenance_code_violations": 7,
         "list of violations": [
             [
@@ -7796,6 +8237,7 @@
     {
         "house_number": "114-54",
         "street": "SUTPHIN BOULEVARD",
+        "boro": "4",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -7810,6 +8252,7 @@
     {
         "house_number": "5961",
         "street": "PALISADE AVENUE",
+        "boro": "BRONX",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -7824,6 +8267,7 @@
     {
         "house_number": "26",
         "street": "WEST    9 STREET",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -7838,6 +8282,7 @@
     {
         "house_number": "1312",
         "street": "INTERVALE AVENUE",
+        "boro": "BRONX",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -7852,6 +8297,7 @@
     {
         "house_number": "656",
         "street": "FIRST AVENUE",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -7866,6 +8312,7 @@
     {
         "house_number": "49-17",
         "street": "BROWVALE LANE",
+        "boro": "4",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -7880,6 +8327,7 @@
     {
         "house_number": "88",
         "street": "WEST BROADWAY",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -7894,6 +8342,7 @@
     {
         "house_number": "1413",
         "street": "EAST NEW YORK AVENUE",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -7908,6 +8357,7 @@
     {
         "house_number": "616",
         "street": "6 AVENUE",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -7922,6 +8372,7 @@
     {
         "house_number": "401",
         "street": "EAST 102 STREET",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -7936,6 +8387,7 @@
     {
         "house_number": "52",
         "street": "WEST  126 STREET",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 10,
         "list of violations": [
             [
@@ -7995,6 +8447,7 @@
     {
         "house_number": "340",
         "street": "EAST 74 STREET",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -8009,6 +8462,7 @@
     {
         "house_number": "86-11",
         "street": "34TH AVE",
+        "boro": "4",
         "total_housing_maintenance_code_violations": 2,
         "list of violations": [
             [
@@ -8028,6 +8482,7 @@
     {
         "house_number": "19",
         "street": "GRACE COURT",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -8042,6 +8497,7 @@
     {
         "house_number": "12",
         "street": "CLARK ST",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 2,
         "list of violations": [
             [
@@ -8061,6 +8517,7 @@
     {
         "house_number": "186-15",
         "street": "AVON ROAD",
+        "boro": "4",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -8075,6 +8532,7 @@
     {
         "house_number": "91-14",
         "street": "CORONA AVENUE",
+        "boro": "4",
         "total_housing_maintenance_code_violations": 5,
         "list of violations": [
             [
@@ -8109,6 +8567,7 @@
     {
         "house_number": "1",
         "street": "MAIN STREET",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -8123,6 +8582,7 @@
     {
         "house_number": "3950",
         "street": "BLACKSTONE AVE",
+        "boro": "BRONX",
         "total_housing_maintenance_code_violations": 3,
         "list of violations": [
             [
@@ -8147,6 +8607,7 @@
     {
         "house_number": "64",
         "street": "BROOK STREET",
+        "boro": "STATEN ISLAND",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -8161,6 +8622,7 @@
     {
         "house_number": "225",
         "street": "EAST 47 STREET",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -8175,6 +8637,7 @@
     {
         "house_number": "117",
         "street": "EAST 64 STREET",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -8189,6 +8652,7 @@
     {
         "house_number": "23",
         "street": "W 36TH ST",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 3,
         "list of violations": [
             [
@@ -8213,6 +8677,7 @@
     {
         "house_number": "584",
         "street": "SACKETT STREET",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -8227,6 +8692,7 @@
     {
         "house_number": "581",
         "street": "FRANKLIN AVENUE",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -8241,6 +8707,7 @@
     {
         "house_number": "522",
         "street": "STATE STREET",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 3,
         "list of violations": [
             [
@@ -8265,6 +8732,7 @@
     {
         "house_number": "790",
         "street": "BUSHWICK AVENUE",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 2,
         "list of violations": [
             [
@@ -8284,6 +8752,7 @@
     {
         "house_number": "401",
         "street": "HARDING PARK",
+        "boro": "BRONX",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -8298,6 +8767,7 @@
     {
         "house_number": "232",
         "street": "E 6 ST",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 3,
         "list of violations": [
             [
@@ -8322,6 +8792,7 @@
     {
         "house_number": "1",
         "street": "UNITED NATIONS PLAZA",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 3,
         "list of violations": [
             [
@@ -8346,6 +8817,7 @@
     {
         "house_number": "175-30",
         "street": "LONG ISLAND EXPRESSWAY",
+        "boro": "4",
         "total_housing_maintenance_code_violations": 2,
         "list of violations": [
             [
@@ -8365,6 +8837,7 @@
     {
         "house_number": "341",
         "street": "WEST 44 STREET",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -8379,6 +8852,7 @@
     {
         "house_number": "589320",
         "street": "16 STREET",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -8393,6 +8867,7 @@
     {
         "house_number": "183",
         "street": "BEDFORD AVENUE",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 4,
         "list of violations": [
             [
@@ -8422,6 +8897,7 @@
     {
         "house_number": "134",
         "street": "DUANE STREET",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -8436,6 +8912,7 @@
     {
         "house_number": "2995",
         "street": "INDEPENDENCE AVENUE",
+        "boro": "BRONX",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -8450,6 +8927,7 @@
     {
         "house_number": "528",
         "street": "WEST  122 STREET",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 2,
         "list of violations": [
             [
@@ -8469,6 +8947,7 @@
     {
         "house_number": "109-24",
         "street": "MERRICK BOULEVARD",
+        "boro": "4",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -8483,6 +8962,7 @@
     {
         "house_number": "13",
         "street": "VERONICA PLACE",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -8497,6 +8977,7 @@
     {
         "house_number": "77",
         "street": "COLUMBIA STREET",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 2,
         "list of violations": [
             [
@@ -8516,6 +8997,7 @@
     {
         "house_number": "340",
         "street": "EAST   74 STREET",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 4,
         "list of violations": [
             [
@@ -8545,6 +9027,7 @@
     {
         "house_number": "24",
         "street": "GROVE STREET",
+        "boro": "STATEN ISLAND",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -8559,6 +9042,7 @@
     {
         "house_number": "7302",
         "street": "5 AVENUE",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -8573,6 +9057,7 @@
     {
         "house_number": "30",
         "street": "WEST 87 STREET",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 2,
         "list of violations": [
             [
@@ -8592,6 +9077,7 @@
     {
         "house_number": "5228",
         "street": "NEW UTRECHT AVENUE",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 4,
         "list of violations": [
             [
@@ -8621,6 +9107,7 @@
     {
         "house_number": "220-24",
         "street": "HEMPSTEAD AVENUE",
+        "boro": "4",
         "total_housing_maintenance_code_violations": 10,
         "list of violations": [
             [
@@ -8680,6 +9167,7 @@
     {
         "house_number": "826",
         "street": "59 STREET",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -8694,6 +9182,7 @@
     {
         "house_number": "135-20",
         "street": "39 AVENUE",
+        "boro": "4",
         "total_housing_maintenance_code_violations": 4,
         "list of violations": [
             [
@@ -8723,6 +9212,7 @@
     {
         "house_number": "473",
         "street": "CENTRAL PARK WEST",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -8737,6 +9227,7 @@
     {
         "house_number": "406",
         "street": "QUENTIN ROAD",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -8751,6 +9242,7 @@
     {
         "house_number": "540",
         "street": "PARK AVENUE",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -8765,6 +9257,7 @@
     {
         "house_number": "1223",
         "street": "ATLANTIC AVENUE",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -8779,6 +9272,7 @@
     {
         "house_number": "130",
         "street": "COURT ST",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -8793,6 +9287,7 @@
     {
         "house_number": "23-57",
         "street": "79 STREET",
+        "boro": "4",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -8807,6 +9302,7 @@
     {
         "house_number": "99-30",
         "street": "59TH AVENUE",
+        "boro": "4",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -8821,6 +9317,7 @@
     {
         "house_number": "78",
         "street": "WINDOM AVENUE",
+        "boro": "STATEN ISLAND",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -8835,6 +9332,7 @@
     {
         "house_number": "2593",
         "street": "WEST 13 STREET",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -8849,6 +9347,7 @@
     {
         "house_number": "5212",
         "street": "WEST  126 STREET",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -8863,6 +9362,7 @@
     {
         "house_number": "105-33",
         "street": "66 AVENUE",
+        "boro": "4",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -8877,6 +9377,7 @@
     {
         "house_number": "681",
         "street": "WEST END AVE",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -8891,6 +9392,7 @@
     {
         "house_number": "290",
         "street": "WILD AVENUE",
+        "boro": "STATEN ISLAND",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -8905,6 +9407,7 @@
     {
         "house_number": "88",
         "street": "MESEROLE AVENUE",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -8919,6 +9422,7 @@
     {
         "house_number": "139-25",
         "street": "31 ROAD",
+        "boro": "4",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -8933,6 +9437,7 @@
     {
         "house_number": "1059",
         "street": "UNION STREET",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -8947,6 +9452,7 @@
     {
         "house_number": "477",
         "street": "KEAP STREET",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 2,
         "list of violations": [
             [
@@ -8966,6 +9472,7 @@
     {
         "house_number": "132-36",
         "street": "41 AVENUE",
+        "boro": "4",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -8980,6 +9487,7 @@
     {
         "house_number": "55",
         "street": "E 88 ST",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 2,
         "list of violations": [
             [
@@ -8999,6 +9507,7 @@
     {
         "house_number": "623",
         "street": "51 ST",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -9013,6 +9522,7 @@
     {
         "house_number": "105-15",
         "street": "79 STREET",
+        "boro": "4",
         "total_housing_maintenance_code_violations": 2,
         "list of violations": [
             [
@@ -9032,6 +9542,7 @@
     {
         "house_number": "273",
         "street": "WEST 131 STREET",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 2,
         "list of violations": [
             [
@@ -9051,6 +9562,7 @@
     {
         "house_number": "14",
         "street": "EAST   69 STREET",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -9065,6 +9577,7 @@
     {
         "house_number": "165",
         "street": "AUDUBON AVENUE",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -9079,6 +9592,7 @@
     {
         "house_number": "248",
         "street": "MC KIBBIN STREET",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -9093,6 +9607,7 @@
     {
         "house_number": "550",
         "street": "CAULDWELL AVENUE",
+        "boro": "B",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -9107,6 +9622,7 @@
     {
         "house_number": "425",
         "street": "MORRIS AVENUE",
+        "boro": "BRONX",
         "total_housing_maintenance_code_violations": 9,
         "list of violations": [
             [
@@ -9161,6 +9677,7 @@
     {
         "house_number": "1713",
         "street": "MADISON AVENUE",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 2,
         "list of violations": [
             [
@@ -9180,6 +9697,7 @@
     {
         "house_number": "1110",
         "street": "EASTERN PARKWAY",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -9194,6 +9712,7 @@
     {
         "house_number": "880",
         "street": "BROADWAY",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 2,
         "list of violations": [
             [
@@ -9213,6 +9732,7 @@
     {
         "house_number": "155",
         "street": "E 52ND ST",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -9227,6 +9747,7 @@
     {
         "house_number": "38-21",
         "street": "23 STREET",
+        "boro": "4",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -9241,6 +9762,7 @@
     {
         "house_number": "141-48",
         "street": "85 RD",
+        "boro": "4",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -9255,6 +9777,7 @@
     {
         "house_number": "70-15",
         "street": "COOPER AVENUE",
+        "boro": "4",
         "total_housing_maintenance_code_violations": 17,
         "list of violations": [
             [
@@ -9349,6 +9872,7 @@
     {
         "house_number": "110",
         "street": "WEST 56 STREET",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -9363,6 +9887,7 @@
     {
         "house_number": "136",
         "street": "LINCOLN AVENUE",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -9377,6 +9902,7 @@
     {
         "house_number": "5430",
         "street": "NETHERLAND AVE",
+        "boro": "BRONX",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -9391,6 +9917,7 @@
     {
         "house_number": "600",
         "street": "ALBANY AVENUE",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 2,
         "list of violations": [
             [
@@ -9410,6 +9937,7 @@
     {
         "house_number": "150-11",
         "street": "HILLSIDE AVENUE",
+        "boro": "4",
         "total_housing_maintenance_code_violations": 2,
         "list of violations": [
             [
@@ -9429,6 +9957,7 @@
     {
         "house_number": "1825",
         "street": "EASTCHESTER ROAD",
+        "boro": "BRONX",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -9443,6 +9972,7 @@
     {
         "house_number": "430",
         "street": "CLERMONT AVENUE",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -9457,6 +9987,7 @@
     {
         "house_number": "137",
         "street": "EAST   25 STREET",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -9471,6 +10002,7 @@
     {
         "house_number": "75",
         "street": "BENNETT ST",
+        "boro": "STATEN ISLAND",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -9485,6 +10017,7 @@
     {
         "house_number": "353",
         "street": "93 STREET",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 2,
         "list of violations": [
             [
@@ -9504,6 +10037,7 @@
     {
         "house_number": "98-40",
         "street": "64 AVENUE",
+        "boro": "4",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -9518,6 +10052,7 @@
     {
         "house_number": "219",
         "street": "EAST   85 STREET",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 2,
         "list of violations": [
             [
@@ -9537,6 +10072,7 @@
     {
         "house_number": "3752",
         "street": "EAST TREMONT AVENUE",
+        "boro": "BRONX",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -9551,6 +10087,7 @@
     {
         "house_number": "735",
         "street": "PELHAM PARKWAY NORTH",
+        "boro": "BRONX",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -9565,6 +10102,7 @@
     {
         "house_number": "5240",
         "street": "BROADWAY",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -9579,6 +10117,7 @@
     {
         "house_number": "8813",
         "street": "FT HAMILTON AVE",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 3,
         "list of violations": [
             [
@@ -9603,6 +10142,7 @@
     {
         "house_number": "6705",
         "street": "FIFTH AVE",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -9617,6 +10157,7 @@
     {
         "house_number": "44",
         "street": "EAST 14 ST",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -9631,6 +10172,7 @@
     {
         "house_number": "49",
         "street": "W 86TH ST",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 2,
         "list of violations": [
             [
@@ -9650,6 +10192,7 @@
     {
         "house_number": "50",
         "street": "EAST    3 STREET",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 2,
         "list of violations": [
             [
@@ -9669,6 +10212,7 @@
     {
         "house_number": "8",
         "street": "EAST 57 STREET",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 3,
         "list of violations": [
             [
@@ -9693,6 +10237,7 @@
     {
         "house_number": "139-19",
         "street": "31 ROAD",
+        "boro": "4",
         "total_housing_maintenance_code_violations": 3,
         "list of violations": [
             [
@@ -9717,6 +10262,7 @@
     {
         "house_number": "5409",
         "street": "AVENUE O",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 2,
         "list of violations": [
             [
@@ -9736,6 +10282,7 @@
     {
         "house_number": "582",
         "street": "2 STREET",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -9750,6 +10297,7 @@
     {
         "house_number": "3165",
         "street": "EMMONS AVENUE",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -9764,6 +10312,7 @@
     {
         "house_number": "150-15",
         "street": "HILLSIDE AVE",
+        "boro": "4",
         "total_housing_maintenance_code_violations": 2,
         "list of violations": [
             [
@@ -9783,6 +10332,7 @@
     {
         "house_number": "30-11",
         "street": "QUEENS BOULEVARD",
+        "boro": "4",
         "total_housing_maintenance_code_violations": 3,
         "list of violations": [
             [
@@ -9807,6 +10357,7 @@
     {
         "house_number": "1517",
         "street": "BUSHWICK AVENUE",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 2,
         "list of violations": [
             [
@@ -9826,6 +10377,7 @@
     {
         "house_number": "1501",
         "street": "8 AVENUE",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -9840,6 +10392,7 @@
     {
         "house_number": "7901",
         "street": "6 AVENUE",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -9854,6 +10407,7 @@
     {
         "house_number": "1010",
         "street": "UNDERHILL AVE",
+        "boro": "BRONX",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -9868,6 +10422,7 @@
     {
         "house_number": "2829",
         "street": "OCEAN PARKWAY",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 3,
         "list of violations": [
             [
@@ -9892,6 +10447,7 @@
     {
         "house_number": "2606",
         "street": "CROPSEY AVENUE",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -9906,6 +10462,7 @@
     {
         "house_number": "35-20",
         "street": "BELL BOULEVARD",
+        "boro": "4",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -9920,6 +10477,7 @@
     {
         "house_number": "240",
         "street": "WEST 64 ST",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -9934,6 +10492,7 @@
     {
         "house_number": "311",
         "street": "EAST   84 STREET",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -9948,6 +10507,7 @@
     {
         "house_number": "177",
         "street": "LINCOLN ROAD",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 4,
         "list of violations": [
             [
@@ -9977,6 +10537,7 @@
     {
         "house_number": "706",
         "street": "MONROE STREET",
+        "boro": "BROOKLYN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -9991,6 +10552,7 @@
     {
         "house_number": "420",
         "street": "5 AVENUE",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -10005,6 +10567,7 @@
     {
         "house_number": "284",
         "street": "LAFAYETTE ST",
+        "boro": "MANHATTAN",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
@@ -10019,6 +10582,7 @@
     {
         "house_number": "3810",
         "street": "GREYSTONE AVENUE",
+        "boro": "BRONX",
         "total_housing_maintenance_code_violations": 1,
         "list of violations": [
             [
