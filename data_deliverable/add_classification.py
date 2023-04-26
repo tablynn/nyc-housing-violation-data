@@ -4,6 +4,8 @@ import json as json
 housing_merged =  pd.read_csv('data/housing_merged.csv')
 income_classification = pd.read_csv('data/income_classification_zipcode.csv')
 income_classification = income_classification.set_index('NAME')
+zipcode_median_income = pd.read_csv('data/zipcode_median_income.csv')
+zipcode_median_income = zipcode_median_income.set_index('NAME')
 
 #print(income_classification.head())
 zipcode = housing_merged.iloc[0, 3]
@@ -26,9 +28,22 @@ def classification(x) -> int:
       return income_classification.loc[x[3], '2021']
   except:
       return -1
+  
+def median_income(x) -> int: 
+  year = x[9]
+  try:
+    if (year < 2022):
+      return zipcode_median_income.loc[x[3], str(year)]
+    else:
+      return zipcode_median_income.loc[x[3], '2021']
+  except:
+    -2  
 
 
+housing_merged['med_income'] = housing_merged.apply(lambda x: median_income(x), axis=1)
 housing_merged['rich'] = housing_merged.apply(lambda x: classification(x), axis=1)
+
+housing_merged = housing_merged.drop(housing_merged[housing_merged['rich']== -1].index)
 
 income_and_housing = housing_merged.to_csv('data/housing_income_merged.csv')
 
