@@ -21,21 +21,6 @@ def convert_zip(zip):
     new_zip = zip.split(" ")[1]
     return new_zip 
 
-
-
-# def check_income(zi)
-#     try:
-#         if zip_income == '250,000+':
-#             return 1
-#         elif zip_income == '2,500-':
-#             return -1
-#         elif int(zip_income) > nyc_median[index]:
-#             return 1
-#         else:
-#             return 0
-#     except:
-#         return -1
-
 def main():
     main_df = med_2011[['NAME','S1901_C01_012E']].iloc[1: , :]
     main_df['NAME'] = main_df['NAME'].apply(convert_zip)
@@ -60,59 +45,20 @@ def main():
     income_class_df.to_csv('data/income_classification_zipcode.csv', index = False)
     print(income_class_df)
 
-#nyc_median = [49461, 50895, 52223, 52996, 55752, 58856, 60869, 63799, 69407, 67046, 67997]
-
-def replace_value(x, col):
-    if col=="2011" and x > nyc_median[0]:
-        return 1
-    if col=="2012" and x > nyc_median[1]: 
-        return 1
-    if col=="2013" and x > nyc_median[2]:
-        return 1  
-    if col=="2014" and x > nyc_median[3]:
-        return 1
-    if col=="2015" and x > nyc_median[0]:
-        return 1
-    else:
-        return 0    
-
 def income_classification(big_df):
-    #for i in range(len(main_df)):
     income = big_df.copy()
 
-    income = income.replace("-", None)
-    income = income.replace("(X)", None)
+    income = income.replace("2,500-", -1)
+    income = income.replace("-", -1)
+    income = income.replace("(X)", -1)
     
     income = income.replace("250,000+", 250000)
-    # income = income.replace("2,500-", -1)
-    income = income.dropna(axis=0)
-
-    # income = income.apply(lambda x: replace_value(x, '2011') if x.name == '2011'
-    #                           else replace_value(x, '2012') if x.name == '2012'
-    #                           else replace_value(x, '2013')if x.name == '2013'
-    #                           else replace_value(x, '2014')if x.name == '2014'
-    #                           else replace_value(x, '2015')
-            
-    #                           )
+   
     i = 0
     for col in income.iloc[:, 1:]:
         income[col] = income[col].apply(lambda x: 1 if int(x) > nyc_median[i] else (0 if x != -1 else -1))
-       # df[col] = df[col].apply(lambda x: 1 if x > 50000 else 0)
         i+=1 
 
-    # for i in range(len(df_list) + 1):
-    #     #income.loc[income[str(2011+i)] == '-', 2011+i] = -1
-    #     #income.loc[income[str(2011+i)] == '250,000+', 2011+i] = 1
-    #     # print("nyc median", nyc_median[i])
-    #     # print(income[str(2011+i)].astype(int))
-    #     # mask = income[str(2011+i)].astype(int) > nyc_median[i]
-    #     # print("mask", mask)
-    #     mask = income[str(2011+i)].astype(int) <= nyc_median[i] and income[str(2011+i)].astype(int) != -1
-    #     mask
-    #     income.loc[mask, str(2011+i)] = 0
-    #     income.loc[income[str(2011+i)].astype(int) > nyc_median[i] and income[str(2011+i)].astype(int) != -1 and income[str(2011+i)].astype(int) != 0, str(2011+i)] = 1
-
-    
     return income
 
 
