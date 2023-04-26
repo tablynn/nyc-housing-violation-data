@@ -33,9 +33,13 @@ def median_income(x) -> int:
   year = x[9]
   try:
     if (year < 2022):
-      return zipcode_median_income.loc[x[3], str(year)]
+      income = zipcode_median_income.loc[x[3], str(year)]
     else:
-      return zipcode_median_income.loc[x[3], '2021']
+      income = zipcode_median_income.loc[x[3], '2021']
+    if (income == "250,000+"):
+      return 250000
+    else:
+      return income
   except:
     -1  
 
