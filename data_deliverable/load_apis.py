@@ -36,7 +36,7 @@ def mapper_dob_violation(record1):
 def mapper2_code(record):
     housenum = record[0][0]
     street = record[0][1]
-    zip_code = str(record[1][0]['zip'].strip(' \t')) #changed from an int
+    zip_code = int(record[1][0]['zip'].strip(' \t')) #changed from an int
     lat = float(record[1][0]['latitude'].strip(' \t'))
     long = float(record[1][0]['longitude'].strip(' \t'))
     boro = record[1][0]['boro'].strip(' \t')
@@ -70,7 +70,7 @@ def mapper2_dob(record):
 
 
 def filterer(record):
-    return record['year_of_violation'] > 2010
+    return record['year_of_violation'] > 2010 and record['year_of_violation'] < 2022
 
 
 
