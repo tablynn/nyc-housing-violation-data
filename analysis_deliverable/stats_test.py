@@ -21,6 +21,6 @@ def chisquared_independence_test(df, column_a_name, column_b_name):
 def main():
     big_data = pd.read_csv('data_deliverable/data/housing_merged.csv')
     print("Chi-Square Independence Test Results:")
-    tstats, pvalue = chisquared_independence_test(big_data, "status", "income_level")
+    tstats, pvalue = chisquared_independence_test(big_data, "status", "rich")
 
 

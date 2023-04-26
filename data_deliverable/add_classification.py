@@ -16,12 +16,21 @@ print(housing_merged.iloc[3])
 
 def classification(x) -> int:
   # print("zip", x["zipcode"])
-  print(type(str(x[3])))
+  print(x[3])
   #print(type(x[9]))
-  return income_classification.loc[10457, str(x[9])]
+  year = x[9]
+  try:
+    if (year < 2022):
+      return income_classification.loc[x[3], str(year)]
+    else:
+      return income_classification.loc[x[3], '2021']
+  except:
+      return -1
 
 
 housing_merged['rich'] = housing_merged.apply(lambda x: classification(x), axis=1)
 
-#print(housing_merged.head())
+income_and_housing = housing_merged.to_csv('data/housing_income_merged.csv')
+
+print(housing_merged.head())
 

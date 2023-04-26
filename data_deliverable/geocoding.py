@@ -90,7 +90,7 @@ with open('data/dob_violations2.json') as json_file:
     data = json.load(json_file)
 
     for i in data:
-        address = i['house_number'] + " " + i['street']# + " " + i['zipcode']
+        address = i['house_number'] + " " + i['street'] + " " + i['boro']
         lat,lon = extract_lat_long_via_address(address)
         zipcode = convert_coords_to_zipcode(lat,lon)
         #print(zipcode)
