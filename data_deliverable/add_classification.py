@@ -37,7 +37,7 @@ def median_income(x) -> int:
     else:
       return zipcode_median_income.loc[x[3], '2021']
   except:
-    -2  
+    -1  
 
 
 housing_merged['med_income'] = housing_merged.apply(lambda x: median_income(x), axis=1)
