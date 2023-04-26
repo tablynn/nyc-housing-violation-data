@@ -41,7 +41,7 @@ def median_income(x) -> int:
     else:
       return income
   except:
-    -1 
+    -1  
 
 
 housing_merged['med_income'] = housing_merged.apply(lambda x: median_income(x), axis=1)
