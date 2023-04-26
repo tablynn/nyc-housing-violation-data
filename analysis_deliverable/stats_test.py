@@ -40,7 +40,7 @@ def main():
     print("Chi-Square Independence Test Results:")
     tstats, pvalue = chisquared_independence_test(big_data, "status", "rich")
     print("One Sample T-Test Results:")
-    tstat2, pval2 = one_sample_ttest(big_data['med_income'], 67997)
+    tstat2, pval2 = one_sample_ttest(big_data['med_income'], 67997.0) #Comparing to median incomein New York in 2021
     rich_data = big_data.drop(big_data[big_data['rich']== 0].index)
     poor_data = big_data.drop(big_data[big_data['rich']== 1].index)
     rich_violate = []

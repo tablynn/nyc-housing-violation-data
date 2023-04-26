@@ -9,16 +9,30 @@ zipcode_median_income = zipcode_median_income.set_index('NAME')
 
 #print(income_classification.head())
 zipcode = housing_merged.iloc[0, 3]
-print(type(zipcode))
-print('zipcode', zipcode)
+#print(type(zipcode))
+#print('zipcode', zipcode)
 #print(income_classification.loc[str(zipcode), "2011"])
 print(housing_merged.iloc[3])
+
+cpi_values = {
+                '2011': 247.718, 
+                '2012': 251.483, 
+                '2013': 256.130, 
+                '2014': 260.191, 
+                '2015': 259.967, 
+                '2016': 262.089, 
+                '2017': 267.826, 
+                '2018': 272.717, 
+                '2019': 276.975, 
+                '2020': 281.937, 
+                '2021': 288.973
+                }
 
 #income_classification[housing_merged['zipcode']][housing_merged['year_of_violation']]
 
 def classification(x) -> int:
   # print("zip", x["zipcode"])
-  print(x[3])
+  #print(x[3])
   #print(type(x[9]))
   year = x[9]
   try:
@@ -36,10 +50,11 @@ def median_income(x) -> int:
       income = zipcode_median_income.loc[x[3], str(year)]
     else:
       income = zipcode_median_income.loc[x[3], '2021']
+    indexer = cpi_values['2021']/cpi_values[str(year)]
     if (income == "250,000+"):
-      return 250000
+      return round((250000.0 * (indexer)), 2)
     else:
-      return income
+      return round((float(income) * (indexer)), 2)
   except:
     -1  
 
