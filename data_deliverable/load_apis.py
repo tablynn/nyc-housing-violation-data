@@ -12,8 +12,6 @@ HOUSING_MAINTENANCE_CODE_VIOLATIONS = \
 DOB_VIOLATIONS = \
     "https://data.cityofnewyork.us/resource/3h2n-5cm9.json"
 
-DOB_COMPLAINTS = \
-    "https://data.cityofnewyork.us/resource/eabe-havv.json"
 
 ZIPCODE_DEMOGRAPHICS = \
     "https://data.cityofnewyork.us/resource/kku6-nxdu.json"
@@ -32,25 +30,20 @@ def mapper_dob_violation(record1):
     except:
         return
 
-def mapper_complaints(record2):
-    try:
-        yield ((record2['house_number'].strip(' \t'), record2['house_street'].strip(' \t')), list([record2]))
-    except:
-        return
 
 
 
 def mapper2_code(record):
     housenum = record[0][0]
     street = record[0][1]
-    zip_code = record[1][0]['zip'].strip(' \t')
-    lat = record[1][0]['latitude'].strip(' \t')
-    long = record[1][0]['longitude'].strip(' \t')
+    zip_code = int(record[1][0]['zip'].strip(' \t'))
+    lat = float(record[1][0]['latitude'].strip(' \t'))
+    long = float(record[1][0]['longitude'].strip(' \t'))
     boro = record[1][0]['boro'].strip(' \t')
     
-    return [{'house_number': housenum, 'street': street, 'zipcode': zip_code, 'boro': boro, 'latitude': lat, \
-        'longitude': long, 'type of violation': 'maintenance code violation', \
-            'year_of_violation': record[1][0]['inspectiondate'][:4]}]
+    return {'house_number': housenum, 'street': street, 'zipcode': zip_code, 'boro': boro, 'latitude': lat, \
+        'longitude': long, 'type_of_violation': 'maintenance code violation', \
+            'year_of_violation': int(record[1][0]['inspectiondate'][:4].strip())}
 
 def mapper2_dob(record):
     housenum = record[0][0]
@@ -66,18 +59,13 @@ def mapper2_dob(record):
         boro == 'QUEENS'
     elif boro == '5':
         boro = 'STATEN ISLAND'
-    return [{'house_number': housenum, 'street': street, 'boro': boro, \
-            'type_of_violation': 'DOB Violation', 'year_of_violation': record[1][0]['issue_date'][:4]}]
-    
+    return {'house_number': housenum, 'street': street, 'boro': boro, \
+            'type_of_violation': 'DOB Violation', 'year_of_violation': int(record[1][0]['issue_date'][:4].strip())}
     
 
-def mapper2_complaints(record):
-    housenum = record[0][0]
-    street = record[0][1]
-    zip_code = record[1][0]['zip_code'].strip(' \t')
-    return [{'house_number': housenum, 'street': street, 'zipcode': zip_code, \
-     'type of violation': 'DOB Complaint', \
-        'year_of_violation': record[1][0]['date_entered'][:4]}]
+
+def filterer(record):
+    return record['year_of_violation'] > 2010
 
 
 
@@ -86,12 +74,14 @@ def main():
 
     code_violations = scrape(HOUSING_MAINTENANCE_CODE_VIOLATIONS)
     dob_violations = scrape(DOB_VIOLATIONS)
-    complaints = scrape(DOB_COMPLAINTS)
 
 
-    code2 = sc.parallelize(code_violations, 128).map(mapper_code_violation).map(mapper2_code).collect()
-    dob = sc.parallelize(dob_violations, 128).flatMap(mapper_dob_violation).map(mapper2_dob).collect()
-    complaints2 = sc.parallelize(complaints, 128).flatMap(mapper_complaints).map(mapper2_complaints).collect()
+    code2 = sc.parallelize(code_violations, 128).map(mapper_code_violation).map(mapper2_code).filter(filterer).collect()
+    dob = sc.parallelize(dob_violations, 128).flatMap(mapper_dob_violation).map(mapper2_dob).filter(filterer).collect()
+
+    print(len(code2))
+    print(len(dob))
+
 
 
     if not os.path.exists("data"):
@@ -103,8 +93,6 @@ def main():
     with open('data/dob_violations.json', 'w') as outfile:
         json.dump(dob_violations, outfile, indent=4)
 
-    with open('data/dob_complaints.json', 'w') as outfile:
-        json.dump(complaints, outfile, indent=4)
 
     with open('data/housing_code_violations2.json', 'w') as outfile:
             json.dump(code2, outfile, indent=4)
@@ -112,8 +100,6 @@ def main():
     with open('data/dob_violations2.json', 'w') as outfile:
         json.dump(dob, outfile, indent=4)
 
-    with open('data/dob_complaints2.json', 'w') as outfile:
-        json.dump(complaints2, outfile, indent=4)
 
 if __name__ == '__main__':
     main()

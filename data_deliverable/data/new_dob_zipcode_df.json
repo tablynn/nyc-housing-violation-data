@@ -1,4313 +1,5241 @@
 [
     {
-        "house_number": "34",
-        "street": "WEST 14TH ST",
-        "boro": "MANHATTAN",
-        "type_of_violation": "DOB Violation",
-        "year_of_violation": 2018
-    },
-    {
         "house_number": "77",
         "street": "COLUMBIA STREET",
+        "zipcode": 10002,
         "boro": "MANHATTAN",
+        "latitude": 40.7180568,
+        "longitude": -73.9801162,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2021
     },
     {
         "house_number": "200",
         "street": "CENTRAL PARK WEST",
+        "zipcode": 10024,
         "boro": "MANHATTAN",
+        "latitude": 40.7812654,
+        "longitude": -73.9738201,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2019
     },
     {
         "house_number": "845",
         "street": "WEST END AVE",
+        "zipcode": 10025,
         "boro": "MANHATTAN",
+        "latitude": 40.798751,
+        "longitude": -73.9712029,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2021
     },
     {
         "house_number": "31",
         "street": "E 72 ST",
+        "zipcode": 10021,
         "boro": "MANHATTAN",
+        "latitude": 40.7719215,
+        "longitude": -73.9650839,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2020
-    },
-    {
-        "house_number": "24-30",
-        "street": "24 STREET",
-        "boro": "4",
-        "type_of_violation": "DOB Violation",
-        "year_of_violation": 2022
     },
     {
         "house_number": "320",
         "street": "BEACH 100 STREET",
+        "zipcode": 11694,
         "boro": "4",
+        "latitude": 40.58569290000001,
+        "longitude": -73.8215051,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2017
     },
     {
-        "house_number": "PIER 59",
-        "street": "NORTH RIVER",
-        "boro": "MANHATTAN",
-        "type_of_violation": "DOB Violation",
-        "year_of_violation": 2020
-    },
-    {
         "house_number": "715",
         "street": "ST MARKS AV",
+        "zipcode": 7090,
         "boro": "BROOKLYN",
+        "latitude": 40.6573234,
+        "longitude": -74.3374206,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2021
     },
     {
         "house_number": "1351",
         "street": "BROOKLYN AVENUE",
+        "zipcode": 11203,
         "boro": "BROOKLYN",
+        "latitude": 40.6403101,
+        "longitude": -73.94234209999999,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2022
     },
     {
         "house_number": "200",
         "street": "CENTRAL PARK WEST",
+        "zipcode": 10024,
         "boro": "MANHATTAN",
+        "latitude": 40.7812654,
+        "longitude": -73.9738201,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2019
     },
     {
         "house_number": "200",
         "street": "CENTRAL PARK WEST",
+        "zipcode": 10024,
         "boro": "MANHATTAN",
+        "latitude": 40.7812654,
+        "longitude": -73.9738201,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2019
     },
     {
-        "house_number": "353",
-        "street": "93 STREET",
-        "boro": "BROOKLYN",
-        "type_of_violation": "DOB Violation",
-        "year_of_violation": 2020
-    },
-    {
         "house_number": "1",
         "street": "UNITED NATIONS PLAZA",
+        "zipcode": 10017,
         "boro": "MANHATTAN",
+        "latitude": 40.7506692,
+        "longitude": -73.96895769999999,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2021
     },
     {
         "house_number": "1312",
         "street": "INTERVALE AVENUE",
+        "zipcode": 10459,
         "boro": "BRONX",
+        "latitude": 40.8305508,
+        "longitude": -73.8927994,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2022
     },
     {
         "house_number": "21",
         "street": "ST PAULS CT",
+        "zipcode": 6340,
         "boro": "BROOKLYN",
+        "latitude": 41.345418,
+        "longitude": -72.0306808,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2021
     },
     {
         "house_number": "10",
         "street": "CHARLES STREET",
+        "zipcode": 10014,
         "boro": "MANHATTAN",
+        "latitude": 40.7350726,
+        "longitude": -74.0008452,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2012
     },
     {
         "house_number": "1220",
         "street": "PUTNAM AVENUE",
+        "zipcode": 11221,
         "boro": "BROOKLYN",
+        "latitude": 40.6911308,
+        "longitude": -73.9155031,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2020
     },
     {
         "house_number": "77",
         "street": "COLUMBIA STREET",
+        "zipcode": 10002,
         "boro": "MANHATTAN",
+        "latitude": 40.7180568,
+        "longitude": -73.9801162,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2021
     },
     {
         "house_number": "309",
         "street": "HOLLYWOOD AVENUE",
+        "zipcode": 90028,
         "boro": "4",
+        "latitude": 34.1015455,
+        "longitude": -118.3402566,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2022
     },
     {
         "house_number": "4601",
         "street": "DELAFIELD AVENUE",
+        "zipcode": 10471,
         "boro": "BRONX",
+        "latitude": 40.8938875,
+        "longitude": -73.9071854,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2022
     },
     {
         "house_number": "83",
         "street": "WEST 115 STREET",
+        "zipcode": 10026,
         "boro": "MANHATTAN",
+        "latitude": 40.8012942,
+        "longitude": -73.9497164,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2022
     },
     {
         "house_number": "1",
         "street": "UNITED NATIONS PLAZA",
+        "zipcode": 10017,
         "boro": "MANHATTAN",
+        "latitude": 40.7506692,
+        "longitude": -73.96895769999999,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2021
     },
     {
         "house_number": "351",
         "street": "EAST 57 STREET",
+        "zipcode": 10019,
         "boro": "MANHATTAN",
+        "latitude": 40.767777,
+        "longitude": -73.98490799999999,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2021
     },
     {
         "house_number": "356",
         "street": "W 36TH ST",
+        "zipcode": 10018,
         "boro": "MANHATTAN",
+        "latitude": 40.754235,
+        "longitude": -73.994905,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2017
     },
     {
         "house_number": "341",
         "street": "MANOR ROAD",
+        "zipcode": 10314,
         "boro": "4",
+        "latitude": 40.619647,
+        "longitude": -74.12270420000002,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2022
     },
     {
         "house_number": "715",
         "street": "ST MARKS AV",
+        "zipcode": 7090,
         "boro": "BROOKLYN",
+        "latitude": 40.6573234,
+        "longitude": -74.3374206,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2020
     },
     {
         "house_number": "200",
         "street": "CENTRAL PARK WEST",
+        "zipcode": 10024,
         "boro": "MANHATTAN",
+        "latitude": 40.7812654,
+        "longitude": -73.9738201,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2019
     },
     {
         "house_number": "200",
         "street": "CENTRAL PARK WEST",
+        "zipcode": 10024,
         "boro": "MANHATTAN",
+        "latitude": 40.7812654,
+        "longitude": -73.9738201,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2019
     },
     {
         "house_number": "591",
         "street": "LEXINGTON AVE",
+        "zipcode": 10022,
         "boro": "MANHATTAN",
+        "latitude": 40.7575753,
+        "longitude": -73.9713694,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2020
     },
     {
-        "house_number": "7007",
-        "street": "VETERANS AVENUE",
-        "boro": "BROOKLYN",
-        "type_of_violation": "DOB Violation",
-        "year_of_violation": 2013
-    },
-    {
         "house_number": "715",
         "street": "ST MARKS AV",
+        "zipcode": 7090,
         "boro": "BROOKLYN",
+        "latitude": 40.6573234,
+        "longitude": -74.3374206,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2020
     },
     {
         "house_number": "200",
         "street": "CENTRAL PARK WEST",
+        "zipcode": 10024,
         "boro": "MANHATTAN",
+        "latitude": 40.7812654,
+        "longitude": -73.9738201,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2019
     },
     {
         "house_number": "1",
         "street": "UNITED NATIONS PLAZA",
+        "zipcode": 10017,
         "boro": "MANHATTAN",
+        "latitude": 40.7506692,
+        "longitude": -73.96895769999999,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2021
     },
     {
         "house_number": "4601",
         "street": "DELAFIELD AVENUE",
+        "zipcode": 10471,
         "boro": "BRONX",
+        "latitude": 40.8938875,
+        "longitude": -73.9071854,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2022
     },
     {
         "house_number": "5480",
         "street": "BROADWAY",
+        "zipcode": 10463,
         "boro": "MANHATTAN",
+        "latitude": 40.8764185,
+        "longitude": -73.9065054,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2022
     },
     {
         "house_number": "109",
         "street": "FABER STREET",
+        "zipcode": 10302,
         "boro": "STATEN ISLAND",
+        "latitude": 40.6378861,
+        "longitude": -74.135761,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2014
     },
     {
         "house_number": "680",
         "street": "WEST END AVE",
+        "zipcode": 10025,
         "boro": "MANHATTAN",
+        "latitude": 40.7935381,
+        "longitude": -73.9741415,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2021
     },
     {
         "house_number": "341",
         "street": "MANOR ROAD",
+        "zipcode": 10314,
         "boro": "4",
+        "latitude": 40.619647,
+        "longitude": -74.12270420000002,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2022
     },
     {
         "house_number": "10-20",
         "street": "NEILSON ST",
+        "zipcode": 11691,
         "boro": "4",
+        "latitude": 40.6036047,
+        "longitude": -73.74745639999999,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2021
     },
     {
         "house_number": "200",
         "street": "CENTRAL PARK WEST",
+        "zipcode": 10024,
         "boro": "MANHATTAN",
+        "latitude": 40.7812654,
+        "longitude": -73.9738201,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2019
     },
     {
         "house_number": "341",
         "street": "MANOR ROAD",
+        "zipcode": 10314,
         "boro": "4",
+        "latitude": 40.619647,
+        "longitude": -74.12270420000002,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2022
     },
     {
         "house_number": "5",
         "street": "LORIMER STREET",
+        "zipcode": 11206,
         "boro": "BROOKLYN",
+        "latitude": 40.700492,
+        "longitude": -73.95384589999999,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2021
     },
     {
         "house_number": "32",
         "street": "W 82ND ST",
+        "zipcode": 10024,
         "boro": "MANHATTAN",
+        "latitude": 40.7831438,
+        "longitude": -73.972787,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2018
     },
     {
         "house_number": "100",
         "street": "BANK STREET",
+        "zipcode": 10014,
         "boro": "MANHATTAN",
+        "latitude": 40.7362367,
+        "longitude": -74.0070136,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2021
     },
     {
         "house_number": "319",
         "street": "BEACH 98 STREET",
+        "zipcode": 11694,
         "boro": "4",
+        "latitude": 40.5860196,
+        "longitude": -73.82081579999999,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2017
     },
     {
-        "house_number": "12",
-        "street": "CLARK ST",
-        "boro": "BROOKLYN",
+        "house_number": "200",
+        "street": "CENTRAL PARK WEST",
+        "zipcode": 10024,
+        "boro": "MANHATTAN",
+        "latitude": 40.7812654,
+        "longitude": -73.9738201,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2019
     },
     {
         "house_number": "200",
         "street": "CENTRAL PARK WEST",
+        "zipcode": 10024,
         "boro": "MANHATTAN",
-        "type_of_violation": "DOB Violation",
-        "year_of_violation": 2019
-    },
-    {
-        "house_number": "200",
-        "street": "CENTRAL PARK WEST",
-        "boro": "MANHATTAN",
+        "latitude": 40.7812654,
+        "longitude": -73.9738201,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2019
     },
     {
         "house_number": "350",
         "street": "EAST 54 STREET",
+        "zipcode": 10022,
         "boro": "MANHATTAN",
+        "latitude": 40.7564454,
+        "longitude": -73.9647767,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2017
     },
     {
         "house_number": "10-20",
         "street": "NEILSON ST",
+        "zipcode": 11691,
         "boro": "4",
+        "latitude": 40.6036047,
+        "longitude": -73.74745639999999,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2021
     },
     {
         "house_number": "240",
         "street": "WEST 64 ST",
+        "zipcode": 53125,
         "boro": "MANHATTAN",
+        "latitude": 42.5481755,
+        "longitude": -88.5763278,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2021
     },
     {
         "house_number": "1340",
         "street": "LAFAYETTE AVENUE",
+        "zipcode": 11221,
         "boro": "BRONX",
+        "latitude": 40.6933613,
+        "longitude": -73.92577630000001,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2019
     },
     {
         "house_number": "1340",
         "street": "LAFAYETTE AVENUE",
+        "zipcode": 11221,
         "boro": "BRONX",
+        "latitude": 40.6933613,
+        "longitude": -73.92577630000001,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2020
     },
     {
         "house_number": "309",
         "street": "HOLLYWOOD AVENUE",
+        "zipcode": 90028,
         "boro": "4",
+        "latitude": 34.1015455,
+        "longitude": -118.3402566,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2022
     },
     {
         "house_number": "2275",
         "street": "OLINVILLE AVENUE",
+        "zipcode": 10467,
         "boro": "BRONX",
+        "latitude": 40.8599209,
+        "longitude": -73.8687709,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2021
     },
     {
         "house_number": "200",
         "street": "CENTRAL PARK WEST",
+        "zipcode": 10024,
         "boro": "MANHATTAN",
+        "latitude": 40.7812654,
+        "longitude": -73.9738201,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2019
     },
     {
         "house_number": "715",
         "street": "ST MARKS AV",
+        "zipcode": 7090,
         "boro": "BROOKLYN",
+        "latitude": 40.6573234,
+        "longitude": -74.3374206,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2021
     },
     {
         "house_number": "200",
         "street": "CENTRAL PARK WEST",
+        "zipcode": 10024,
         "boro": "MANHATTAN",
+        "latitude": 40.7812654,
+        "longitude": -73.9738201,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2019
     },
     {
         "house_number": "200",
         "street": "CENTRAL PARK WEST",
+        "zipcode": 10024,
         "boro": "MANHATTAN",
+        "latitude": 40.7812654,
+        "longitude": -73.9738201,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2019
     },
     {
         "house_number": "680",
         "street": "WEST END AVE",
+        "zipcode": 10025,
         "boro": "MANHATTAN",
+        "latitude": 40.7935381,
+        "longitude": -73.9741415,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2021
     },
     {
         "house_number": "200",
         "street": "CENTRAL PARK WEST",
+        "zipcode": 10024,
         "boro": "MANHATTAN",
+        "latitude": 40.7812654,
+        "longitude": -73.9738201,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2019
     },
     {
-        "house_number": "137-47",
-        "street": "WESTGATE STREET",
-        "boro": "4",
-        "type_of_violation": "DOB Violation",
-        "year_of_violation": 2022
-    },
-    {
         "house_number": "699",
         "street": "WEST 239TH ST",
+        "zipcode": 10463,
         "boro": "BRONX",
+        "latitude": 40.8902116,
+        "longitude": -73.9156825,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2019
     },
     {
         "house_number": "200",
         "street": "CENTRAL PARK WEST",
+        "zipcode": 10024,
         "boro": "MANHATTAN",
+        "latitude": 40.7812654,
+        "longitude": -73.9738201,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2019
     },
     {
         "house_number": "31",
         "street": "E 72 ST",
+        "zipcode": 10021,
         "boro": "MANHATTAN",
+        "latitude": 40.7719215,
+        "longitude": -73.9650839,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2020
     },
     {
         "house_number": "139",
         "street": "PAYSON AVENUE",
+        "zipcode": 10034,
         "boro": "MANHATTAN",
+        "latitude": 40.8686268,
+        "longitude": -73.92512810000001,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2022
     },
     {
         "house_number": "433",
         "street": "NEPTUNE.AVE",
+        "zipcode": 11224,
         "boro": "BROOKLYN",
+        "latitude": 40.58093239999999,
+        "longitude": -73.9695023,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2020
     },
     {
         "house_number": "681",
         "street": "WEST END AVE",
+        "zipcode": 10025,
         "boro": "MANHATTAN",
+        "latitude": 40.7935042,
+        "longitude": -73.97488109999999,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2021
     },
     {
-        "house_number": "12",
-        "street": "CLARK ST",
-        "boro": "BROOKLYN",
-        "type_of_violation": "DOB Violation",
-        "year_of_violation": 2018
-    },
-    {
         "house_number": "131",
         "street": "8 AVENUE",
+        "zipcode": 11220,
         "boro": "MANHATTAN",
+        "latitude": 40.637755,
+        "longitude": -74.007206,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2011
     },
     {
         "house_number": "433",
         "street": "NEPTUNE.AVE",
+        "zipcode": 11224,
         "boro": "BROOKLYN",
+        "latitude": 40.58093239999999,
+        "longitude": -73.9695023,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2020
     },
     {
         "house_number": "1050",
         "street": "CARROLL PL",
+        "zipcode": 10456,
         "boro": "BRONX",
+        "latitude": 40.8313128,
+        "longitude": -73.9191323,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2019
     },
     {
         "house_number": "310",
         "street": "THIRD AVE",
+        "zipcode": 91910,
         "boro": "MANHATTAN",
+        "latitude": 32.6408843,
+        "longitude": -117.0803736,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2020
     },
     {
         "house_number": "27",
         "street": "PENNSYLVANIA AVENUE",
+        "zipcode": 11207,
         "boro": "BROOKLYN",
+        "latitude": 40.6584573,
+        "longitude": -73.8904498,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2021
     },
     {
         "house_number": "98-40",
         "street": "64 AVENUE",
+        "zipcode": 11374,
         "boro": "4",
+        "latitude": 40.7303116,
+        "longitude": -73.85678349999999,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2019
     },
     {
         "house_number": "200",
         "street": "CENTRAL PARK WEST",
+        "zipcode": 10024,
         "boro": "MANHATTAN",
+        "latitude": 40.7812654,
+        "longitude": -73.9738201,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2019
     },
     {
         "house_number": "200",
         "street": "CENTRAL PARK WEST",
+        "zipcode": 10024,
         "boro": "MANHATTAN",
+        "latitude": 40.7812654,
+        "longitude": -73.9738201,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2019
     },
     {
         "house_number": "10-20",
         "street": "NEILSON ST",
+        "zipcode": 11691,
         "boro": "4",
+        "latitude": 40.6036047,
+        "longitude": -73.74745639999999,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2021
     },
     {
         "house_number": "200",
         "street": "CENTRAL PARK WEST",
+        "zipcode": 10024,
         "boro": "MANHATTAN",
+        "latitude": 40.7812654,
+        "longitude": -73.9738201,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2019
     },
     {
         "house_number": "680",
         "street": "WEST END AVE",
+        "zipcode": 10025,
         "boro": "MANHATTAN",
+        "latitude": 40.7935381,
+        "longitude": -73.9741415,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2021
     },
     {
         "house_number": "320",
         "street": "BEACH 100 STREET",
+        "zipcode": 11694,
         "boro": "4",
+        "latitude": 40.58569290000001,
+        "longitude": -73.8215051,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2017
     },
     {
         "house_number": "46",
         "street": "FULTON STREET",
+        "zipcode": 10038,
         "boro": "BROOKLYN",
+        "latitude": 40.7081039,
+        "longitude": -74.0047526,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2019
     },
     {
         "house_number": "319",
         "street": "BEACH 98 STREET",
+        "zipcode": 11694,
         "boro": "4",
+        "latitude": 40.5860196,
+        "longitude": -73.82081579999999,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2017
     },
     {
         "house_number": "620",
         "street": "THWAITES PLACE",
+        "zipcode": 10467,
         "boro": "BRONX",
+        "latitude": 40.8587056,
+        "longitude": -73.8700695,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2017
     },
     {
         "house_number": "2830",
         "street": "OCEAN PKWY",
+        "zipcode": 11224,
         "boro": "BROOKLYN",
+        "latitude": 40.5808365,
+        "longitude": -73.9681051,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2020
     },
     {
         "house_number": "30",
         "street": "WEST 24 STREET",
+        "zipcode": 10010,
         "boro": "MANHATTAN",
+        "latitude": 40.7428027,
+        "longitude": -73.9911523,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2020
     },
     {
         "house_number": "2275",
         "street": "OLINVILLE AVENUE",
+        "zipcode": 10467,
         "boro": "BRONX",
+        "latitude": 40.8599209,
+        "longitude": -73.8687709,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2021
     },
     {
         "house_number": "200",
         "street": "CENTRAL PARK WEST",
+        "zipcode": 10024,
         "boro": "MANHATTAN",
+        "latitude": 40.7812654,
+        "longitude": -73.9738201,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2019
     },
     {
         "house_number": "32",
         "street": "W 82ND ST",
+        "zipcode": 10024,
         "boro": "MANHATTAN",
+        "latitude": 40.7831438,
+        "longitude": -73.972787,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2019
     },
     {
-        "house_number": "7007",
-        "street": "VETERANS AVENUE",
-        "boro": "BROOKLYN",
-        "type_of_violation": "DOB Violation",
-        "year_of_violation": 2017
-    },
-    {
         "house_number": "16",
         "street": "E 40 ST",
+        "zipcode": 10016,
         "boro": "MANHATTAN",
+        "latitude": 40.7515434,
+        "longitude": -73.9809394,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2020
     },
     {
         "house_number": "174",
         "street": "SOUTH AVENUE",
+        "zipcode": 10303,
         "boro": "STATEN ISLAND",
+        "latitude": 40.6357078,
+        "longitude": -74.16642929999999,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2015
     },
     {
         "house_number": "425",
         "street": "MORRIS AVENUE",
+        "zipcode": 10451,
         "boro": "BRONX",
+        "latitude": 40.8158771,
+        "longitude": -73.9239285,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2020
     },
     {
-        "house_number": "91-20",
-        "street": "216 STREET",
-        "boro": "4",
-        "type_of_violation": "DOB Violation",
-        "year_of_violation": 2022
-    },
-    {
-        "house_number": "150-15",
-        "street": "HILLSIDE AVENUE",
-        "boro": "4",
-        "type_of_violation": "DOB Violation",
-        "year_of_violation": 2013
-    },
-    {
-        "house_number": "150-15",
-        "street": "HILLSIDE AVENUE",
-        "boro": "4",
-        "type_of_violation": "DOB Violation",
-        "year_of_violation": 2014
-    },
-    {
         "house_number": "220",
         "street": "BEACH 30 STREET",
+        "zipcode": 11691,
         "boro": "4",
+        "latitude": 40.5954006,
+        "longitude": -73.76265579999999,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2022
     },
     {
         "house_number": "314",
         "street": "WEST 51 STREET",
+        "zipcode": 10019,
         "boro": "MANHATTAN",
+        "latitude": 40.7631088,
+        "longitude": -73.9865983,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2018
     },
     {
         "house_number": "150-15",
         "street": "HILLSIDE AVE",
+        "zipcode": 11432,
         "boro": "4",
+        "latitude": 40.7070951,
+        "longitude": -73.8060189,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2017
     },
     {
         "house_number": "838",
         "street": "THIRD AVE",
+        "zipcode": 10456,
         "boro": "MANHATTAN",
+        "latitude": 40.8327501,
+        "longitude": -73.9050863,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2021
     },
     {
-        "house_number": "150-15",
-        "street": "HILLSIDE AVENUE",
-        "boro": "4",
-        "type_of_violation": "DOB Violation",
-        "year_of_violation": 2011
-    },
-    {
         "house_number": "600",
         "street": "ALBANY AVENUE",
+        "zipcode": 11203,
         "boro": "BROOKLYN",
+        "latitude": 40.6586799,
+        "longitude": -73.9402247,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2021
     },
     {
         "house_number": "305",
         "street": "E 46TH ST",
+        "zipcode": 10017,
         "boro": "MANHATTAN",
+        "latitude": 40.7523061,
+        "longitude": -73.96955129999999,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2021
     },
     {
         "house_number": "58-18",
         "street": "64TH STREET",
+        "zipcode": 64151,
         "boro": "4",
+        "latitude": 39.2105972,
+        "longitude": -94.64897739999999,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2011
     },
     {
         "house_number": "706",
         "street": "MONROE STREET",
+        "zipcode": 43604,
         "boro": "BROOKLYN",
+        "latitude": 41.6505152,
+        "longitude": -83.54018669999999,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2022
     },
     {
         "house_number": "3000",
         "street": "VALENTINE AVE",
+        "zipcode": 10458,
         "boro": "BRONX",
+        "latitude": 40.8724137,
+        "longitude": -73.88522309999999,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2020
     },
     {
         "house_number": "744",
         "street": "SCHENCK AVENUE",
+        "zipcode": 11207,
         "boro": "BROOKLYN",
+        "latitude": 40.6620502,
+        "longitude": -73.8848587,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2022
     },
     {
         "house_number": "45-03",
         "street": "102 STREET",
+        "zipcode": 10029,
         "boro": "4",
+        "latitude": 40.7910417,
+        "longitude": -73.95101240000001,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2011
     },
     {
         "house_number": "315",
         "street": "EAST 9 STREET",
+        "zipcode": 10003,
         "boro": "BROOKLYN",
+        "latitude": 40.7289606,
+        "longitude": -73.9863386,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2022
     },
     {
         "house_number": "23",
         "street": "EAST   64 STREET",
+        "zipcode": 10065,
         "boro": "MANHATTAN",
+        "latitude": 40.76702299999999,
+        "longitude": -73.9692589,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2019
     },
     {
-        "house_number": "1219",
-        "street": "ST LAWRENCE AVENUE",
-        "boro": "BRONX",
-        "type_of_violation": "DOB Violation",
-        "year_of_violation": 2022
-    },
-    {
         "house_number": "433",
         "street": "NEPTUNE.AVE",
+        "zipcode": 11224,
         "boro": "BROOKLYN",
+        "latitude": 40.58093239999999,
+        "longitude": -73.9695023,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2019
     },
     {
         "house_number": "412",
         "street": "E 147 ST",
+        "zipcode": 10455,
         "boro": "BRONX",
+        "latitude": 40.81409610000001,
+        "longitude": -73.9178032,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2021
     },
     {
-        "house_number": "8",
-        "street": "EAST 57 STREET",
-        "boro": "MANHATTAN",
-        "type_of_violation": "DOB Violation",
-        "year_of_violation": 2019
-    },
-    {
         "house_number": "2830",
         "street": "OCEAN PKWY",
+        "zipcode": 11224,
         "boro": "BROOKLYN",
+        "latitude": 40.5808365,
+        "longitude": -73.9681051,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2021
     },
     {
         "house_number": "420",
         "street": "5 AVENUE",
+        "zipcode": 10018,
         "boro": "MANHATTAN",
+        "latitude": 40.7508592,
+        "longitude": -73.98332429999999,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2020
     },
     {
         "house_number": "1010",
         "street": "UNDERHILL AVE",
+        "zipcode": 10472,
         "boro": "BRONX",
+        "latitude": 40.8267281,
+        "longitude": -73.8608813,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2018
     },
     {
         "house_number": "603",
         "street": "WEST 218 STREET",
+        "zipcode": 10034,
         "boro": "MANHATTAN",
+        "latitude": 40.8725749,
+        "longitude": -73.9173527,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2022
     },
     {
         "house_number": "310",
         "street": "THIRD AVE",
+        "zipcode": 91910,
         "boro": "MANHATTAN",
+        "latitude": 32.6408843,
+        "longitude": -117.0803736,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2020
     },
     {
         "house_number": "2780",
         "street": "WEST 5 STREET",
+        "zipcode": 11224,
         "boro": "BROOKLYN",
+        "latitude": 40.5812821,
+        "longitude": -73.97199789999999,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2020
     },
     {
         "house_number": "1105",
         "street": "8 AVENUE",
+        "zipcode": 11220,
         "boro": "BROOKLYN",
+        "latitude": 40.637755,
+        "longitude": -74.007206,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2022
     },
     {
         "house_number": "525",
         "street": "NEPTUNE AVE",
+        "zipcode": 11224,
         "boro": "BROOKLYN",
+        "latitude": 40.5811296,
+        "longitude": -73.9734833,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2020
     },
     {
         "house_number": "525",
         "street": "NEPTUNE AVE",
+        "zipcode": 11224,
         "boro": "BROOKLYN",
+        "latitude": 40.5811296,
+        "longitude": -73.9734833,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2020
     },
     {
         "house_number": "78",
         "street": "WINDOM AVENUE",
+        "zipcode": 10305,
         "boro": "STATEN ISLAND",
-        "type_of_violation": "DOB Violation",
-        "year_of_violation": 2022
-    },
-    {
-        "house_number": "186-15",
-        "street": "AVON ROAD",
-        "boro": "4",
+        "latitude": 40.59545980000001,
+        "longitude": -74.064173,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2022
     },
     {
         "house_number": "525",
         "street": "NEPTUNE AVE",
+        "zipcode": 11224,
         "boro": "BROOKLYN",
+        "latitude": 40.5811296,
+        "longitude": -73.9734833,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2020
     },
     {
         "house_number": "39",
         "street": "W 38TH ST",
+        "zipcode": 10018,
         "boro": "MANHATTAN",
+        "latitude": 40.7518907,
+        "longitude": -73.98460990000001,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2020
     },
     {
-        "house_number": "132-36",
-        "street": "41 AVENUE",
-        "boro": "4",
-        "type_of_violation": "DOB Violation",
-        "year_of_violation": 2021
-    },
-    {
         "house_number": "425",
         "street": "MORRIS AVENUE",
+        "zipcode": 10451,
         "boro": "BRONX",
+        "latitude": 40.8158771,
+        "longitude": -73.9239285,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2020
     },
     {
         "house_number": "2155",
         "street": "MADISON AVENUE",
+        "zipcode": 10037,
         "boro": "MANHATTAN",
+        "latitude": 40.8115306,
+        "longitude": -73.9359592,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2018
     },
     {
         "house_number": "26",
         "street": "WEST 9 STREET",
+        "zipcode": 10011,
         "boro": "MANHATTAN",
+        "latitude": 40.7332779,
+        "longitude": -73.99744919999999,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2021
     },
     {
         "house_number": "91-14",
         "street": "CORONA AVENUE",
+        "zipcode": 11373,
         "boro": "4",
+        "latitude": 40.7422762,
+        "longitude": -73.8730054,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2015
     },
     {
-        "house_number": "616",
-        "street": "6 AVENUE",
-        "boro": "MANHATTAN",
-        "type_of_violation": "DOB Violation",
-        "year_of_violation": 2021
-    },
-    {
         "house_number": "58-04",
         "street": "MAIN STREET",
+        "zipcode": 11355,
         "boro": "4",
+        "latitude": 40.7450052,
+        "longitude": -73.8261711,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2017
     },
     {
         "house_number": "2777",
         "street": "WEST 5 STREET",
+        "zipcode": 11223,
         "boro": "BROOKLYN",
+        "latitude": 40.5934772,
+        "longitude": -73.9759118,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2021
     },
     {
         "house_number": "2830",
         "street": "OCEAN PKWY",
+        "zipcode": 11224,
         "boro": "BROOKLYN",
+        "latitude": 40.5808365,
+        "longitude": -73.9681051,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2019
     },
     {
-        "house_number": "150-15",
-        "street": "HILLSIDE AVENUE",
-        "boro": "4",
-        "type_of_violation": "DOB Violation",
-        "year_of_violation": 2014
-    },
-    {
         "house_number": "89-34",
         "street": "162 STREET",
+        "zipcode": 10452,
         "boro": "4",
+        "latitude": 40.8315201,
+        "longitude": -73.9292727,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2022
     },
     {
         "house_number": "400",
         "street": "EAST 105 STREET",
+        "zipcode": 10029,
         "boro": "MANHATTAN",
+        "latitude": 40.7879013,
+        "longitude": -73.9409992,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2022
     },
     {
         "house_number": "432",
         "street": "CLERMONT AVENUE",
+        "zipcode": 11238,
         "boro": "BROOKLYN",
+        "latitude": 40.6848222,
+        "longitude": -73.9693777,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2022
     },
     {
         "house_number": "433",
         "street": "NEPTUNE.AVE",
+        "zipcode": 11224,
         "boro": "BROOKLYN",
+        "latitude": 40.58093239999999,
+        "longitude": -73.9695023,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2021
     },
     {
         "house_number": "425",
         "street": "MORRIS AVENUE",
+        "zipcode": 10451,
         "boro": "BRONX",
+        "latitude": 40.8158771,
+        "longitude": -73.9239285,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2020
     },
     {
         "house_number": "826",
         "street": "59 STREET",
+        "zipcode": 10022,
         "boro": "BROOKLYN",
+        "latitude": 40.76444490000001,
+        "longitude": -73.9732803,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2022
     },
     {
         "house_number": "284",
         "street": "LAFAYETTE ST",
+        "zipcode": 10012,
         "boro": "MANHATTAN",
+        "latitude": 40.72431,
+        "longitude": -73.9962,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2021
     },
     {
         "house_number": "2777",
         "street": "WEST 5 STREET",
+        "zipcode": 11223,
         "boro": "BROOKLYN",
+        "latitude": 40.5934772,
+        "longitude": -73.9759118,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2020
     },
     {
         "house_number": "3314",
         "street": "STEUBEN AVENUE",
+        "zipcode": 10467,
         "boro": "BRONX",
+        "latitude": 40.8786269,
+        "longitude": -73.8810718,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2018
     },
     {
         "house_number": "201",
         "street": "EDWARD CURRY AVENUE",
+        "zipcode": 10314,
         "boro": "STATEN ISLAND",
-        "type_of_violation": "DOB Violation",
-        "year_of_violation": 2018
-    },
-    {
-        "house_number": "150-15",
-        "street": "HILLSIDE AVENUE",
-        "boro": "4",
-        "type_of_violation": "DOB Violation",
-        "year_of_violation": 2011
-    },
-    {
-        "house_number": "1918",
-        "street": "PARK AVE",
-        "boro": "MANHATTAN",
-        "type_of_violation": "DOB Violation",
-        "year_of_violation": 2017
-    },
-    {
-        "house_number": "88-36",
-        "street": "ELMHURST AVENUE",
-        "boro": "4",
-        "type_of_violation": "DOB Violation",
-        "year_of_violation": 2012
-    },
-    {
-        "house_number": "1918",
-        "street": "PARK AVE",
-        "boro": "MANHATTAN",
+        "latitude": 40.6112561,
+        "longitude": -74.1839044,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2018
     },
     {
         "house_number": "2830",
         "street": "OCEAN PKWY",
+        "zipcode": 11224,
         "boro": "BROOKLYN",
+        "latitude": 40.5808365,
+        "longitude": -73.9681051,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2019
     },
     {
         "house_number": "17",
         "street": "EAST 70 STREET",
+        "zipcode": 10021,
         "boro": "MANHATTAN",
+        "latitude": 40.7708506,
+        "longitude": -73.9666342,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2019
     },
     {
         "house_number": "2829",
         "street": "OCEAN PARKWAY",
+        "zipcode": 11235,
         "boro": "BROOKLYN",
+        "latitude": 40.5807644,
+        "longitude": -73.9667949,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2019
     },
     {
         "house_number": "90",
         "street": "BANK STREET",
+        "zipcode": 10014,
         "boro": "MANHATTAN",
+        "latitude": 40.736361,
+        "longitude": -74.0061647,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2022
     },
     {
         "house_number": "65",
         "street": "FRANKLIN STREET",
+        "zipcode": 10013,
         "boro": "MANHATTAN",
+        "latitude": 40.7190006,
+        "longitude": -74.0066793,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2022
     },
     {
         "house_number": "760",
         "street": "BROADWAY",
+        "zipcode": 11206,
         "boro": "BROOKLYN",
+        "latitude": 40.7000538,
+        "longitude": -73.9417768,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2021
     },
     {
         "house_number": "274",
         "street": "GRAND STREET",
+        "zipcode": 10002,
         "boro": "MANHATTAN",
+        "latitude": 40.71805699999999,
+        "longitude": -73.99276449999999,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2022
     },
     {
         "house_number": "139-19",
         "street": "31 ROAD",
+        "zipcode": 102213,
         "boro": "4",
+        "latitude": 6.5988732,
+        "longitude": 3.279447,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2021
     },
     {
         "house_number": "525",
         "street": "NEPTUNE AVE",
+        "zipcode": 11224,
         "boro": "BROOKLYN",
+        "latitude": 40.5811296,
+        "longitude": -73.9734833,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2020
     },
     {
-        "house_number": "1918",
-        "street": "PARK AVE",
-        "boro": "MANHATTAN",
-        "type_of_violation": "DOB Violation",
-        "year_of_violation": 2017
-    },
-    {
         "house_number": "246",
         "street": "5TH AVE",
+        "zipcode": 10001,
         "boro": "MANHATTAN",
+        "latitude": 40.7447651,
+        "longitude": -73.9878047,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2018
     },
     {
         "house_number": "2780",
         "street": "WEST 5 STREET",
+        "zipcode": 11224,
         "boro": "BROOKLYN",
+        "latitude": 40.5812821,
+        "longitude": -73.97199789999999,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2020
     },
     {
         "house_number": "201",
         "street": "EDWARD CURRY AVENUE",
+        "zipcode": 10314,
         "boro": "STATEN ISLAND",
+        "latitude": 40.6112561,
+        "longitude": -74.1839044,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2018
     },
     {
         "house_number": "155",
         "street": "EAST 44 ST",
+        "zipcode": 10017,
         "boro": "MANHATTAN",
+        "latitude": 40.7523975,
+        "longitude": -73.9742813,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2020
     },
     {
         "house_number": "353",
         "street": "W 57 ST",
+        "zipcode": 10019,
         "boro": "MANHATTAN",
+        "latitude": 40.767942,
+        "longitude": -73.9853258,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2021
     },
     {
         "house_number": "760",
         "street": "BROADWAY",
+        "zipcode": 11206,
         "boro": "BROOKLYN",
+        "latitude": 40.7000538,
+        "longitude": -73.9417768,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2020
     },
     {
         "house_number": "17",
         "street": "EAST 70 STREET",
+        "zipcode": 10021,
         "boro": "MANHATTAN",
+        "latitude": 40.7708506,
+        "longitude": -73.9666342,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2012
     },
     {
-        "house_number": "1013",
-        "street": "BROADWAY",
-        "boro": "BROOKLYN",
-        "type_of_violation": "DOB Violation",
-        "year_of_violation": 2020
-    },
-    {
         "house_number": "353",
         "street": "W 57 ST",
+        "zipcode": 10019,
         "boro": "MANHATTAN",
+        "latitude": 40.767942,
+        "longitude": -73.9853258,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2018
     },
     {
         "house_number": "433",
         "street": "NEPTUNE.AVE",
+        "zipcode": 11224,
         "boro": "BROOKLYN",
+        "latitude": 40.58093239999999,
+        "longitude": -73.9695023,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2020
     },
     {
         "house_number": "135-20",
         "street": "39 AVENUE",
+        "zipcode": 11354,
         "boro": "4",
+        "latitude": 40.7596675,
+        "longitude": -73.83138579999999,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2020
     },
     {
         "house_number": "433",
         "street": "NEPTUNE.AVE",
+        "zipcode": 11224,
         "boro": "BROOKLYN",
+        "latitude": 40.58093239999999,
+        "longitude": -73.9695023,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2020
     },
     {
         "house_number": "21",
         "street": "ROE STREET",
+        "zipcode": 6003,
         "boro": "STATEN ISLAND",
+        "latitude": -31.9496895,
+        "longitude": 115.8580629,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2018
     },
     {
         "house_number": "2780",
         "street": "WEST 5 STREET",
+        "zipcode": 11224,
         "boro": "BROOKLYN",
+        "latitude": 40.5812821,
+        "longitude": -73.97199789999999,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2020
     },
     {
         "house_number": "63",
         "street": "WEST 127 STREET",
+        "zipcode": 10027,
         "boro": "MANHATTAN",
+        "latitude": 40.8088316,
+        "longitude": -73.9435365,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2022
     },
     {
         "house_number": "2830",
         "street": "OCEAN PKWY",
+        "zipcode": 11224,
         "boro": "BROOKLYN",
+        "latitude": 40.5808365,
+        "longitude": -73.9681051,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2020
     },
     {
         "house_number": "2460",
         "street": "FLATBUSH AVE",
+        "zipcode": 11234,
         "boro": "BROOKLYN",
+        "latitude": 40.6101236,
+        "longitude": -73.9235266,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2014
     },
     {
         "house_number": "30-11",
         "street": "QUEENS BOULEVARD",
+        "zipcode": 11375,
         "boro": "4",
+        "latitude": 40.7251558,
+        "longitude": -73.85111959999999,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2013
     },
     {
         "house_number": "760",
         "street": "BROADWAY",
+        "zipcode": 11206,
         "boro": "BROOKLYN",
+        "latitude": 40.7000538,
+        "longitude": -73.9417768,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2021
-    },
-    {
-        "house_number": "1918",
-        "street": "PARK AVE",
-        "boro": "MANHATTAN",
-        "type_of_violation": "DOB Violation",
-        "year_of_violation": 2017
-    },
-    {
-        "house_number": "1918",
-        "street": "PARK AVE",
-        "boro": "MANHATTAN",
-        "type_of_violation": "DOB Violation",
-        "year_of_violation": 2018
     },
     {
         "house_number": "1000",
         "street": "PELHAM PARKWAY S",
+        "zipcode": 10461,
         "boro": "BRONX",
-        "type_of_violation": "DOB Violation",
-        "year_of_violation": 2021
-    },
-    {
-        "house_number": "1013",
-        "street": "BROADWAY",
-        "boro": "BROOKLYN",
+        "latitude": 40.856654,
+        "longitude": -73.859503,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2021
     },
     {
         "house_number": "2341",
         "street": "ADAM CLAYTON POWELL JR BOULEVARD",
+        "zipcode": 10036,
         "boro": "MANHATTAN",
+        "latitude": 40.7577051,
+        "longitude": -73.9857438,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2022
     },
     {
         "house_number": "525",
         "street": "NEPTUNE AVE",
+        "zipcode": 11224,
         "boro": "BROOKLYN",
+        "latitude": 40.5811296,
+        "longitude": -73.9734833,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2020
     },
     {
         "house_number": "41",
         "street": "W 33RD ST",
+        "zipcode": 10001,
         "boro": "MANHATTAN",
+        "latitude": 40.7488071,
+        "longitude": -73.9869958,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2021
     },
     {
         "house_number": "2777",
         "street": "WEST 5 STREET",
+        "zipcode": 11223,
         "boro": "BROOKLYN",
+        "latitude": 40.5934772,
+        "longitude": -73.9759118,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2020
     },
     {
         "house_number": "430",
         "street": "EAST 158 STREET",
+        "zipcode": 10451,
         "boro": "BRONX",
+        "latitude": 40.8218167,
+        "longitude": -73.91374259999999,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2022
     },
     {
         "house_number": "99-30",
         "street": "59 AVENUE",
+        "zipcode": 85302,
         "boro": "Q",
+        "latitude": 33.5758575,
+        "longitude": -112.1867545,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2018
     },
     {
         "house_number": "17",
         "street": "EAST   70 STREET",
+        "zipcode": 10021,
         "boro": "MANHATTAN",
+        "latitude": 40.7708506,
+        "longitude": -73.9666342,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2011
     },
     {
-        "house_number": "44",
-        "street": "EAST 14 ST",
-        "boro": "MANHATTAN",
-        "type_of_violation": "DOB Violation",
-        "year_of_violation": 2021
-    },
-    {
         "house_number": "130-03",
         "street": "HILLSIDE AVENUE",
+        "zipcode": 11415,
         "boro": "4",
+        "latitude": 40.7038612,
+        "longitude": -73.8222684,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2022
     },
     {
         "house_number": "24",
         "street": "GROVE STREET",
+        "zipcode": 10304,
         "boro": "STATEN ISLAND",
+        "latitude": 40.6269335,
+        "longitude": -74.081771,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2022
     },
     {
         "house_number": "1713",
         "street": "MADISON AVENUE",
+        "zipcode": 10029,
         "boro": "MANHATTAN",
+        "latitude": 40.798229,
+        "longitude": -73.9457,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2022
     },
     {
         "house_number": "25",
         "street": "WEST 35 STREET",
+        "zipcode": 10018,
         "boro": "MANHATTAN",
+        "latitude": 40.7498423,
+        "longitude": -73.9852925,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2013
     },
     {
         "house_number": "2829",
         "street": "OCEAN PARKWAY",
+        "zipcode": 11235,
         "boro": "BROOKLYN",
+        "latitude": 40.5807644,
+        "longitude": -73.9667949,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2017
     },
     {
         "house_number": "135",
         "street": "AVENUE P",
+        "zipcode": 11204,
         "boro": "BROOKLYN",
+        "latitude": 40.6080123,
+        "longitude": -73.9829111,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2021
     },
     {
         "house_number": "246",
         "street": "5TH AVE",
+        "zipcode": 10001,
         "boro": "MANHATTAN",
+        "latitude": 40.7447651,
+        "longitude": -73.9878047,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2019
     },
     {
         "house_number": "1000",
         "street": "PELHAM PARKWAY S",
+        "zipcode": 10461,
         "boro": "BRONX",
+        "latitude": 40.856654,
+        "longitude": -73.859503,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2021
     },
     {
         "house_number": "1",
         "street": "DEKALB AVENUE",
+        "zipcode": 11201,
         "boro": "BROOKLYN",
+        "latitude": 40.6909398,
+        "longitude": -73.9830629,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2021
     },
     {
         "house_number": "1000",
         "street": "PELHAM PARKWAY S",
+        "zipcode": 10461,
         "boro": "BRONX",
+        "latitude": 40.856654,
+        "longitude": -73.859503,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2019
     },
     {
-        "house_number": "30",
-        "street": "NEWTON STREET",
-        "boro": "STATEN ISLAND",
-        "type_of_violation": "DOB Violation",
-        "year_of_violation": 2022
-    },
-    {
         "house_number": "114-54",
         "street": "SUTPHIN BOULEVARD",
+        "zipcode": 11436,
         "boro": "4",
+        "latitude": 40.68485889999999,
+        "longitude": -73.7930707,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2022
     },
     {
         "house_number": "2780",
         "street": "WEST 5 STREET",
+        "zipcode": 11224,
         "boro": "BROOKLYN",
+        "latitude": 40.5812821,
+        "longitude": -73.97199789999999,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2020
     },
     {
         "house_number": "425",
         "street": "MORRIS AVENUE",
+        "zipcode": 10451,
         "boro": "BRONX",
+        "latitude": 40.8158771,
+        "longitude": -73.9239285,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2020
     },
     {
-        "house_number": "141-05",
-        "street": "CHERRY AVENUE",
-        "boro": "4",
-        "type_of_violation": "DOB Violation",
-        "year_of_violation": 2012
-    },
-    {
         "house_number": "335",
         "street": "SUMPTER STREET",
+        "zipcode": 11233,
         "boro": "BROOKLYN",
+        "latitude": 40.6810639,
+        "longitude": -73.911744,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2022
     },
     {
         "house_number": "111",
         "street": "HICKS STREET",
+        "zipcode": 11201,
         "boro": "BROOKLYN",
-        "type_of_violation": "DOB Violation",
-        "year_of_violation": 2022
-    },
-    {
-        "house_number": "1678",
-        "street": "73 STREET",
-        "boro": "BROOKLYN",
+        "latitude": 40.6980797,
+        "longitude": -73.9942646,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2022
     },
     {
         "house_number": "130",
         "street": "EAST 18TH ST",
+        "zipcode": 7524,
         "boro": "BROOKLYN",
+        "latitude": 40.925996,
+        "longitude": -74.1533884,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2021
     },
     {
         "house_number": "1825",
         "street": "ANTHONY AVENUE",
+        "zipcode": 10457,
         "boro": "BRONX",
+        "latitude": 40.8469312,
+        "longitude": -73.9039859,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2022
     },
     {
         "house_number": "290",
         "street": "WILD AVENUE",
+        "zipcode": 10314,
         "boro": "STATEN ISLAND",
+        "latitude": 40.5868106,
+        "longitude": -74.1910132,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2022
     },
     {
         "house_number": "154",
         "street": "W 14TH ST",
+        "zipcode": 10011,
         "boro": "MANHATTAN",
+        "latitude": 40.7382666,
+        "longitude": -73.9993219,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2020
     },
     {
         "house_number": "2465",
         "street": "JEROME AVE",
+        "zipcode": 10468,
         "boro": "BRONX",
+        "latitude": 40.8632281,
+        "longitude": -73.9010649,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2020
     },
     {
-        "house_number": "7013",
-        "street": "VETERANS AVENUE",
-        "boro": "BROOKLYN",
-        "type_of_violation": "DOB Violation",
-        "year_of_violation": 2013
-    },
-    {
         "house_number": "401",
         "street": "EAST 102 STREET",
+        "zipcode": 10029,
         "boro": "MANHATTAN",
+        "latitude": 40.7875537,
+        "longitude": -73.9411485,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2022
     },
     {
         "house_number": "95",
         "street": "EVERGREEN AVE",
+        "zipcode": 11206,
         "boro": "BROOKLYN",
+        "latitude": 40.7001046,
+        "longitude": -73.9322219,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2021
     },
     {
         "house_number": "220",
         "street": "BEACH 30 STREET",
+        "zipcode": 11691,
         "boro": "4",
+        "latitude": 40.5954006,
+        "longitude": -73.76265579999999,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2022
     },
     {
         "house_number": "1656",
         "street": "51 STREET",
+        "zipcode": 10019,
         "boro": "BROOKLYN",
+        "latitude": 40.7632683,
+        "longitude": -73.9864745,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2022
     },
     {
         "house_number": "433",
         "street": "NEPTUNE.AVE",
+        "zipcode": 11224,
         "boro": "BROOKLYN",
+        "latitude": 40.58093239999999,
+        "longitude": -73.9695023,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2020
     },
     {
         "house_number": "525",
         "street": "NEPTUNE AVE",
+        "zipcode": 11224,
         "boro": "BROOKLYN",
+        "latitude": 40.5811296,
+        "longitude": -73.9734833,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2021
     },
     {
         "house_number": "340",
         "street": "EAST 74 ST",
+        "zipcode": 10021,
         "boro": "MANHATTAN",
+        "latitude": 40.7693044,
+        "longitude": -73.95577639999999,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2017
     },
     {
-        "house_number": "7007",
-        "street": "VETERANS AVENUE",
-        "boro": "BROOKLYN",
-        "type_of_violation": "DOB Violation",
-        "year_of_violation": 2015
-    },
-    {
         "house_number": "160",
         "street": "FRANKLIN STREET",
+        "zipcode": 10013,
         "boro": "MANHATTAN",
+        "latitude": 40.7190006,
+        "longitude": -74.0066793,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2021
     },
     {
         "house_number": "1825",
         "street": "EASTCHESTER ROAD",
+        "zipcode": 10461,
         "boro": "BRONX",
+        "latitude": 40.8485983,
+        "longitude": -73.8461914,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2017
     },
     {
         "house_number": "2830",
         "street": "OCEAN PKWY",
+        "zipcode": 11224,
         "boro": "BROOKLYN",
+        "latitude": 40.5808365,
+        "longitude": -73.9681051,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2020
     },
     {
         "house_number": "2829",
         "street": "OCEAN PARKWAY",
+        "zipcode": 11235,
         "boro": "BROOKLYN",
+        "latitude": 40.5807644,
+        "longitude": -73.9667949,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2019
     },
     {
-        "house_number": "1918",
-        "street": "PARK AVE",
-        "boro": "MANHATTAN",
-        "type_of_violation": "DOB Violation",
-        "year_of_violation": 2017
-    },
-    {
         "house_number": "2830",
         "street": "OCEAN PKWY",
+        "zipcode": 11224,
         "boro": "BROOKLYN",
+        "latitude": 40.5808365,
+        "longitude": -73.9681051,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2020
     },
     {
         "house_number": "91-14",
         "street": "CORONA AVENUE",
+        "zipcode": 11373,
         "boro": "4",
+        "latitude": 40.7422762,
+        "longitude": -73.8730054,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2017
     },
     {
         "house_number": "525",
         "street": "NEPTUNE AVE",
+        "zipcode": 11224,
         "boro": "BROOKLYN",
+        "latitude": 40.5811296,
+        "longitude": -73.9734833,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2020
     },
     {
         "house_number": "114-51",
         "street": "145 STREET",
+        "zipcode": 10039,
         "boro": "4",
+        "latitude": 40.8206633,
+        "longitude": -73.937417,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2011
     },
     {
         "house_number": "89-34",
         "street": "162 STREET",
+        "zipcode": 10452,
         "boro": "4",
+        "latitude": 40.8315201,
+        "longitude": -73.9292727,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2021
     },
     {
         "house_number": "55",
         "street": "E 88 ST",
+        "zipcode": 10128,
         "boro": "MANHATTAN",
+        "latitude": 40.7794494,
+        "longitude": -73.9514135,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2018
     },
     {
         "house_number": "160",
         "street": "EAST 65 STREET",
+        "zipcode": 10065,
         "boro": "MANHATTAN",
+        "latitude": 40.7668879,
+        "longitude": -73.9675776,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2022
     },
     {
         "house_number": "433",
         "street": "NEPTUNE.AVE",
+        "zipcode": 11224,
         "boro": "BROOKLYN",
+        "latitude": 40.58093239999999,
+        "longitude": -73.9695023,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2020
     },
     {
         "house_number": "2830",
         "street": "OCEAN PKWY",
+        "zipcode": 11224,
         "boro": "BROOKLYN",
+        "latitude": 40.5808365,
+        "longitude": -73.9681051,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2020
     },
     {
         "house_number": "38-43",
         "street": "12 STREET",
+        "zipcode": 11101,
         "boro": "4",
+        "latitude": 40.756924,
+        "longitude": -73.941626,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2021
     },
     {
         "house_number": "308",
         "street": "WEST 36 STREET",
+        "zipcode": 10018,
         "boro": "MANHATTAN",
+        "latitude": 40.7534937,
+        "longitude": -73.9933858,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2018
     },
     {
-        "house_number": "150-15",
-        "street": "HILLSIDE AVENUE",
-        "boro": "4",
-        "type_of_violation": "DOB Violation",
-        "year_of_violation": 2013
-    },
-    {
         "house_number": "17",
         "street": "EAST 70 STREET",
+        "zipcode": 10021,
         "boro": "MANHATTAN",
+        "latitude": 40.7708506,
+        "longitude": -73.9666342,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2013
     },
     {
         "house_number": "12",
         "street": "SIMMONS LANE",
+        "zipcode": 3160,
         "boro": "STATEN ISLAND",
+        "latitude": -37.9309145,
+        "longitude": 145.3628552,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2018
     },
     {
         "house_number": "353",
         "street": "W 57 ST",
+        "zipcode": 10019,
         "boro": "MANHATTAN",
+        "latitude": 40.767942,
+        "longitude": -73.9853258,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2021
     },
     {
         "house_number": "130",
         "street": "EAST 18TH ST",
+        "zipcode": 7524,
         "boro": "BROOKLYN",
+        "latitude": 40.925996,
+        "longitude": -74.1533884,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2020
     },
     {
         "house_number": "18",
         "street": "JACOBUS PL",
+        "zipcode": 10034,
         "boro": "MANHATTAN",
+        "latitude": 40.8753299,
+        "longitude": -73.91133599999999,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2021
     },
     {
         "house_number": "353",
         "street": "W 57 ST",
+        "zipcode": 10019,
         "boro": "MANHATTAN",
+        "latitude": 40.767942,
+        "longitude": -73.9853258,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2018
     },
     {
         "house_number": "246",
         "street": "5TH AVE",
+        "zipcode": 10001,
         "boro": "MANHATTAN",
+        "latitude": 40.7447651,
+        "longitude": -73.9878047,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2018
     },
     {
         "house_number": "1110",
         "street": "EASTERN PARKWAY",
+        "zipcode": 11213,
         "boro": "BROOKLYN",
+        "latitude": 40.668369,
+        "longitude": -73.9315963,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2020
     },
     {
-        "house_number": "99-25",
-        "street": "60 AVENUE",
-        "boro": "4",
-        "type_of_violation": "DOB Violation",
-        "year_of_violation": 2013
-    },
-    {
-        "house_number": "522",
-        "street": "3 STREET",
-        "boro": "BROOKLYN",
-        "type_of_violation": "DOB Violation",
-        "year_of_violation": 2022
-    },
-    {
         "house_number": "1555",
         "street": "SEABURY PLACE",
+        "zipcode": 10460,
         "boro": "BRONX",
+        "latitude": 40.8347421,
+        "longitude": -73.891465,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2022
     },
     {
         "house_number": "164-10",
         "street": "104 ROAD",
+        "zipcode": 11433,
         "boro": "4",
+        "latitude": 40.6998853,
+        "longitude": -73.7928927,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2022
     },
     {
         "house_number": "315",
         "street": "EAST 9 STREET",
+        "zipcode": 10003,
         "boro": "BROOKLYN",
+        "latitude": 40.7289606,
+        "longitude": -73.9863386,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2022
     },
     {
         "house_number": "1000",
         "street": "PELHAM PARKWAY S",
+        "zipcode": 10461,
         "boro": "BRONX",
+        "latitude": 40.856654,
+        "longitude": -73.859503,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2019
     },
     {
         "house_number": "2777",
         "street": "WEST 5 STREET",
+        "zipcode": 11223,
         "boro": "BROOKLYN",
+        "latitude": 40.5934772,
+        "longitude": -73.9759118,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2020
     },
     {
         "house_number": "111",
         "street": "CLYMER STREET",
+        "zipcode": 11249,
         "boro": "BROOKLYN",
+        "latitude": 40.705243,
+        "longitude": -73.96716219999999,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2016
     },
     {
         "house_number": "2",
         "street": "WEST END AVE",
+        "zipcode": 11235,
         "boro": "BROOKLYN",
+        "latitude": 40.5813698,
+        "longitude": -73.9541356,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2017
     },
     {
         "house_number": "1",
         "street": "DEKALB AVENUE",
+        "zipcode": 11201,
         "boro": "BROOKLYN",
+        "latitude": 40.6909398,
+        "longitude": -73.9830629,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2021
     },
     {
         "house_number": "3314",
         "street": "STEUBEN AVENUE",
+        "zipcode": 10467,
         "boro": "BRONX",
-        "type_of_violation": "DOB Violation",
-        "year_of_violation": 2020
-    },
-    {
-        "house_number": "8813",
-        "street": "FT HAMILTON AVE",
-        "boro": "BROOKLYN",
+        "latitude": 40.8786269,
+        "longitude": -73.8810718,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2020
     },
     {
         "house_number": "301",
         "street": "W 34TH ST",
+        "zipcode": 10123,
         "boro": "MANHATTAN",
+        "latitude": 40.7521968,
+        "longitude": -73.9934493,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2020
     },
     {
         "house_number": "3415",
         "street": "BAINBRIDGE AVENUE",
+        "zipcode": 10467,
         "boro": "BRONX",
+        "latitude": 40.8803567,
+        "longitude": -73.8789566,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2018
     },
     {
         "house_number": "18",
         "street": "JACOBUS PL",
+        "zipcode": 10034,
         "boro": "MANHATTAN",
+        "latitude": 40.8753299,
+        "longitude": -73.91133599999999,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2018
     },
     {
         "house_number": "412",
         "street": "E 147 ST",
+        "zipcode": 10455,
         "boro": "BRONX",
+        "latitude": 40.81409610000001,
+        "longitude": -73.9178032,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2021
     },
     {
-        "house_number": "150-15",
-        "street": "HILLSIDE AVENUE",
-        "boro": "4",
-        "type_of_violation": "DOB Violation",
-        "year_of_violation": 2015
-    },
-    {
         "house_number": "2",
         "street": "WEST END AVE",
+        "zipcode": 11235,
         "boro": "BROOKLYN",
+        "latitude": 40.5813698,
+        "longitude": -73.9541356,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2017
     },
     {
         "house_number": "412",
         "street": "E 147 ST",
+        "zipcode": 10455,
         "boro": "BRONX",
+        "latitude": 40.81409610000001,
+        "longitude": -73.9178032,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2021
     },
     {
         "house_number": "446",
         "street": "KINGSTON AVENUE",
+        "zipcode": 11225,
         "boro": "BROOKLYN",
+        "latitude": 40.6632908,
+        "longitude": -73.9431243,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2022
     },
     {
-        "house_number": "506",
-        "street": "6 STREET",
-        "boro": "BROOKLYN",
-        "type_of_violation": "DOB Violation",
-        "year_of_violation": 2020
-    },
-    {
         "house_number": "150-15",
         "street": "HILLSIDE AVE",
+        "zipcode": 11432,
         "boro": "4",
+        "latitude": 40.7070951,
+        "longitude": -73.8060189,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2016
     },
     {
-        "house_number": "506",
-        "street": "6 STREET",
-        "boro": "BROOKLYN",
-        "type_of_violation": "DOB Violation",
-        "year_of_violation": 2021
-    },
-    {
         "house_number": "433",
         "street": "NEPTUNE.AVE",
+        "zipcode": 11224,
         "boro": "BROOKLYN",
+        "latitude": 40.58093239999999,
+        "longitude": -73.9695023,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2020
     },
     {
         "house_number": "3984",
         "street": "WHITE PLAINS ROAD",
+        "zipcode": 10466,
         "boro": "BRONX",
+        "latitude": 40.8880342,
+        "longitude": -73.8600593,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2019
     },
     {
         "house_number": "89-34",
         "street": "162 STREET",
+        "zipcode": 10452,
         "boro": "4",
+        "latitude": 40.8315201,
+        "longitude": -73.9292727,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2021
     },
     {
         "house_number": "2780",
         "street": "WEST 5 STREET",
+        "zipcode": 11224,
         "boro": "BROOKLYN",
+        "latitude": 40.5812821,
+        "longitude": -73.97199789999999,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2019
     },
     {
         "house_number": "27",
         "street": "W 23 ST",
+        "zipcode": 10010,
         "boro": "MANHATTAN",
+        "latitude": 40.7421919,
+        "longitude": -73.9905771,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2020
     },
     {
         "house_number": "720",
         "street": "FLUSHING AVENUE",
+        "zipcode": 11206,
         "boro": "BROOKLYN",
+        "latitude": 40.700066,
+        "longitude": -73.9433475,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2020
     },
     {
         "house_number": "2777",
         "street": "WEST 5 STREET",
+        "zipcode": 11223,
         "boro": "BROOKLYN",
+        "latitude": 40.5934772,
+        "longitude": -73.9759118,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2020
     },
     {
         "house_number": "162-24",
         "street": "JAMAICA AVE",
+        "zipcode": 11433,
         "boro": "4",
+        "latitude": 40.7044211,
+        "longitude": -73.7970689,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2016
     },
     {
         "house_number": "2830",
         "street": "OCEAN PKWY",
+        "zipcode": 11224,
         "boro": "BROOKLYN",
+        "latitude": 40.5808365,
+        "longitude": -73.9681051,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2019
     },
     {
         "house_number": "523",
         "street": "EAST 70 STREET",
+        "zipcode": 10021,
         "boro": "MANHATTAN",
+        "latitude": 40.7651611,
+        "longitude": -73.95354850000001,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2016
     },
     {
         "house_number": "105",
         "street": "WEST   55 STREET",
+        "zipcode": 10019,
         "boro": "MANHATTAN",
+        "latitude": 40.7634522,
+        "longitude": -73.978625,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2011
     },
     {
         "house_number": "119",
         "street": "NASSAU AVENUE",
+        "zipcode": 11222,
         "boro": "BROOKLYN",
+        "latitude": 40.7246043,
+        "longitude": -73.94909849999999,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2015
     },
     {
         "house_number": "141-48",
         "street": "85 RD",
+        "zipcode": 11435,
         "boro": "4",
+        "latitude": 40.7094503,
+        "longitude": -73.81496589999999,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2018
     },
     {
-        "house_number": "33",
-        "street": "WEST 17 STREET",
-        "boro": "MANHATTAN",
-        "type_of_violation": "DOB Violation",
-        "year_of_violation": 2022
-    },
-    {
-        "house_number": "2125",
-        "street": "72 STREET",
-        "boro": "BROOKLYN",
-        "type_of_violation": "DOB Violation",
-        "year_of_violation": 2022
-    },
-    {
         "house_number": "138-54",
         "street": "94 AVENUE",
+        "zipcode": 11435,
         "boro": "4",
+        "latitude": 40.6973893,
+        "longitude": -73.8107522,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2020
     },
     {
         "house_number": "3756",
         "street": "EAST TREMONT AVENUE",
+        "zipcode": 10465,
         "boro": "BRONX",
+        "latitude": 40.82586999999999,
+        "longitude": -73.82168899999999,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2022
     },
     {
         "house_number": "571",
         "street": "EAST 141 STREET",
+        "zipcode": 10454,
         "boro": "BRONX",
+        "latitude": 40.8088143,
+        "longitude": -73.91583969999999,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2022
     },
     {
         "house_number": "49",
         "street": "WEST 225 STREET",
+        "zipcode": 10463,
         "boro": "MANHATTAN",
+        "latitude": 40.8740195,
+        "longitude": -73.9077087,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2022
     },
     {
-        "house_number": "8813",
-        "street": "FT HAMILTON AVE",
-        "boro": "BROOKLYN",
-        "type_of_violation": "DOB Violation",
-        "year_of_violation": 2021
-    },
-    {
         "house_number": "286",
         "street": "ASHLAND PLACE",
+        "zipcode": 11217,
         "boro": "BROOKLYN",
+        "latitude": 40.6867202,
+        "longitude": -73.9783475,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2021
     },
     {
         "house_number": "430",
         "street": "EAST 105 STREET",
+        "zipcode": 10029,
         "boro": "MANHATTAN",
+        "latitude": 40.7882104,
+        "longitude": -73.93949429999999,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2022
     },
     {
         "house_number": "1224",
         "street": "FLUSHING AVENUE",
+        "zipcode": 11237,
         "boro": "BROOKLYN",
+        "latitude": 40.70691799999999,
+        "longitude": -73.924212,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2020
     },
     {
         "house_number": "273        \u00a0",
         "street": "WEST 131 STREET",
+        "zipcode": 10027,
         "boro": "MANHATTAN",
+        "latitude": 40.8141875,
+        "longitude": -73.94795409999999,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2013
     },
     {
         "house_number": "3750",
         "street": "EAST TREMONT AVENUE",
+        "zipcode": 10465,
         "boro": "BRONX",
-        "type_of_violation": "DOB Violation",
-        "year_of_violation": 2022
-    },
-    {
-        "house_number": "40-26",
-        "street": "61 STREET",
-        "boro": "4",
+        "latitude": 40.8259894,
+        "longitude": -73.8217923,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2022
     },
     {
         "house_number": "91-14",
         "street": "CORONA AVENUE",
+        "zipcode": 11373,
         "boro": "4",
+        "latitude": 40.7422762,
+        "longitude": -73.8730054,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2017
     },
     {
         "house_number": "38-43",
         "street": "12 STREET",
+        "zipcode": 11101,
         "boro": "4",
+        "latitude": 40.756924,
+        "longitude": -73.941626,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2022
     },
     {
         "house_number": "89-11",
         "street": "153 STREET",
+        "zipcode": 11432,
         "boro": "4",
+        "latitude": 40.7048299,
+        "longitude": -73.8031641,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2021
     },
     {
         "house_number": "4624",
         "street": "17 AVENUE",
+        "zipcode": 11204,
         "boro": "BROOKLYN",
+        "latitude": 40.6309974,
+        "longitude": -73.98204489999999,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2021
     },
     {
         "house_number": "720",
         "street": "FLUSHING AVENUE",
+        "zipcode": 11206,
         "boro": "BROOKLYN",
+        "latitude": 40.700066,
+        "longitude": -73.9433475,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2020
     },
     {
         "house_number": "144-45",
         "street": "41 AVE",
+        "zipcode": 11355,
         "boro": "4",
+        "latitude": 40.7612426,
+        "longitude": -73.8198049,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2021
     },
     {
         "house_number": "770 A",
         "street": "HUNTS POINT AVENUE",
+        "zipcode": 10474,
         "boro": "BRONX",
+        "latitude": 40.816291,
+        "longitude": -73.88738769999999,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2021
     },
     {
         "house_number": "341",
         "street": "WEST 44 STREET",
+        "zipcode": 10036,
         "boro": "MANHATTAN",
+        "latitude": 40.7595017,
+        "longitude": -73.9905515,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2015
     },
     {
-        "house_number": "56-71",
-        "street": "49 PLACE",
-        "boro": "4",
-        "type_of_violation": "DOB Violation",
-        "year_of_violation": 2021
-    },
-    {
         "house_number": "2550",
         "street": "THIRD AVENUE",
+        "zipcode": 10454,
         "boro": "BRONX",
+        "latitude": 40.8112849,
+        "longitude": -73.9265331,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2022
     },
     {
         "house_number": "49",
         "street": "W 86TH ST",
+        "zipcode": 10024,
         "boro": "MANHATTAN",
+        "latitude": 40.7863669,
+        "longitude": -73.9714769,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2020
     },
     {
-        "house_number": "181 A",
-        "street": "VERNON AVENUE",
-        "boro": "BROOKLYN",
-        "type_of_violation": "DOB Violation",
-        "year_of_violation": 2022
-    },
-    {
         "house_number": "622",
         "street": "WEST 168 STREET",
+        "zipcode": 10032,
         "boro": "MANHATTAN",
+        "latitude": 40.8412426,
+        "longitude": -73.9409706,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2022
     },
     {
         "house_number": "313",
         "street": "EAST 6 STREET",
+        "zipcode": 10009,
         "boro": "MANHATTAN",
+        "latitude": 40.7246642,
+        "longitude": -73.9820395,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2022
     },
     {
         "house_number": "340",
         "street": "EAST 74 STREET",
+        "zipcode": 10021,
         "boro": "MANHATTAN",
+        "latitude": 40.7693044,
+        "longitude": -73.95577639999999,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2021
     },
     {
         "house_number": "27",
         "street": "PENNSYLVANIA AVENUE",
+        "zipcode": 11207,
         "boro": "BROOKLYN",
+        "latitude": 40.6584573,
+        "longitude": -73.8904498,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2022
     },
     {
         "house_number": "23",
         "street": "BARTLETT STREET",
+        "zipcode": 11206,
         "boro": "BROOKLYN",
+        "latitude": 40.701247,
+        "longitude": -73.9462937,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2022
     },
     {
         "house_number": "432",
         "street": "CLERMONT AVENUE",
+        "zipcode": 11238,
         "boro": "BROOKLYN",
+        "latitude": 40.6848222,
+        "longitude": -73.9693777,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2022
     },
     {
         "house_number": "374",
         "street": "EAST 9 STREET",
+        "zipcode": 10003,
         "boro": "BROOKLYN",
+        "latitude": 40.7281311,
+        "longitude": -73.9850388,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2022
     },
     {
         "house_number": "50",
         "street": "EAST    3 STREET",
+        "zipcode": 10003,
         "boro": "MANHATTAN",
+        "latitude": 40.7251879,
+        "longitude": -73.989454,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2022
     },
     {
         "house_number": "165",
         "street": "AUDUBON AVENUE",
+        "zipcode": 10033,
         "boro": "MANHATTAN",
+        "latitude": 40.8437179,
+        "longitude": -73.9357569,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2019
     },
     {
         "house_number": "430",
         "street": "CLERMONT AVENUE",
+        "zipcode": 11238,
         "boro": "BROOKLYN",
+        "latitude": 40.68488019999999,
+        "longitude": -73.9693777,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2022
     },
     {
         "house_number": "526",
         "street": "WEST 111TH ST",
+        "zipcode": 10025,
         "boro": "MANHATTAN",
+        "latitude": 40.80404679999999,
+        "longitude": -73.9650064,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2017
     },
     {
         "house_number": "30",
         "street": "WEST 87 STREET",
+        "zipcode": 10024,
         "boro": "MANHATTAN",
+        "latitude": 40.7863336,
+        "longitude": -73.9702616,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2022
     },
     {
         "house_number": "915",
         "street": "WEST END AVENUE",
+        "zipcode": 10025,
         "boro": "M",
+        "latitude": 40.8009069,
+        "longitude": -73.96954989999999,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2019
     },
     {
-        "house_number": "5722",
-        "street": "7 AVENUE",
-        "boro": "BROOKLYN",
-        "type_of_violation": "DOB Violation",
-        "year_of_violation": 2016
-    },
-    {
         "house_number": "3950",
         "street": "BLACKSTONE AVE",
+        "zipcode": 10471,
         "boro": "BRONX",
+        "latitude": 40.8905234,
+        "longitude": -73.9105843,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2018
     },
     {
         "house_number": "159-02",
         "street": "JAMAICA AVE",
+        "zipcode": 11432,
         "boro": "4",
+        "latitude": 40.7032758,
+        "longitude": -73.79996489999999,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2019
     },
     {
         "house_number": "1383",
         "street": "SHORE PARKWAY",
+        "zipcode": 11214,
         "boro": "BROOKLYN",
+        "latitude": 40.5994472,
+        "longitude": -74.00677300000001,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2022
     },
     {
-        "house_number": "1695",
-        "street": "GRAND AVENUE",
-        "boro": "BRONX",
-        "type_of_violation": "DOB Violation",
-        "year_of_violation": 2019
-    },
-    {
         "house_number": "720",
         "street": "FLUSHING AVENUE",
+        "zipcode": 11206,
         "boro": "BROOKLYN",
+        "latitude": 40.700066,
+        "longitude": -73.9433475,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2020
     },
     {
         "house_number": "139-19",
         "street": "31 ROAD",
+        "zipcode": 102213,
         "boro": "4",
+        "latitude": 6.5988732,
+        "longitude": 3.279447,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2012
     },
     {
         "house_number": "53",
         "street": "CHAUNCEY STREET",
+        "zipcode": 11233,
         "boro": "BROOKLYN",
+        "latitude": 40.6800933,
+        "longitude": -73.93381219999999,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2022
     },
     {
         "house_number": "3752",
         "street": "EAST TREMONT AVENUE",
+        "zipcode": 10465,
         "boro": "BRONX",
+        "latitude": 40.8259443,
+        "longitude": -73.8217463,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2022
     },
     {
         "house_number": "720",
         "street": "FLUSHING AVENUE",
+        "zipcode": 11206,
         "boro": "BROOKLYN",
+        "latitude": 40.700066,
+        "longitude": -73.9433475,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2021
     },
     {
-        "house_number": "45-19",
-        "street": "104 STREET",
-        "boro": "4",
-        "type_of_violation": "DOB Violation",
-        "year_of_violation": 2011
-    },
-    {
         "house_number": "140",
         "street": "RIVERSIDE BOULEVARD",
+        "zipcode": 10069,
         "boro": "MANHATTAN",
+        "latitude": 40.7770886,
+        "longitude": -73.9887893,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2021
     },
     {
         "house_number": "233",
         "street": "ROCKAWAY AVENUE",
+        "zipcode": 11233,
         "boro": "BROOKLYN",
+        "latitude": 40.6745648,
+        "longitude": -73.91082349999999,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2015
     },
     {
-        "house_number": "255",
-        "street": "18 STREET",
-        "boro": "BROOKLYN",
-        "type_of_violation": "DOB Violation",
-        "year_of_violation": 2021
-    },
-    {
         "house_number": "140",
         "street": "RIVERSIDE BOULEVARD",
+        "zipcode": 10069,
         "boro": "MANHATTAN",
+        "latitude": 40.7770886,
+        "longitude": -73.9887893,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2021
-    },
-    {
-        "house_number": "355",
-        "street": "93 STREET",
-        "boro": "BROOKLYN",
-        "type_of_violation": "DOB Violation",
-        "year_of_violation": 2020
     },
     {
         "house_number": "130",
         "street": "COURT ST",
+        "zipcode": 11201,
         "boro": "BROOKLYN",
+        "latitude": 40.6895837,
+        "longitude": -73.9928699,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2021
     },
     {
         "house_number": "23-57",
         "street": "79 STREET",
+        "zipcode": 10075,
         "boro": "4",
+        "latitude": 40.776763,
+        "longitude": -73.9625093,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2022
     },
     {
         "house_number": "432",
         "street": "CLERMONT AVENUE",
+        "zipcode": 11238,
         "boro": "BROOKLYN",
+        "latitude": 40.6848222,
+        "longitude": -73.9693777,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2022
     },
     {
         "house_number": "473",
         "street": "CENTRAL PARK WEST",
+        "zipcode": 10025,
         "boro": "MANHATTAN",
-        "type_of_violation": "DOB Violation",
-        "year_of_violation": 2022
-    },
-    {
-        "house_number": "118",
-        "street": "91 STREET",
-        "boro": "BROOKLYN",
-        "type_of_violation": "DOB Violation",
-        "year_of_violation": 2021
-    },
-    {
-        "house_number": "91-22",
-        "street": "216 STREET",
-        "boro": "4",
+        "latitude": 40.799105,
+        "longitude": -73.95965699999999,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2022
     },
     {
         "house_number": "3534",
         "street": "WAYNE AVENUE",
+        "zipcode": 45420,
         "boro": "BRONX",
+        "latitude": 39.7384552,
+        "longitude": -84.1452601,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2020
     },
     {
         "house_number": "64",
         "street": "BROOK STREET",
+        "zipcode": 4030,
         "boro": "STATEN ISLAND",
+        "latitude": -27.4272275,
+        "longitude": 153.0275687,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2022
     },
     {
         "house_number": "406",
         "street": "QUENTIN ROAD",
+        "zipcode": 11223,
         "boro": "BROOKLYN",
+        "latitude": 40.6066368,
+        "longitude": -73.9708583,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2022
     },
     {
         "house_number": "540",
         "street": "PARK AVENUE",
+        "zipcode": 10065,
         "boro": "MANHATTAN",
+        "latitude": 40.7645744,
+        "longitude": -73.9690071,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2022
     },
     {
         "house_number": "1",
         "street": "DEKALB AVENUE",
+        "zipcode": 11201,
         "boro": "BROOKLYN",
+        "latitude": 40.6909398,
+        "longitude": -73.9830629,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2022
     },
     {
         "house_number": "11",
         "street": "BUSH STREET",
+        "zipcode": 94111,
         "boro": "BROOKLYN",
+        "latitude": 37.7911138,
+        "longitude": -122.3992453,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2020
     },
     {
-        "house_number": "2861",
-        "street": "EXTERIOR STREET",
-        "boro": "BRONX",
-        "type_of_violation": "DOB Violation",
-        "year_of_violation": 2022
-    },
-    {
         "house_number": "535",
         "street": "PARK AVE",
+        "zipcode": 10065,
         "boro": "MANHATTAN",
+        "latitude": 40.7641609,
+        "longitude": -73.9684766,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2021
     },
     {
         "house_number": "656",
         "street": "FIRST AVENUE",
+        "zipcode": 55402,
         "boro": "MANHATTAN",
+        "latitude": 44.9785315,
+        "longitude": -93.2759978,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2022
     },
     {
-        "house_number": "880",
-        "street": "BROADWAY",
-        "boro": "MANHATTAN",
-        "type_of_violation": "DOB Violation",
-        "year_of_violation": 2021
-    },
-    {
         "house_number": "140",
         "street": "AUDOBON AVENUE",
+        "zipcode": 10032,
         "boro": "MANHATTAN",
+        "latitude": 40.8431176,
+        "longitude": -73.936629,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2022
     },
     {
         "house_number": "89-34",
         "street": "162 STREET",
+        "zipcode": 10452,
         "boro": "4",
+        "latitude": 40.8315201,
+        "longitude": -73.9292727,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2021
     },
     {
         "house_number": "105-15",
         "street": "79 STREET",
+        "zipcode": 10075,
         "boro": "4",
+        "latitude": 40.7756468,
+        "longitude": -73.9599357,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2022
     },
     {
         "house_number": "1675",
         "street": "METROPOLITAN AVE",
+        "zipcode": 11211,
         "boro": "BRONX",
+        "latitude": 40.7140435,
+        "longitude": -73.924564,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2018
     },
     {
         "house_number": "434",
         "street": "CLERMONT AVENUE",
+        "zipcode": 11238,
         "boro": "BROOKLYN",
+        "latitude": 40.6847708,
+        "longitude": -73.9694236,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2022
     },
     {
-        "house_number": "91-61",
-        "street": "193 STREET",
-        "boro": "4",
-        "type_of_violation": "DOB Violation",
-        "year_of_violation": 2021
-    },
-    {
         "house_number": "134",
         "street": "DUANE STREET",
+        "zipcode": 10013,
         "boro": "MANHATTAN",
+        "latitude": 40.71598059999999,
+        "longitude": -74.00758789999999,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2020
     },
     {
         "house_number": "40-15",
         "street": "61 ST",
+        "zipcode": 10065,
         "boro": "4",
+        "latitude": 40.7626462,
+        "longitude": -73.9652998,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2019
     },
     {
         "house_number": "412",
         "street": "E 147 ST",
+        "zipcode": 10455,
         "boro": "BRONX",
+        "latitude": 40.81409610000001,
+        "longitude": -73.9178032,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2020
     },
     {
         "house_number": "4511",
         "street": "3 AVENUE",
+        "zipcode": 10457,
         "boro": "BRONX",
+        "latitude": 40.8538455,
+        "longitude": -73.8913127,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2022
     },
     {
         "house_number": "215",
         "street": "W 34TH ST",
+        "zipcode": 10123,
         "boro": "MANHATTAN",
+        "latitude": 40.7515557,
+        "longitude": -73.9913011,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2021
     },
     {
-        "house_number": "3121",
-        "street": "OCEAN AVENUE",
-        "boro": "BROOKLYN",
-        "type_of_violation": "DOB Violation",
-        "year_of_violation": 2022
-    },
-    {
         "house_number": "2286",
         "street": "CROPSEY AVENUE",
+        "zipcode": 11214,
         "boro": "BROOKLYN",
-        "type_of_violation": "DOB Violation",
-        "year_of_violation": 2022
-    },
-    {
-        "house_number": "41-48",
-        "street": "40 STREET",
-        "boro": "4",
+        "latitude": 40.5957426,
+        "longitude": -73.9971511,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2022
     },
     {
         "house_number": "110",
         "street": "EAST 53 STREET",
+        "zipcode": 10022,
         "boro": "BROOKLYN",
+        "latitude": 40.7584461,
+        "longitude": -73.97133140000001,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2021
     },
     {
         "house_number": "341",
         "street": "5TH AVE",
+        "zipcode": 10016,
         "boro": "MANHATTAN",
+        "latitude": 40.747948,
+        "longitude": -73.98451399999999,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2021
     },
     {
-        "house_number": "159-38",
-        "street": "95 STREET",
-        "boro": "4",
-        "type_of_violation": "DOB Violation",
-        "year_of_violation": 2022
-    },
-    {
         "house_number": "159-02",
         "street": "JAMAICA AVE",
+        "zipcode": 11432,
         "boro": "4",
+        "latitude": 40.7032758,
+        "longitude": -73.79996489999999,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2019
     },
     {
         "house_number": "248",
         "street": "HOLLYWOOD AVENUE",
+        "zipcode": 90028,
         "boro": "4",
+        "latitude": 34.1015455,
+        "longitude": -118.3402566,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2022
     },
     {
         "house_number": "425",
         "street": "MORRIS AVENUE",
+        "zipcode": 10451,
         "boro": "BRONX",
+        "latitude": 40.8158771,
+        "longitude": -73.9239285,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2020
     },
     {
-        "house_number": "1865",
-        "street": "BROADWAY",
-        "boro": "MANHATTAN",
-        "type_of_violation": "DOB Violation",
-        "year_of_violation": 2022
-    },
-    {
         "house_number": "159-02",
         "street": "JAMAICA AVE",
+        "zipcode": 11432,
         "boro": "4",
+        "latitude": 40.7032758,
+        "longitude": -73.79996489999999,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2016
     },
     {
         "house_number": "200",
         "street": "MADISON STREET",
+        "zipcode": 10016,
         "boro": "BROOKLYN",
+        "latitude": 40.74913799999999,
+        "longitude": -73.98259329999999,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2022
-    },
-    {
-        "house_number": "217",
-        "street": "JEFFERSON STREET",
-        "boro": "BROOKLYN",
-        "type_of_violation": "DOB Violation",
-        "year_of_violation": 2021
     },
     {
         "house_number": "345",
         "street": "THATFORD AVENUE",
+        "zipcode": 11212,
         "boro": "BROOKLYN",
+        "latitude": 40.661825,
+        "longitude": -73.9075716,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2021
     },
     {
-        "house_number": "224-19",
-        "street": "144 AVENUE",
-        "boro": "4",
-        "type_of_violation": "DOB Violation",
-        "year_of_violation": 2022
-    },
-    {
         "house_number": "473",
         "street": "AMSTERDAM AVENUE",
+        "zipcode": 10024,
         "boro": "MANHATTAN",
+        "latitude": 40.785419,
+        "longitude": -73.9764332,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2022
     },
     {
         "house_number": "83",
         "street": "WEST 115 STREET",
+        "zipcode": 10026,
         "boro": "MANHATTAN",
+        "latitude": 40.8012942,
+        "longitude": -73.9497164,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2022
     },
     {
         "house_number": "684",
         "street": "EAGLE AVENUE",
+        "zipcode": 10455,
         "boro": "BRONX",
+        "latitude": 40.8178475,
+        "longitude": -73.91001349999999,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2022
     },
     {
         "house_number": "3400",
         "street": "WAYNE AVENUE",
+        "zipcode": 10467,
         "boro": "BRONX",
+        "latitude": 40.8792082,
+        "longitude": -73.87767749999999,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2020
     },
     {
         "house_number": "663 1/2",
         "street": "CITY ISLAND AVENUE",
+        "zipcode": 10464,
         "boro": "BRONX",
+        "latitude": 40.8562951,
+        "longitude": -73.7919333,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2022
     },
     {
         "house_number": "91-14",
         "street": "CORONA AVENUE",
+        "zipcode": 11373,
         "boro": "4",
+        "latitude": 40.7422762,
+        "longitude": -73.8730054,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2015
     },
     {
         "house_number": "600",
         "street": "ALBANY AVENUE",
+        "zipcode": 11203,
         "boro": "BROOKLYN",
+        "latitude": 40.6586799,
+        "longitude": -73.9402247,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2021
     },
     {
         "house_number": "735",
         "street": "PELHAM PARKWAY NORTH",
+        "zipcode": 10467,
         "boro": "BRONX",
+        "latitude": 40.8581057,
+        "longitude": -73.8659179,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2021
     },
     {
-        "house_number": "261 GAR",
-        "street": "OAKLAND AVENUE",
-        "boro": "STATEN ISLAND",
-        "type_of_violation": "DOB Violation",
-        "year_of_violation": 2022
-    },
-    {
         "house_number": "286",
         "street": "ASHLAND PLACE",
+        "zipcode": 11217,
         "boro": "BROOKLYN",
+        "latitude": 40.6867202,
+        "longitude": -73.9783475,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2021
     },
     {
         "house_number": "105-15",
         "street": "79 STREET",
+        "zipcode": 10075,
         "boro": "4",
+        "latitude": 40.7756468,
+        "longitude": -73.9599357,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2022
     },
     {
         "house_number": "190",
         "street": "E MOSHOLU PKWY SO",
+        "zipcode": 10458,
         "boro": "BRONX",
+        "latitude": 40.8742949,
+        "longitude": -73.883753,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2020
     },
     {
         "house_number": "2995",
         "street": "INDEPENDENCE AVENUE",
+        "zipcode": 20004,
         "boro": "BRONX",
+        "latitude": 38.8870088,
+        "longitude": -77.049955,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2022
     },
     {
         "house_number": "3400",
         "street": "WAYNE AVENUE",
+        "zipcode": 10467,
         "boro": "BRONX",
+        "latitude": 40.8792082,
+        "longitude": -73.87767749999999,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2020
     },
     {
         "house_number": "236",
         "street": "WEST 37 STREET",
+        "zipcode": 10018,
         "boro": "MANHATTAN",
+        "latitude": 40.753418,
+        "longitude": -73.9909418,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2017
     },
     {
         "house_number": "770        \u00a0",
         "street": "HUNTS POINT AVENUE",
+        "zipcode": 10474,
         "boro": "BRONX",
+        "latitude": 40.8163315,
+        "longitude": -73.8873421,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2016
     },
     {
         "house_number": "58",
         "street": "IRVING PLACE",
+        "zipcode": 10003,
         "boro": "M",
+        "latitude": 40.7360248,
+        "longitude": -73.9868259,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2019
     },
     {
         "house_number": "23",
         "street": "BARTLETT STREET",
+        "zipcode": 11206,
         "boro": "BROOKLYN",
+        "latitude": 40.701247,
+        "longitude": -73.9462937,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2022
     },
     {
-        "house_number": "8813",
-        "street": "FT HAMILTON AVE",
-        "boro": "BROOKLYN",
-        "type_of_violation": "DOB Violation",
-        "year_of_violation": 2020
-    },
-    {
         "house_number": "104",
         "street": "CHARLTON STREET",
+        "zipcode": 10013,
         "boro": "M",
+        "latitude": 40.7272004,
+        "longitude": -74.0082765,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2019
     },
     {
         "house_number": "86-11",
         "street": "34TH AVE",
+        "zipcode": 11372,
         "boro": "4",
+        "latitude": 40.754534,
+        "longitude": -73.8808019,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2018
     },
     {
         "house_number": "55",
         "street": "E 88 ST",
+        "zipcode": 10128,
         "boro": "MANHATTAN",
+        "latitude": 40.7794494,
+        "longitude": -73.9514135,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2018
     },
     {
         "house_number": "2084",
         "street": "5 AVENUE",
+        "zipcode": 10027,
         "boro": "MANHATTAN",
+        "latitude": 40.8087095,
+        "longitude": -73.9409261,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2022
     },
     {
         "house_number": "301",
         "street": "HENRY STREET",
+        "zipcode": 10002,
         "boro": "MANHATTAN",
+        "latitude": 40.7142218,
+        "longitude": -73.9826586,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2012
     },
     {
         "house_number": "452",
         "street": "FORT WASHINGTON AVENUE",
+        "zipcode": 10033,
         "boro": "MANHATTAN",
+        "latitude": 40.8501668,
+        "longitude": -73.9381405,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2011
     },
     {
         "house_number": "325",
         "street": "WEST BROADWAY",
+        "zipcode": 10013,
         "boro": "MANHATTAN",
+        "latitude": 40.7219513,
+        "longitude": -74.0038005,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2022
     },
     {
         "house_number": "526",
         "street": "WEST 111TH ST",
+        "zipcode": 10025,
         "boro": "MANHATTAN",
+        "latitude": 40.80404679999999,
+        "longitude": -73.9650064,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2015
     },
     {
         "house_number": "530",
         "street": "FULTON STREET",
+        "zipcode": 11217,
         "boro": "BROOKLYN",
+        "latitude": 40.6889209,
+        "longitude": -73.9816898,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2019
     },
     {
-        "house_number": "880",
-        "street": "BROADWAY",
-        "boro": "MANHATTAN",
-        "type_of_violation": "DOB Violation",
-        "year_of_violation": 2021
-    },
-    {
         "house_number": "720",
         "street": "FLUSHING AVENUE",
+        "zipcode": 11206,
         "boro": "BROOKLYN",
+        "latitude": 40.700066,
+        "longitude": -73.9433475,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2021
     },
     {
         "house_number": "301",
         "street": "HENRY STREET",
+        "zipcode": 10002,
         "boro": "MANHATTAN",
+        "latitude": 40.7142218,
+        "longitude": -73.9826586,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2012
     },
     {
         "house_number": "83",
         "street": "WEST 115 STREET",
+        "zipcode": 10026,
         "boro": "MANHATTAN",
+        "latitude": 40.8012942,
+        "longitude": -73.9497164,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2022
     },
     {
         "house_number": "175-30",
         "street": "LONG ISLAND EXPRESSWAY",
+        "zipcode": 11746,
         "boro": "4",
+        "latitude": 40.8009424,
+        "longitude": -73.3342678,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2021
     },
     {
         "house_number": "91-14",
         "street": "CORONA AVENUE",
+        "zipcode": 11373,
         "boro": "4",
+        "latitude": 40.7422762,
+        "longitude": -73.8730054,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2015
     },
     {
         "house_number": "425",
         "street": "MORRIS AVENUE",
+        "zipcode": 10451,
         "boro": "BRONX",
+        "latitude": 40.8158771,
+        "longitude": -73.9239285,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2020
     },
     {
         "house_number": "267",
         "street": "7 AVENUE",
+        "zipcode": 11215,
         "boro": "BROOKLYN",
+        "latitude": 40.6714728,
+        "longitude": -73.9873309,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2018
     },
     {
         "house_number": "273        \u00a0",
         "street": "WEST 131 STREET",
+        "zipcode": 10027,
         "boro": "MANHATTAN",
+        "latitude": 40.8141875,
+        "longitude": -73.94795409999999,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2013
     },
     {
         "house_number": "52",
         "street": "WEST 126 STREET",
+        "zipcode": 10027,
         "boro": "MANHATTAN",
+        "latitude": 40.807676,
+        "longitude": -73.9437669,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2020
     },
     {
         "house_number": "341",
         "street": "5TH AVE",
+        "zipcode": 10016,
         "boro": "MANHATTAN",
+        "latitude": 40.747948,
+        "longitude": -73.98451399999999,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2020
     },
     {
         "house_number": "155",
         "street": "E 52ND ST",
+        "zipcode": 10022,
         "boro": "MANHATTAN",
+        "latitude": 40.7574337,
+        "longitude": -73.97037639999999,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2021
     },
     {
         "house_number": "200",
         "street": "MADISON STREET",
+        "zipcode": 10016,
         "boro": "BROOKLYN",
+        "latitude": 40.74913799999999,
+        "longitude": -73.98259329999999,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2022
     },
     {
         "house_number": "636",
         "street": "FAILE STREET",
+        "zipcode": 10474,
         "boro": "BRONX",
+        "latitude": 40.8134079,
+        "longitude": -73.88591819999999,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2022
     },
     {
         "house_number": "183",
         "street": "JAVA STREET",
+        "zipcode": 11222,
         "boro": "BROOKLYN",
+        "latitude": 40.7319401,
+        "longitude": -73.95327189999999,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2022
     },
     {
-        "house_number": "217",
-        "street": "JEFFERSON STREET",
-        "boro": "BROOKLYN",
-        "type_of_violation": "DOB Violation",
-        "year_of_violation": 2020
-    },
-    {
         "house_number": "144-45",
         "street": "41 AVE",
+        "zipcode": 11355,
         "boro": "4",
+        "latitude": 40.7612426,
+        "longitude": -73.8198049,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2021
     },
     {
         "house_number": "444",
         "street": "BROADWAY",
+        "zipcode": 12204,
         "boro": "MANHATTAN",
+        "latitude": 42.7013161,
+        "longitude": -73.7170417,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2019
     },
     {
         "house_number": "48",
         "street": "WEST 21ST STREET",
+        "zipcode": 10010,
         "boro": "MANHATTAN",
+        "latitude": 40.7410042,
+        "longitude": -73.992897,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2019
     },
     {
         "house_number": "88-05",
         "street": "MERRICK BOULEVARD",
+        "zipcode": 11432,
         "boro": "4",
+        "latitude": 40.7086846,
+        "longitude": -73.7955805,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2021
     },
     {
         "house_number": "952",
         "street": "BEDFORD AVENUE",
+        "zipcode": 11205,
         "boro": "BROOKLYN",
+        "latitude": 40.6921675,
+        "longitude": -73.9559213,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2022
     },
     {
         "house_number": "777",
         "street": "WEST END AVE",
+        "zipcode": 10025,
         "boro": "MANHATTAN",
+        "latitude": 40.79655959999999,
+        "longitude": -73.9726702,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2018
     },
     {
         "house_number": "3201",
         "street": "GR CONCOURSE",
+        "zipcode": 10468,
         "boro": "BRONX",
+        "latitude": 40.8768598,
+        "longitude": -73.88590119999999,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2018
     },
     {
         "house_number": "86-21",
         "street": "112 STREET",
+        "zipcode": 10026,
         "boro": "4",
+        "latitude": 40.7993792,
+        "longitude": -73.9513176,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2021
     },
     {
-        "house_number": "99-45",
-        "street": "60 AVENUE",
-        "boro": "Q",
-        "type_of_violation": "DOB Violation",
-        "year_of_violation": 2018
-    },
-    {
         "house_number": "340",
         "street": "EAST 74 ST",
+        "zipcode": 10021,
         "boro": "MANHATTAN",
+        "latitude": 40.7693044,
+        "longitude": -73.95577639999999,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2016
     },
     {
         "house_number": "135-20",
         "street": "39 AVENUE",
+        "zipcode": 11354,
         "boro": "4",
+        "latitude": 40.7596675,
+        "longitude": -73.83138579999999,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2020
     },
     {
         "house_number": "86-11",
         "street": "34TH AVE",
+        "zipcode": 11372,
         "boro": "4",
+        "latitude": 40.754534,
+        "longitude": -73.8808019,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2018
     },
     {
         "house_number": "337",
         "street": "OCEAN PARKWAY",
+        "zipcode": 11218,
         "boro": "BROOKLYN",
+        "latitude": 40.6411123,
+        "longitude": -73.9730809,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2022
     },
     {
         "house_number": "790",
         "street": "BUSHWICK AVENUE",
+        "zipcode": 11221,
         "boro": "BROOKLYN",
+        "latitude": 40.6947857,
+        "longitude": -73.92840439999999,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2018
     },
     {
         "house_number": "34-56",
         "street": "92 STREET",
+        "zipcode": 10128,
         "boro": "4",
+        "latitude": 40.784578,
+        "longitude": -73.95629269999999,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2020
     },
     {
         "house_number": "245",
         "street": "WEST 63 STREET",
+        "zipcode": 10023,
         "boro": "MANHATTAN",
+        "latitude": 40.7739692,
+        "longitude": -73.9878444,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2021
     },
     {
         "house_number": "86",
         "street": "THOMAS STREET",
+        "zipcode": 10013,
         "boro": "MANHATTAN",
+        "latitude": 40.7171339,
+        "longitude": -74.00860469999999,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2021
     },
     {
-        "house_number": "2125",
-        "street": "72 STREET",
-        "boro": "BROOKLYN",
-        "type_of_violation": "DOB Violation",
-        "year_of_violation": 2022
-    },
-    {
-        "house_number": "8",
-        "street": "EAST 57 STREET",
-        "boro": "MANHATTAN",
-        "type_of_violation": "DOB Violation",
-        "year_of_violation": 2020
-    },
-    {
         "house_number": "1517",
         "street": "BUSHWICK AVENUE",
+        "zipcode": 11207,
         "boro": "BROOKLYN",
+        "latitude": 40.6828413,
+        "longitude": -73.9058314,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2021
     },
     {
         "house_number": "23",
         "street": "W 36TH ST",
+        "zipcode": 10018,
         "boro": "MANHATTAN",
+        "latitude": 40.7504487,
+        "longitude": -73.9848509,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2019
     },
     {
         "house_number": "1295",
         "street": "MADISON AVENUE",
+        "zipcode": 10128,
         "boro": "MANHATTAN",
+        "latitude": 40.7847977,
+        "longitude": -73.9556597,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2022
     },
     {
-        "house_number": "8",
-        "street": "EAST 57 STREET",
-        "boro": "MANHATTAN",
-        "type_of_violation": "DOB Violation",
-        "year_of_violation": 2019
-    },
-    {
         "house_number": "135-09",
         "street": "83RD AVE",
+        "zipcode": 11435,
         "boro": "4",
+        "latitude": 40.71279029999999,
+        "longitude": -73.8218527,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2021
     },
     {
         "house_number": "5401",
         "street": "7 AVENUE",
+        "zipcode": 10018,
         "boro": "BROOKLYN",
+        "latitude": 40.7517748,
+        "longitude": -73.9900696,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2022
     },
     {
         "house_number": "52",
         "street": "WEST  126 STREET",
+        "zipcode": 10027,
         "boro": "MANHATTAN",
+        "latitude": 40.807676,
+        "longitude": -73.9437669,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2015
     },
     {
         "house_number": "117",
         "street": "EAST 64 STREET",
+        "zipcode": 10065,
         "boro": "MANHATTAN",
+        "latitude": 40.7659242,
+        "longitude": -73.9666891,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2020
     },
     {
         "house_number": "110",
         "street": "EAST 53 STREET",
+        "zipcode": 10022,
         "boro": "BROOKLYN",
+        "latitude": 40.7584461,
+        "longitude": -73.97133140000001,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2020
     },
     {
         "house_number": "1776",
         "street": "EASTCHESTER ROAD",
+        "zipcode": 10461,
         "boro": "BRONX",
+        "latitude": 40.8494193,
+        "longitude": -73.8429704,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2022
     },
     {
         "house_number": "550",
         "street": "CAULDWELL AVENUE",
+        "zipcode": 10455,
         "boro": "B",
+        "latitude": 40.8146222,
+        "longitude": -73.91005609999999,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2019
     },
     {
         "house_number": "53",
         "street": "CHAUNCEY STREET",
+        "zipcode": 11233,
         "boro": "BROOKLYN",
+        "latitude": 40.6800933,
+        "longitude": -73.93381219999999,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2022
     },
     {
         "house_number": "425",
         "street": "MORRIS AVENUE",
+        "zipcode": 10451,
         "boro": "BRONX",
+        "latitude": 40.8158771,
+        "longitude": -73.9239285,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2020
     },
     {
         "house_number": "139-25",
         "street": "31 ROAD",
+        "zipcode": 102213,
         "boro": "4",
+        "latitude": 6.5988732,
+        "longitude": 3.279447,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2012
     },
     {
         "house_number": "438",
         "street": "UNION AVENUE",
+        "zipcode": 38103,
         "boro": "BROOKLYN",
+        "latitude": 35.1403152,
+        "longitude": -90.04280709999999,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2019
     },
     {
         "house_number": "273",
         "street": "WEST 131 STREET",
+        "zipcode": 10027,
         "boro": "MANHATTAN",
+        "latitude": 40.8141875,
+        "longitude": -73.94795409999999,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2020
     },
     {
-        "house_number": "60",
-        "street": "WEST 23 ST",
-        "boro": "MANHATTAN",
-        "type_of_violation": "DOB Violation",
-        "year_of_violation": 2019
-    },
-    {
         "house_number": "1091",
         "street": "GATES AVE",
+        "zipcode": 11221,
         "boro": "BROOKLYN",
+        "latitude": 40.6902991,
+        "longitude": -73.92158169999999,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2021
     },
     {
-        "house_number": "104-41GAR",
-        "street": "134 STREET",
-        "boro": "4",
-        "type_of_violation": "DOB Violation",
-        "year_of_violation": 2022
-    },
-    {
         "house_number": "412",
         "street": "E 147 ST",
+        "zipcode": 10455,
         "boro": "BRONX",
+        "latitude": 40.81409610000001,
+        "longitude": -73.9178032,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2020
     },
     {
         "house_number": "401",
         "street": "HARDING PARK",
+        "zipcode": 94132,
         "boro": "BRONX",
+        "latitude": 37.7248228,
+        "longitude": -122.4932023,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2021
     },
     {
         "house_number": "82",
         "street": "WEST BROADWAY",
+        "zipcode": 10007,
         "boro": "MANHATTAN",
+        "latitude": 40.7151623,
+        "longitude": -74.00971919999999,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2021
     },
     {
         "house_number": "6",
         "street": "CHATHAM SQUARE",
+        "zipcode": 10038,
         "boro": "MANHATTAN",
+        "latitude": 40.7139709,
+        "longitude": -73.9983144,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2022
     },
     {
         "house_number": "89-34",
         "street": "162 STREET",
+        "zipcode": 10452,
         "boro": "4",
+        "latitude": 40.8315201,
+        "longitude": -73.9292727,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2019
     },
     {
         "house_number": "3950",
         "street": "BLACKSTONE AVE",
+        "zipcode": 10471,
         "boro": "BRONX",
+        "latitude": 40.8905234,
+        "longitude": -73.9105843,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2017
     },
     {
         "house_number": "26",
         "street": "WEST 9 STREET",
+        "zipcode": 10011,
         "boro": "MANHATTAN",
+        "latitude": 40.7332779,
+        "longitude": -73.99744919999999,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2019
     },
     {
         "house_number": "3534",
         "street": "WAYNE AVENUE",
+        "zipcode": 45420,
         "boro": "BRONX",
+        "latitude": 39.7384552,
+        "longitude": -84.1452601,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2020
     },
     {
         "house_number": "636",
         "street": "FAILE STREET",
+        "zipcode": 10474,
         "boro": "BRONX",
+        "latitude": 40.8134079,
+        "longitude": -73.88591819999999,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2015
     },
     {
         "house_number": "720",
         "street": "FLUSHING AVENUE",
+        "zipcode": 11206,
         "boro": "BROOKLYN",
+        "latitude": 40.700066,
+        "longitude": -73.9433475,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2020
     },
     {
         "house_number": "341",
         "street": "5TH AVE",
+        "zipcode": 10016,
         "boro": "MANHATTAN",
+        "latitude": 40.747948,
+        "longitude": -73.98451399999999,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2020
     },
     {
         "house_number": "155",
         "street": "MONTAGUE STREET",
+        "zipcode": 11201,
         "boro": "BROOKLYN",
+        "latitude": 40.6947948,
+        "longitude": -73.9930921,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2013
     },
     {
         "house_number": "273",
         "street": "WEST 131 STREET",
+        "zipcode": 10027,
         "boro": "MANHATTAN",
+        "latitude": 40.8141875,
+        "longitude": -73.94795409999999,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2021
     },
     {
         "house_number": "329",
         "street": "WEST 112 STREET",
+        "zipcode": 10026,
         "boro": "MANHATTAN",
+        "latitude": 40.80246,
+        "longitude": -73.9583689,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2015
     },
     {
         "house_number": "42-05",
         "street": "LAYTON STREET",
+        "zipcode": 2050,
         "boro": "4",
+        "latitude": -33.8859314,
+        "longitude": 151.1771949,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2022
     },
     {
-        "house_number": "1221",
-        "street": "COLLEGE AVE",
-        "boro": "BRONX",
-        "type_of_violation": "DOB Violation",
-        "year_of_violation": 2018
-    },
-    {
         "house_number": "135-20",
         "street": "39 AVENUE",
+        "zipcode": 11354,
         "boro": "4",
+        "latitude": 40.7596675,
+        "longitude": -73.83138579999999,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2021
     },
     {
         "house_number": "345",
         "street": "THATFORD AVENUE",
+        "zipcode": 11212,
         "boro": "BROOKLYN",
+        "latitude": 40.661825,
+        "longitude": -73.9075716,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2021
     },
     {
         "house_number": "6",
         "street": "VARICK STREET",
+        "zipcode": 10013,
         "boro": "MANHATTAN",
+        "latitude": 40.71936780000001,
+        "longitude": -74.0065893,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2022
     },
     {
         "house_number": "14-04",
         "street": "111 STREET",
+        "zipcode": 11368,
         "boro": "4",
+        "latitude": 40.7416244,
+        "longitude": -73.8510208,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2021
     },
     {
         "house_number": "14-04",
         "street": "111 STREET",
+        "zipcode": 11368,
         "boro": "4",
+        "latitude": 40.7416244,
+        "longitude": -73.8510208,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2021
     },
     {
         "house_number": "110",
         "street": "WEST 56 STREET",
+        "zipcode": 10019,
         "boro": "MANHATTAN",
+        "latitude": 40.7637475,
+        "longitude": -73.9785033,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2020
     },
     {
         "house_number": "2828",
         "street": "WEST 28 STREET",
+        "zipcode": 11224,
         "boro": "BROOKLYN",
+        "latitude": 40.5746489,
+        "longitude": -73.9941453,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2022
     },
     {
         "house_number": "137",
         "street": "EAST   25 STREET",
+        "zipcode": 10010,
         "boro": "MANHATTAN",
+        "latitude": 40.740855,
+        "longitude": -73.983142,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2022
     },
     {
         "house_number": "1208",
         "street": "AVENUE U",
+        "zipcode": 11229,
         "boro": "BROOKLYN",
+        "latitude": 40.5982911,
+        "longitude": -73.9597017,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2019
     },
     {
         "house_number": "3950",
         "street": "BLACKSTONE AVE",
+        "zipcode": 10471,
         "boro": "BRONX",
+        "latitude": 40.8905234,
+        "longitude": -73.9105843,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2018
     },
     {
-        "house_number": "1883",
-        "street": "54 STREET",
-        "boro": "BROOKLYN",
-        "type_of_violation": "DOB Violation",
-        "year_of_violation": 2021
-    },
-    {
         "house_number": "650",
         "street": "WEST END AVENUE",
+        "zipcode": 10025,
         "boro": "MANHATTAN",
+        "latitude": 40.7924213,
+        "longitude": -73.97496799999999,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2021
     },
     {
         "house_number": "844        \u00a0",
         "street": "HUNTS POINT AVENUE",
+        "zipcode": 10474,
         "boro": "BRONX",
+        "latitude": 40.8176496,
+        "longitude": -73.8882723,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2013
     },
     {
         "house_number": "75",
         "street": "BENNETT ST",
+        "zipcode": 30309,
         "boro": "STATEN ISLAND",
+        "latitude": 33.8119059,
+        "longitude": -84.3942201,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2018
     },
     {
         "house_number": "240",
         "street": "WEST 65 STREET",
+        "zipcode": 10023,
         "boro": "MANHATTAN",
+        "latitude": 40.77469139999999,
+        "longitude": -73.98689329999999,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2022
     },
     {
         "house_number": "37-25",
         "street": "32 STREET",
+        "zipcode": 10001,
         "boro": "4",
+        "latitude": 40.7481097,
+        "longitude": -73.9872039,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2020
     },
     {
         "house_number": "71-28",
         "street": "ROOSEVELT AVENUE",
+        "zipcode": 11377,
         "boro": "4",
+        "latitude": 40.7463959,
+        "longitude": -73.89388439999999,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2019
     },
     {
         "house_number": "422",
         "street": "84 STREET",
+        "zipcode": 10024,
         "boro": "BROOKLYN",
+        "latitude": 40.7884906,
+        "longitude": -73.9810459,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2022
     },
     {
         "house_number": "442",
         "street": "5 AVENUE",
+        "zipcode": 10018,
         "boro": "MANHATTAN",
+        "latitude": 40.7521111,
+        "longitude": -73.9823202,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2014
     },
     {
         "house_number": "25-17",
         "street": "ASTORIA BOULEVARD",
+        "zipcode": 11102,
         "boro": "4",
+        "latitude": 40.7713566,
+        "longitude": -73.9221469,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2022
     },
     {
         "house_number": "235",
         "street": "WEST 63 ST",
+        "zipcode": 10023,
         "boro": "MANHATTAN",
+        "latitude": 40.7739596,
+        "longitude": -73.98770900000001,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2021
     },
     {
         "house_number": "109-24",
         "street": "MERRICK BOULEVARD",
+        "zipcode": 11433,
         "boro": "4",
+        "latitude": 40.6965981,
+        "longitude": -73.7839808,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2021
     },
     {
-        "house_number": "5240",
-        "street": "BROADWAY",
-        "boro": "MANHATTAN",
-        "type_of_violation": "DOB Violation",
-        "year_of_violation": 2022
-    },
-    {
         "house_number": "1713",
         "street": "MADISON AVENUE",
+        "zipcode": 10029,
         "boro": "MANHATTAN",
+        "latitude": 40.798229,
+        "longitude": -73.9457,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2022
-    },
-    {
-        "house_number": "99-25",
-        "street": "60 AVENUE",
-        "boro": "Q",
-        "type_of_violation": "DOB Violation",
-        "year_of_violation": 2018
-    },
-    {
-        "house_number": "1221",
-        "street": "COLLEGE AVE",
-        "boro": "BRONX",
-        "type_of_violation": "DOB Violation",
-        "year_of_violation": 2019
     },
     {
         "house_number": "232",
         "street": "E 6 ST",
+        "zipcode": 8540,
         "boro": "MANHATTAN",
+        "latitude": 68.35686199999999,
+        "longitude": 17.0102185,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2020
     },
     {
         "house_number": "326",
         "street": "W 83RD ST",
+        "zipcode": 10024,
         "boro": "MANHATTAN",
+        "latitude": 40.7872655,
+        "longitude": -73.9806007,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2017
     },
     {
         "house_number": "30",
         "street": "WEST 87 STREET",
+        "zipcode": 10024,
         "boro": "MANHATTAN",
+        "latitude": 40.7863336,
+        "longitude": -73.9702616,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2022
     },
     {
         "house_number": "99-30",
         "street": "59TH AVENUE",
+        "zipcode": 85302,
         "boro": "4",
+        "latitude": 33.5758575,
+        "longitude": -112.1867545,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2013
     },
     {
         "house_number": "237",
         "street": "EAST 86 STREET",
+        "zipcode": 10028,
         "boro": "MANHATTAN",
+        "latitude": 40.7783943,
+        "longitude": -73.95239339999999,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2020
     },
     {
         "house_number": "530",
         "street": "FULTON STREET",
+        "zipcode": 11217,
         "boro": "BROOKLYN",
+        "latitude": 40.6889209,
+        "longitude": -73.9816898,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2019
     },
     {
         "house_number": "41",
         "street": "CLARK STREET",
+        "zipcode": 11201,
         "boro": "BROOKLYN",
+        "latitude": 40.6978152,
+        "longitude": -73.9939694,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2019
     },
     {
         "house_number": "135-20",
         "street": "39 AVENUE",
+        "zipcode": 11354,
         "boro": "4",
+        "latitude": 40.7596675,
+        "longitude": -73.83138579999999,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2020
     },
     {
         "house_number": "7002",
         "street": "BAY PKWAY",
+        "zipcode": 11204,
         "boro": "BROOKLYN",
+        "latitude": 40.6108489,
+        "longitude": -73.984984,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2020
     },
     {
         "house_number": "790",
         "street": "BUSHWICK AVENUE",
+        "zipcode": 11221,
         "boro": "BROOKLYN",
+        "latitude": 40.6947857,
+        "longitude": -73.92840439999999,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2017
     },
     {
         "house_number": "38-43",
         "street": "12 STREET",
+        "zipcode": 11101,
         "boro": "4",
+        "latitude": 40.756924,
+        "longitude": -73.941626,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2022
     },
     {
         "house_number": "920",
         "street": "HYLAN BOULEVARD",
+        "zipcode": 10305,
         "boro": "STATEN ISLAND",
+        "latitude": 40.597762,
+        "longitude": -74.073019,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2022
     },
     {
         "house_number": "27",
         "street": "PENNSYLVANIA AVENUE",
+        "zipcode": 11207,
         "boro": "BROOKLYN",
+        "latitude": 40.6584573,
+        "longitude": -73.8904498,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2020
     },
     {
         "house_number": "26",
         "street": "WEST    9 STREET",
+        "zipcode": 10011,
         "boro": "MANHATTAN",
+        "latitude": 40.7332779,
+        "longitude": -73.99744919999999,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2015
     },
     {
         "house_number": "14-04",
         "street": "111 STREET",
+        "zipcode": 11368,
         "boro": "4",
+        "latitude": 40.7416244,
+        "longitude": -73.8510208,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2020
     },
     {
         "house_number": "3760",
         "street": "EAST TREMONT AVENUE",
+        "zipcode": 10465,
         "boro": "BRONX",
+        "latitude": 40.8258697,
+        "longitude": -73.8215795,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2022
     },
     {
         "house_number": "46",
         "street": "E 91ST ST",
+        "zipcode": 10128,
         "boro": "MANHATTAN",
+        "latitude": 40.7838041,
+        "longitude": -73.9564469,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2018
     },
     {
         "house_number": "650",
         "street": "WEST END AVENUE",
+        "zipcode": 10025,
         "boro": "MANHATTAN",
+        "latitude": 40.7924213,
+        "longitude": -73.97496799999999,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2020
     },
     {
         "house_number": "5430",
         "street": "NETHERLAND AVE",
+        "zipcode": 10471,
         "boro": "BRONX",
+        "latitude": 40.9022435,
+        "longitude": -73.9067183,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2020
     },
     {
         "house_number": "159-02",
         "street": "JAMAICA AVE",
+        "zipcode": 11432,
         "boro": "4",
+        "latitude": 40.7032758,
+        "longitude": -73.79996489999999,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2020
     },
     {
         "house_number": "14-04",
         "street": "111 STREET",
+        "zipcode": 11368,
         "boro": "4",
+        "latitude": 40.7416244,
+        "longitude": -73.8510208,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2021
     },
     {
         "house_number": "2460",
         "street": "FLATBUSH AVE",
+        "zipcode": 11234,
         "boro": "BROOKLYN",
+        "latitude": 40.6101236,
+        "longitude": -73.9235266,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2011
     },
     {
         "house_number": "1517",
         "street": "BUSHWICK AVENUE",
+        "zipcode": 11207,
         "boro": "BROOKLYN",
+        "latitude": 40.6828413,
+        "longitude": -73.9058314,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2021
     },
     {
         "house_number": "1481",
         "street": "STERLING PLACE",
+        "zipcode": 11213,
         "boro": "BROOKLYN",
+        "latitude": 40.6716371,
+        "longitude": -73.9293756,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2016
     },
     {
         "house_number": "760",
         "street": "BROADWAY",
+        "zipcode": 11206,
         "boro": "BROOKLYN",
+        "latitude": 40.7000538,
+        "longitude": -73.9417768,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2020
     },
     {
         "house_number": "143",
         "street": "NORTH 9 STREET",
+        "zipcode": 11249,
         "boro": "BROOKLYN",
+        "latitude": 40.7193696,
+        "longitude": -73.9568531,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2018
     },
     {
-        "house_number": "177",
-        "street": "KENT STREET",
-        "boro": "BROOKLYN",
-        "type_of_violation": "DOB Violation",
-        "year_of_violation": 2014
-    },
-    {
         "house_number": "101",
         "street": "HICKS STREET",
+        "zipcode": 11201,
         "boro": "BROOKLYN",
+        "latitude": 40.6985091,
+        "longitude": -73.9943117,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2016
     },
     {
-        "house_number": "33-01 GAR",
-        "street": "24 AVENUE",
-        "boro": "4",
-        "type_of_violation": "DOB Violation",
-        "year_of_violation": 2022
-    },
-    {
         "house_number": "30",
         "street": "E 21ST ST",
+        "zipcode": 10003,
         "boro": "MANHATTAN",
+        "latitude": 40.7379216,
+        "longitude": -73.9849817,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2021
     },
     {
         "house_number": "50",
         "street": "EAST    3 STREET",
+        "zipcode": 10003,
         "boro": "MANHATTAN",
+        "latitude": 40.7251879,
+        "longitude": -73.989454,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2022
     },
     {
         "house_number": "5415",
         "street": "NETHERLAND AV",
+        "zipcode": 10471,
         "boro": "BRONX",
+        "latitude": 40.9027359,
+        "longitude": -73.9073421,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2020
     },
     {
         "house_number": "119",
         "street": "SCRIBNER AVENUE",
+        "zipcode": 10301,
         "boro": "STATEN ISLAND",
+        "latitude": 40.6381239,
+        "longitude": -74.0860272,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2022
     },
     {
         "house_number": "135-09",
         "street": "83RD AVE",
+        "zipcode": 11435,
         "boro": "4",
+        "latitude": 40.71279029999999,
+        "longitude": -73.8218527,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2021
     },
     {
         "house_number": "164",
         "street": "WEST 25 STREET",
+        "zipcode": 10001,
         "boro": "MANHATTAN",
+        "latitude": 40.7450405,
+        "longitude": -73.99437139999999,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2020
     },
     {
         "house_number": "237",
         "street": "EAST 86 STREET",
+        "zipcode": 10028,
         "boro": "MANHATTAN",
+        "latitude": 40.7783943,
+        "longitude": -73.95239339999999,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2020
     },
     {
         "house_number": "74",
         "street": "GATLING PLACE",
+        "zipcode": 11209,
         "boro": "BROOKLYN",
+        "latitude": 40.618338,
+        "longitude": -74.02525159999999,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2022
     },
     {
         "house_number": "86",
         "street": "THOMAS STREET",
+        "zipcode": 10013,
         "boro": "MANHATTAN",
+        "latitude": 40.7171339,
+        "longitude": -74.00860469999999,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2020
     },
     {
         "house_number": "273        \u00a0",
         "street": "WEST 131 STREET",
+        "zipcode": 10027,
         "boro": "MANHATTAN",
+        "latitude": 40.8141875,
+        "longitude": -73.94795409999999,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2013
     },
     {
-        "house_number": "14",
-        "street": "WEST 86 STREET",
-        "boro": "MANHATTAN",
-        "type_of_violation": "DOB Violation",
-        "year_of_violation": 2021
-    },
-    {
         "house_number": "241",
         "street": "E 21ST ST",
+        "zipcode": 10010,
         "boro": "MANHATTAN",
+        "latitude": 40.736993,
+        "longitude": -73.98225939999999,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2019
     },
     {
         "house_number": "267",
         "street": "7 AVENUE",
+        "zipcode": 11215,
         "boro": "BROOKLYN",
+        "latitude": 40.6714728,
+        "longitude": -73.9873309,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2016
     },
     {
         "house_number": "162-45",
         "street": "CROSS BAY BLVD",
+        "zipcode": 11414,
         "boro": "4",
+        "latitude": 40.6532381,
+        "longitude": -73.83795490000001,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2021
     },
     {
         "house_number": "110",
         "street": "EAST 53 STREET",
+        "zipcode": 10022,
         "boro": "BROOKLYN",
+        "latitude": 40.7584461,
+        "longitude": -73.97133140000001,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2020
     },
     {
         "house_number": "119",
         "street": "SCRIBNER AVENUE",
+        "zipcode": 10301,
         "boro": "STATEN ISLAND",
+        "latitude": 40.6381239,
+        "longitude": -74.0860272,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2022
     },
     {
         "house_number": "\u00a0273       \u00a0",
         "street": "WEST 131 STREET",
+        "zipcode": 10027,
         "boro": "MANHATTAN",
+        "latitude": 40.8141875,
+        "longitude": -73.94795409999999,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2017
     },
     {
         "house_number": "237",
         "street": "EAST   86 STREET",
+        "zipcode": 10028,
         "boro": "MANHATTAN",
+        "latitude": 40.7783943,
+        "longitude": -73.95239339999999,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2017
     },
     {
         "house_number": "49",
         "street": "W 86TH ST",
+        "zipcode": 10024,
         "boro": "MANHATTAN",
+        "latitude": 40.7863669,
+        "longitude": -73.9714769,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2020
     },
     {
         "house_number": "232",
         "street": "E 6 ST",
+        "zipcode": 8540,
         "boro": "MANHATTAN",
+        "latitude": 68.35686199999999,
+        "longitude": 17.0102185,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2018
     },
     {
         "house_number": "326",
         "street": "W 83RD ST",
+        "zipcode": 10024,
         "boro": "MANHATTAN",
+        "latitude": 40.7872655,
+        "longitude": -73.9806007,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2019
     },
     {
         "house_number": "162-24",
         "street": "JAMAICA AVE",
+        "zipcode": 11433,
         "boro": "4",
+        "latitude": 40.7044211,
+        "longitude": -73.7970689,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2016
     },
     {
         "house_number": "159-02",
         "street": "JAMAICA AVE",
+        "zipcode": 11432,
         "boro": "4",
+        "latitude": 40.7032758,
+        "longitude": -73.79996489999999,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2019
     },
     {
         "house_number": "13",
         "street": "8 AVENUE",
+        "zipcode": 11220,
         "boro": "MANHATTAN",
+        "latitude": 40.637755,
+        "longitude": -74.007206,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2022
     },
     {
         "house_number": "425",
         "street": "MORRIS AVENUE",
+        "zipcode": 10451,
         "boro": "BRONX",
+        "latitude": 40.8158771,
+        "longitude": -73.9239285,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2020
     },
     {
-        "house_number": "91-20",
-        "street": "216 STREET",
-        "boro": "4",
-        "type_of_violation": "DOB Violation",
-        "year_of_violation": 2022
-    },
-    {
         "house_number": "5701",
         "street": "FORT HAMILTON PARKWAY",
+        "zipcode": 11219,
         "boro": "BROOKLYN",
+        "latitude": 40.6342905,
+        "longitude": -74.00343459999999,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2022
-    },
-    {
-        "house_number": "506",
-        "street": "6 STREET",
-        "boro": "BROOKLYN",
-        "type_of_violation": "DOB Violation",
-        "year_of_violation": 2021
     },
     {
         "house_number": "584",
         "street": "SACKETT STREET",
+        "zipcode": 11215,
         "boro": "BROOKLYN",
+        "latitude": 40.6790568,
+        "longitude": -73.9856544,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2022
     },
     {
         "house_number": "620",
         "street": "THWAITES PLACE",
+        "zipcode": 10467,
         "boro": "BRONX",
+        "latitude": 40.8587056,
+        "longitude": -73.8700695,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2019
     },
     {
         "house_number": "110",
         "street": "EAST 53 STREET",
+        "zipcode": 10022,
         "boro": "BROOKLYN",
+        "latitude": 40.7584461,
+        "longitude": -73.97133140000001,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2020
     },
     {
         "house_number": "200",
         "street": "MADISON STREET",
+        "zipcode": 10016,
         "boro": "BROOKLYN",
+        "latitude": 40.74913799999999,
+        "longitude": -73.98259329999999,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2022
     },
     {
         "house_number": "340",
         "street": "EAST 74 ST",
+        "zipcode": 10021,
         "boro": "MANHATTAN",
+        "latitude": 40.7693044,
+        "longitude": -73.95577639999999,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2016
     },
     {
         "house_number": "783",
         "street": "PARK AVE",
+        "zipcode": 10021,
         "boro": "MANHATTAN",
+        "latitude": 40.7717983,
+        "longitude": -73.96300719999999,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2019
     },
     {
-        "house_number": "21-06",
-        "street": "45 AVENUE",
-        "boro": "4",
-        "type_of_violation": "DOB Violation",
-        "year_of_violation": 2022
-    },
-    {
         "house_number": "30",
         "street": "E 21ST ST",
+        "zipcode": 10003,
         "boro": "MANHATTAN",
+        "latitude": 40.7379216,
+        "longitude": -73.9849817,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2021
     },
     {
         "house_number": "159-02",
         "street": "JAMAICA AVE",
+        "zipcode": 11432,
         "boro": "4",
+        "latitude": 40.7032758,
+        "longitude": -73.79996489999999,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2017
     },
     {
         "house_number": "14-04",
         "street": "111 STREET",
+        "zipcode": 11368,
         "boro": "4",
+        "latitude": 40.7416244,
+        "longitude": -73.8510208,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2019
     },
     {
         "house_number": "760",
         "street": "BROADWAY",
+        "zipcode": 11206,
         "boro": "BROOKLYN",
+        "latitude": 40.7000538,
+        "longitude": -73.9417768,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2021
     },
     {
         "house_number": "5444",
         "street": "ARLINGTON AVE",
+        "zipcode": 92504,
         "boro": "BRONX",
-        "type_of_violation": "DOB Violation",
-        "year_of_violation": 2020
-    },
-    {
-        "house_number": "353",
-        "street": "93 STREET",
-        "boro": "BROOKLYN",
+        "latitude": 33.9457331,
+        "longitude": -117.4217277,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2020
     },
     {
         "house_number": "89-34",
         "street": "162 STREET",
+        "zipcode": 10452,
         "boro": "4",
+        "latitude": 40.8315201,
+        "longitude": -73.9292727,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2022
     },
     {
         "house_number": "23",
         "street": "W 36TH ST",
+        "zipcode": 10018,
         "boro": "MANHATTAN",
+        "latitude": 40.7504487,
+        "longitude": -73.9848509,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2014
     },
     {
         "house_number": "5420",
         "street": "NETHERLAND AVE",
+        "zipcode": 10471,
         "boro": "BRONX",
+        "latitude": 40.902217,
+        "longitude": -73.906234,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2020
     },
     {
         "house_number": "228",
         "street": "EAST 46 STREET",
+        "zipcode": 10017,
         "boro": "MANHATTAN",
+        "latitude": 40.7526764,
+        "longitude": -73.9715626,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2021
     },
     {
         "house_number": "143",
         "street": "NORTH 9 STREET",
+        "zipcode": 11249,
         "boro": "BROOKLYN",
+        "latitude": 40.7193696,
+        "longitude": -73.9568531,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2019
     },
     {
         "house_number": "5410",
         "street": "NETHERLAND AV",
+        "zipcode": 10471,
         "boro": "BRONX",
+        "latitude": 40.9023912,
+        "longitude": -73.9065814,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2020
     },
     {
         "house_number": "720",
         "street": "FLUSHING AVENUE",
+        "zipcode": 11206,
         "boro": "BROOKLYN",
+        "latitude": 40.700066,
+        "longitude": -73.9433475,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2021
     },
     {
         "house_number": "273        \u00a0",
         "street": "WEST 131 STREET",
+        "zipcode": 10027,
         "boro": "MANHATTAN",
+        "latitude": 40.8141875,
+        "longitude": -73.94795409999999,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2013
     },
     {
         "house_number": "237",
         "street": "WEST 63 STREET",
+        "zipcode": 10023,
         "boro": "MANHATTAN",
+        "latitude": 40.7738249,
+        "longitude": -73.98750249999999,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2021
     },
     {
         "house_number": "145",
         "street": "WEST 44 STREET",
+        "zipcode": 10036,
         "boro": "MANHATTAN",
+        "latitude": 40.7571092,
+        "longitude": -73.9847751,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2020
     },
     {
         "house_number": "425",
         "street": "MORRIS AVENUE",
+        "zipcode": 10451,
         "boro": "BRONX",
+        "latitude": 40.8158771,
+        "longitude": -73.9239285,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2020
     },
     {
         "house_number": "14-04",
         "street": "111 STREET",
+        "zipcode": 11368,
         "boro": "4",
+        "latitude": 40.7416244,
+        "longitude": -73.8510208,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2019
     },
     {
         "house_number": "5444",
         "street": "ARLINGTON AVE",
+        "zipcode": 92504,
         "boro": "BRONX",
+        "latitude": 33.9457331,
+        "longitude": -117.4217277,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2020
     },
     {
         "house_number": "760",
         "street": "BROADWAY",
+        "zipcode": 11206,
         "boro": "BROOKLYN",
+        "latitude": 40.7000538,
+        "longitude": -73.9417768,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2020
     },
     {
         "house_number": "14-04",
         "street": "111 STREET",
+        "zipcode": 11368,
         "boro": "4",
+        "latitude": 40.7416244,
+        "longitude": -73.8510208,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2019
     },
     {
         "house_number": "232",
         "street": "E 6 ST",
+        "zipcode": 8540,
         "boro": "MANHATTAN",
+        "latitude": 68.35686199999999,
+        "longitude": 17.0102185,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2021
     },
     {
         "house_number": "892",
         "street": "3 AVENUE",
+        "zipcode": 10456,
         "boro": "BROOKLYN",
+        "latitude": 40.8327501,
+        "longitude": -73.9050863,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2011
     },
     {
         "house_number": "175-30",
         "street": "LONG ISLAND EXPRESSWAY",
+        "zipcode": 11746,
         "boro": "4",
+        "latitude": 40.8009424,
+        "longitude": -73.3342678,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2020
     },
     {
         "house_number": "5450",
         "street": "NETHERLAND AVE",
+        "zipcode": 10471,
         "boro": "BRONX",
+        "latitude": 40.9023912,
+        "longitude": -73.9065814,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2020
     },
     {
-        "house_number": "217",
-        "street": "JEFFERSON STREET",
-        "boro": "BROOKLYN",
-        "type_of_violation": "DOB Violation",
-        "year_of_violation": 2021
-    },
-    {
-        "house_number": "582",
-        "street": "2 STREET",
-        "boro": "BROOKLYN",
-        "type_of_violation": "DOB Violation",
-        "year_of_violation": 2013
-    },
-    {
         "house_number": "88",
         "street": "WEST BROADWAY",
+        "zipcode": 10007,
         "boro": "MANHATTAN",
+        "latitude": 40.7153785,
+        "longitude": -74.0096078,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2021
     },
     {
         "house_number": "35",
         "street": "MEADOW STREET",
+        "zipcode": 11206,
         "boro": "BROOKLYN",
+        "latitude": 40.7110687,
+        "longitude": -73.9358445,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2015
     },
     {
         "house_number": "3713",
         "street": "KINGS HIGHWAY",
+        "zipcode": 11234,
         "boro": "BROOKLYN",
-        "type_of_violation": "DOB Violation",
-        "year_of_violation": 2018
-    },
-    {
-        "house_number": "105-33",
-        "street": "66 AVENUE",
-        "boro": "4",
-        "type_of_violation": "DOB Violation",
-        "year_of_violation": 2014
-    },
-    {
-        "house_number": "142-31",
-        "street": "FRANKLIN AVENUE",
-        "boro": "4",
+        "latitude": 40.621652,
+        "longitude": -73.9390198,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2018
     },
     {
         "house_number": "5440",
         "street": "NETHERLAND AVE",
+        "zipcode": 10471,
         "boro": "BRONX",
+        "latitude": 40.9025754,
+        "longitude": -73.9067482,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2020
     },
     {
         "house_number": "783",
         "street": "PARK AVE",
+        "zipcode": 10021,
         "boro": "MANHATTAN",
+        "latitude": 40.7717983,
+        "longitude": -73.96300719999999,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2017
     },
     {
         "house_number": "5445",
         "street": "NETHERLAND AVE",
+        "zipcode": 10471,
         "boro": "BRONX",
-        "type_of_violation": "DOB Violation",
-        "year_of_violation": 2020
-    },
-    {
-        "house_number": "506",
-        "street": "6 STREET",
-        "boro": "BROOKLYN",
+        "latitude": 40.9028247,
+        "longitude": -73.9070362,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2020
     },
     {
         "house_number": "920",
         "street": "HYLAN BOULEVARD",
+        "zipcode": 10305,
         "boro": "STATEN ISLAND",
+        "latitude": 40.597762,
+        "longitude": -74.073019,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2022
     },
     {
         "house_number": "71",
         "street": "HUDSON STREET",
+        "zipcode": 10013,
         "boro": "MANHATTAN",
+        "latitude": 40.7182472,
+        "longitude": -74.0092061,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2020
     },
     {
         "house_number": "310",
         "street": "W 72ND ST",
+        "zipcode": 10023,
         "boro": "MANHATTAN",
+        "latitude": 40.7798545,
+        "longitude": -73.9853445,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2021
     },
     {
         "house_number": "2-26",
         "street": "50 AVENUE",
+        "zipcode": 11101,
         "boro": "4",
+        "latitude": 40.7430519,
+        "longitude": -73.9571613,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2022
     },
     {
         "house_number": "32-50",
         "street": "STEINWAY STREET",
+        "zipcode": 11103,
         "boro": "4",
+        "latitude": 40.7577735,
+        "longitude": -73.9202983,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2015
     },
     {
         "house_number": "2",
         "street": "MOTT STREET",
+        "zipcode": 10013,
         "boro": "MANHATTAN",
+        "latitude": 40.7138425,
+        "longitude": -73.998498,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2021
     },
     {
         "house_number": "110",
         "street": "EAST 53 STREET",
+        "zipcode": 10022,
         "boro": "BROOKLYN",
-        "type_of_violation": "DOB Violation",
-        "year_of_violation": 2020
-    },
-    {
-        "house_number": "2991",
-        "street": "BR 13TH ST",
-        "boro": "BROOKLYN",
+        "latitude": 40.7584461,
+        "longitude": -73.97133140000001,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2020
     },
     {
         "house_number": "1136",
         "street": "5 AVENUE",
+        "zipcode": 10128,
         "boro": "MANHATTAN",
+        "latitude": 40.7869137,
+        "longitude": -73.9561648,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2012
     },
     {
         "house_number": "8",
         "street": "JAY STREET",
+        "zipcode": 11201,
         "boro": "MANHATTAN",
+        "latitude": 40.7045483,
+        "longitude": -73.98657519999999,
         "type_of_violation": "DOB Violation",
         "year_of_violation": 2014
     }
