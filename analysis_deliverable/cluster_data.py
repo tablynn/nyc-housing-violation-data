@@ -63,18 +63,45 @@ def visualize_violation_clusters(data, centroids=None, centroid_indices=None,
    # plt.savefig(output_dir + plot_name + ".png")
     plt.show()
 
+def elbow_point_plot(cluster, errors):
+    """
+    This function helps create a plot representing the tradeoff between the
+    number of clusters and the inertia values.
+
+    :param cluster: 1D np array that represents K (the number of clusters)
+    :param errors: 1D np array that represents the inertia values
+    """
+    plt.clf()
+    plt.plot(cluster, errors)
+    plt.xlabel('Number of Clusters')
+    plt.ylabel('Inertia')
+    plt.title('elbow_plot')
+    #plt.savefig(output_dir + "/elbow_plot.png")
+    plt.show()
+
 def read_data(path):
     # df = pd.read_csv('data/housing_income_merged.csv') 
     # df = df[['latitude', 'longitude', 'year_of_violation', 'med_income']]
     # print(df)
     with open(path) as data_file:
         data = pd.read_csv(data_file)[feature_columns].to_numpy()
-    print(data)
+    
     return data    
     
 
 def clustering(data, max_iters):
-    k = 4
+    k_values = []
+    inertia_values = []
+    for i in range(1, 10): 
+        k_values.append(i)
+        kmeans = Kmeans(data, i, max_iters)
+        centroids, idx = kmeans.run()
+        inertia = kmeans.inertia(centroids, idx)
+        inertia_values.append(inertia)
+    
+    #elbow_point_plot(np.array(k_values), np.array(inertia_values))
+
+    k = 10
     centroids, idx = Kmeans(data, k, max_iters).run()
 
     visualize_violation_clusters(data, centroids=centroids, centroid_indices=idx,

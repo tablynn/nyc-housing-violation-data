@@ -5,6 +5,8 @@ from sklearn.model_selection import train_test_split
 from sklearn.neighbors import KNeighborsClassifier
 import pandas as pd
 import matplotlib.pyplot as plt
+from sklearn.model_selection import cross_val_score
+import numpy as np
 
 
 main = housing_merged =  pd.read_csv('../data_deliverable/data/housing_income_merged.csv')
@@ -30,6 +32,10 @@ print("Test set:", X_test.shape, y_test.shape)
 k = 4
 # Train model
 KNN = KNeighborsClassifier(k).fit(X_train, y_train)
+cv_scores = cross_val_score(KNN, X, y, cv=10)
+
+print('cv scores', cv_scores)
+print('CV average', np.sum(cv_scores)/len(cv_scores))
 
 # Predict test set
 yhat = KNN.predict(X_test)
