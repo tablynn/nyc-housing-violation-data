@@ -4,6 +4,7 @@
         "street": "WEST 14TH ST",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2018
     },
     {
@@ -11,6 +12,7 @@
         "street": "COLUMBIA STREET",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2021
     },
     {
@@ -18,6 +20,7 @@
         "street": "CENTRAL PARK WEST",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2019
     },
     {
@@ -25,6 +28,7 @@
         "street": "WEST END AVE",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2021
     },
     {
@@ -32,6 +36,7 @@
         "street": "E 72 ST",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2020
     },
     {
@@ -39,6 +44,7 @@
         "street": "24 STREET",
         "boro": "4",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2022
     },
     {
@@ -46,6 +52,7 @@
         "street": "BEACH 100 STREET",
         "boro": "4",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2017
     },
     {
@@ -53,6 +60,7 @@
         "street": "NORTH RIVER",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2020
     },
     {
@@ -60,6 +68,7 @@
         "street": "ST MARKS AV",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2021
     },
     {
@@ -67,6 +76,7 @@
         "street": "BROOKLYN AVENUE",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2022
     },
     {
@@ -74,6 +84,7 @@
         "street": "CENTRAL PARK WEST",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2019
     },
     {
@@ -81,6 +92,7 @@
         "street": "CENTRAL PARK WEST",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2019
     },
     {
@@ -88,6 +100,7 @@
         "street": "93 STREET",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2020
     },
     {
@@ -95,6 +108,7 @@
         "street": "UNITED NATIONS PLAZA",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2021
     },
     {
@@ -102,6 +116,7 @@
         "street": "INTERVALE AVENUE",
         "boro": "BRONX",
         "type_of_violation": "DOB Violation",
+        "status": "Open",
         "year_of_violation": 2022
     },
     {
@@ -109,6 +124,7 @@
         "street": "ST PAULS CT",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2021
     },
     {
@@ -116,6 +132,7 @@
         "street": "CHARLES STREET",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2012
     },
     {
@@ -123,6 +140,7 @@
         "street": "PUTNAM AVENUE",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2020
     },
     {
@@ -130,6 +148,7 @@
         "street": "COLUMBIA STREET",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2021
     },
     {
@@ -137,6 +156,7 @@
         "street": "HOLLYWOOD AVENUE",
         "boro": "4",
         "type_of_violation": "DOB Violation",
+        "status": "Open",
         "year_of_violation": 2022
     },
     {
@@ -144,6 +164,7 @@
         "street": "DELAFIELD AVENUE",
         "boro": "BRONX",
         "type_of_violation": "DOB Violation",
+        "status": "Open",
         "year_of_violation": 2022
     },
     {
@@ -151,6 +172,7 @@
         "street": "WEST 115 STREET",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Open",
         "year_of_violation": 2022
     },
     {
@@ -158,6 +180,7 @@
         "street": "UNITED NATIONS PLAZA",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2021
     },
     {
@@ -165,6 +188,7 @@
         "street": "EAST 57 STREET",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2021
     },
     {
@@ -172,6 +196,7 @@
         "street": "W 36TH ST",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2017
     },
     {
@@ -179,6 +204,7 @@
         "street": "MANOR ROAD",
         "boro": "4",
         "type_of_violation": "DOB Violation",
+        "status": "Open",
         "year_of_violation": 2022
     },
     {
@@ -186,6 +212,7 @@
         "street": "ST MARKS AV",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2020
     },
     {
@@ -193,6 +220,7 @@
         "street": "CENTRAL PARK WEST",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2019
     },
     {
@@ -200,6 +228,7 @@
         "street": "CENTRAL PARK WEST",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2019
     },
     {
@@ -207,6 +236,7 @@
         "street": "LEXINGTON AVE",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2020
     },
     {
@@ -214,6 +244,7 @@
         "street": "VETERANS AVENUE",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2013
     },
     {
@@ -221,6 +252,7 @@
         "street": "ST MARKS AV",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2020
     },
     {
@@ -228,6 +260,7 @@
         "street": "CENTRAL PARK WEST",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2019
     },
     {
@@ -235,6 +268,7 @@
         "street": "UNITED NATIONS PLAZA",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2021
     },
     {
@@ -242,6 +276,7 @@
         "street": "DELAFIELD AVENUE",
         "boro": "BRONX",
         "type_of_violation": "DOB Violation",
+        "status": "Open",
         "year_of_violation": 2022
     },
     {
@@ -249,6 +284,7 @@
         "street": "BROADWAY",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2022
     },
     {
@@ -256,6 +292,7 @@
         "street": "FABER STREET",
         "boro": "STATEN ISLAND",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2014
     },
     {
@@ -263,6 +300,7 @@
         "street": "WEST END AVE",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2021
     },
     {
@@ -270,6 +308,7 @@
         "street": "MANOR ROAD",
         "boro": "4",
         "type_of_violation": "DOB Violation",
+        "status": "Open",
         "year_of_violation": 2022
     },
     {
@@ -277,6 +316,7 @@
         "street": "NEILSON ST",
         "boro": "4",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2021
     },
     {
@@ -284,6 +324,7 @@
         "street": "CENTRAL PARK WEST",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2019
     },
     {
@@ -291,6 +332,7 @@
         "street": "MANOR ROAD",
         "boro": "4",
         "type_of_violation": "DOB Violation",
+        "status": "Open",
         "year_of_violation": 2022
     },
     {
@@ -298,6 +340,7 @@
         "street": "LORIMER STREET",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2021
     },
     {
@@ -305,6 +348,7 @@
         "street": "W 82ND ST",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2018
     },
     {
@@ -312,6 +356,7 @@
         "street": "BANK STREET",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2021
     },
     {
@@ -319,6 +364,7 @@
         "street": "BEACH 98 STREET",
         "boro": "4",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2017
     },
     {
@@ -326,6 +372,7 @@
         "street": "CLARK ST",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2019
     },
     {
@@ -333,6 +380,7 @@
         "street": "CENTRAL PARK WEST",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2019
     },
     {
@@ -340,6 +388,7 @@
         "street": "CENTRAL PARK WEST",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2019
     },
     {
@@ -347,6 +396,7 @@
         "street": "EAST 54 STREET",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2017
     },
     {
@@ -354,6 +404,7 @@
         "street": "NEILSON ST",
         "boro": "4",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2021
     },
     {
@@ -361,6 +412,7 @@
         "street": "WEST 64 ST",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2021
     },
     {
@@ -368,6 +420,7 @@
         "street": "LAFAYETTE AVENUE",
         "boro": "BRONX",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2019
     },
     {
@@ -375,6 +428,7 @@
         "street": "LAFAYETTE AVENUE",
         "boro": "BRONX",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2020
     },
     {
@@ -382,6 +436,7 @@
         "street": "HOLLYWOOD AVENUE",
         "boro": "4",
         "type_of_violation": "DOB Violation",
+        "status": "Open",
         "year_of_violation": 2022
     },
     {
@@ -389,6 +444,7 @@
         "street": "OLINVILLE AVENUE",
         "boro": "BRONX",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2021
     },
     {
@@ -396,6 +452,7 @@
         "street": "CENTRAL PARK WEST",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2019
     },
     {
@@ -403,6 +460,7 @@
         "street": "ST MARKS AV",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2021
     },
     {
@@ -410,6 +468,7 @@
         "street": "CENTRAL PARK WEST",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2019
     },
     {
@@ -417,6 +476,7 @@
         "street": "CENTRAL PARK WEST",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2019
     },
     {
@@ -424,6 +484,7 @@
         "street": "WEST END AVE",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2021
     },
     {
@@ -431,6 +492,7 @@
         "street": "CENTRAL PARK WEST",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2019
     },
     {
@@ -438,6 +500,7 @@
         "street": "WESTGATE STREET",
         "boro": "4",
         "type_of_violation": "DOB Violation",
+        "status": "Open",
         "year_of_violation": 2022
     },
     {
@@ -445,6 +508,7 @@
         "street": "WEST 239TH ST",
         "boro": "BRONX",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2019
     },
     {
@@ -452,6 +516,7 @@
         "street": "CENTRAL PARK WEST",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2019
     },
     {
@@ -459,6 +524,7 @@
         "street": "E 72 ST",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2020
     },
     {
@@ -466,6 +532,7 @@
         "street": "PAYSON AVENUE",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2022
     },
     {
@@ -473,6 +540,7 @@
         "street": "NEPTUNE.AVE",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2020
     },
     {
@@ -480,6 +548,7 @@
         "street": "WEST END AVE",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2021
     },
     {
@@ -487,6 +556,7 @@
         "street": "CLARK ST",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2018
     },
     {
@@ -494,6 +564,7 @@
         "street": "8 AVENUE",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2011
     },
     {
@@ -501,6 +572,7 @@
         "street": "NEPTUNE.AVE",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2020
     },
     {
@@ -508,6 +580,7 @@
         "street": "CARROLL PL",
         "boro": "BRONX",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2019
     },
     {
@@ -515,6 +588,7 @@
         "street": "THIRD AVE",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2020
     },
     {
@@ -522,6 +596,7 @@
         "street": "PENNSYLVANIA AVENUE",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2021
     },
     {
@@ -529,6 +604,7 @@
         "street": "64 AVENUE",
         "boro": "4",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2019
     },
     {
@@ -536,6 +612,7 @@
         "street": "CENTRAL PARK WEST",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2019
     },
     {
@@ -543,6 +620,7 @@
         "street": "CENTRAL PARK WEST",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2019
     },
     {
@@ -550,6 +628,7 @@
         "street": "NEILSON ST",
         "boro": "4",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2021
     },
     {
@@ -557,6 +636,7 @@
         "street": "CENTRAL PARK WEST",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2019
     },
     {
@@ -564,6 +644,7 @@
         "street": "WEST END AVE",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2021
     },
     {
@@ -571,6 +652,7 @@
         "street": "BEACH 100 STREET",
         "boro": "4",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2017
     },
     {
@@ -578,6 +660,7 @@
         "street": "FULTON STREET",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2019
     },
     {
@@ -585,6 +668,7 @@
         "street": "BEACH 98 STREET",
         "boro": "4",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2017
     },
     {
@@ -592,6 +676,7 @@
         "street": "THWAITES PLACE",
         "boro": "BRONX",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2017
     },
     {
@@ -599,6 +684,7 @@
         "street": "OCEAN PKWY",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2020
     },
     {
@@ -606,6 +692,7 @@
         "street": "WEST 24 STREET",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2020
     },
     {
@@ -613,6 +700,7 @@
         "street": "OLINVILLE AVENUE",
         "boro": "BRONX",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2021
     },
     {
@@ -620,6 +708,7 @@
         "street": "CENTRAL PARK WEST",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2019
     },
     {
@@ -627,6 +716,7 @@
         "street": "W 82ND ST",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2019
     },
     {
@@ -634,6 +724,7 @@
         "street": "VETERANS AVENUE",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Open",
         "year_of_violation": 2017
     },
     {
@@ -641,6 +732,7 @@
         "street": "E 40 ST",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2020
     },
     {
@@ -648,6 +740,7 @@
         "street": "SOUTH AVENUE",
         "boro": "STATEN ISLAND",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2015
     },
     {
@@ -655,6 +748,7 @@
         "street": "MORRIS AVENUE",
         "boro": "BRONX",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2020
     },
     {
@@ -662,6 +756,7 @@
         "street": "216 STREET",
         "boro": "4",
         "type_of_violation": "DOB Violation",
+        "status": "Open",
         "year_of_violation": 2022
     },
     {
@@ -669,6 +764,7 @@
         "street": "HILLSIDE AVENUE",
         "boro": "4",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2013
     },
     {
@@ -676,6 +772,7 @@
         "street": "HILLSIDE AVENUE",
         "boro": "4",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2014
     },
     {
@@ -683,6 +780,7 @@
         "street": "BEACH 30 STREET",
         "boro": "4",
         "type_of_violation": "DOB Violation",
+        "status": "Open",
         "year_of_violation": 2022
     },
     {
@@ -690,6 +788,7 @@
         "street": "WEST 51 STREET",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2018
     },
     {
@@ -697,6 +796,7 @@
         "street": "HILLSIDE AVE",
         "boro": "4",
         "type_of_violation": "DOB Violation",
+        "status": "Open",
         "year_of_violation": 2017
     },
     {
@@ -704,6 +804,7 @@
         "street": "THIRD AVE",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2021
     },
     {
@@ -711,6 +812,7 @@
         "street": "HILLSIDE AVENUE",
         "boro": "4",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2011
     },
     {
@@ -718,6 +820,7 @@
         "street": "ALBANY AVENUE",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2021
     },
     {
@@ -725,6 +828,7 @@
         "street": "E 46TH ST",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2021
     },
     {
@@ -732,6 +836,7 @@
         "street": "64TH STREET",
         "boro": "4",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2011
     },
     {
@@ -739,6 +844,7 @@
         "street": "MONROE STREET",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Open",
         "year_of_violation": 2022
     },
     {
@@ -746,6 +852,7 @@
         "street": "VALENTINE AVE",
         "boro": "BRONX",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2020
     },
     {
@@ -753,6 +860,7 @@
         "street": "SCHENCK AVENUE",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Open",
         "year_of_violation": 2022
     },
     {
@@ -760,6 +868,7 @@
         "street": "102 STREET",
         "boro": "4",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2011
     },
     {
@@ -767,6 +876,7 @@
         "street": "EAST 9 STREET",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2022
     },
     {
@@ -774,6 +884,7 @@
         "street": "EAST   64 STREET",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2019
     },
     {
@@ -781,6 +892,7 @@
         "street": "ST LAWRENCE AVENUE",
         "boro": "BRONX",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2022
     },
     {
@@ -788,6 +900,7 @@
         "street": "NEPTUNE.AVE",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2019
     },
     {
@@ -795,6 +908,7 @@
         "street": "E 147 ST",
         "boro": "BRONX",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2021
     },
     {
@@ -802,6 +916,7 @@
         "street": "EAST 57 STREET",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2019
     },
     {
@@ -809,6 +924,7 @@
         "street": "OCEAN PKWY",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2021
     },
     {
@@ -816,6 +932,7 @@
         "street": "5 AVENUE",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2020
     },
     {
@@ -823,6 +940,7 @@
         "street": "UNDERHILL AVE",
         "boro": "BRONX",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2018
     },
     {
@@ -830,6 +948,7 @@
         "street": "WEST 218 STREET",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2022
     },
     {
@@ -837,6 +956,7 @@
         "street": "THIRD AVE",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2020
     },
     {
@@ -844,6 +964,7 @@
         "street": "WEST 5 STREET",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2020
     },
     {
@@ -851,6 +972,7 @@
         "street": "8 AVENUE",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Open",
         "year_of_violation": 2022
     },
     {
@@ -858,6 +980,7 @@
         "street": "NEPTUNE AVE",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2020
     },
     {
@@ -865,6 +988,7 @@
         "street": "NEPTUNE AVE",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2020
     },
     {
@@ -872,6 +996,7 @@
         "street": "WINDOM AVENUE",
         "boro": "STATEN ISLAND",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2022
     },
     {
@@ -879,6 +1004,7 @@
         "street": "AVON ROAD",
         "boro": "4",
         "type_of_violation": "DOB Violation",
+        "status": "Open",
         "year_of_violation": 2022
     },
     {
@@ -886,6 +1012,7 @@
         "street": "NEPTUNE AVE",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2020
     },
     {
@@ -893,6 +1020,7 @@
         "street": "W 38TH ST",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2020
     },
     {
@@ -900,6 +1028,7 @@
         "street": "41 AVENUE",
         "boro": "4",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2021
     },
     {
@@ -907,6 +1036,7 @@
         "street": "MORRIS AVENUE",
         "boro": "BRONX",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2020
     },
     {
@@ -914,6 +1044,7 @@
         "street": "MADISON AVENUE",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2018
     },
     {
@@ -921,6 +1052,7 @@
         "street": "WEST 9 STREET",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2021
     },
     {
@@ -928,6 +1060,7 @@
         "street": "CORONA AVENUE",
         "boro": "4",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2015
     },
     {
@@ -935,6 +1068,7 @@
         "street": "6 AVENUE",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2021
     },
     {
@@ -942,6 +1076,7 @@
         "street": "MAIN STREET",
         "boro": "4",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2017
     },
     {
@@ -949,6 +1084,7 @@
         "street": "WEST 5 STREET",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2021
     },
     {
@@ -956,6 +1092,7 @@
         "street": "OCEAN PKWY",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2019
     },
     {
@@ -963,6 +1100,7 @@
         "street": "HILLSIDE AVENUE",
         "boro": "4",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2014
     },
     {
@@ -970,6 +1108,7 @@
         "street": "162 STREET",
         "boro": "4",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2022
     },
     {
@@ -977,6 +1116,7 @@
         "street": "EAST 105 STREET",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2022
     },
     {
@@ -984,6 +1124,7 @@
         "street": "CLERMONT AVENUE",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Open",
         "year_of_violation": 2022
     },
     {
@@ -991,6 +1132,7 @@
         "street": "NEPTUNE.AVE",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2021
     },
     {
@@ -998,6 +1140,7 @@
         "street": "MORRIS AVENUE",
         "boro": "BRONX",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2020
     },
     {
@@ -1005,6 +1148,7 @@
         "street": "59 STREET",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2022
     },
     {
@@ -1012,6 +1156,7 @@
         "street": "LAFAYETTE ST",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2021
     },
     {
@@ -1019,6 +1164,7 @@
         "street": "WEST 5 STREET",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2020
     },
     {
@@ -1026,6 +1172,7 @@
         "street": "STEUBEN AVENUE",
         "boro": "BRONX",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2018
     },
     {
@@ -1033,6 +1180,7 @@
         "street": "EDWARD CURRY AVENUE",
         "boro": "STATEN ISLAND",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2018
     },
     {
@@ -1040,6 +1188,7 @@
         "street": "HILLSIDE AVENUE",
         "boro": "4",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2011
     },
     {
@@ -1047,6 +1196,7 @@
         "street": "PARK AVE",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2017
     },
     {
@@ -1054,6 +1204,7 @@
         "street": "ELMHURST AVENUE",
         "boro": "4",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2012
     },
     {
@@ -1061,6 +1212,7 @@
         "street": "PARK AVE",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2018
     },
     {
@@ -1068,6 +1220,7 @@
         "street": "OCEAN PKWY",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2019
     },
     {
@@ -1075,6 +1228,7 @@
         "street": "EAST 70 STREET",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2019
     },
     {
@@ -1082,6 +1236,7 @@
         "street": "OCEAN PARKWAY",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2019
     },
     {
@@ -1089,6 +1244,7 @@
         "street": "BANK STREET",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Open",
         "year_of_violation": 2022
     },
     {
@@ -1096,6 +1252,7 @@
         "street": "FRANKLIN STREET",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Open",
         "year_of_violation": 2022
     },
     {
@@ -1103,6 +1260,7 @@
         "street": "BROADWAY",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2021
     },
     {
@@ -1110,6 +1268,7 @@
         "street": "GRAND STREET",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Open",
         "year_of_violation": 2022
     },
     {
@@ -1117,6 +1276,7 @@
         "street": "31 ROAD",
         "boro": "4",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2021
     },
     {
@@ -1124,6 +1284,7 @@
         "street": "NEPTUNE AVE",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2020
     },
     {
@@ -1131,6 +1292,7 @@
         "street": "PARK AVE",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2017
     },
     {
@@ -1138,6 +1300,7 @@
         "street": "5TH AVE",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2018
     },
     {
@@ -1145,6 +1308,7 @@
         "street": "WEST 5 STREET",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2020
     },
     {
@@ -1152,6 +1316,7 @@
         "street": "EDWARD CURRY AVENUE",
         "boro": "STATEN ISLAND",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2018
     },
     {
@@ -1159,6 +1324,7 @@
         "street": "EAST 44 ST",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2020
     },
     {
@@ -1166,6 +1332,7 @@
         "street": "W 57 ST",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2021
     },
     {
@@ -1173,6 +1340,7 @@
         "street": "BROADWAY",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2020
     },
     {
@@ -1180,6 +1348,7 @@
         "street": "EAST 70 STREET",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2012
     },
     {
@@ -1187,6 +1356,7 @@
         "street": "BROADWAY",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2020
     },
     {
@@ -1194,6 +1364,7 @@
         "street": "W 57 ST",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2018
     },
     {
@@ -1201,6 +1372,7 @@
         "street": "NEPTUNE.AVE",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2020
     },
     {
@@ -1208,6 +1380,7 @@
         "street": "39 AVENUE",
         "boro": "4",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2020
     },
     {
@@ -1215,6 +1388,7 @@
         "street": "NEPTUNE.AVE",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2020
     },
     {
@@ -1222,6 +1396,7 @@
         "street": "ROE STREET",
         "boro": "STATEN ISLAND",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2018
     },
     {
@@ -1229,6 +1404,7 @@
         "street": "WEST 5 STREET",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2020
     },
     {
@@ -1236,6 +1412,7 @@
         "street": "WEST 127 STREET",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Open",
         "year_of_violation": 2022
     },
     {
@@ -1243,6 +1420,7 @@
         "street": "OCEAN PKWY",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2020
     },
     {
@@ -1250,6 +1428,7 @@
         "street": "FLATBUSH AVE",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2014
     },
     {
@@ -1257,6 +1436,7 @@
         "street": "QUEENS BOULEVARD",
         "boro": "4",
         "type_of_violation": "DOB Violation",
+        "status": "Open",
         "year_of_violation": 2013
     },
     {
@@ -1264,6 +1444,7 @@
         "street": "BROADWAY",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2021
     },
     {
@@ -1271,6 +1452,7 @@
         "street": "PARK AVE",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2017
     },
     {
@@ -1278,6 +1460,7 @@
         "street": "PARK AVE",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2018
     },
     {
@@ -1285,6 +1468,7 @@
         "street": "PELHAM PARKWAY S",
         "boro": "BRONX",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2021
     },
     {
@@ -1292,6 +1476,7 @@
         "street": "BROADWAY",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2021
     },
     {
@@ -1299,6 +1484,7 @@
         "street": "ADAM CLAYTON POWELL JR BOULEVARD",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2022
     },
     {
@@ -1306,6 +1492,7 @@
         "street": "NEPTUNE AVE",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2020
     },
     {
@@ -1313,6 +1500,7 @@
         "street": "W 33RD ST",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2021
     },
     {
@@ -1320,6 +1508,7 @@
         "street": "WEST 5 STREET",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2020
     },
     {
@@ -1327,6 +1516,7 @@
         "street": "EAST 158 STREET",
         "boro": "BRONX",
         "type_of_violation": "DOB Violation",
+        "status": "Open",
         "year_of_violation": 2022
     },
     {
@@ -1334,6 +1524,7 @@
         "street": "59 AVENUE",
         "boro": "Q",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2018
     },
     {
@@ -1341,6 +1532,7 @@
         "street": "EAST   70 STREET",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2011
     },
     {
@@ -1348,6 +1540,7 @@
         "street": "EAST 14 ST",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2021
     },
     {
@@ -1355,6 +1548,7 @@
         "street": "HILLSIDE AVENUE",
         "boro": "4",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2022
     },
     {
@@ -1362,6 +1556,7 @@
         "street": "GROVE STREET",
         "boro": "STATEN ISLAND",
         "type_of_violation": "DOB Violation",
+        "status": "Open",
         "year_of_violation": 2022
     },
     {
@@ -1369,6 +1564,7 @@
         "street": "MADISON AVENUE",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2022
     },
     {
@@ -1376,6 +1572,7 @@
         "street": "WEST 35 STREET",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2013
     },
     {
@@ -1383,6 +1580,7 @@
         "street": "OCEAN PARKWAY",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2017
     },
     {
@@ -1390,6 +1588,7 @@
         "street": "AVENUE P",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2021
     },
     {
@@ -1397,6 +1596,7 @@
         "street": "5TH AVE",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2019
     },
     {
@@ -1404,6 +1604,7 @@
         "street": "PELHAM PARKWAY S",
         "boro": "BRONX",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2021
     },
     {
@@ -1411,6 +1612,7 @@
         "street": "DEKALB AVENUE",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2021
     },
     {
@@ -1418,6 +1620,7 @@
         "street": "PELHAM PARKWAY S",
         "boro": "BRONX",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2019
     },
     {
@@ -1425,6 +1628,7 @@
         "street": "NEWTON STREET",
         "boro": "STATEN ISLAND",
         "type_of_violation": "DOB Violation",
+        "status": "Open",
         "year_of_violation": 2022
     },
     {
@@ -1432,6 +1636,7 @@
         "street": "SUTPHIN BOULEVARD",
         "boro": "4",
         "type_of_violation": "DOB Violation",
+        "status": "Open",
         "year_of_violation": 2022
     },
     {
@@ -1439,6 +1644,7 @@
         "street": "WEST 5 STREET",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2020
     },
     {
@@ -1446,6 +1652,7 @@
         "street": "MORRIS AVENUE",
         "boro": "BRONX",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2020
     },
     {
@@ -1453,6 +1660,7 @@
         "street": "CHERRY AVENUE",
         "boro": "4",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2012
     },
     {
@@ -1460,6 +1668,7 @@
         "street": "SUMPTER STREET",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Open",
         "year_of_violation": 2022
     },
     {
@@ -1467,6 +1676,7 @@
         "street": "HICKS STREET",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2022
     },
     {
@@ -1474,6 +1684,7 @@
         "street": "73 STREET",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2022
     },
     {
@@ -1481,6 +1692,7 @@
         "street": "EAST 18TH ST",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2021
     },
     {
@@ -1488,6 +1700,7 @@
         "street": "ANTHONY AVENUE",
         "boro": "BRONX",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2022
     },
     {
@@ -1495,6 +1708,7 @@
         "street": "WILD AVENUE",
         "boro": "STATEN ISLAND",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2022
     },
     {
@@ -1502,6 +1716,7 @@
         "street": "W 14TH ST",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2020
     },
     {
@@ -1509,6 +1724,7 @@
         "street": "JEROME AVE",
         "boro": "BRONX",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2020
     },
     {
@@ -1516,6 +1732,7 @@
         "street": "VETERANS AVENUE",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Open",
         "year_of_violation": 2013
     },
     {
@@ -1523,6 +1740,7 @@
         "street": "EAST 102 STREET",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2022
     },
     {
@@ -1530,6 +1748,7 @@
         "street": "EVERGREEN AVE",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2021
     },
     {
@@ -1537,6 +1756,7 @@
         "street": "BEACH 30 STREET",
         "boro": "4",
         "type_of_violation": "DOB Violation",
+        "status": "Open",
         "year_of_violation": 2022
     },
     {
@@ -1544,6 +1764,7 @@
         "street": "51 STREET",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Open",
         "year_of_violation": 2022
     },
     {
@@ -1551,6 +1772,7 @@
         "street": "NEPTUNE.AVE",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2020
     },
     {
@@ -1558,6 +1780,7 @@
         "street": "NEPTUNE AVE",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2021
     },
     {
@@ -1565,6 +1788,7 @@
         "street": "EAST 74 ST",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2017
     },
     {
@@ -1572,6 +1796,7 @@
         "street": "VETERANS AVENUE",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Open",
         "year_of_violation": 2015
     },
     {
@@ -1579,6 +1804,7 @@
         "street": "FRANKLIN STREET",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2021
     },
     {
@@ -1586,6 +1812,7 @@
         "street": "EASTCHESTER ROAD",
         "boro": "BRONX",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2017
     },
     {
@@ -1593,6 +1820,7 @@
         "street": "OCEAN PKWY",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2020
     },
     {
@@ -1600,6 +1828,7 @@
         "street": "OCEAN PARKWAY",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2019
     },
     {
@@ -1607,6 +1836,7 @@
         "street": "PARK AVE",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2017
     },
     {
@@ -1614,6 +1844,7 @@
         "street": "OCEAN PKWY",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2020
     },
     {
@@ -1621,6 +1852,7 @@
         "street": "CORONA AVENUE",
         "boro": "4",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2017
     },
     {
@@ -1628,6 +1860,7 @@
         "street": "NEPTUNE AVE",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2020
     },
     {
@@ -1635,6 +1868,7 @@
         "street": "145 STREET",
         "boro": "4",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2011
     },
     {
@@ -1642,6 +1876,7 @@
         "street": "162 STREET",
         "boro": "4",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2021
     },
     {
@@ -1649,6 +1884,7 @@
         "street": "E 88 ST",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2018
     },
     {
@@ -1656,6 +1892,7 @@
         "street": "EAST 65 STREET",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2022
     },
     {
@@ -1663,6 +1900,7 @@
         "street": "NEPTUNE.AVE",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2020
     },
     {
@@ -1670,6 +1908,7 @@
         "street": "OCEAN PKWY",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2020
     },
     {
@@ -1677,6 +1916,7 @@
         "street": "12 STREET",
         "boro": "4",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2021
     },
     {
@@ -1684,6 +1924,7 @@
         "street": "WEST 36 STREET",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2018
     },
     {
@@ -1691,6 +1932,7 @@
         "street": "HILLSIDE AVENUE",
         "boro": "4",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2013
     },
     {
@@ -1698,6 +1940,7 @@
         "street": "EAST 70 STREET",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2013
     },
     {
@@ -1705,6 +1948,7 @@
         "street": "SIMMONS LANE",
         "boro": "STATEN ISLAND",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2018
     },
     {
@@ -1712,6 +1956,7 @@
         "street": "W 57 ST",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2021
     },
     {
@@ -1719,6 +1964,7 @@
         "street": "EAST 18TH ST",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2020
     },
     {
@@ -1726,6 +1972,7 @@
         "street": "JACOBUS PL",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2021
     },
     {
@@ -1733,6 +1980,7 @@
         "street": "W 57 ST",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2018
     },
     {
@@ -1740,6 +1988,7 @@
         "street": "5TH AVE",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2018
     },
     {
@@ -1747,6 +1996,7 @@
         "street": "EASTERN PARKWAY",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2020
     },
     {
@@ -1754,6 +2004,7 @@
         "street": "60 AVENUE",
         "boro": "4",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2013
     },
     {
@@ -1761,6 +2012,7 @@
         "street": "3 STREET",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Open",
         "year_of_violation": 2022
     },
     {
@@ -1768,6 +2020,7 @@
         "street": "SEABURY PLACE",
         "boro": "BRONX",
         "type_of_violation": "DOB Violation",
+        "status": "Open",
         "year_of_violation": 2022
     },
     {
@@ -1775,6 +2028,7 @@
         "street": "104 ROAD",
         "boro": "4",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2022
     },
     {
@@ -1782,6 +2036,7 @@
         "street": "EAST 9 STREET",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2022
     },
     {
@@ -1789,6 +2044,7 @@
         "street": "PELHAM PARKWAY S",
         "boro": "BRONX",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2019
     },
     {
@@ -1796,6 +2052,7 @@
         "street": "WEST 5 STREET",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2020
     },
     {
@@ -1803,6 +2060,7 @@
         "street": "CLYMER STREET",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Open",
         "year_of_violation": 2016
     },
     {
@@ -1810,6 +2068,7 @@
         "street": "WEST END AVE",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2017
     },
     {
@@ -1817,6 +2076,7 @@
         "street": "DEKALB AVENUE",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2021
     },
     {
@@ -1824,6 +2084,7 @@
         "street": "STEUBEN AVENUE",
         "boro": "BRONX",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2020
     },
     {
@@ -1831,6 +2092,7 @@
         "street": "FT HAMILTON AVE",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2020
     },
     {
@@ -1838,6 +2100,7 @@
         "street": "W 34TH ST",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2020
     },
     {
@@ -1845,6 +2108,7 @@
         "street": "BAINBRIDGE AVENUE",
         "boro": "BRONX",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2018
     },
     {
@@ -1852,6 +2116,7 @@
         "street": "JACOBUS PL",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2018
     },
     {
@@ -1859,6 +2124,7 @@
         "street": "E 147 ST",
         "boro": "BRONX",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2021
     },
     {
@@ -1866,6 +2132,7 @@
         "street": "HILLSIDE AVENUE",
         "boro": "4",
         "type_of_violation": "DOB Violation",
+        "status": "Open",
         "year_of_violation": 2015
     },
     {
@@ -1873,6 +2140,7 @@
         "street": "WEST END AVE",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2017
     },
     {
@@ -1880,6 +2148,7 @@
         "street": "E 147 ST",
         "boro": "BRONX",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2021
     },
     {
@@ -1887,6 +2156,7 @@
         "street": "KINGSTON AVENUE",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Open",
         "year_of_violation": 2022
     },
     {
@@ -1894,6 +2164,7 @@
         "street": "6 STREET",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2020
     },
     {
@@ -1901,6 +2172,7 @@
         "street": "HILLSIDE AVE",
         "boro": "4",
         "type_of_violation": "DOB Violation",
+        "status": "Open",
         "year_of_violation": 2016
     },
     {
@@ -1908,6 +2180,7 @@
         "street": "6 STREET",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2021
     },
     {
@@ -1915,6 +2188,7 @@
         "street": "NEPTUNE.AVE",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2020
     },
     {
@@ -1922,6 +2196,7 @@
         "street": "WHITE PLAINS ROAD",
         "boro": "BRONX",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2019
     },
     {
@@ -1929,6 +2204,7 @@
         "street": "162 STREET",
         "boro": "4",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2021
     },
     {
@@ -1936,6 +2212,7 @@
         "street": "WEST 5 STREET",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2019
     },
     {
@@ -1943,6 +2220,7 @@
         "street": "W 23 ST",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2020
     },
     {
@@ -1950,6 +2228,7 @@
         "street": "FLUSHING AVENUE",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2020
     },
     {
@@ -1957,6 +2236,7 @@
         "street": "WEST 5 STREET",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2020
     },
     {
@@ -1964,6 +2244,7 @@
         "street": "JAMAICA AVE",
         "boro": "4",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2016
     },
     {
@@ -1971,6 +2252,7 @@
         "street": "OCEAN PKWY",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2019
     },
     {
@@ -1978,6 +2260,7 @@
         "street": "EAST 70 STREET",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Open",
         "year_of_violation": 2016
     },
     {
@@ -1985,6 +2268,7 @@
         "street": "WEST   55 STREET",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2011
     },
     {
@@ -1992,6 +2276,7 @@
         "street": "NASSAU AVENUE",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2015
     },
     {
@@ -1999,6 +2284,7 @@
         "street": "85 RD",
         "boro": "4",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2018
     },
     {
@@ -2006,6 +2292,7 @@
         "street": "WEST 17 STREET",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2022
     },
     {
@@ -2013,6 +2300,7 @@
         "street": "72 STREET",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2022
     },
     {
@@ -2020,6 +2308,7 @@
         "street": "94 AVENUE",
         "boro": "4",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2020
     },
     {
@@ -2027,6 +2316,7 @@
         "street": "EAST TREMONT AVENUE",
         "boro": "BRONX",
         "type_of_violation": "DOB Violation",
+        "status": "Open",
         "year_of_violation": 2022
     },
     {
@@ -2034,6 +2324,7 @@
         "street": "EAST 141 STREET",
         "boro": "BRONX",
         "type_of_violation": "DOB Violation",
+        "status": "Open",
         "year_of_violation": 2022
     },
     {
@@ -2041,6 +2332,7 @@
         "street": "WEST 225 STREET",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2022
     },
     {
@@ -2048,6 +2340,7 @@
         "street": "FT HAMILTON AVE",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2021
     },
     {
@@ -2055,6 +2348,7 @@
         "street": "ASHLAND PLACE",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2021
     },
     {
@@ -2062,6 +2356,7 @@
         "street": "EAST 105 STREET",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2022
     },
     {
@@ -2069,6 +2364,7 @@
         "street": "FLUSHING AVENUE",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2020
     },
     {
@@ -2076,6 +2372,7 @@
         "street": "WEST 131 STREET",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2013
     },
     {
@@ -2083,6 +2380,7 @@
         "street": "EAST TREMONT AVENUE",
         "boro": "BRONX",
         "type_of_violation": "DOB Violation",
+        "status": "Open",
         "year_of_violation": 2022
     },
     {
@@ -2090,6 +2388,7 @@
         "street": "61 STREET",
         "boro": "4",
         "type_of_violation": "DOB Violation",
+        "status": "Open",
         "year_of_violation": 2022
     },
     {
@@ -2097,6 +2396,7 @@
         "street": "CORONA AVENUE",
         "boro": "4",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2017
     },
     {
@@ -2104,6 +2404,7 @@
         "street": "12 STREET",
         "boro": "4",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2022
     },
     {
@@ -2111,6 +2412,7 @@
         "street": "153 STREET",
         "boro": "4",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2021
     },
     {
@@ -2118,6 +2420,7 @@
         "street": "17 AVENUE",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2021
     },
     {
@@ -2125,6 +2428,7 @@
         "street": "FLUSHING AVENUE",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2020
     },
     {
@@ -2132,6 +2436,7 @@
         "street": "41 AVE",
         "boro": "4",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2021
     },
     {
@@ -2139,6 +2444,7 @@
         "street": "HUNTS POINT AVENUE",
         "boro": "BRONX",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2021
     },
     {
@@ -2146,6 +2452,7 @@
         "street": "WEST 44 STREET",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2015
     },
     {
@@ -2153,6 +2460,7 @@
         "street": "49 PLACE",
         "boro": "4",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2021
     },
     {
@@ -2160,6 +2468,7 @@
         "street": "THIRD AVENUE",
         "boro": "BRONX",
         "type_of_violation": "DOB Violation",
+        "status": "Open",
         "year_of_violation": 2022
     },
     {
@@ -2167,6 +2476,7 @@
         "street": "W 86TH ST",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2020
     },
     {
@@ -2174,6 +2484,7 @@
         "street": "VERNON AVENUE",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Open",
         "year_of_violation": 2022
     },
     {
@@ -2181,6 +2492,7 @@
         "street": "WEST 168 STREET",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Open",
         "year_of_violation": 2022
     },
     {
@@ -2188,6 +2500,7 @@
         "street": "EAST 6 STREET",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Open",
         "year_of_violation": 2022
     },
     {
@@ -2195,6 +2508,7 @@
         "street": "EAST 74 STREET",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2021
     },
     {
@@ -2202,6 +2516,7 @@
         "street": "PENNSYLVANIA AVENUE",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2022
     },
     {
@@ -2209,6 +2524,7 @@
         "street": "BARTLETT STREET",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2022
     },
     {
@@ -2216,6 +2532,7 @@
         "street": "CLERMONT AVENUE",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Open",
         "year_of_violation": 2022
     },
     {
@@ -2223,6 +2540,7 @@
         "street": "EAST 9 STREET",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Open",
         "year_of_violation": 2022
     },
     {
@@ -2230,6 +2548,7 @@
         "street": "EAST    3 STREET",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2022
     },
     {
@@ -2237,6 +2556,7 @@
         "street": "AUDUBON AVENUE",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2019
     },
     {
@@ -2244,6 +2564,7 @@
         "street": "CLERMONT AVENUE",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Open",
         "year_of_violation": 2022
     },
     {
@@ -2251,6 +2572,7 @@
         "street": "WEST 111TH ST",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2017
     },
     {
@@ -2258,6 +2580,7 @@
         "street": "WEST 87 STREET",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2022
     },
     {
@@ -2265,6 +2588,7 @@
         "street": "WEST END AVENUE",
         "boro": "M",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2019
     },
     {
@@ -2272,6 +2596,7 @@
         "street": "7 AVENUE",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2016
     },
     {
@@ -2279,6 +2604,7 @@
         "street": "BLACKSTONE AVE",
         "boro": "BRONX",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2018
     },
     {
@@ -2286,6 +2612,7 @@
         "street": "JAMAICA AVE",
         "boro": "4",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2019
     },
     {
@@ -2293,6 +2620,7 @@
         "street": "SHORE PARKWAY",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Open",
         "year_of_violation": 2022
     },
     {
@@ -2300,6 +2628,7 @@
         "street": "GRAND AVENUE",
         "boro": "BRONX",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2019
     },
     {
@@ -2307,6 +2636,7 @@
         "street": "FLUSHING AVENUE",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2020
     },
     {
@@ -2314,6 +2644,7 @@
         "street": "31 ROAD",
         "boro": "4",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2012
     },
     {
@@ -2321,6 +2652,7 @@
         "street": "CHAUNCEY STREET",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Open",
         "year_of_violation": 2022
     },
     {
@@ -2328,6 +2660,7 @@
         "street": "EAST TREMONT AVENUE",
         "boro": "BRONX",
         "type_of_violation": "DOB Violation",
+        "status": "Open",
         "year_of_violation": 2022
     },
     {
@@ -2335,6 +2668,7 @@
         "street": "FLUSHING AVENUE",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2021
     },
     {
@@ -2342,6 +2676,7 @@
         "street": "104 STREET",
         "boro": "4",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2011
     },
     {
@@ -2349,6 +2684,7 @@
         "street": "RIVERSIDE BOULEVARD",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2021
     },
     {
@@ -2356,6 +2692,7 @@
         "street": "ROCKAWAY AVENUE",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2015
     },
     {
@@ -2363,6 +2700,7 @@
         "street": "18 STREET",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2021
     },
     {
@@ -2370,6 +2708,7 @@
         "street": "RIVERSIDE BOULEVARD",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2021
     },
     {
@@ -2377,6 +2716,7 @@
         "street": "93 STREET",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2020
     },
     {
@@ -2384,6 +2724,7 @@
         "street": "COURT ST",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2021
     },
     {
@@ -2391,6 +2732,7 @@
         "street": "79 STREET",
         "boro": "4",
         "type_of_violation": "DOB Violation",
+        "status": "Open",
         "year_of_violation": 2022
     },
     {
@@ -2398,6 +2740,7 @@
         "street": "CLERMONT AVENUE",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Open",
         "year_of_violation": 2022
     },
     {
@@ -2405,6 +2748,7 @@
         "street": "CENTRAL PARK WEST",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2022
     },
     {
@@ -2412,6 +2756,7 @@
         "street": "91 STREET",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Open",
         "year_of_violation": 2021
     },
     {
@@ -2419,6 +2764,7 @@
         "street": "216 STREET",
         "boro": "4",
         "type_of_violation": "DOB Violation",
+        "status": "Open",
         "year_of_violation": 2022
     },
     {
@@ -2426,6 +2772,7 @@
         "street": "WAYNE AVENUE",
         "boro": "BRONX",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2020
     },
     {
@@ -2433,6 +2780,7 @@
         "street": "BROOK STREET",
         "boro": "STATEN ISLAND",
         "type_of_violation": "DOB Violation",
+        "status": "Open",
         "year_of_violation": 2022
     },
     {
@@ -2440,6 +2788,7 @@
         "street": "QUENTIN ROAD",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2022
     },
     {
@@ -2447,6 +2796,7 @@
         "street": "PARK AVENUE",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2022
     },
     {
@@ -2454,6 +2804,7 @@
         "street": "DEKALB AVENUE",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2022
     },
     {
@@ -2461,6 +2812,7 @@
         "street": "BUSH STREET",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2020
     },
     {
@@ -2468,6 +2820,7 @@
         "street": "EXTERIOR STREET",
         "boro": "BRONX",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2022
     },
     {
@@ -2475,6 +2828,7 @@
         "street": "PARK AVE",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2021
     },
     {
@@ -2482,6 +2836,7 @@
         "street": "FIRST AVENUE",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2022
     },
     {
@@ -2489,6 +2844,7 @@
         "street": "BROADWAY",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2021
     },
     {
@@ -2496,6 +2852,7 @@
         "street": "AUDOBON AVENUE",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Open",
         "year_of_violation": 2022
     },
     {
@@ -2503,6 +2860,7 @@
         "street": "162 STREET",
         "boro": "4",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2021
     },
     {
@@ -2510,6 +2868,7 @@
         "street": "79 STREET",
         "boro": "4",
         "type_of_violation": "DOB Violation",
+        "status": "Open",
         "year_of_violation": 2022
     },
     {
@@ -2517,6 +2876,7 @@
         "street": "METROPOLITAN AVE",
         "boro": "BRONX",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2018
     },
     {
@@ -2524,6 +2884,7 @@
         "street": "CLERMONT AVENUE",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Open",
         "year_of_violation": 2022
     },
     {
@@ -2531,6 +2892,7 @@
         "street": "193 STREET",
         "boro": "4",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2021
     },
     {
@@ -2538,6 +2900,7 @@
         "street": "DUANE STREET",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2020
     },
     {
@@ -2545,6 +2908,7 @@
         "street": "61 ST",
         "boro": "4",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2019
     },
     {
@@ -2552,6 +2916,7 @@
         "street": "E 147 ST",
         "boro": "BRONX",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2020
     },
     {
@@ -2559,6 +2924,7 @@
         "street": "3 AVENUE",
         "boro": "BRONX",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2022
     },
     {
@@ -2566,6 +2932,7 @@
         "street": "W 34TH ST",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2021
     },
     {
@@ -2573,6 +2940,7 @@
         "street": "OCEAN AVENUE",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2022
     },
     {
@@ -2580,6 +2948,7 @@
         "street": "CROPSEY AVENUE",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Open",
         "year_of_violation": 2022
     },
     {
@@ -2587,6 +2956,7 @@
         "street": "40 STREET",
         "boro": "4",
         "type_of_violation": "DOB Violation",
+        "status": "Open",
         "year_of_violation": 2022
     },
     {
@@ -2594,6 +2964,7 @@
         "street": "EAST 53 STREET",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2021
     },
     {
@@ -2601,6 +2972,7 @@
         "street": "5TH AVE",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2021
     },
     {
@@ -2608,6 +2980,7 @@
         "street": "95 STREET",
         "boro": "4",
         "type_of_violation": "DOB Violation",
+        "status": "Open",
         "year_of_violation": 2022
     },
     {
@@ -2615,6 +2988,7 @@
         "street": "JAMAICA AVE",
         "boro": "4",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2019
     },
     {
@@ -2622,6 +2996,7 @@
         "street": "HOLLYWOOD AVENUE",
         "boro": "4",
         "type_of_violation": "DOB Violation",
+        "status": "Open",
         "year_of_violation": 2022
     },
     {
@@ -2629,6 +3004,7 @@
         "street": "MORRIS AVENUE",
         "boro": "BRONX",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2020
     },
     {
@@ -2636,6 +3012,7 @@
         "street": "BROADWAY",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2022
     },
     {
@@ -2643,6 +3020,7 @@
         "street": "JAMAICA AVE",
         "boro": "4",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2016
     },
     {
@@ -2650,6 +3028,7 @@
         "street": "MADISON STREET",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Open",
         "year_of_violation": 2022
     },
     {
@@ -2657,6 +3036,7 @@
         "street": "JEFFERSON STREET",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2021
     },
     {
@@ -2664,6 +3044,7 @@
         "street": "THATFORD AVENUE",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2021
     },
     {
@@ -2671,6 +3052,7 @@
         "street": "144 AVENUE",
         "boro": "4",
         "type_of_violation": "DOB Violation",
+        "status": "Open",
         "year_of_violation": 2022
     },
     {
@@ -2678,6 +3060,7 @@
         "street": "AMSTERDAM AVENUE",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Open",
         "year_of_violation": 2022
     },
     {
@@ -2685,6 +3068,7 @@
         "street": "WEST 115 STREET",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Open",
         "year_of_violation": 2022
     },
     {
@@ -2692,6 +3076,7 @@
         "street": "EAGLE AVENUE",
         "boro": "BRONX",
         "type_of_violation": "DOB Violation",
+        "status": "Open",
         "year_of_violation": 2022
     },
     {
@@ -2699,6 +3084,7 @@
         "street": "WAYNE AVENUE",
         "boro": "BRONX",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2020
     },
     {
@@ -2706,6 +3092,7 @@
         "street": "CITY ISLAND AVENUE",
         "boro": "BRONX",
         "type_of_violation": "DOB Violation",
+        "status": "Open",
         "year_of_violation": 2022
     },
     {
@@ -2713,6 +3100,7 @@
         "street": "CORONA AVENUE",
         "boro": "4",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2015
     },
     {
@@ -2720,6 +3108,7 @@
         "street": "ALBANY AVENUE",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2021
     },
     {
@@ -2727,6 +3116,7 @@
         "street": "PELHAM PARKWAY NORTH",
         "boro": "BRONX",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2021
     },
     {
@@ -2734,6 +3124,7 @@
         "street": "OAKLAND AVENUE",
         "boro": "STATEN ISLAND",
         "type_of_violation": "DOB Violation",
+        "status": "Open",
         "year_of_violation": 2022
     },
     {
@@ -2741,6 +3132,7 @@
         "street": "ASHLAND PLACE",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2021
     },
     {
@@ -2748,6 +3140,7 @@
         "street": "79 STREET",
         "boro": "4",
         "type_of_violation": "DOB Violation",
+        "status": "Open",
         "year_of_violation": 2022
     },
     {
@@ -2755,6 +3148,7 @@
         "street": "E MOSHOLU PKWY SO",
         "boro": "BRONX",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2020
     },
     {
@@ -2762,6 +3156,7 @@
         "street": "INDEPENDENCE AVENUE",
         "boro": "BRONX",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2022
     },
     {
@@ -2769,6 +3164,7 @@
         "street": "WAYNE AVENUE",
         "boro": "BRONX",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2020
     },
     {
@@ -2776,6 +3172,7 @@
         "street": "WEST 37 STREET",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2017
     },
     {
@@ -2783,6 +3180,7 @@
         "street": "HUNTS POINT AVENUE",
         "boro": "BRONX",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2016
     },
     {
@@ -2790,6 +3188,7 @@
         "street": "IRVING PLACE",
         "boro": "M",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2019
     },
     {
@@ -2797,6 +3196,7 @@
         "street": "BARTLETT STREET",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2022
     },
     {
@@ -2804,6 +3204,7 @@
         "street": "FT HAMILTON AVE",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2020
     },
     {
@@ -2811,6 +3212,7 @@
         "street": "CHARLTON STREET",
         "boro": "M",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2019
     },
     {
@@ -2818,6 +3220,7 @@
         "street": "34TH AVE",
         "boro": "4",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2018
     },
     {
@@ -2825,6 +3228,7 @@
         "street": "E 88 ST",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2018
     },
     {
@@ -2832,6 +3236,7 @@
         "street": "5 AVENUE",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Open",
         "year_of_violation": 2022
     },
     {
@@ -2839,6 +3244,7 @@
         "street": "HENRY STREET",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2012
     },
     {
@@ -2846,6 +3252,7 @@
         "street": "FORT WASHINGTON AVENUE",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2011
     },
     {
@@ -2853,6 +3260,7 @@
         "street": "WEST BROADWAY",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Open",
         "year_of_violation": 2022
     },
     {
@@ -2860,6 +3268,7 @@
         "street": "WEST 111TH ST",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2015
     },
     {
@@ -2867,6 +3276,7 @@
         "street": "FULTON STREET",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2019
     },
     {
@@ -2874,6 +3284,7 @@
         "street": "BROADWAY",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2021
     },
     {
@@ -2881,6 +3292,7 @@
         "street": "FLUSHING AVENUE",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2021
     },
     {
@@ -2888,6 +3300,7 @@
         "street": "HENRY STREET",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2012
     },
     {
@@ -2895,6 +3308,7 @@
         "street": "WEST 115 STREET",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Open",
         "year_of_violation": 2022
     },
     {
@@ -2902,6 +3316,7 @@
         "street": "LONG ISLAND EXPRESSWAY",
         "boro": "4",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2021
     },
     {
@@ -2909,6 +3324,7 @@
         "street": "CORONA AVENUE",
         "boro": "4",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2015
     },
     {
@@ -2916,6 +3332,7 @@
         "street": "MORRIS AVENUE",
         "boro": "BRONX",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2020
     },
     {
@@ -2923,6 +3340,7 @@
         "street": "7 AVENUE",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2018
     },
     {
@@ -2930,6 +3348,7 @@
         "street": "WEST 131 STREET",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2013
     },
     {
@@ -2937,6 +3356,7 @@
         "street": "WEST 126 STREET",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2020
     },
     {
@@ -2944,6 +3364,7 @@
         "street": "5TH AVE",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2020
     },
     {
@@ -2951,6 +3372,7 @@
         "street": "E 52ND ST",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2021
     },
     {
@@ -2958,6 +3380,7 @@
         "street": "MADISON STREET",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Open",
         "year_of_violation": 2022
     },
     {
@@ -2965,6 +3388,7 @@
         "street": "FAILE STREET",
         "boro": "BRONX",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2022
     },
     {
@@ -2972,6 +3396,7 @@
         "street": "JAVA STREET",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2022
     },
     {
@@ -2979,6 +3404,7 @@
         "street": "JEFFERSON STREET",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2020
     },
     {
@@ -2986,6 +3412,7 @@
         "street": "41 AVE",
         "boro": "4",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2021
     },
     {
@@ -2993,6 +3420,7 @@
         "street": "BROADWAY",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2019
     },
     {
@@ -3000,6 +3428,7 @@
         "street": "WEST 21ST STREET",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2019
     },
     {
@@ -3007,6 +3436,7 @@
         "street": "MERRICK BOULEVARD",
         "boro": "4",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2021
     },
     {
@@ -3014,6 +3444,7 @@
         "street": "BEDFORD AVENUE",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Open",
         "year_of_violation": 2022
     },
     {
@@ -3021,6 +3452,7 @@
         "street": "WEST END AVE",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2018
     },
     {
@@ -3028,6 +3460,7 @@
         "street": "GR CONCOURSE",
         "boro": "BRONX",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2018
     },
     {
@@ -3035,6 +3468,7 @@
         "street": "112 STREET",
         "boro": "4",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2021
     },
     {
@@ -3042,6 +3476,7 @@
         "street": "60 AVENUE",
         "boro": "Q",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2018
     },
     {
@@ -3049,6 +3484,7 @@
         "street": "EAST 74 ST",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2016
     },
     {
@@ -3056,6 +3492,7 @@
         "street": "39 AVENUE",
         "boro": "4",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2020
     },
     {
@@ -3063,6 +3500,7 @@
         "street": "34TH AVE",
         "boro": "4",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2018
     },
     {
@@ -3070,6 +3508,7 @@
         "street": "OCEAN PARKWAY",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2022
     },
     {
@@ -3077,6 +3516,7 @@
         "street": "BUSHWICK AVENUE",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2018
     },
     {
@@ -3084,6 +3524,7 @@
         "street": "92 STREET",
         "boro": "4",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2020
     },
     {
@@ -3091,6 +3532,7 @@
         "street": "WEST 63 STREET",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2021
     },
     {
@@ -3098,6 +3540,7 @@
         "street": "THOMAS STREET",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2021
     },
     {
@@ -3105,6 +3548,7 @@
         "street": "72 STREET",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2022
     },
     {
@@ -3112,6 +3556,7 @@
         "street": "EAST 57 STREET",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2020
     },
     {
@@ -3119,6 +3564,7 @@
         "street": "BUSHWICK AVENUE",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2021
     },
     {
@@ -3126,6 +3572,7 @@
         "street": "W 36TH ST",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2019
     },
     {
@@ -3133,6 +3580,7 @@
         "street": "MADISON AVENUE",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2022
     },
     {
@@ -3140,6 +3588,7 @@
         "street": "EAST 57 STREET",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2019
     },
     {
@@ -3147,6 +3596,7 @@
         "street": "83RD AVE",
         "boro": "4",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2021
     },
     {
@@ -3154,6 +3604,7 @@
         "street": "7 AVENUE",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Open",
         "year_of_violation": 2022
     },
     {
@@ -3161,6 +3612,7 @@
         "street": "WEST  126 STREET",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2015
     },
     {
@@ -3168,6 +3620,7 @@
         "street": "EAST 64 STREET",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Open",
         "year_of_violation": 2020
     },
     {
@@ -3175,6 +3628,7 @@
         "street": "EAST 53 STREET",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2020
     },
     {
@@ -3182,6 +3636,7 @@
         "street": "EASTCHESTER ROAD",
         "boro": "BRONX",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2022
     },
     {
@@ -3189,6 +3644,7 @@
         "street": "CAULDWELL AVENUE",
         "boro": "B",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2019
     },
     {
@@ -3196,6 +3652,7 @@
         "street": "CHAUNCEY STREET",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Open",
         "year_of_violation": 2022
     },
     {
@@ -3203,6 +3660,7 @@
         "street": "MORRIS AVENUE",
         "boro": "BRONX",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2020
     },
     {
@@ -3210,6 +3668,7 @@
         "street": "31 ROAD",
         "boro": "4",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2012
     },
     {
@@ -3217,6 +3676,7 @@
         "street": "UNION AVENUE",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2019
     },
     {
@@ -3224,6 +3684,7 @@
         "street": "WEST 131 STREET",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2020
     },
     {
@@ -3231,6 +3692,7 @@
         "street": "WEST 23 ST",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Open",
         "year_of_violation": 2019
     },
     {
@@ -3238,6 +3700,7 @@
         "street": "GATES AVE",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2021
     },
     {
@@ -3245,6 +3708,7 @@
         "street": "134 STREET",
         "boro": "4",
         "type_of_violation": "DOB Violation",
+        "status": "Open",
         "year_of_violation": 2022
     },
     {
@@ -3252,6 +3716,7 @@
         "street": "E 147 ST",
         "boro": "BRONX",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2020
     },
     {
@@ -3259,6 +3724,7 @@
         "street": "HARDING PARK",
         "boro": "BRONX",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2021
     },
     {
@@ -3266,6 +3732,7 @@
         "street": "WEST BROADWAY",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2021
     },
     {
@@ -3273,6 +3740,7 @@
         "street": "CHATHAM SQUARE",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Open",
         "year_of_violation": 2022
     },
     {
@@ -3280,6 +3748,7 @@
         "street": "162 STREET",
         "boro": "4",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2019
     },
     {
@@ -3287,6 +3756,7 @@
         "street": "BLACKSTONE AVE",
         "boro": "BRONX",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2017
     },
     {
@@ -3294,6 +3764,7 @@
         "street": "WEST 9 STREET",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2019
     },
     {
@@ -3301,6 +3772,7 @@
         "street": "WAYNE AVENUE",
         "boro": "BRONX",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2020
     },
     {
@@ -3308,6 +3780,7 @@
         "street": "FAILE STREET",
         "boro": "BRONX",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2015
     },
     {
@@ -3315,6 +3788,7 @@
         "street": "FLUSHING AVENUE",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2020
     },
     {
@@ -3322,6 +3796,7 @@
         "street": "5TH AVE",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2020
     },
     {
@@ -3329,6 +3804,7 @@
         "street": "MONTAGUE STREET",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2013
     },
     {
@@ -3336,6 +3812,7 @@
         "street": "WEST 131 STREET",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2021
     },
     {
@@ -3343,6 +3820,7 @@
         "street": "WEST 112 STREET",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2015
     },
     {
@@ -3350,6 +3828,7 @@
         "street": "LAYTON STREET",
         "boro": "4",
         "type_of_violation": "DOB Violation",
+        "status": "Open",
         "year_of_violation": 2022
     },
     {
@@ -3357,6 +3836,7 @@
         "street": "COLLEGE AVE",
         "boro": "BRONX",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2018
     },
     {
@@ -3364,6 +3844,7 @@
         "street": "39 AVENUE",
         "boro": "4",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2021
     },
     {
@@ -3371,6 +3852,7 @@
         "street": "THATFORD AVENUE",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2021
     },
     {
@@ -3378,6 +3860,7 @@
         "street": "VARICK STREET",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Open",
         "year_of_violation": 2022
     },
     {
@@ -3385,6 +3868,7 @@
         "street": "111 STREET",
         "boro": "4",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2021
     },
     {
@@ -3392,6 +3876,7 @@
         "street": "111 STREET",
         "boro": "4",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2021
     },
     {
@@ -3399,6 +3884,7 @@
         "street": "WEST 56 STREET",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2020
     },
     {
@@ -3406,6 +3892,7 @@
         "street": "WEST 28 STREET",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Open",
         "year_of_violation": 2022
     },
     {
@@ -3413,6 +3900,7 @@
         "street": "EAST   25 STREET",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2022
     },
     {
@@ -3420,6 +3908,7 @@
         "street": "AVENUE U",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2019
     },
     {
@@ -3427,6 +3916,7 @@
         "street": "BLACKSTONE AVE",
         "boro": "BRONX",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2018
     },
     {
@@ -3434,6 +3924,7 @@
         "street": "54 STREET",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2021
     },
     {
@@ -3441,6 +3932,7 @@
         "street": "WEST END AVENUE",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2021
     },
     {
@@ -3448,6 +3940,7 @@
         "street": "HUNTS POINT AVENUE",
         "boro": "BRONX",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2013
     },
     {
@@ -3455,6 +3948,7 @@
         "street": "BENNETT ST",
         "boro": "STATEN ISLAND",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2018
     },
     {
@@ -3462,6 +3956,7 @@
         "street": "WEST 65 STREET",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2022
     },
     {
@@ -3469,6 +3964,7 @@
         "street": "32 STREET",
         "boro": "4",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2020
     },
     {
@@ -3476,6 +3972,7 @@
         "street": "ROOSEVELT AVENUE",
         "boro": "4",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2019
     },
     {
@@ -3483,6 +3980,7 @@
         "street": "84 STREET",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2022
     },
     {
@@ -3490,6 +3988,7 @@
         "street": "5 AVENUE",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2014
     },
     {
@@ -3497,6 +3996,7 @@
         "street": "ASTORIA BOULEVARD",
         "boro": "4",
         "type_of_violation": "DOB Violation",
+        "status": "Open",
         "year_of_violation": 2022
     },
     {
@@ -3504,6 +4004,7 @@
         "street": "WEST 63 ST",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2021
     },
     {
@@ -3511,6 +4012,7 @@
         "street": "MERRICK BOULEVARD",
         "boro": "4",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2021
     },
     {
@@ -3518,6 +4020,7 @@
         "street": "BROADWAY",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2022
     },
     {
@@ -3525,6 +4028,7 @@
         "street": "MADISON AVENUE",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2022
     },
     {
@@ -3532,6 +4036,7 @@
         "street": "60 AVENUE",
         "boro": "Q",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2018
     },
     {
@@ -3539,6 +4044,7 @@
         "street": "COLLEGE AVE",
         "boro": "BRONX",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2019
     },
     {
@@ -3546,6 +4052,7 @@
         "street": "E 6 ST",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2020
     },
     {
@@ -3553,6 +4060,7 @@
         "street": "W 83RD ST",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2017
     },
     {
@@ -3560,6 +4068,7 @@
         "street": "WEST 87 STREET",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2022
     },
     {
@@ -3567,6 +4076,7 @@
         "street": "59TH AVENUE",
         "boro": "4",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2013
     },
     {
@@ -3574,6 +4084,7 @@
         "street": "EAST 86 STREET",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2020
     },
     {
@@ -3581,6 +4092,7 @@
         "street": "FULTON STREET",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2019
     },
     {
@@ -3588,6 +4100,7 @@
         "street": "CLARK STREET",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2019
     },
     {
@@ -3595,6 +4108,7 @@
         "street": "39 AVENUE",
         "boro": "4",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2020
     },
     {
@@ -3602,6 +4116,7 @@
         "street": "BAY PKWAY",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2020
     },
     {
@@ -3609,6 +4124,7 @@
         "street": "BUSHWICK AVENUE",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2017
     },
     {
@@ -3616,6 +4132,7 @@
         "street": "12 STREET",
         "boro": "4",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2022
     },
     {
@@ -3623,6 +4140,7 @@
         "street": "HYLAN BOULEVARD",
         "boro": "STATEN ISLAND",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2022
     },
     {
@@ -3630,6 +4148,7 @@
         "street": "PENNSYLVANIA AVENUE",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2020
     },
     {
@@ -3637,6 +4156,7 @@
         "street": "WEST    9 STREET",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2015
     },
     {
@@ -3644,6 +4164,7 @@
         "street": "111 STREET",
         "boro": "4",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2020
     },
     {
@@ -3651,6 +4172,7 @@
         "street": "EAST TREMONT AVENUE",
         "boro": "BRONX",
         "type_of_violation": "DOB Violation",
+        "status": "Open",
         "year_of_violation": 2022
     },
     {
@@ -3658,6 +4180,7 @@
         "street": "E 91ST ST",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2018
     },
     {
@@ -3665,6 +4188,7 @@
         "street": "WEST END AVENUE",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2020
     },
     {
@@ -3672,6 +4196,7 @@
         "street": "NETHERLAND AVE",
         "boro": "BRONX",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2020
     },
     {
@@ -3679,6 +4204,7 @@
         "street": "JAMAICA AVE",
         "boro": "4",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2020
     },
     {
@@ -3686,6 +4212,7 @@
         "street": "111 STREET",
         "boro": "4",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2021
     },
     {
@@ -3693,6 +4220,7 @@
         "street": "FLATBUSH AVE",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2011
     },
     {
@@ -3700,6 +4228,7 @@
         "street": "BUSHWICK AVENUE",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2021
     },
     {
@@ -3707,6 +4236,7 @@
         "street": "STERLING PLACE",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2016
     },
     {
@@ -3714,6 +4244,7 @@
         "street": "BROADWAY",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2020
     },
     {
@@ -3721,6 +4252,7 @@
         "street": "NORTH 9 STREET",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2018
     },
     {
@@ -3728,6 +4260,7 @@
         "street": "KENT STREET",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2014
     },
     {
@@ -3735,6 +4268,7 @@
         "street": "HICKS STREET",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2016
     },
     {
@@ -3742,6 +4276,7 @@
         "street": "24 AVENUE",
         "boro": "4",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2022
     },
     {
@@ -3749,6 +4284,7 @@
         "street": "E 21ST ST",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2021
     },
     {
@@ -3756,6 +4292,7 @@
         "street": "EAST    3 STREET",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2022
     },
     {
@@ -3763,6 +4300,7 @@
         "street": "NETHERLAND AV",
         "boro": "BRONX",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2020
     },
     {
@@ -3770,6 +4308,7 @@
         "street": "SCRIBNER AVENUE",
         "boro": "STATEN ISLAND",
         "type_of_violation": "DOB Violation",
+        "status": "Open",
         "year_of_violation": 2022
     },
     {
@@ -3777,6 +4316,7 @@
         "street": "83RD AVE",
         "boro": "4",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2021
     },
     {
@@ -3784,6 +4324,7 @@
         "street": "WEST 25 STREET",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2020
     },
     {
@@ -3791,6 +4332,7 @@
         "street": "EAST 86 STREET",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2020
     },
     {
@@ -3798,6 +4340,7 @@
         "street": "GATLING PLACE",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2022
     },
     {
@@ -3805,6 +4348,7 @@
         "street": "THOMAS STREET",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2020
     },
     {
@@ -3812,6 +4356,7 @@
         "street": "WEST 131 STREET",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2013
     },
     {
@@ -3819,6 +4364,7 @@
         "street": "WEST 86 STREET",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2021
     },
     {
@@ -3826,6 +4372,7 @@
         "street": "E 21ST ST",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2019
     },
     {
@@ -3833,6 +4380,7 @@
         "street": "7 AVENUE",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2016
     },
     {
@@ -3840,6 +4388,7 @@
         "street": "CROSS BAY BLVD",
         "boro": "4",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2021
     },
     {
@@ -3847,6 +4396,7 @@
         "street": "EAST 53 STREET",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2020
     },
     {
@@ -3854,6 +4404,7 @@
         "street": "SCRIBNER AVENUE",
         "boro": "STATEN ISLAND",
         "type_of_violation": "DOB Violation",
+        "status": "Open",
         "year_of_violation": 2022
     },
     {
@@ -3861,6 +4412,7 @@
         "street": "WEST 131 STREET",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2017
     },
     {
@@ -3868,6 +4420,7 @@
         "street": "EAST   86 STREET",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2017
     },
     {
@@ -3875,6 +4428,7 @@
         "street": "W 86TH ST",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2020
     },
     {
@@ -3882,6 +4436,7 @@
         "street": "E 6 ST",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2018
     },
     {
@@ -3889,6 +4444,7 @@
         "street": "W 83RD ST",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2019
     },
     {
@@ -3896,6 +4452,7 @@
         "street": "JAMAICA AVE",
         "boro": "4",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2016
     },
     {
@@ -3903,6 +4460,7 @@
         "street": "JAMAICA AVE",
         "boro": "4",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2019
     },
     {
@@ -3910,6 +4468,7 @@
         "street": "8 AVENUE",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2022
     },
     {
@@ -3917,6 +4476,7 @@
         "street": "MORRIS AVENUE",
         "boro": "BRONX",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2020
     },
     {
@@ -3924,6 +4484,7 @@
         "street": "216 STREET",
         "boro": "4",
         "type_of_violation": "DOB Violation",
+        "status": "Open",
         "year_of_violation": 2022
     },
     {
@@ -3931,6 +4492,7 @@
         "street": "FORT HAMILTON PARKWAY",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2022
     },
     {
@@ -3938,6 +4500,7 @@
         "street": "6 STREET",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2021
     },
     {
@@ -3945,6 +4508,7 @@
         "street": "SACKETT STREET",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Open",
         "year_of_violation": 2022
     },
     {
@@ -3952,6 +4516,7 @@
         "street": "THWAITES PLACE",
         "boro": "BRONX",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2019
     },
     {
@@ -3959,6 +4524,7 @@
         "street": "EAST 53 STREET",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2020
     },
     {
@@ -3966,6 +4532,7 @@
         "street": "MADISON STREET",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Open",
         "year_of_violation": 2022
     },
     {
@@ -3973,6 +4540,7 @@
         "street": "EAST 74 ST",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2016
     },
     {
@@ -3980,6 +4548,7 @@
         "street": "PARK AVE",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2019
     },
     {
@@ -3987,6 +4556,7 @@
         "street": "45 AVENUE",
         "boro": "4",
         "type_of_violation": "DOB Violation",
+        "status": "Open",
         "year_of_violation": 2022
     },
     {
@@ -3994,6 +4564,7 @@
         "street": "E 21ST ST",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2021
     },
     {
@@ -4001,6 +4572,7 @@
         "street": "JAMAICA AVE",
         "boro": "4",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2017
     },
     {
@@ -4008,6 +4580,7 @@
         "street": "111 STREET",
         "boro": "4",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2019
     },
     {
@@ -4015,6 +4588,7 @@
         "street": "BROADWAY",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2021
     },
     {
@@ -4022,6 +4596,7 @@
         "street": "ARLINGTON AVE",
         "boro": "BRONX",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2020
     },
     {
@@ -4029,6 +4604,7 @@
         "street": "93 STREET",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2020
     },
     {
@@ -4036,6 +4612,7 @@
         "street": "162 STREET",
         "boro": "4",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2022
     },
     {
@@ -4043,6 +4620,7 @@
         "street": "W 36TH ST",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2014
     },
     {
@@ -4050,6 +4628,7 @@
         "street": "NETHERLAND AVE",
         "boro": "BRONX",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2020
     },
     {
@@ -4057,6 +4636,7 @@
         "street": "EAST 46 STREET",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2021
     },
     {
@@ -4064,6 +4644,7 @@
         "street": "NORTH 9 STREET",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2019
     },
     {
@@ -4071,6 +4652,7 @@
         "street": "NETHERLAND AV",
         "boro": "BRONX",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2020
     },
     {
@@ -4078,6 +4660,7 @@
         "street": "FLUSHING AVENUE",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2021
     },
     {
@@ -4085,6 +4668,7 @@
         "street": "WEST 131 STREET",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2013
     },
     {
@@ -4092,6 +4676,7 @@
         "street": "WEST 63 STREET",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2021
     },
     {
@@ -4099,6 +4684,7 @@
         "street": "WEST 44 STREET",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2020
     },
     {
@@ -4106,6 +4692,7 @@
         "street": "MORRIS AVENUE",
         "boro": "BRONX",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2020
     },
     {
@@ -4113,6 +4700,7 @@
         "street": "111 STREET",
         "boro": "4",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2019
     },
     {
@@ -4120,6 +4708,7 @@
         "street": "ARLINGTON AVE",
         "boro": "BRONX",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2020
     },
     {
@@ -4127,6 +4716,7 @@
         "street": "BROADWAY",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2020
     },
     {
@@ -4134,6 +4724,7 @@
         "street": "111 STREET",
         "boro": "4",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2019
     },
     {
@@ -4141,6 +4732,7 @@
         "street": "E 6 ST",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2021
     },
     {
@@ -4148,6 +4740,7 @@
         "street": "3 AVENUE",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2011
     },
     {
@@ -4155,6 +4748,7 @@
         "street": "LONG ISLAND EXPRESSWAY",
         "boro": "4",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2020
     },
     {
@@ -4162,6 +4756,7 @@
         "street": "NETHERLAND AVE",
         "boro": "BRONX",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2020
     },
     {
@@ -4169,6 +4764,7 @@
         "street": "JEFFERSON STREET",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2021
     },
     {
@@ -4176,6 +4772,7 @@
         "street": "2 STREET",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2013
     },
     {
@@ -4183,6 +4780,7 @@
         "street": "WEST BROADWAY",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2021
     },
     {
@@ -4190,6 +4788,7 @@
         "street": "MEADOW STREET",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2015
     },
     {
@@ -4197,6 +4796,7 @@
         "street": "KINGS HIGHWAY",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2018
     },
     {
@@ -4204,6 +4804,7 @@
         "street": "66 AVENUE",
         "boro": "4",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2014
     },
     {
@@ -4211,6 +4812,7 @@
         "street": "FRANKLIN AVENUE",
         "boro": "4",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2018
     },
     {
@@ -4218,6 +4820,7 @@
         "street": "NETHERLAND AVE",
         "boro": "BRONX",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2020
     },
     {
@@ -4225,6 +4828,7 @@
         "street": "PARK AVE",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2017
     },
     {
@@ -4232,6 +4836,7 @@
         "street": "NETHERLAND AVE",
         "boro": "BRONX",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2020
     },
     {
@@ -4239,6 +4844,7 @@
         "street": "6 STREET",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2020
     },
     {
@@ -4246,6 +4852,7 @@
         "street": "HYLAN BOULEVARD",
         "boro": "STATEN ISLAND",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2022
     },
     {
@@ -4253,6 +4860,7 @@
         "street": "HUDSON STREET",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2020
     },
     {
@@ -4260,6 +4868,7 @@
         "street": "W 72ND ST",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2021
     },
     {
@@ -4267,6 +4876,7 @@
         "street": "50 AVENUE",
         "boro": "4",
         "type_of_violation": "DOB Violation",
+        "status": "Open",
         "year_of_violation": 2022
     },
     {
@@ -4274,6 +4884,7 @@
         "street": "STEINWAY STREET",
         "boro": "4",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2015
     },
     {
@@ -4281,6 +4892,7 @@
         "street": "MOTT STREET",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2021
     },
     {
@@ -4288,6 +4900,7 @@
         "street": "EAST 53 STREET",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2020
     },
     {
@@ -4295,6 +4908,7 @@
         "street": "BR 13TH ST",
         "boro": "BROOKLYN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2020
     },
     {
@@ -4302,6 +4916,7 @@
         "street": "5 AVENUE",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2012
     },
     {
@@ -4309,6 +4924,7 @@
         "street": "JAY STREET",
         "boro": "MANHATTAN",
         "type_of_violation": "DOB Violation",
+        "status": "Close",
         "year_of_violation": 2014
     }
 ]

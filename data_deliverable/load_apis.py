@@ -42,13 +42,18 @@ def mapper2_code(record):
     boro = record[1][0]['boro'].strip(' \t')
     
     return {'house_number': housenum, 'street': street, 'zipcode': zip_code, 'boro': boro, 'latitude': lat, \
-        'longitude': long, 'type_of_violation': 'maintenance code violation', \
+        'longitude': long, 'type_of_violation': 'maintenance code violation', 'status': record[1][0]['violationstatus'],\
             'year_of_violation': int(record[1][0]['inspectiondate'][:4].strip())}
 
 def mapper2_dob(record):
     housenum = record[0][0]
     street = record[0][1]
     boro = record[1][0]['boro'].strip(' \t')
+    status = record[1][0]['violation_category'].strip()
+    if "V*" in status:
+        status = "Close"
+    else:
+        status = "Open"
     if boro == '1':
         boro = 'MANHATTAN'
     elif boro == '2':
@@ -60,7 +65,7 @@ def mapper2_dob(record):
     elif boro == '5':
         boro = 'STATEN ISLAND'
     return {'house_number': housenum, 'street': street, 'boro': boro, \
-            'type_of_violation': 'DOB Violation', 'year_of_violation': int(record[1][0]['issue_date'][:4].strip())}
+            'type_of_violation': 'DOB Violation', 'status': status, 'year_of_violation': int(record[1][0]['issue_date'][:4].strip())}
     
 
 
