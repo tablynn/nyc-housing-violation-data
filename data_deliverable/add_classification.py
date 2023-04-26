@@ -66,5 +66,5 @@ housing_merged = housing_merged.drop(housing_merged[housing_merged['rich']== -1]
 
 income_and_housing = housing_merged.to_csv('data/housing_income_merged.csv')
 
-print(housing_merged.head())
+data_sample = housing_merged.iloc[:100,:].to_csv('data/data_sample.csv')
 
