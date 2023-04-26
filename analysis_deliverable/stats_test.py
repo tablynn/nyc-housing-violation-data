@@ -16,11 +16,23 @@ def chisquared_independence_test(df, column_a_name, column_b_name):
 
     return tstats, pvalue
 
+def one_sample_ttest(values, population_mean):
+    tstats, pvalue = ttest_1samp(a=values, popmean=population_mean)
+    print("T-statistics: ", tstats)
+    print("p-value: ", pvalue)
+    print("p-value < 0.05", pvalue < 0.05)
+    return tstats, pvalue
+
 
 
 def main():
-    big_data = pd.read_csv('data_deliverable/data/housing_merged.csv')
+    big_data = pd.read_csv('data_deliverable/data/housing_income_merged.csv')
     print("Chi-Square Independence Test Results:")
     tstats, pvalue = chisquared_independence_test(big_data, "status", "rich")
+    tstat2, pval2 = one_sample_ttest(big_data['med_income'], )
+
+
+if __name__ == '__main__':
+    main()
 
 
