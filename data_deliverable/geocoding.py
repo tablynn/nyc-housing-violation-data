@@ -106,6 +106,7 @@ with open('data/dob_violations2.json') as json_file:
                 loc['latitude'] = lat
                 loc['longitude'] = lon
                 loc['type_of_violation'] = i['type_of_violation']
+                loc['class'] = i['class']
                 loc['status'] = i['status']
                 loc['year_of_violation'] = i['year_of_violation']
 

@@ -40,9 +40,10 @@ def mapper2_code(record):
     lat = float(record[1][0]['latitude'].strip(' \t'))
     long = float(record[1][0]['longitude'].strip(' \t'))
     boro = record[1][0]['boro'].strip(' \t')
+    violation_class = record[1][0]['class'].strip(' \t')
     
     return {'house_number': housenum, 'street': street, 'zipcode': zip_code, 'boro': boro, 'latitude': lat, \
-        'longitude': long, 'type_of_violation': 'maintenance code violation', 'status': record[1][0]['violationstatus'],\
+        'longitude': long, 'type_of_violation': 'maintenance code violation', 'class': violation_class, 'status': record[1][0]['violationstatus'],\
             'year_of_violation': int(record[1][0]['inspectiondate'][:4].strip())}
 
 def mapper2_dob(record):
