@@ -34,7 +34,7 @@ def classification(x) -> int:
   # print("zip", x["zipcode"])
   #print(x[3])
   #print(type(x[9]))
-  year = x[9]
+  year = x[10]
   try:
     if (year < 2022):
       return income_classification.loc[x[3], str(year)]
@@ -44,7 +44,7 @@ def classification(x) -> int:
       return -1
   
 def median_income(x) -> int: 
-  year = x[9]
+  year = x[10]
   try:
     if (year < 2022):
       income = zipcode_median_income.loc[x[3], str(year)]

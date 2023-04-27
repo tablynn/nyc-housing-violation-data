@@ -7,6 +7,7 @@
         "latitude": 40.7365216,
         "longitude": -73.99550860000001,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2018
     },
@@ -18,6 +19,7 @@
         "latitude": 40.7180568,
         "longitude": -73.9801162,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2021
     },
@@ -29,6 +31,7 @@
         "latitude": 40.7812654,
         "longitude": -73.9738201,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2019
     },
@@ -40,6 +43,7 @@
         "latitude": 40.798751,
         "longitude": -73.9712029,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2021
     },
@@ -51,6 +55,7 @@
         "latitude": 40.7719215,
         "longitude": -73.9650839,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2020
     },
@@ -62,6 +67,7 @@
         "latitude": 40.58569290000001,
         "longitude": -73.8215051,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2017
     },
@@ -73,6 +79,7 @@
         "latitude": 40.74575189999999,
         "longitude": -74.0085954,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2020
     },
@@ -84,6 +91,7 @@
         "latitude": 40.6753961,
         "longitude": -73.9490701,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2021
     },
@@ -95,6 +103,7 @@
         "latitude": 40.7812654,
         "longitude": -73.9738201,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2019
     },
@@ -106,6 +115,7 @@
         "latitude": 40.7812654,
         "longitude": -73.9738201,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2019
     },
@@ -117,6 +127,7 @@
         "latitude": 40.6182863,
         "longitude": -74.0313441,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2020
     },
@@ -128,6 +139,7 @@
         "latitude": 40.750399,
         "longitude": -73.96904959999999,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2021
     },
@@ -139,6 +151,7 @@
         "latitude": 40.6512021,
         "longitude": -73.96208639999999,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2021
     },
@@ -150,6 +163,7 @@
         "latitude": 40.7350726,
         "longitude": -74.0008452,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2012
     },
@@ -161,6 +175,7 @@
         "latitude": 40.6911308,
         "longitude": -73.9155031,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2020
     },
@@ -172,6 +187,7 @@
         "latitude": 40.7180568,
         "longitude": -73.9801162,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2021
     },
@@ -183,6 +199,7 @@
         "latitude": 40.750399,
         "longitude": -73.96904959999999,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2021
     },
@@ -194,6 +211,7 @@
         "latitude": 40.767777,
         "longitude": -73.98490799999999,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2021
     },
@@ -205,6 +223,7 @@
         "latitude": 40.754235,
         "longitude": -73.994905,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2017
     },
@@ -216,6 +235,7 @@
         "latitude": 40.6753961,
         "longitude": -73.9490701,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2020
     },
@@ -227,6 +247,7 @@
         "latitude": 40.7812654,
         "longitude": -73.9738201,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2019
     },
@@ -238,6 +259,7 @@
         "latitude": 40.7812654,
         "longitude": -73.9738201,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2019
     },
@@ -249,6 +271,7 @@
         "latitude": 40.7575753,
         "longitude": -73.9713694,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2020
     },
@@ -260,6 +283,7 @@
         "latitude": 40.6203112,
         "longitude": -73.90876999999999,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2013
     },
@@ -271,6 +295,7 @@
         "latitude": 40.6753961,
         "longitude": -73.9490701,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2020
     },
@@ -282,6 +307,7 @@
         "latitude": 40.7812654,
         "longitude": -73.9738201,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2019
     },
@@ -293,6 +319,7 @@
         "latitude": 40.750399,
         "longitude": -73.96904959999999,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2021
     },
@@ -304,6 +331,7 @@
         "latitude": 40.6380347,
         "longitude": -74.1354425,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2014
     },
@@ -315,6 +343,7 @@
         "latitude": 40.7935381,
         "longitude": -73.9741415,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2021
     },
@@ -326,6 +355,7 @@
         "latitude": 40.6036047,
         "longitude": -73.74745639999999,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2021
     },
@@ -337,6 +367,7 @@
         "latitude": 40.7812654,
         "longitude": -73.9738201,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2019
     },
@@ -348,6 +379,7 @@
         "latitude": 40.700492,
         "longitude": -73.95384589999999,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2021
     },
@@ -359,6 +391,7 @@
         "latitude": 40.7831438,
         "longitude": -73.972787,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2018
     },
@@ -370,6 +403,7 @@
         "latitude": 40.7362367,
         "longitude": -74.0070136,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2021
     },
@@ -381,6 +415,7 @@
         "latitude": 40.5860196,
         "longitude": -73.82081579999999,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2017
     },
@@ -392,6 +427,7 @@
         "latitude": 40.6980864,
         "longitude": -73.9957831,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2019
     },
@@ -403,6 +439,7 @@
         "latitude": 40.7812654,
         "longitude": -73.9738201,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2019
     },
@@ -414,6 +451,7 @@
         "latitude": 40.7812654,
         "longitude": -73.9738201,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2019
     },
@@ -425,6 +463,7 @@
         "latitude": 40.7564454,
         "longitude": -73.9647767,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2017
     },
@@ -436,6 +475,7 @@
         "latitude": 40.6036047,
         "longitude": -73.74745639999999,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2021
     },
@@ -447,6 +487,7 @@
         "latitude": 40.7742744,
         "longitude": -73.9873226,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2021
     },
@@ -458,6 +499,7 @@
         "latitude": 40.8166257,
         "longitude": -73.88481569999999,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2019
     },
@@ -469,6 +511,7 @@
         "latitude": 40.8166257,
         "longitude": -73.88481569999999,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2020
     },
@@ -480,6 +523,7 @@
         "latitude": 40.8599209,
         "longitude": -73.8687709,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2021
     },
@@ -491,6 +535,7 @@
         "latitude": 40.7812654,
         "longitude": -73.9738201,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2019
     },
@@ -502,6 +547,7 @@
         "latitude": 40.6753961,
         "longitude": -73.9490701,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2021
     },
@@ -513,6 +559,7 @@
         "latitude": 40.7812654,
         "longitude": -73.9738201,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2019
     },
@@ -524,6 +571,7 @@
         "latitude": 40.7812654,
         "longitude": -73.9738201,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2019
     },
@@ -535,6 +583,7 @@
         "latitude": 40.7935381,
         "longitude": -73.9741415,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2021
     },
@@ -546,6 +595,7 @@
         "latitude": 40.7812654,
         "longitude": -73.9738201,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2019
     },
@@ -557,6 +607,7 @@
         "latitude": 40.8902116,
         "longitude": -73.9156825,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2019
     },
@@ -568,6 +619,7 @@
         "latitude": 40.7812654,
         "longitude": -73.9738201,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2019
     },
@@ -579,6 +631,7 @@
         "latitude": 40.7719215,
         "longitude": -73.9650839,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2020
     },
@@ -590,6 +643,7 @@
         "latitude": 40.58093239999999,
         "longitude": -73.9695023,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2020
     },
@@ -601,6 +655,7 @@
         "latitude": 40.7935042,
         "longitude": -73.97488109999999,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2021
     },
@@ -612,6 +667,7 @@
         "latitude": 40.6980864,
         "longitude": -73.9957831,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2018
     },
@@ -623,6 +679,7 @@
         "latitude": 40.7414267,
         "longitude": -74.001693,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2011
     },
@@ -634,6 +691,7 @@
         "latitude": 40.58093239999999,
         "longitude": -73.9695023,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2020
     },
@@ -645,6 +703,7 @@
         "latitude": 40.8308758,
         "longitude": -73.91903529999999,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2019
     },
@@ -656,6 +715,7 @@
         "latitude": 40.7393523,
         "longitude": -73.9830326,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2020
     },
@@ -667,6 +727,7 @@
         "latitude": 40.6774599,
         "longitude": -73.8970035,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2021
     },
@@ -678,6 +739,7 @@
         "latitude": 40.7303116,
         "longitude": -73.85678349999999,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2019
     },
@@ -689,6 +751,7 @@
         "latitude": 40.7812654,
         "longitude": -73.9738201,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2019
     },
@@ -700,6 +763,7 @@
         "latitude": 40.7812654,
         "longitude": -73.9738201,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2019
     },
@@ -711,6 +775,7 @@
         "latitude": 40.6036047,
         "longitude": -73.74745639999999,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2021
     },
@@ -722,6 +787,7 @@
         "latitude": 40.7812654,
         "longitude": -73.9738201,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2019
     },
@@ -733,6 +799,7 @@
         "latitude": 40.7935381,
         "longitude": -73.9741415,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2021
     },
@@ -744,6 +811,7 @@
         "latitude": 40.58569290000001,
         "longitude": -73.8215051,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2017
     },
@@ -755,6 +823,7 @@
         "latitude": 40.689699,
         "longitude": -73.982957,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2019
     },
@@ -766,6 +835,7 @@
         "latitude": 40.5860196,
         "longitude": -73.82081579999999,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2017
     },
@@ -777,6 +847,7 @@
         "latitude": 40.8587056,
         "longitude": -73.8700695,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2017
     },
@@ -788,6 +859,7 @@
         "latitude": 40.5808365,
         "longitude": -73.9681051,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2020
     },
@@ -799,6 +871,7 @@
         "latitude": 40.7428027,
         "longitude": -73.9911523,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2020
     },
@@ -810,6 +883,7 @@
         "latitude": 40.8599209,
         "longitude": -73.8687709,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2021
     },
@@ -821,6 +895,7 @@
         "latitude": 40.7812654,
         "longitude": -73.9738201,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2019
     },
@@ -832,6 +907,7 @@
         "latitude": 40.7831438,
         "longitude": -73.972787,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2019
     },
@@ -843,6 +919,7 @@
         "latitude": 40.6203112,
         "longitude": -73.90876999999999,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Open",
         "year_of_violation": 2017
     },
@@ -854,6 +931,7 @@
         "latitude": 40.7515434,
         "longitude": -73.9809394,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2020
     },
@@ -865,6 +943,7 @@
         "latitude": 40.6357078,
         "longitude": -74.16642929999999,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2015
     },
@@ -876,6 +955,7 @@
         "latitude": 40.8158771,
         "longitude": -73.9239285,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2020
     },
@@ -887,6 +967,7 @@
         "latitude": 40.7631088,
         "longitude": -73.9865983,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2018
     },
@@ -898,6 +979,7 @@
         "latitude": 40.7070951,
         "longitude": -73.8060189,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Open",
         "year_of_violation": 2017
     },
@@ -909,6 +991,7 @@
         "latitude": 40.7567095,
         "longitude": -73.9705426,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2021
     },
@@ -920,6 +1003,7 @@
         "latitude": 40.6586799,
         "longitude": -73.9402247,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2021
     },
@@ -931,6 +1015,7 @@
         "latitude": 40.7523061,
         "longitude": -73.96955129999999,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2021
     },
@@ -942,6 +1027,7 @@
         "latitude": 40.8724137,
         "longitude": -73.88522309999999,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2020
     },
@@ -953,6 +1039,7 @@
         "latitude": 40.7910417,
         "longitude": -73.95101240000001,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2011
     },
@@ -964,6 +1051,7 @@
         "latitude": 40.76702299999999,
         "longitude": -73.9692589,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2019
     },
@@ -975,6 +1063,7 @@
         "latitude": 40.58093239999999,
         "longitude": -73.9695023,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2019
     },
@@ -986,6 +1075,7 @@
         "latitude": 40.81409610000001,
         "longitude": -73.9178032,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2021
     },
@@ -997,6 +1087,7 @@
         "latitude": 40.7650939,
         "longitude": -73.9794065,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2019
     },
@@ -1008,6 +1099,7 @@
         "latitude": 40.5808365,
         "longitude": -73.9681051,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2021
     },
@@ -1019,6 +1111,7 @@
         "latitude": 40.7508592,
         "longitude": -73.98332429999999,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2020
     },
@@ -1030,6 +1123,7 @@
         "latitude": 40.8267281,
         "longitude": -73.8608813,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2018
     },
@@ -1041,6 +1135,7 @@
         "latitude": 40.7393523,
         "longitude": -73.9830326,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2020
     },
@@ -1052,6 +1147,7 @@
         "latitude": 40.5812821,
         "longitude": -73.97199789999999,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2020
     },
@@ -1063,6 +1159,7 @@
         "latitude": 40.5811296,
         "longitude": -73.9734833,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2020
     },
@@ -1074,6 +1171,7 @@
         "latitude": 40.5811296,
         "longitude": -73.9734833,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2020
     },
@@ -1085,6 +1183,7 @@
         "latitude": 40.5811296,
         "longitude": -73.9734833,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2020
     },
@@ -1096,6 +1195,7 @@
         "latitude": 40.7518907,
         "longitude": -73.98460990000001,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2020
     },
@@ -1107,6 +1207,7 @@
         "latitude": 40.8158771,
         "longitude": -73.9239285,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2020
     },
@@ -1118,6 +1219,7 @@
         "latitude": 40.8115306,
         "longitude": -73.9359592,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2018
     },
@@ -1129,6 +1231,7 @@
         "latitude": 40.7332779,
         "longitude": -73.99744919999999,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2021
     },
@@ -1140,6 +1243,7 @@
         "latitude": 40.7422762,
         "longitude": -73.8730054,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2015
     },
@@ -1151,6 +1255,7 @@
         "latitude": 40.7398045,
         "longitude": -73.9946076,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2021
     },
@@ -1162,6 +1267,7 @@
         "latitude": 40.7450052,
         "longitude": -73.8261711,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2017
     },
@@ -1173,6 +1279,7 @@
         "latitude": 40.580562,
         "longitude": -73.97149379999999,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2021
     },
@@ -1184,6 +1291,7 @@
         "latitude": 40.5808365,
         "longitude": -73.9681051,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2019
     },
@@ -1195,6 +1303,7 @@
         "latitude": 40.58093239999999,
         "longitude": -73.9695023,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2021
     },
@@ -1206,6 +1315,7 @@
         "latitude": 40.8158771,
         "longitude": -73.9239285,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2020
     },
@@ -1217,6 +1327,7 @@
         "latitude": 40.72431,
         "longitude": -73.9962,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2021
     },
@@ -1228,6 +1339,7 @@
         "latitude": 40.580562,
         "longitude": -73.97149379999999,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2020
     },
@@ -1239,6 +1351,7 @@
         "latitude": 40.8786269,
         "longitude": -73.8810718,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2018
     },
@@ -1250,6 +1363,7 @@
         "latitude": 40.6112561,
         "longitude": -74.1839044,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2018
     },
@@ -1261,6 +1375,7 @@
         "latitude": 40.80878,
         "longitude": -73.9367829,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2017
     },
@@ -1272,6 +1387,7 @@
         "latitude": 40.80878,
         "longitude": -73.9367829,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2018
     },
@@ -1283,6 +1399,7 @@
         "latitude": 40.5808365,
         "longitude": -73.9681051,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2019
     },
@@ -1294,6 +1411,7 @@
         "latitude": 40.7708506,
         "longitude": -73.9666342,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2019
     },
@@ -1305,6 +1423,7 @@
         "latitude": 40.5807644,
         "longitude": -73.9667949,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2019
     },
@@ -1316,6 +1435,19 @@
         "latitude": 40.7000538,
         "longitude": -73.9417768,
         "type_of_violation": "DOB Violation",
+        "class": null,
+        "status": "Close",
+        "year_of_violation": 2021
+    },
+    {
+        "house_number": "139-19",
+        "street": "31 ROAD",
+        "zipcode": 102213,
+        "boro": "4",
+        "latitude": 6.5988732,
+        "longitude": 3.279447,
+        "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2021
     },
@@ -1327,6 +1459,7 @@
         "latitude": 40.5811296,
         "longitude": -73.9734833,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2020
     },
@@ -1338,6 +1471,7 @@
         "latitude": 40.80878,
         "longitude": -73.9367829,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2017
     },
@@ -1349,6 +1483,7 @@
         "latitude": 40.7447651,
         "longitude": -73.9878047,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2018
     },
@@ -1360,6 +1495,7 @@
         "latitude": 40.5812821,
         "longitude": -73.97199789999999,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2020
     },
@@ -1371,6 +1507,7 @@
         "latitude": 40.6112561,
         "longitude": -74.1839044,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2018
     },
@@ -1382,6 +1519,7 @@
         "latitude": 40.7524739,
         "longitude": -73.9739429,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2020
     },
@@ -1393,6 +1531,7 @@
         "latitude": 40.767942,
         "longitude": -73.9853258,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2021
     },
@@ -1404,6 +1543,7 @@
         "latitude": 40.7000538,
         "longitude": -73.9417768,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2020
     },
@@ -1415,6 +1555,7 @@
         "latitude": 40.7708506,
         "longitude": -73.9666342,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2012
     },
@@ -1426,6 +1567,7 @@
         "latitude": 40.6958345,
         "longitude": -73.9327832,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2020
     },
@@ -1437,6 +1579,7 @@
         "latitude": 40.767942,
         "longitude": -73.9853258,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2018
     },
@@ -1448,6 +1591,7 @@
         "latitude": 40.58093239999999,
         "longitude": -73.9695023,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2020
     },
@@ -1459,6 +1603,7 @@
         "latitude": 40.7596675,
         "longitude": -73.83138579999999,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2020
     },
@@ -1470,6 +1615,7 @@
         "latitude": 40.58093239999999,
         "longitude": -73.9695023,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2020
     },
@@ -1481,6 +1627,7 @@
         "latitude": 40.6335407,
         "longitude": -74.12163319999999,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2018
     },
@@ -1492,6 +1639,7 @@
         "latitude": 40.5812821,
         "longitude": -73.97199789999999,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2020
     },
@@ -1503,6 +1651,7 @@
         "latitude": 40.5808365,
         "longitude": -73.9681051,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2020
     },
@@ -1514,6 +1663,7 @@
         "latitude": 40.6101236,
         "longitude": -73.9235266,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2014
     },
@@ -1525,6 +1675,7 @@
         "latitude": 40.7251558,
         "longitude": -73.85111959999999,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Open",
         "year_of_violation": 2013
     },
@@ -1536,6 +1687,7 @@
         "latitude": 40.7000538,
         "longitude": -73.9417768,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2021
     },
@@ -1547,6 +1699,7 @@
         "latitude": 40.80878,
         "longitude": -73.9367829,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2017
     },
@@ -1558,6 +1711,7 @@
         "latitude": 40.80878,
         "longitude": -73.9367829,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2018
     },
@@ -1569,6 +1723,7 @@
         "latitude": 40.856654,
         "longitude": -73.859503,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2021
     },
@@ -1580,6 +1735,7 @@
         "latitude": 40.6958345,
         "longitude": -73.9327832,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2021
     },
@@ -1591,6 +1747,7 @@
         "latitude": 40.5811296,
         "longitude": -73.9734833,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2020
     },
@@ -1602,6 +1759,7 @@
         "latitude": 40.7488071,
         "longitude": -73.9869958,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2021
     },
@@ -1613,8 +1771,21 @@
         "latitude": 40.580562,
         "longitude": -73.97149379999999,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2020
+    },
+    {
+        "house_number": "99-30",
+        "street": "59 AVENUE",
+        "zipcode": 85302,
+        "boro": "Q",
+        "latitude": 33.5758575,
+        "longitude": -112.1867545,
+        "type_of_violation": "DOB Violation",
+        "class": null,
+        "status": "Close",
+        "year_of_violation": 2018
     },
     {
         "house_number": "17",
@@ -1624,6 +1795,7 @@
         "latitude": 40.7708506,
         "longitude": -73.9666342,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2011
     },
@@ -1635,6 +1807,7 @@
         "latitude": 40.7348535,
         "longitude": -73.9912841,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2021
     },
@@ -1646,6 +1819,7 @@
         "latitude": 40.7498423,
         "longitude": -73.9852925,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2013
     },
@@ -1657,6 +1831,7 @@
         "latitude": 40.5807644,
         "longitude": -73.9667949,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2017
     },
@@ -1668,6 +1843,7 @@
         "latitude": 40.6080123,
         "longitude": -73.9829111,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2021
     },
@@ -1679,6 +1855,7 @@
         "latitude": 40.7447651,
         "longitude": -73.9878047,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2019
     },
@@ -1690,6 +1867,7 @@
         "latitude": 40.856654,
         "longitude": -73.859503,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2021
     },
@@ -1701,6 +1879,7 @@
         "latitude": 40.6903976,
         "longitude": -73.982944,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2021
     },
@@ -1712,6 +1891,7 @@
         "latitude": 40.856654,
         "longitude": -73.859503,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2019
     },
@@ -1723,6 +1903,7 @@
         "latitude": 40.5812821,
         "longitude": -73.97199789999999,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2020
     },
@@ -1734,6 +1915,7 @@
         "latitude": 40.8158771,
         "longitude": -73.9239285,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2020
     },
@@ -1745,6 +1927,7 @@
         "latitude": 40.64805,
         "longitude": -73.9630761,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2021
     },
@@ -1756,6 +1939,7 @@
         "latitude": 40.7382666,
         "longitude": -73.9993219,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2020
     },
@@ -1767,6 +1951,7 @@
         "latitude": 40.8632281,
         "longitude": -73.9010649,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2020
     },
@@ -1778,6 +1963,7 @@
         "latitude": 40.6202957,
         "longitude": -73.9086648,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Open",
         "year_of_violation": 2013
     },
@@ -1789,6 +1975,7 @@
         "latitude": 40.7001046,
         "longitude": -73.9322219,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2021
     },
@@ -1800,6 +1987,7 @@
         "latitude": 40.58093239999999,
         "longitude": -73.9695023,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2020
     },
@@ -1811,6 +1999,7 @@
         "latitude": 40.5811296,
         "longitude": -73.9734833,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2021
     },
@@ -1822,6 +2011,7 @@
         "latitude": 40.7693044,
         "longitude": -73.95577639999999,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2017
     },
@@ -1833,6 +2023,7 @@
         "latitude": 40.6203112,
         "longitude": -73.90876999999999,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Open",
         "year_of_violation": 2015
     },
@@ -1844,6 +2035,7 @@
         "latitude": 40.7194638,
         "longitude": -74.0081847,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2021
     },
@@ -1855,6 +2047,7 @@
         "latitude": 40.8485983,
         "longitude": -73.8461914,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2017
     },
@@ -1866,6 +2059,7 @@
         "latitude": 40.5808365,
         "longitude": -73.9681051,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2020
     },
@@ -1877,6 +2071,7 @@
         "latitude": 40.5807644,
         "longitude": -73.9667949,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2019
     },
@@ -1888,6 +2083,7 @@
         "latitude": 40.80878,
         "longitude": -73.9367829,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2017
     },
@@ -1899,6 +2095,7 @@
         "latitude": 40.5808365,
         "longitude": -73.9681051,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2020
     },
@@ -1910,6 +2107,7 @@
         "latitude": 40.7422762,
         "longitude": -73.8730054,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2017
     },
@@ -1921,6 +2119,7 @@
         "latitude": 40.5811296,
         "longitude": -73.9734833,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2020
     },
@@ -1932,6 +2131,7 @@
         "latitude": 40.8206633,
         "longitude": -73.937417,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2011
     },
@@ -1943,6 +2143,7 @@
         "latitude": 40.8315201,
         "longitude": -73.9292727,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2021
     },
@@ -1954,6 +2155,7 @@
         "latitude": 40.7821473,
         "longitude": -73.956993,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2018
     },
@@ -1965,6 +2167,7 @@
         "latitude": 40.58093239999999,
         "longitude": -73.9695023,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2020
     },
@@ -1976,6 +2179,7 @@
         "latitude": 40.5808365,
         "longitude": -73.9681051,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2020
     },
@@ -1987,6 +2191,7 @@
         "latitude": 40.7534937,
         "longitude": -73.9933858,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2018
     },
@@ -1998,6 +2203,7 @@
         "latitude": 40.7708506,
         "longitude": -73.9666342,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2013
     },
@@ -2009,6 +2215,7 @@
         "latitude": 40.5945386,
         "longitude": -74.1852315,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2018
     },
@@ -2020,6 +2227,7 @@
         "latitude": 40.767942,
         "longitude": -73.9853258,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2021
     },
@@ -2031,6 +2239,7 @@
         "latitude": 40.64805,
         "longitude": -73.9630761,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2020
     },
@@ -2042,6 +2251,7 @@
         "latitude": 40.8753299,
         "longitude": -73.91133599999999,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2021
     },
@@ -2053,6 +2263,7 @@
         "latitude": 40.767942,
         "longitude": -73.9853258,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2018
     },
@@ -2064,6 +2275,7 @@
         "latitude": 40.7447651,
         "longitude": -73.9878047,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2018
     },
@@ -2075,6 +2287,7 @@
         "latitude": 40.668369,
         "longitude": -73.9315963,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2020
     },
@@ -2086,6 +2299,7 @@
         "latitude": 40.7372899,
         "longitude": -73.85593,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2013
     },
@@ -2097,6 +2311,7 @@
         "latitude": 40.856654,
         "longitude": -73.859503,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2019
     },
@@ -2108,6 +2323,7 @@
         "latitude": 40.580562,
         "longitude": -73.97149379999999,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2020
     },
@@ -2119,6 +2335,7 @@
         "latitude": 40.705243,
         "longitude": -73.96716219999999,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Open",
         "year_of_violation": 2016
     },
@@ -2130,6 +2347,7 @@
         "latitude": 40.5813698,
         "longitude": -73.9541356,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2017
     },
@@ -2141,6 +2359,7 @@
         "latitude": 40.6903976,
         "longitude": -73.982944,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2021
     },
@@ -2152,6 +2371,7 @@
         "latitude": 40.8786269,
         "longitude": -73.8810718,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2020
     },
@@ -2163,6 +2383,7 @@
         "latitude": 40.6189999,
         "longitude": -74.0253307,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2020
     },
@@ -2174,6 +2395,7 @@
         "latitude": 40.7521968,
         "longitude": -73.9934493,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2020
     },
@@ -2185,6 +2407,7 @@
         "latitude": 40.8803567,
         "longitude": -73.8789566,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2018
     },
@@ -2196,6 +2419,7 @@
         "latitude": 40.8753299,
         "longitude": -73.91133599999999,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2018
     },
@@ -2207,6 +2431,7 @@
         "latitude": 40.81409610000001,
         "longitude": -73.9178032,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2021
     },
@@ -2218,6 +2443,7 @@
         "latitude": 40.5813698,
         "longitude": -73.9541356,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2017
     },
@@ -2229,6 +2455,7 @@
         "latitude": 40.81409610000001,
         "longitude": -73.9178032,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2021
     },
@@ -2240,6 +2467,7 @@
         "latitude": 40.668493,
         "longitude": -73.9798438,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2020
     },
@@ -2251,6 +2479,7 @@
         "latitude": 40.7070951,
         "longitude": -73.8060189,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Open",
         "year_of_violation": 2016
     },
@@ -2262,6 +2491,7 @@
         "latitude": 40.668493,
         "longitude": -73.9798438,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2021
     },
@@ -2273,6 +2503,7 @@
         "latitude": 40.58093239999999,
         "longitude": -73.9695023,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2020
     },
@@ -2284,6 +2515,7 @@
         "latitude": 40.8880342,
         "longitude": -73.8600593,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2019
     },
@@ -2295,6 +2527,7 @@
         "latitude": 40.8315201,
         "longitude": -73.9292727,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2021
     },
@@ -2306,6 +2539,7 @@
         "latitude": 40.5812821,
         "longitude": -73.97199789999999,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2019
     },
@@ -2317,6 +2551,7 @@
         "latitude": 40.7421919,
         "longitude": -73.9905771,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2020
     },
@@ -2328,6 +2563,7 @@
         "latitude": 40.700066,
         "longitude": -73.9433475,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2020
     },
@@ -2339,6 +2575,7 @@
         "latitude": 40.580562,
         "longitude": -73.97149379999999,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2020
     },
@@ -2350,6 +2587,7 @@
         "latitude": 40.7044211,
         "longitude": -73.7970689,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2016
     },
@@ -2361,6 +2599,7 @@
         "latitude": 40.5808365,
         "longitude": -73.9681051,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2019
     },
@@ -2372,6 +2611,7 @@
         "latitude": 40.7651611,
         "longitude": -73.95354850000001,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Open",
         "year_of_violation": 2016
     },
@@ -2383,6 +2623,7 @@
         "latitude": 40.7634522,
         "longitude": -73.978625,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2011
     },
@@ -2394,6 +2635,7 @@
         "latitude": 40.7246043,
         "longitude": -73.94909849999999,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2015
     },
@@ -2405,6 +2647,7 @@
         "latitude": 40.6973893,
         "longitude": -73.8107522,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2020
     },
@@ -2416,6 +2659,7 @@
         "latitude": 40.6189999,
         "longitude": -74.0253307,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2021
     },
@@ -2427,6 +2671,7 @@
         "latitude": 40.6867202,
         "longitude": -73.9783475,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2021
     },
@@ -2438,6 +2683,7 @@
         "latitude": 40.70691799999999,
         "longitude": -73.924212,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2020
     },
@@ -2449,6 +2695,7 @@
         "latitude": 40.8141875,
         "longitude": -73.94795409999999,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2013
     },
@@ -2460,6 +2707,7 @@
         "latitude": 40.7422762,
         "longitude": -73.8730054,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2017
     },
@@ -2471,6 +2719,7 @@
         "latitude": 40.7048299,
         "longitude": -73.8031641,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2021
     },
@@ -2482,6 +2731,7 @@
         "latitude": 40.6309974,
         "longitude": -73.98204489999999,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2021
     },
@@ -2493,6 +2743,7 @@
         "latitude": 40.700066,
         "longitude": -73.9433475,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2020
     },
@@ -2504,6 +2755,7 @@
         "latitude": 40.816291,
         "longitude": -73.88738769999999,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2021
     },
@@ -2515,6 +2767,7 @@
         "latitude": 40.7595017,
         "longitude": -73.9905515,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2015
     },
@@ -2526,6 +2779,7 @@
         "latitude": 40.7863669,
         "longitude": -73.9714769,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2020
     },
@@ -2537,6 +2791,7 @@
         "latitude": 40.7693044,
         "longitude": -73.95577639999999,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2021
     },
@@ -2548,6 +2803,7 @@
         "latitude": 40.838695,
         "longitude": -73.9398427,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2019
     },
@@ -2559,6 +2815,7 @@
         "latitude": 40.80404679999999,
         "longitude": -73.9650064,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2017
     },
@@ -2570,6 +2827,7 @@
         "latitude": 40.8009069,
         "longitude": -73.96954989999999,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2019
     },
@@ -2581,6 +2839,7 @@
         "latitude": 40.6382289,
         "longitude": -74.0106464,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2016
     },
@@ -2592,6 +2851,7 @@
         "latitude": 40.8905234,
         "longitude": -73.9105843,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2018
     },
@@ -2603,6 +2863,7 @@
         "latitude": 40.7032758,
         "longitude": -73.79996489999999,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2019
     },
@@ -2614,6 +2875,7 @@
         "latitude": 40.8485521,
         "longitude": -73.9142289,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2019
     },
@@ -2625,8 +2887,21 @@
         "latitude": 40.700066,
         "longitude": -73.9433475,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2020
+    },
+    {
+        "house_number": "139-19",
+        "street": "31 ROAD",
+        "zipcode": 102213,
+        "boro": "4",
+        "latitude": 6.5988732,
+        "longitude": 3.279447,
+        "type_of_violation": "DOB Violation",
+        "class": null,
+        "status": "Close",
+        "year_of_violation": 2012
     },
     {
         "house_number": "720",
@@ -2636,6 +2911,7 @@
         "latitude": 40.700066,
         "longitude": -73.9433475,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2021
     },
@@ -2647,6 +2923,7 @@
         "latitude": 40.7770886,
         "longitude": -73.9887893,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2021
     },
@@ -2658,6 +2935,7 @@
         "latitude": 40.6745648,
         "longitude": -73.91082349999999,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2015
     },
@@ -2669,6 +2947,7 @@
         "latitude": 40.6628108,
         "longitude": -73.990808,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2021
     },
@@ -2680,6 +2959,7 @@
         "latitude": 40.7770886,
         "longitude": -73.9887893,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2021
     },
@@ -2691,6 +2971,7 @@
         "latitude": 40.6182497,
         "longitude": -74.0313242,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2020
     },
@@ -2702,6 +2983,7 @@
         "latitude": 40.6895837,
         "longitude": -73.9928699,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2021
     },
@@ -2713,6 +2995,7 @@
         "latitude": 40.62099329999999,
         "longitude": -74.0372876,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Open",
         "year_of_violation": 2021
     },
@@ -2724,6 +3007,7 @@
         "latitude": 40.8815649,
         "longitude": -73.8770261,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2020
     },
@@ -2735,6 +3019,7 @@
         "latitude": 40.67580299999999,
         "longitude": -74.00872199999999,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2020
     },
@@ -2746,6 +3031,7 @@
         "latitude": 40.7453013,
         "longitude": -73.98184499999999,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2021
     },
@@ -2757,6 +3043,7 @@
         "latitude": 40.7380725,
         "longitude": -73.9898888,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2021
     },
@@ -2768,6 +3055,7 @@
         "latitude": 40.8315201,
         "longitude": -73.9292727,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2021
     },
@@ -2779,6 +3067,7 @@
         "latitude": 40.8407066,
         "longitude": -73.8553374,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2018
     },
@@ -2790,6 +3079,7 @@
         "latitude": 40.71598059999999,
         "longitude": -74.00758789999999,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2020
     },
@@ -2801,6 +3091,7 @@
         "latitude": 40.81409610000001,
         "longitude": -73.9178032,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2020
     },
@@ -2812,6 +3103,7 @@
         "latitude": 40.7515557,
         "longitude": -73.9913011,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2021
     },
@@ -2823,6 +3115,7 @@
         "latitude": 40.6575275,
         "longitude": -73.92832899999999,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2021
     },
@@ -2834,6 +3127,7 @@
         "latitude": 40.747948,
         "longitude": -73.98451399999999,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2021
     },
@@ -2845,6 +3139,7 @@
         "latitude": 40.7032758,
         "longitude": -73.79996489999999,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2019
     },
@@ -2856,6 +3151,7 @@
         "latitude": 40.8158771,
         "longitude": -73.9239285,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2020
     },
@@ -2867,6 +3163,7 @@
         "latitude": 40.7032758,
         "longitude": -73.79996489999999,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2016
     },
@@ -2878,6 +3175,7 @@
         "latitude": 40.70219609999999,
         "longitude": -73.9283511,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2021
     },
@@ -2889,6 +3187,7 @@
         "latitude": 40.661825,
         "longitude": -73.9075716,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2021
     },
@@ -2900,6 +3199,7 @@
         "latitude": 40.8792082,
         "longitude": -73.87767749999999,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2020
     },
@@ -2911,6 +3211,7 @@
         "latitude": 40.7422762,
         "longitude": -73.8730054,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2015
     },
@@ -2922,6 +3223,7 @@
         "latitude": 40.6586799,
         "longitude": -73.9402247,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2021
     },
@@ -2933,6 +3235,7 @@
         "latitude": 40.8581057,
         "longitude": -73.8659179,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2021
     },
@@ -2944,6 +3247,7 @@
         "latitude": 40.6867202,
         "longitude": -73.9783475,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2021
     },
@@ -2955,6 +3259,7 @@
         "latitude": 40.8742949,
         "longitude": -73.883753,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2020
     },
@@ -2966,6 +3271,7 @@
         "latitude": 40.8792082,
         "longitude": -73.87767749999999,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2020
     },
@@ -2977,6 +3283,7 @@
         "latitude": 40.753418,
         "longitude": -73.9909418,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2017
     },
@@ -2988,6 +3295,7 @@
         "latitude": 40.8163315,
         "longitude": -73.8873421,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2016
     },
@@ -2999,6 +3307,7 @@
         "latitude": 40.7360248,
         "longitude": -73.9868259,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2019
     },
@@ -3010,6 +3319,7 @@
         "latitude": 40.6189999,
         "longitude": -74.0253307,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2020
     },
@@ -3021,6 +3331,7 @@
         "latitude": 40.7272004,
         "longitude": -74.0082765,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2019
     },
@@ -3032,6 +3343,7 @@
         "latitude": 40.7541199,
         "longitude": -73.88131,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2018
     },
@@ -3043,6 +3355,7 @@
         "latitude": 40.7821473,
         "longitude": -73.956993,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2018
     },
@@ -3054,6 +3367,7 @@
         "latitude": 40.7142218,
         "longitude": -73.9826586,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2012
     },
@@ -3065,6 +3379,7 @@
         "latitude": 40.8501668,
         "longitude": -73.9381405,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2011
     },
@@ -3076,6 +3391,7 @@
         "latitude": 40.80404679999999,
         "longitude": -73.9650064,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2015
     },
@@ -3087,6 +3403,7 @@
         "latitude": 40.6889209,
         "longitude": -73.9816898,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2019
     },
@@ -3098,6 +3415,7 @@
         "latitude": 40.7380725,
         "longitude": -73.9898888,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2021
     },
@@ -3109,6 +3427,7 @@
         "latitude": 40.700066,
         "longitude": -73.9433475,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2021
     },
@@ -3120,6 +3439,7 @@
         "latitude": 40.7142218,
         "longitude": -73.9826586,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2012
     },
@@ -3131,6 +3451,7 @@
         "latitude": 40.8009424,
         "longitude": -73.3342678,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2021
     },
@@ -3142,6 +3463,7 @@
         "latitude": 40.7422762,
         "longitude": -73.8730054,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2015
     },
@@ -3153,6 +3475,7 @@
         "latitude": 40.8158771,
         "longitude": -73.9239285,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2020
     },
@@ -3164,6 +3487,7 @@
         "latitude": 40.6687568,
         "longitude": -73.9797731,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2018
     },
@@ -3175,6 +3499,7 @@
         "latitude": 40.8141875,
         "longitude": -73.94795409999999,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2013
     },
@@ -3186,6 +3511,7 @@
         "latitude": 40.807676,
         "longitude": -73.9437669,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2020
     },
@@ -3197,6 +3523,7 @@
         "latitude": 40.747948,
         "longitude": -73.98451399999999,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2020
     },
@@ -3208,6 +3535,7 @@
         "latitude": 40.7574337,
         "longitude": -73.97037639999999,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2021
     },
@@ -3219,6 +3547,7 @@
         "latitude": 40.70219609999999,
         "longitude": -73.9283511,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2020
     },
@@ -3230,6 +3559,7 @@
         "latitude": 40.7201606,
         "longitude": -74.00083939999999,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2019
     },
@@ -3241,6 +3571,7 @@
         "latitude": 40.7410042,
         "longitude": -73.992897,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2019
     },
@@ -3252,6 +3583,7 @@
         "latitude": 40.7086846,
         "longitude": -73.7955805,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2021
     },
@@ -3263,6 +3595,7 @@
         "latitude": 40.79655959999999,
         "longitude": -73.9726702,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2018
     },
@@ -3274,6 +3607,7 @@
         "latitude": 40.8768598,
         "longitude": -73.88590119999999,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2018
     },
@@ -3285,6 +3619,7 @@
         "latitude": 40.7993792,
         "longitude": -73.9513176,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2021
     },
@@ -3296,6 +3631,7 @@
         "latitude": 40.737187,
         "longitude": -73.8569289,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2018
     },
@@ -3307,6 +3643,7 @@
         "latitude": 40.7693044,
         "longitude": -73.95577639999999,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2016
     },
@@ -3318,6 +3655,7 @@
         "latitude": 40.7596675,
         "longitude": -73.83138579999999,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2020
     },
@@ -3329,6 +3667,7 @@
         "latitude": 40.7541199,
         "longitude": -73.88131,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2018
     },
@@ -3340,6 +3679,7 @@
         "latitude": 40.6947857,
         "longitude": -73.92840439999999,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2018
     },
@@ -3351,6 +3691,7 @@
         "latitude": 40.784578,
         "longitude": -73.95629269999999,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2020
     },
@@ -3362,6 +3703,7 @@
         "latitude": 40.7739692,
         "longitude": -73.9878444,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2021
     },
@@ -3373,6 +3715,7 @@
         "latitude": 40.7171339,
         "longitude": -74.00860469999999,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2021
     },
@@ -3384,6 +3727,7 @@
         "latitude": 40.7650939,
         "longitude": -73.9794065,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2020
     },
@@ -3395,6 +3739,7 @@
         "latitude": 40.6828413,
         "longitude": -73.9058314,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2021
     },
@@ -3406,6 +3751,7 @@
         "latitude": 40.7504487,
         "longitude": -73.9848509,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2019
     },
@@ -3417,6 +3763,7 @@
         "latitude": 40.7650939,
         "longitude": -73.9794065,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2019
     },
@@ -3428,6 +3775,7 @@
         "latitude": 40.71279029999999,
         "longitude": -73.8218527,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2021
     },
@@ -3439,6 +3787,7 @@
         "latitude": 40.807676,
         "longitude": -73.9437669,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2015
     },
@@ -3450,6 +3799,7 @@
         "latitude": 40.7659242,
         "longitude": -73.9666891,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Open",
         "year_of_violation": 2020
     },
@@ -3461,6 +3811,7 @@
         "latitude": 40.6575275,
         "longitude": -73.92832899999999,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2020
     },
@@ -3472,6 +3823,7 @@
         "latitude": 40.8146222,
         "longitude": -73.91005609999999,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2019
     },
@@ -3483,8 +3835,21 @@
         "latitude": 40.8158771,
         "longitude": -73.9239285,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2020
+    },
+    {
+        "house_number": "139-25",
+        "street": "31 ROAD",
+        "zipcode": 102213,
+        "boro": "4",
+        "latitude": 6.5988732,
+        "longitude": 3.279447,
+        "type_of_violation": "DOB Violation",
+        "class": null,
+        "status": "Close",
+        "year_of_violation": 2012
     },
     {
         "house_number": "438",
@@ -3494,6 +3859,7 @@
         "latitude": 40.7135195,
         "longitude": -73.9512986,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2019
     },
@@ -3505,6 +3871,7 @@
         "latitude": 40.8141875,
         "longitude": -73.94795409999999,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2020
     },
@@ -3516,6 +3883,7 @@
         "latitude": 40.7425717,
         "longitude": -73.9923639,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Open",
         "year_of_violation": 2019
     },
@@ -3527,6 +3895,7 @@
         "latitude": 40.6902991,
         "longitude": -73.92158169999999,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2021
     },
@@ -3538,6 +3907,7 @@
         "latitude": 40.81409610000001,
         "longitude": -73.9178032,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2020
     },
@@ -3549,6 +3919,7 @@
         "latitude": 40.8061399,
         "longitude": -73.8579944,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2021
     },
@@ -3560,6 +3931,7 @@
         "latitude": 40.7151623,
         "longitude": -74.00971919999999,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2021
     },
@@ -3571,6 +3943,7 @@
         "latitude": 40.8315201,
         "longitude": -73.9292727,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2019
     },
@@ -3582,6 +3955,7 @@
         "latitude": 40.8905234,
         "longitude": -73.9105843,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2017
     },
@@ -3593,6 +3967,7 @@
         "latitude": 40.7332779,
         "longitude": -73.99744919999999,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2019
     },
@@ -3604,6 +3979,7 @@
         "latitude": 40.8815649,
         "longitude": -73.8770261,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2020
     },
@@ -3615,6 +3991,7 @@
         "latitude": 40.8134079,
         "longitude": -73.88591819999999,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2015
     },
@@ -3626,6 +4003,7 @@
         "latitude": 40.700066,
         "longitude": -73.9433475,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2020
     },
@@ -3637,6 +4015,7 @@
         "latitude": 40.747948,
         "longitude": -73.98451399999999,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2020
     },
@@ -3648,6 +4027,7 @@
         "latitude": 40.6947948,
         "longitude": -73.9930921,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2013
     },
@@ -3659,6 +4039,7 @@
         "latitude": 40.8141875,
         "longitude": -73.94795409999999,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2021
     },
@@ -3670,6 +4051,7 @@
         "latitude": 40.80246,
         "longitude": -73.9583689,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2015
     },
@@ -3681,6 +4063,7 @@
         "latitude": 40.8332106,
         "longitude": -73.913344,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2018
     },
@@ -3692,6 +4075,7 @@
         "latitude": 40.7596675,
         "longitude": -73.83138579999999,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2021
     },
@@ -3703,6 +4087,7 @@
         "latitude": 40.661825,
         "longitude": -73.9075716,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2021
     },
@@ -3714,6 +4099,7 @@
         "latitude": 40.7416244,
         "longitude": -73.8510208,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2021
     },
@@ -3725,6 +4111,7 @@
         "latitude": 40.7416244,
         "longitude": -73.8510208,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2021
     },
@@ -3736,6 +4123,7 @@
         "latitude": 40.7637475,
         "longitude": -73.9785033,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2020
     },
@@ -3747,6 +4135,7 @@
         "latitude": 40.5982911,
         "longitude": -73.9597017,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2019
     },
@@ -3758,6 +4147,7 @@
         "latitude": 40.8905234,
         "longitude": -73.9105843,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2018
     },
@@ -3769,6 +4159,7 @@
         "latitude": 40.6243825,
         "longitude": -73.98165999999999,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2021
     },
@@ -3780,6 +4171,7 @@
         "latitude": 40.7924213,
         "longitude": -73.97496799999999,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2021
     },
@@ -3791,6 +4183,7 @@
         "latitude": 40.8176496,
         "longitude": -73.8882723,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2013
     },
@@ -3802,6 +4195,7 @@
         "latitude": 40.6375611,
         "longitude": -74.1311071,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2018
     },
@@ -3813,6 +4207,7 @@
         "latitude": 40.7521111,
         "longitude": -73.9823202,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2014
     },
@@ -3824,6 +4219,7 @@
         "latitude": 40.7739596,
         "longitude": -73.98770900000001,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2021
     },
@@ -3835,6 +4231,7 @@
         "latitude": 40.6965981,
         "longitude": -73.7839808,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2021
     },
@@ -3846,6 +4243,7 @@
         "latitude": 40.736926,
         "longitude": -73.8577614,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2018
     },
@@ -3857,6 +4255,7 @@
         "latitude": 40.8332106,
         "longitude": -73.913344,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2019
     },
@@ -3868,6 +4267,7 @@
         "latitude": 40.7275238,
         "longitude": -73.9893159,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2020
     },
@@ -3879,8 +4279,21 @@
         "latitude": 40.7872655,
         "longitude": -73.9806007,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2017
+    },
+    {
+        "house_number": "99-30",
+        "street": "59TH AVENUE",
+        "zipcode": 85302,
+        "boro": "4",
+        "latitude": 33.5758575,
+        "longitude": -112.1867545,
+        "type_of_violation": "DOB Violation",
+        "class": null,
+        "status": "Close",
+        "year_of_violation": 2013
     },
     {
         "house_number": "237",
@@ -3890,6 +4303,7 @@
         "latitude": 40.7783943,
         "longitude": -73.95239339999999,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2020
     },
@@ -3901,6 +4315,7 @@
         "latitude": 40.6889209,
         "longitude": -73.9816898,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2019
     },
@@ -3912,6 +4327,7 @@
         "latitude": 40.6979202,
         "longitude": -73.9944192,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2019
     },
@@ -3923,6 +4339,7 @@
         "latitude": 40.7596675,
         "longitude": -73.83138579999999,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2020
     },
@@ -3934,6 +4351,7 @@
         "latitude": 40.6108489,
         "longitude": -73.984984,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2020
     },
@@ -3945,6 +4363,7 @@
         "latitude": 40.6947857,
         "longitude": -73.92840439999999,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2017
     },
@@ -3956,6 +4375,7 @@
         "latitude": 40.6774599,
         "longitude": -73.8970035,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2020
     },
@@ -3967,6 +4387,7 @@
         "latitude": 40.7332779,
         "longitude": -73.99744919999999,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2015
     },
@@ -3978,6 +4399,7 @@
         "latitude": 40.7416244,
         "longitude": -73.8510208,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2020
     },
@@ -3989,6 +4411,7 @@
         "latitude": 40.7838041,
         "longitude": -73.9564469,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2018
     },
@@ -4000,6 +4423,7 @@
         "latitude": 40.7924213,
         "longitude": -73.97496799999999,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2020
     },
@@ -4011,6 +4435,7 @@
         "latitude": 40.9022435,
         "longitude": -73.9067183,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2020
     },
@@ -4022,6 +4447,7 @@
         "latitude": 40.7032758,
         "longitude": -73.79996489999999,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2020
     },
@@ -4033,6 +4459,7 @@
         "latitude": 40.7416244,
         "longitude": -73.8510208,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2021
     },
@@ -4044,6 +4471,7 @@
         "latitude": 40.6101236,
         "longitude": -73.9235266,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2011
     },
@@ -4055,6 +4483,7 @@
         "latitude": 40.6828413,
         "longitude": -73.9058314,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2021
     },
@@ -4066,6 +4495,7 @@
         "latitude": 40.6716371,
         "longitude": -73.9293756,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2016
     },
@@ -4077,6 +4507,7 @@
         "latitude": 40.7000538,
         "longitude": -73.9417768,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2020
     },
@@ -4088,6 +4519,7 @@
         "latitude": 40.7193696,
         "longitude": -73.9568531,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2018
     },
@@ -4099,6 +4531,7 @@
         "latitude": 40.7312744,
         "longitude": -73.9535755,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2014
     },
@@ -4110,6 +4543,7 @@
         "latitude": 40.6985091,
         "longitude": -73.9943117,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2016
     },
@@ -4121,6 +4555,7 @@
         "latitude": 40.7394036,
         "longitude": -73.98875269999999,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2021
     },
@@ -4132,6 +4567,7 @@
         "latitude": 40.9027359,
         "longitude": -73.9073421,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2020
     },
@@ -4143,6 +4579,7 @@
         "latitude": 40.71279029999999,
         "longitude": -73.8218527,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2021
     },
@@ -4154,6 +4591,7 @@
         "latitude": 40.7450405,
         "longitude": -73.99437139999999,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2020
     },
@@ -4165,6 +4603,7 @@
         "latitude": 40.7783943,
         "longitude": -73.95239339999999,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2020
     },
@@ -4176,6 +4615,7 @@
         "latitude": 40.7171339,
         "longitude": -74.00860469999999,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2020
     },
@@ -4187,6 +4627,7 @@
         "latitude": 40.8141875,
         "longitude": -73.94795409999999,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2013
     },
@@ -4198,6 +4639,7 @@
         "latitude": 40.7855046,
         "longitude": -73.97039939999999,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2021
     },
@@ -4209,6 +4651,7 @@
         "latitude": 40.736993,
         "longitude": -73.98225939999999,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2019
     },
@@ -4220,6 +4663,7 @@
         "latitude": 40.6687568,
         "longitude": -73.9797731,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2016
     },
@@ -4231,6 +4675,7 @@
         "latitude": 40.6532381,
         "longitude": -73.83795490000001,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2021
     },
@@ -4242,6 +4687,7 @@
         "latitude": 40.6575275,
         "longitude": -73.92832899999999,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2020
     },
@@ -4253,6 +4699,7 @@
         "latitude": 40.8141875,
         "longitude": -73.94795409999999,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2017
     },
@@ -4264,6 +4711,7 @@
         "latitude": 40.7783943,
         "longitude": -73.95239339999999,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2017
     },
@@ -4275,6 +4723,7 @@
         "latitude": 40.7863669,
         "longitude": -73.9714769,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2020
     },
@@ -4286,6 +4735,7 @@
         "latitude": 40.7275238,
         "longitude": -73.9893159,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2018
     },
@@ -4297,6 +4747,7 @@
         "latitude": 40.7872655,
         "longitude": -73.9806007,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2019
     },
@@ -4308,6 +4759,7 @@
         "latitude": 40.7044211,
         "longitude": -73.7970689,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2016
     },
@@ -4319,6 +4771,7 @@
         "latitude": 40.7032758,
         "longitude": -73.79996489999999,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2019
     },
@@ -4330,6 +4783,7 @@
         "latitude": 40.8158771,
         "longitude": -73.9239285,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2020
     },
@@ -4341,6 +4795,7 @@
         "latitude": 40.668493,
         "longitude": -73.9798438,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2021
     },
@@ -4352,6 +4807,7 @@
         "latitude": 40.8587056,
         "longitude": -73.8700695,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2019
     },
@@ -4363,6 +4819,7 @@
         "latitude": 40.6575275,
         "longitude": -73.92832899999999,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2020
     },
@@ -4374,6 +4831,7 @@
         "latitude": 40.7693044,
         "longitude": -73.95577639999999,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2016
     },
@@ -4385,6 +4843,7 @@
         "latitude": 40.7717983,
         "longitude": -73.96300719999999,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2019
     },
@@ -4396,6 +4855,7 @@
         "latitude": 40.7394036,
         "longitude": -73.98875269999999,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2021
     },
@@ -4407,6 +4867,7 @@
         "latitude": 40.7032758,
         "longitude": -73.79996489999999,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2017
     },
@@ -4418,6 +4879,7 @@
         "latitude": 40.7416244,
         "longitude": -73.8510208,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2019
     },
@@ -4429,6 +4891,7 @@
         "latitude": 40.7000538,
         "longitude": -73.9417768,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2021
     },
@@ -4440,6 +4903,7 @@
         "latitude": 40.9024845,
         "longitude": -73.9075529,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2020
     },
@@ -4451,6 +4915,7 @@
         "latitude": 40.6182863,
         "longitude": -74.0313441,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2020
     },
@@ -4462,6 +4927,7 @@
         "latitude": 40.7504487,
         "longitude": -73.9848509,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2014
     },
@@ -4473,6 +4939,7 @@
         "latitude": 40.902217,
         "longitude": -73.906234,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2020
     },
@@ -4484,6 +4951,7 @@
         "latitude": 40.7526764,
         "longitude": -73.9715626,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2021
     },
@@ -4495,6 +4963,7 @@
         "latitude": 40.7193696,
         "longitude": -73.9568531,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2019
     },
@@ -4506,6 +4975,7 @@
         "latitude": 40.9023912,
         "longitude": -73.9065814,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2020
     },
@@ -4517,6 +4987,7 @@
         "latitude": 40.700066,
         "longitude": -73.9433475,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2021
     },
@@ -4528,6 +4999,7 @@
         "latitude": 40.8141875,
         "longitude": -73.94795409999999,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2013
     },
@@ -4539,6 +5011,7 @@
         "latitude": 40.7738249,
         "longitude": -73.98750249999999,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2021
     },
@@ -4550,6 +5023,7 @@
         "latitude": 40.7571092,
         "longitude": -73.9847751,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2020
     },
@@ -4561,6 +5035,7 @@
         "latitude": 40.8158771,
         "longitude": -73.9239285,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2020
     },
@@ -4572,6 +5047,7 @@
         "latitude": 40.7416244,
         "longitude": -73.8510208,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2019
     },
@@ -4583,6 +5059,7 @@
         "latitude": 40.9024845,
         "longitude": -73.9075529,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2020
     },
@@ -4594,6 +5071,7 @@
         "latitude": 40.7000538,
         "longitude": -73.9417768,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2020
     },
@@ -4605,6 +5083,7 @@
         "latitude": 40.7416244,
         "longitude": -73.8510208,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2019
     },
@@ -4616,6 +5095,7 @@
         "latitude": 40.7275238,
         "longitude": -73.9893159,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2021
     },
@@ -4627,6 +5107,7 @@
         "latitude": 40.6576313,
         "longitude": -74.006293,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2011
     },
@@ -4638,6 +5119,7 @@
         "latitude": 40.8009424,
         "longitude": -73.3342678,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2020
     },
@@ -4649,6 +5131,7 @@
         "latitude": 40.9023912,
         "longitude": -73.9065814,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2020
     },
@@ -4660,6 +5143,7 @@
         "latitude": 40.70219609999999,
         "longitude": -73.9283511,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2021
     },
@@ -4671,6 +5155,7 @@
         "latitude": 40.66973429999999,
         "longitude": -73.9754501,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2013
     },
@@ -4682,6 +5167,7 @@
         "latitude": 40.7153785,
         "longitude": -74.0096078,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2021
     },
@@ -4693,6 +5179,7 @@
         "latitude": 40.7110687,
         "longitude": -73.9358445,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2015
     },
@@ -4704,6 +5191,7 @@
         "latitude": 40.621652,
         "longitude": -73.9390198,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2018
     },
@@ -4715,6 +5203,7 @@
         "latitude": 40.9025754,
         "longitude": -73.9067482,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2020
     },
@@ -4726,6 +5215,7 @@
         "latitude": 40.7717983,
         "longitude": -73.96300719999999,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2017
     },
@@ -4737,6 +5227,7 @@
         "latitude": 40.9028247,
         "longitude": -73.9070362,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2020
     },
@@ -4748,6 +5239,7 @@
         "latitude": 40.668493,
         "longitude": -73.9798438,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2020
     },
@@ -4759,6 +5251,7 @@
         "latitude": 40.7182472,
         "longitude": -74.0092061,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2020
     },
@@ -4770,6 +5263,7 @@
         "latitude": 40.7798545,
         "longitude": -73.9853445,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2021
     },
@@ -4781,6 +5275,7 @@
         "latitude": 40.7577735,
         "longitude": -73.9202983,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2015
     },
@@ -4792,6 +5287,7 @@
         "latitude": 40.7138425,
         "longitude": -73.998498,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2021
     },
@@ -4803,6 +5299,7 @@
         "latitude": 40.6575275,
         "longitude": -73.92832899999999,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2020
     },
@@ -4814,6 +5311,7 @@
         "latitude": 40.6665818,
         "longitude": -73.9879135,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2020
     },
@@ -4825,6 +5323,7 @@
         "latitude": 40.7869137,
         "longitude": -73.9561648,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2012
     },
@@ -4836,6 +5335,7 @@
         "latitude": 40.7178407,
         "longitude": -74.00967659999999,
         "type_of_violation": "DOB Violation",
+        "class": null,
         "status": "Close",
         "year_of_violation": 2014
     }

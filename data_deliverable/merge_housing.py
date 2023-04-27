@@ -9,7 +9,8 @@ import csv
 import load_apis
 import geocoding
 
-
+load_apis
+geocoding
 housing_code_df = pd.read_json('data/housing_code_violations2.json')
 dob_violate_df = pd.read_json('data/new_dob_zipcode_df.json')
 
