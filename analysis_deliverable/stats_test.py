@@ -36,7 +36,7 @@ def sum_violations(data, year):
 
 
 def main():
-    big_data = pd.read_csv('data_deliverable/data/housing_income_merged.csv')
+    big_data = pd.read_csv('../data_deliverable/data/housing_income_merged.csv')
     print("Chi-Square Independence Test Results:")
     tstats, pvalue = chisquared_independence_test(big_data, "status", "rich")
     print("One Sample T-Test Results:")
@@ -56,6 +56,7 @@ def main():
     }
     two_sample_df = pd.DataFrame(two_sample_data)
     print("Two Sample T-Test Results:")
+    print(two_sample_df)
     tstats3, pvalue3 = two_sample_ttest(two_sample_df['Rich'].values, two_sample_df['Poor'].values)
 
 

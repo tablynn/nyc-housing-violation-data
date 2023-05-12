@@ -37,5 +37,7 @@ rich:
 -int, dummy variable
 -1 if above median income in new york in that year, 0 otherwise
 -categorical variable
-
+class: 
+-string, severity of the housing violation
+-either A,B, or C
 
