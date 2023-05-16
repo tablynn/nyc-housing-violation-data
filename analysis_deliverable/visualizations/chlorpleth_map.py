@@ -30,6 +30,7 @@ fig = px.choropleth(grouped_zipcode,
 #set scope to just New York State
 fig.update_geos(fitbounds="locations", visible=False)
 fig.update_layout(
-      title_text='New York Housing Violations by Zipcode')
-fig.update_layout(margin={"r":0,"t":30,"l":0,"b":0})
+    title_text='New York Housing Violation Counts by Zipcode',
+    title_font=dict(size=25))
+fig.update_layout(margin={"r":0,"t":37,"l":0,"b":0})
 fig.show()

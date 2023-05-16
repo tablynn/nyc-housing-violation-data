@@ -4,14 +4,7 @@ import pandas as pd
 
 # import matplotlib - very important
 import matplotlib.pyplot as plt
-
-# import the toolkit for plotting matplotlib 3D
-from mpl_toolkits import mplot3d
-
-# import the stuff for geographic plots
-import plotly.figure_factory as ff
 import seaborn as sns
-import plotly.express as px
 
 def sum_violations(data, year):
     return len(data.drop(data[data['year_of_violation']==year].index))
