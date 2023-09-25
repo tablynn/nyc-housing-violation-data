@@ -28,12 +28,7 @@ cpi_values = {
                 '2021': 288.973
                 }
 
-#income_classification[housing_merged['zipcode']][housing_merged['year_of_violation']]
-
 def classification(x) -> int:
-  # print("zip", x["zipcode"])
-  #print(x[3])
-  #print(type(x[9]))
   year = x[10]
   try:
     if (year < 2022):
